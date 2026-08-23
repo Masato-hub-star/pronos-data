@@ -1,0 +1,41 @@
+name: Daily Flashscore Scan
+
+on:
+  schedule:
+    - cron: '30 7 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Flashscore crawler
+        run: python flashscore.py --sport all
+
+      - name: Publish output as flashscore_today.json
+        run: |
+          cp flashscore_previews.json flashscore_today.json 2>/dev/null || echo '[]' > flashscore_today.json
+          echo "Scan completed at $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Daily scan $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
