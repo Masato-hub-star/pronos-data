@@ -342,24 +342,153 @@ def scan_sport_matches(sport: str, debug: bool = False) -> list:
 
 
 def write_outputs(results: list, date_str: str = None):
+    """
+    Write outputs with:
+    - Deduplication by mid (no duplicate entries)
+    - preview_first_seen_at (immutable, set on first pre-match preview)
+    - Pre-match integrity (post-start previews rejected)
+    - Cumulative audit.json per day
+    """
     if date_str is None:
         date_str = get_today_date()
+
+    now_paris = datetime.now(PARIS_TZ)
+    scan_time_iso = now_paris.isoformat()
+
     data_dir = get_data_dir(date_str)
     data_dir.mkdir(parents=True, exist_ok=True)
-    json_path = data_dir / "flashscore_previews.json"
-    with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
-    print(f"Written: {json_path} ({len(results)} matches)")
+
+    previews_path = data_dir / "previews.json"
+    audit_path    = data_dir / "audit.json"
+
+    # ── Load existing entries indexed by mid ──────────────────────────────────
+    existing: dict = {}
+    if previews_path.exists():
+        try:
+            with open(previews_path, encoding='utf-8') as f:
+                for entry in json.load(f):
+                    m = entry.get('mid', '')
+                    if m:
+                        existing[m] = entry
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    # ── Audit counters for this scan ─────────────────────────────────────────
+    events_seen                  = len(results)
+    previews_found               = 0
+    new_previews_added           = 0
+    duplicates_merged            = 0
+    invalid_mid_excluded         = 0
+    post_start_previews_rejected = 0
+
+    for r in results:
+        mid = r.get('mid', '')
+
+        # Exclude empty mid from any analysis
+        if not mid:
+            invalid_mid_excluded += 1
+            continue
+
+        # Determine if match has already started
+        match_started = False
+        try:
+            dt_str = f"{r.get('date', date_str)} {r.get('time_paris', '')}"
+            match_dt = datetime.strptime(dt_str, "%Y-%m-%d %H:%M").replace(tzinfo=PARIS_TZ)
+            match_started = now_paris >= match_dt
+        except (ValueError, TypeError):
+            pass  # unknown → treat as not started (safe side)
+
+        has_preview = (
+            r.get('preview_available', False)
+            and bool(r.get('betting_analysis', '').strip())
+        )
+        if has_preview:
+            previews_found += 1
+
+        old = existing.get(mid)
+
+        if old is None:
+            # New entry
+            if has_preview and not match_started:
+                r['preview_first_seen_at'] = scan_time_iso
+                new_previews_added += 1
+            elif has_preview and match_started:
+                # Preview retrieved after match start: reject, clear preview fields
+                post_start_previews_rejected += 1
+                r['preview_available'] = False
+                r['preview_full_text']  = ''
+                r['betting_analysis']   = ''
+            existing[mid] = r
+
+        else:
+            # Existing entry: merge
+            duplicates_merged += 1
+            merged = dict(r)  # base = fresh scan data
+
+            # NEVER overwrite preview_first_seen_at
+            if 'preview_first_seen_at' in old:
+                merged['preview_first_seen_at'] = old['preview_first_seen_at']
+            elif has_preview and not match_started:
+                merged['preview_first_seen_at'] = scan_time_iso
+                new_previews_added += 1
+            elif has_preview and match_started:
+                post_start_previews_rejected += 1
+
+            # If new scan has no/incomplete preview but old had one: preserve old
+            old_has_preview = (
+                old.get('preview_available', False)
+                and bool(old.get('betting_analysis', '').strip())
+            )
+            if old_has_preview and (not has_preview or match_started):
+                merged['preview_available'] = old['preview_available']
+                merged['preview_full_text']  = old.get('preview_full_text', '')
+                merged['betting_analysis']   = old.get('betting_analysis', '')
+
+            existing[mid] = merged
+
+    # ── Build merged list ─────────────────────────────────────────────────────
+    merged_list = list(existing.values())
+
+    # ── Write previews.json (archival — pre-match data immutable once set) ────
+    with open(previews_path, 'w', encoding='utf-8') as f:
+        json.dump(merged_list, f, indent=2, ensure_ascii=False)
+    print(f"Written: {previews_path} ({len(merged_list)} matches)")
+
+    # ── Root-level latest copy (backward-compat with flashscore_today.json) ──
     root_json = Path("flashscore_previews.json")
     with open(root_json, 'w', encoding='utf-8') as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
-    print(f"Written: {root_json} (latest copy)")
+        json.dump(merged_list, f, indent=2, ensure_ascii=False)
+    print(f"Written: {root_json} (latest)")
+
+    # ── Write picks ───────────────────────────────────────────────────────────
     picks_path = data_dir / "flashscore_picks.txt"
-    _write_picks_file(results, picks_path)
-    print(f"Written: {picks_path}")
+    _write_picks_file(merged_list, picks_path)
     root_picks = Path("flashscore_picks.txt")
-    _write_picks_file(results, root_picks)
-    print(f"Written: {root_picks} (latest copy)")
+    _write_picks_file(merged_list, root_picks)
+    print(f"Written: {picks_path} + root copy")
+
+    # ── Cumulative audit.json ─────────────────────────────────────────────────
+    audit: dict = {}
+    if audit_path.exists():
+        try:
+            with open(audit_path, encoding='utf-8') as f:
+                audit = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            audit = {}
+
+    audit['scan_times']                   = audit.get('scan_times', []) + [scan_time_iso]
+    audit['last_scan']                    = scan_time_iso
+    audit['events_seen']                  = audit.get('events_seen', 0)                  + events_seen
+    audit['previews_found']               = audit.get('previews_found', 0)               + previews_found
+    audit['new_previews_added']           = audit.get('new_previews_added', 0)           + new_previews_added
+    audit['duplicates_merged']            = audit.get('duplicates_merged', 0)            + duplicates_merged
+    audit['invalid_mid_excluded']         = audit.get('invalid_mid_excluded', 0)         + invalid_mid_excluded
+    audit['post_start_previews_rejected'] = audit.get('post_start_previews_rejected', 0) + post_start_previews_rejected
+    audit['total_entries']                = len(merged_list)
+
+    with open(audit_path, 'w', encoding='utf-8') as f:
+        json.dump(audit, f, indent=2, ensure_ascii=False)
+    print(f"Written: {audit_path}")
 
 
 def _write_picks_file(results: list, picks_path: Path):
