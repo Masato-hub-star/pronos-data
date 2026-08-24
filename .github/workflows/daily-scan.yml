@@ -1,8 +1,13 @@
-name: Daily Flashscore Scan
+name: Flashscore Scan (4x daily)
 
 on:
   schedule:
-    - cron: '0 6,10,14,18 * * *'
+    # UTC pour 09h30 / 12h30 / 15h30 / 18h30 Europe/Paris (ete CEST=UTC+2)
+    # En hiver (CET=UTC+1) les scans tombent 1h plus tot : 08h30/11h30/14h30/17h30 Paris
+    - cron: '30 7 * * *'    # 09:30 CEST
+    - cron: '30 10 * * *'   # 12:30 CEST
+    - cron: '30 13 * * *'   # 15:30 CEST
+    - cron: '30 16 * * *'   # 18:30 CEST
   workflow_dispatch: {}
 
 permissions:
@@ -29,7 +34,7 @@ jobs:
       - name: Publish output as flashscore_today.json
         run: |
           cp flashscore_previews.json flashscore_today.json 2>/dev/null || echo '[]' > flashscore_today.json
-          echo "Scan completed at $(date -u '+%Y-%m-%d %H:%M UTC')"
+          echo "Scan termine : $(TZ=Europe/Paris date '+%Y-%m-%d %H:%M Paris')"
 
       - name: Commit and push results
         run: |
@@ -37,5 +42,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "Daily scan $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git commit -m "Scan $(TZ=Europe/Paris date '+%Y-%m-%d %H:%M Paris')"
           git push
