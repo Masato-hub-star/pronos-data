@@ -97,6 +97,8 @@ URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/lyon-2akflumR/
 ---
 
 20:45 | FOOTBALL | AS Monaco - Olympique de Marseille
+Flashscore conclusion:
+Monaco a peut-être l’avantage dans les confrontations récentes, mais comme Marseille a affiché sa solidité lors de son premier match, nous imaginons un match nul ici.Auteur : Nathan EvansTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/monaco-2PIvr8o4/
 ---
 
@@ -138,7 +140,7 @@ URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/parma-6DxlaxHN/
 
 17:00 | FOOTBALL | Real Madrid - Malaga
 Flashscore conclusion:
-Málaga a montré suffisamment de solidité défensive récemment pour laisser penser que miser sur moins de 2,5 buts à une cote élevée pourrait constituer une prise de risque envisageable.Auteur : Aaron MurphyTraduit à l'aide de l'IA
+Málaga a montré suffisamment de solidité défensive récemment pour laisser penser que le pronostic moins de 2,5 buts est envisageable.Auteur : Aaron MurphyTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/malaga-25tIqYiJ/real-madrid-W8mj7MDD/
 ---
 
@@ -149,10 +151,14 @@ URL: https://www.flashscore.fr/match/football/ipswich-thqhB2MB/manchester-utd-pp
 ---
 
 21:00 | FOOTBALL | Aston Villa - Arsenal
+Flashscore conclusion:
+Après avoir vu son effectif largement décimé et compte tenu de la facilité avec laquelle Villa s’est inclinée contre Brighton, une victoire d’Arsenal avec un handicap de -2 semble envisageable.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/aston-villa-W00wmLO0/
 ---
 
 21:30 | FOOTBALL | Barcelone - Vallecano
+Flashscore conclusion:
+Tout semble indiquer une victoire des locaux. Nous voyons Barcelone gagner les deux mi-temps.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/vallecano-8bcjFy6O/
 ---
 
@@ -252,5 +258,73 @@ URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/le-havre-CIEe04GT/
 
 20:45 | FOOTBALL | OGC Nice - Le Mans
 URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/nice-YagoQJpq/
+---
+
+17:00 | TENNIS | Martin Damm - Frances Tiafoe
+URL: https://www.flashscore.fr/match/tennis/damm-martin-2003-vX7WOXtP/tiafoe-frances-AHDLJaph/
+---
+
+17:00 | TENNIS | Damir Dzumhur - Hubert Hurkacz
+URL: https://www.flashscore.fr/match/tennis/dzumhur-damir-hMrlbuuQ/hurkacz-hubert-zuHOBnY9/
+---
+
+17:00 | TENNIS | Tomas Martin Etcheverry - Vit Kopriva
+URL: https://www.flashscore.fr/match/tennis/etcheverry-tomas-martin-AXL5qpKa/kopriva-vit-EHGKxKDL/
+---
+
+17:00 | TENNIS | Grigor Dimitrov - Alexei Popyrin
+URL: https://www.flashscore.fr/match/tennis/dimitrov-grigor-SQgEEKh4/popyrin-alexei-fJjLpuNq/
+---
+
+17:00 | TENNIS | Luciano Darderi - Harry Wendelken
+URL: https://www.flashscore.fr/match/tennis/darderi-luciano-jeXTxMIp/wendelken-harry-d6y39t1s/
+---
+
+17:00 | TENNIS | Jesper De Jong - Francesco Passaro
+URL: https://www.flashscore.fr/match/tennis/de-jong-jesper-8jStUWzB/passaro-francesco-6iHVMexn/
+---
+
+17:00 | TENNIS | Mattia Bellucci - Zsombor Piros
+URL: https://www.flashscore.fr/match/tennis/bellucci-mattia-M9pojLqi/piros-zsombor-2BC3jj8o/
+---
+
+17:00 | TENNIS | Alexander Blockx - Tomas Barrios Vera
+URL: https://www.flashscore.fr/match/tennis/barrios-vera-marcelo-tomas-Ewzudtxk/blockx-alexander-xll0TzGG/
+---
+
+17:00 | TENNIS | Nishesh Basavareddy - Tristan Schoolkate
+URL: https://www.flashscore.fr/match/tennis/basavareddy-nishesh-rqtJueQt/schoolkate-tristan-hn8XQkiU/
+---
+
+17:30 | FOOTBALL | Club Africain - Hamam-Sousse
+URL: https://www.flashscore.fr/match/football/club-africain-C2lt6Igm/hamam-sousse-j1Jcpg7r/
+---
+
+17:30 | FOOTBALL | Arsenal - Chelsea
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/chelsea-4fGZN2oK/
+---
+
+17:00 | VOLLEYBALL | Turquie - France
+URL: https://www.flashscore.fr/match/volleyball/france-4UUj2p7m/turquie-niNMpDKp/
+---
+
+16:00 | VOLLEYBALL | France F - Grèce F
+URL: https://www.flashscore.fr/match/volleyball/france-WSCmiNN9/grece-Ei2hjswG/
+---
+
+14:30 | BASKETBALL | Nigéria F - France F
+URL: https://www.flashscore.fr/match/basket/france-femUX0vr/nigeria-MZXv2R2h/
+---
+
+01:00 | TENNIS | Diane Parry - Ann Li
+Flashscore conclusion:
+Ann Li affiche un meilleur bilan que Diane Parry sur surface dure au cours de sa carrière, notamment sur les courts nord-américains. Sa finale à Cleveland l'an dernier et son parcours jusqu'aux huitièmes de finale à l'US Open en témoignent. L'Américaine dispose donc d'un avantage indéniable avant cette demi-finale.Traduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/tennis/li-ann-rwvAgOWm/parry-diane-hQQLzcNT/
+---
+
+14:00 | FOOTBALL | Annecy - FC Metz
+Flashscore conclusion:
+Metz se déplace au Parc des Sports pour affronter Annecy lors de la 4e journée de Ligue 2,À deux jours du coup d’envoi, les bookmakers considèrent les deux équipes comme étant de niveau similaire, avec des probabilités de victoire respectives de 36 % et 34 %.Forme actuelle - AnnecyAnnecy occupe la 4e place du championnat avec six points. Lors de son dernier match de championnat, l’équipe s’est inclinée 1-3 à l’extérieur face à Reims. Après trois matchs disputés, Annecy compte deux victoires et une défaite.Forme actuelle - MetzMetz occupe la 6e place avec cinq points. Lors de son dernier match de championnat, le club a concédé un match nul 1-1 à domicile contre Laval. Metz compte une victoire et deux matchs nuls après trois matchs disputés.Confrontations directesLors de leurs quatre dernières confrontations, Annecy a enregistré deux matchs nuls et deux défaites. La moyenne s’élève à 2,3 buts par affrontement, et les deux équipes n’ont marqué que lors d’une de ces quatre rencontres. Metz s’était imposé 5-1 à domicile lors du dernier affrontement entre les deux équipes, il y a deux saisons.Joueurs à suivre et absentsAxel Drouhin a inscrit un but avec Annecy et affiche une note moyenne de 7,7, tandis qu’Antoine Larose a également contribué avec un but. Mohamed Kone a délivré une passe décisive pour Annecy, qui sera privé de Francois Lajugie en raison d’une blessure.Pape Moussa Fall a inscrit deux buts avec Metz et affiche une note moyenne de 7,1. Teji Savanier a délivré une passe décisive et affiche une note moyenne de 7,8. Jessy Deminguet a ajouté une passe décisive pour Metz, qui doit actuellement composer sans Idris Mohamed après son carton rouge. Metz sera également privé de Maxime Colin, auteur d’une passe décisive cette saison.Chiffres clés↔️ Cartons jaunes d’Annecy : 2 contre 6 pour MetzAnnecy➕ Passes entre les lignes: 1,0 par match (2e meilleur, moyenne du championnat 0,5)➖ Touches dans la surface adverse: 10,7 par match (2e pire, moyenne du championnat 20,1)➖ Grosses occasions adverses: 3,3 par match (2e pire, moyenne du championnat 2,3)➖ Erreurs menant à un but: 2 (plus haut du championnat, moyenne du championnat 0,2)➖ Efficacité dans les duels: 45 % (2e pire, moyenne du championnat 50 %)Metzℹ️ Interceptions: 12,0 par match (2e plus haut)ℹ️ Centres réussis: 6,3 par match (2e plus haut)Notes du matchAhmed Kashi joue désormais pour Annecy après son passage à Metz, où il a disputé 52 matchs et inscrit un but en deux saisons. Il avait quitté le club il y a 12 saisons.Analyse des parisLa probabilité que le match compte plus de 2,5 buts s’élève à 46 %. Les marchés de paris attribuent une probabilité de 52 % au fait que les deux équipes marquent.Buts implicites selon les cotes: 2,5Ces chiffres proviennent des cotes d’avant-match établies deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
+URL: https://www.flashscore.fr/match/football/annecy-25dB6Eto/metz-4v0yqlWc/
 ---
 
