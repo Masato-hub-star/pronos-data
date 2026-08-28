@@ -1,403 +1,383 @@
 [
   {
     "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
+    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Finale",
+    "date": "2026-08-28",
     "time_paris": "17:00",
-    "participants": [
-      "Frederico Ferreira Silva",
-      "Jurij Rodionov"
-    ],
-    "mid": "jiyjndIc",
-    "url": "https://www.flashscore.fr/match/tennis/rodionov-jurij-CKjcTLz1/silva-frederico-ferreira-hC8yrUdb/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T13:54:34.142309+02:00",
-    "player_1": "Frederico Ferreira Silva",
-    "player_2": "Jurij Rodionov"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "17:00",
-    "participants": [
-      "Daniel Rincon",
-      "Jordan Lee"
-    ],
-    "mid": "noy7xVs3",
-    "url": "https://www.flashscore.fr/match/tennis/lee-jordan-8GnivTZo/rincon-daniel-67MpdccF/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T13:54:37.266629+02:00",
-    "player_1": "Daniel Rincon",
-    "player_2": "Jordan Lee"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "17:00",
-    "participants": [
-      "Jacob Fearnley",
-      "Luka Pavlovic"
-    ],
-    "mid": "4OMfmndL",
-    "url": "https://www.flashscore.fr/match/tennis/fearnley-jacob-pGBaKGOn/pavlovic-luka-Mkf0LF4j/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T13:54:40.396980+02:00",
-    "player_1": "Jacob Fearnley",
-    "player_2": "Luka Pavlovic"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "17:00",
-    "participants": [
-      "Genaro Alberto Olivieri",
-      "Tomas Barrios Vera"
-    ],
-    "mid": "O4uVe7Dr",
-    "url": "https://www.flashscore.fr/match/tennis/barrios-vera-marcelo-tomas-Ewzudtxk/olivieri-genaro-alberto-lnHtsdAT/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T13:54:43.481844+02:00",
-    "player_1": "Genaro Alberto Olivieri",
-    "player_2": "Tomas Barrios Vera"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "17:00",
-    "participants": [
-      "Kyrian Jacquet",
-      "Aziz Dougaz"
-    ],
-    "mid": "b9MTuVtR",
-    "url": "https://www.flashscore.fr/match/tennis/dougaz-aziz-0YI8tRD1/jacquet-kyrian-KGKot0sk/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T13:54:46.604151+02:00",
-    "player_1": "Kyrian Jacquet",
-    "player_2": "Aziz Dougaz"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "17:00",
-    "participants": [
-      "Andrea Guerrieri",
-      "Joel Josef Schwaerzler"
-    ],
-    "mid": "8IU5tHkS",
-    "url": "https://www.flashscore.fr/match/tennis/guerrieri-andrea-KEeikKZL/schwarzler-joel-josef-0W4qKuuF/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T13:54:49.707238+02:00",
-    "player_1": "Andrea Guerrieri",
-    "player_2": "Joel Josef Schwaerzler"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "18:40",
-    "participants": [
-      "Vilius Gaubas",
-      "Marco Cecchinato"
-    ],
-    "mid": "2kBJlj6F",
-    "url": "https://www.flashscore.fr/match/tennis/cecchinato-marco-4zpGaSnG/gaubas-vilius-j3oO3m94/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:38:37.471316+02:00",
-    "player_1": "Vilius Gaubas",
-    "player_2": "Marco Cecchinato"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "19:00",
-    "participants": [
-      "Elias Ymer",
-      "Cristian Garin"
-    ],
-    "mid": "IFduhYVj",
-    "url": "https://www.flashscore.fr/match/tennis/garin-cristian-U73k5I15/ymer-elias-GhVfMwlD/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:38:41.071620+02:00",
-    "player_1": "Elias Ymer",
-    "player_2": "Cristian Garin"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "19:00",
-    "participants": [
-      "Toby Samuel",
-      "Billy Harris"
-    ],
-    "mid": "4lGyyeDk",
-    "url": "https://www.flashscore.fr/match/tennis/harris-billy-G0X2O6XR/samuel-toby-rZVojxZe/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:38:43.591464+02:00",
-    "player_1": "Toby Samuel",
-    "player_2": "Billy Harris"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "19:00",
-    "participants": [
-      "Remy Bertola",
-      "Harry Wendelken"
-    ],
-    "mid": "rknEDzZ7",
-    "url": "https://www.flashscore.fr/match/tennis/bertola-remy-OWVm6y0g/wendelken-harry-d6y39t1s/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:38:46.998523+02:00",
-    "player_1": "Remy Bertola",
-    "player_2": "Harry Wendelken"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "19:00",
-    "participants": [
-      "Chak Lam Coleman Wong",
-      "Lukas Neumayer"
-    ],
-    "mid": "WnSNImX8",
-    "url": "https://www.flashscore.fr/match/tennis/neumayer-lukas-4ffrgw5a/wong-chak-lam-coleman-zJqvgzz6/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:38:49.816336+02:00",
-    "player_1": "Chak Lam Coleman Wong",
-    "player_2": "Lukas Neumayer"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "19:00",
-    "participants": [
-      "Otto Virtanen",
-      "Jack Pinnington Jones"
-    ],
-    "mid": "fPuqBdVa",
-    "url": "https://www.flashscore.fr/match/tennis/pinnington-jones-jack-jRDvhb4q/virtanen-otto-hnYnFaTm/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:38:53.465118+02:00",
-    "player_1": "Otto Virtanen",
-    "player_2": "Jack Pinnington Jones"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "19:15",
-    "participants": [
-      "David Jorda Sanchis",
-      "Dusan Lajovic"
-    ],
-    "mid": "xx3mKMak",
-    "url": "https://www.flashscore.fr/match/tennis/jorda-sanchis-david-plc0lDOK/lajovic-dusan-bJf33z45/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:38:55.988684+02:00",
-    "player_1": "David Jorda Sanchis",
-    "player_2": "Dusan Lajovic"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "19:00",
-    "participants": [
-      "Timofey Skatov",
-      "Grigor Dimitrov"
-    ],
-    "mid": "WheoMIlJ",
-    "url": "https://www.flashscore.fr/match/tennis/dimitrov-grigor-SQgEEKh4/skatov-timofey-h6n0i9iE/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:38:58.386774+02:00",
-    "player_1": "Timofey Skatov",
-    "player_2": "Grigor Dimitrov"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "20:45",
     "participants": [
       "Dalibor Svrcina",
-      "Alexis Galarneau"
-    ],
-    "mid": "b35gqYNa",
-    "url": "https://www.flashscore.fr/match/tennis/galarneau-alexis-EHhqit59/svrcina-dalibor-vDue624T/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:39:16.981801+02:00",
-    "player_1": "Dalibor Svrcina",
-    "player_2": "Alexis Galarneau"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "20:30",
-    "participants": [
-      "Francesco Passaro",
-      "Tom Gentzsch"
-    ],
-    "mid": "riwkusqm",
-    "url": "https://www.flashscore.fr/match/tennis/gentzsch-tom-IgniZQN6/passaro-francesco-6iHVMexn/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:39:01.739950+02:00",
-    "player_1": "Francesco Passaro",
-    "player_2": "Tom Gentzsch"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "20:30",
-    "participants": [
-      "Thiago Seyboth Wild",
       "Mackenzie McDonald"
     ],
-    "mid": "GIjdwLDa",
-    "url": "https://www.flashscore.fr/match/tennis/mcdonald-mackenzie-WWi3O0v6/seyboth-wild-thiago-pO9zJCv1/",
+    "mid": "bDYAwzMU",
+    "url": "https://www.flashscore.fr/match/tennis/mcdonald-mackenzie-WWi3O0v6/svrcina-dalibor-vDue624T/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:39:04.452585+02:00",
-    "player_1": "Thiago Seyboth Wild",
+    "retrieved_at": "2026-08-28T03:28:16.910294+02:00",
+    "player_1": "Dalibor Svrcina",
     "player_2": "Mackenzie McDonald"
   },
   {
     "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "20:45",
+    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Finale",
+    "date": "2026-08-28",
+    "time_paris": "17:00",
     "participants": [
       "Shintaro Mochizuki",
-      "Braden Shick"
+      "Francesco Passaro"
     ],
-    "mid": "t6HHPrxS",
-    "url": "https://www.flashscore.fr/match/tennis/mochizuki-shintaro-KrwvlzXb/shick-braden-QiV3GEFB/",
+    "mid": "YmS6uH8F",
+    "url": "https://www.flashscore.fr/match/tennis/mochizuki-shintaro-KrwvlzXb/passaro-francesco-6iHVMexn/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:39:07.802984+02:00",
+    "retrieved_at": "2026-08-28T03:28:20.355776+02:00",
     "player_1": "Shintaro Mochizuki",
-    "player_2": "Braden Shick"
+    "player_2": "Francesco Passaro"
   },
   {
     "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "20:30",
+    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Finale",
+    "date": "2026-08-28",
+    "time_paris": "17:00",
     "participants": [
       "Arthur Gea",
-      "Clement Chidekh"
-    ],
-    "mid": "EstuIepm",
-    "url": "https://www.flashscore.fr/match/tennis/chidekh-clement-E1Wpe7Co/gea-arthur-M5Nr6FTR/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:43:08.815762+02:00",
-    "player_1": "Arthur Gea",
-    "player_2": "Clement Chidekh"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "20:30",
-    "participants": [
-      "Luka Mikrut",
       "Nishesh Basavareddy"
     ],
-    "mid": "pKkts3JF",
-    "url": "https://www.flashscore.fr/match/tennis/basavareddy-nishesh-rqtJueQt/mikrut-luka-Wv7XRRCI/",
+    "mid": "p8eDeTbD",
+    "url": "https://www.flashscore.fr/match/tennis/basavareddy-nishesh-rqtJueQt/gea-arthur-M5Nr6FTR/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:39:14.038201+02:00",
-    "player_1": "Luka Mikrut",
+    "retrieved_at": "2026-08-28T03:28:24.160431+02:00",
+    "player_1": "Arthur Gea",
     "player_2": "Nishesh Basavareddy"
   },
   {
-    "sport": "football",
-    "competition": "Ligue des Champions - Qualification - Finale",
-    "date": "2026-08-26",
-    "time_paris": "21:00",
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Finale",
+    "date": "2026-08-28",
+    "time_paris": "17:00",
     "participants": [
-      "Olympique Lyonnais",
-      "Fenerbahce"
+      "Zsombor Piros",
+      "Christopher O'Connell"
     ],
-    "mid": "l00Yi0Pa",
-    "url": "https://www.flashscore.fr/match/football/fenerbahce-MsbmracL/lyon-2akflumR/",
-    "preview_available": true,
-    "preview_full_text": "Le match retour de ce barrage de Ligue des champions (LDC) de l’UEFA entre Lyon et Fenerbahçe reste indécis après le match nul 1-1 de l’aller. Le club français sait qu’une poursuite de sa domination dans les affrontements entre les deux équipes lui ouvrirait les portes de la phase de ligue.Actus sur le match et forme actuelleLyon a lancé sa campagne de Ligue 1 par une victoire 2-0 à l’extérieur contre Toulouse ce week-end. Le club espère que ce résultat constituera le prélude idéal à une première apparition en phase principale de LDC depuis 2019/20. La forme semble clairement lui être favorable en ce début de saison. Depuis sa défaite à l’extérieur contre le Sparta Prague lors du dernier tour de qualification de la LDC, Lyon est invaincu lors de ses trois matchs suivants (2v, 1n). Une victoire convaincante à domicile lui avait permis de franchir l’obstacle face au Sparta. Le club espère renouveler cette performance, après avoir remporté sept de ses dix derniers matchs européens à domicile (2n, 1d). Cette série lui permet d’aborder avec confiance un bilan de cinq victoires lors de ses six derniers barrages aller-retour de qualification en LDC.Géant du football turc, Fenerbahçe n’a pourtant pas atteint la phase principale de la LDC depuis 2008/09, malgré de nombreuses participations à d’autres compétitions de l’UEFA. Depuis, le club a été éliminé à neuf reprises en qualifications, dont à chaque fois lors de cette phase, ce qui n’annonce rien de bon avant ce match retour. Sa victoire 4-2 contre Konyaspor ce week-end lui a toutefois offert une bonne préparation. Sa forme récente à l’extérieur en Europe est également encourageante. Fenerbahçe est invaincu lors de ses six derniers matchs de ce type (3v, 3n). Toutefois, avec une seule victoire en cinq matchs de qualification de la LDC à l’extérieur (1n, 3d), la crainte de voir son bilan défavorable dans les affrontements européens en deux manches contre des équipes de Ligue 1 passer à cinq défaites ne peut que s’accentuer.Historique des confrontationsLyon est invaincu lors des six affrontements historiques entre les deux équipes (4v, 2n), mais le club n’a remporté aucun de ses quatre derniers matchs contre des équipes turques (2n, 2d). Fenerbahçe n’a gagné que deux de ses 11 matchs à l’extérieur contre des équipes françaises (1n, 8d).Hot Stats et Séries en coursCinq des six derniers matchs européens de Lyon à domicile se sont conclus par un écart d’au moins deux buts (5v, 1d).Lyon a ouvert le score lors de ses quatre matchs officiels cette saison.Les cinq matchs de qualification de la LDC disputés par Fenerbahçe cette saison ont produit moins de 2,5 buts.Fenerbahçe n’a concédé deux buts ou plus que lors d’un seul de ses 14 derniers matchs européens.Joueurs clés et joueurs absentsErnest Nuamah a ouvert le score lors du dernier match de Lyon à domicile en LDC. Un nouveau but serait de bon augure, puisque ses cinq dernières réalisations ont été inscrites lors de quatre victoires avec au moins deux buts d’écart. Romelu Lukaku n’a pas encore ouvert son compteur avec Fenerbahçe. Il pourrait devoir patienter, puisque ses huit derniers buts en LDC sont arrivés après l’heure de jeu.Khalis Merah n’a pas encore joué cette saison avec Lyon. De son côté, Fenerbahçe a vu Kerem Aktürkoğlu se blesser ce week-end.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsCompte tenu de la nature serrée des matchs européens de Fenerbahçe cette saison et de l’enjeu de cette rencontre, nous envisageons moins de 2,5 buts.Auteur : Chris WilsonTraduit à l'aide de l'IA",
-    "betting_analysis": "Compte tenu de la nature serrée des matchs européens de Fenerbahçe cette saison et de l’enjeu de cette rencontre, nous envisageons moins de 2,5 buts.Auteur : Chris WilsonTraduit à l'aide de l'IA",
+    "mid": "OY2frYtm",
+    "url": "https://www.flashscore.fr/match/tennis/o-connell-christopher-SptFeDiE/piros-zsombor-2BC3jj8o/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:05.680972+02:00",
-    "home_team": "Olympique Lyonnais",
-    "away_team": "Fenerbahce",
-    "preview_first_seen_at": "2026-08-26T11:31:51.059125+02:00"
+    "retrieved_at": "2026-08-28T03:28:26.957270+02:00",
+    "player_1": "Zsombor Piros",
+    "player_2": "Christopher O'Connell"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Finale",
+    "date": "2026-08-28",
+    "time_paris": "17:00",
+    "participants": [
+      "Liam Draxl",
+      "Tristan Schoolkate"
+    ],
+    "mid": "MLE4ZCHb",
+    "url": "https://www.flashscore.fr/match/tennis/draxl-liam-IiUa42eG/schoolkate-tristan-hn8XQkiU/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:30.436610+02:00",
+    "player_1": "Liam Draxl",
+    "player_2": "Tristan Schoolkate"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Finale",
+    "date": "2026-08-28",
+    "time_paris": "17:00",
+    "participants": [
+      "Lloyd Harris",
+      "Pablo Llamas Ruiz"
+    ],
+    "mid": "ETWBXjnB",
+    "url": "https://www.flashscore.fr/match/tennis/harris-lloyd-YyK3wlb0/llamas-ruiz-pablo-QTqDJ1gP/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:34.021566+02:00",
+    "player_1": "Lloyd Harris",
+    "player_2": "Pablo Llamas Ruiz"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Finale",
+    "date": "2026-08-28",
+    "time_paris": "18:00",
+    "participants": [
+      "Kei Nishikori",
+      "Rei Sakamoto"
+    ],
+    "mid": "hWZWs4V6",
+    "url": "https://www.flashscore.fr/match/tennis/nishikori-kei-YNkOjUIB/sakamoto-rei-AeBHWNls/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:37.207114+02:00",
+    "player_1": "Kei Nishikori",
+    "player_2": "Rei Sakamoto"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Finale",
+    "date": "2026-08-28",
+    "time_paris": "18:00",
+    "participants": [
+      "Yunchaokete Bu",
+      "Federico Cina"
+    ],
+    "mid": "nsVJVUGN",
+    "url": "https://www.flashscore.fr/match/tennis/cina-federico-lvlXwMKk/yunchaokete-bu-Qabjt3Y5/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:40.414947+02:00",
+    "player_1": "Yunchaokete Bu",
+    "player_2": "Federico Cina"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Finale",
+    "date": "2026-08-28",
+    "time_paris": "18:30",
+    "participants": [
+      "Hugo Gaston",
+      "Colton Smith"
+    ],
+    "mid": "40AipUVG",
+    "url": "https://www.flashscore.fr/match/tennis/colton-smith-IHCZRRUJ/gaston-hugo-hGqnSub7/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:43.715556+02:00",
+    "player_1": "Hugo Gaston",
+    "player_2": "Colton Smith"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Juan Manuel Cerundolo",
+      "Casper Ruud"
+    ],
+    "mid": "fZpRRJQi",
+    "url": "https://www.flashscore.fr/match/tennis/cerundolo-juan-manuel-A93TM7BR/ruud-casper-zN9UpRqp/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:46.553210+02:00",
+    "player_1": "Juan Manuel Cerundolo",
+    "player_2": "Casper Ruud"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Jan Choinski",
+      "Botic Van De Zandschulp"
+    ],
+    "mid": "vNjKGgIj",
+    "url": "https://www.flashscore.fr/match/tennis/choinski-jan-Es82hMVD/van-de-zandschulp-botic-YwiLpILD/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:49.573991+02:00",
+    "player_1": "Jan Choinski",
+    "player_2": "Botic Van De Zandschulp"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Zizou Bergs",
+      "Carlos Taberner"
+    ],
+    "mid": "6Tr6vcAc",
+    "url": "https://www.flashscore.fr/match/tennis/bergs-zizou-SbeTx1o8/taberner-carlos-EcdVVulk/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:52.324113+02:00",
+    "player_1": "Zizou Bergs",
+    "player_2": "Carlos Taberner"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Felix Auger-Aliassime",
+      "Rinky Hijikata"
+    ],
+    "mid": "6D4R3Dw9",
+    "url": "https://www.flashscore.fr/match/tennis/auger-aliassime-felix-CzXh4LAb/hijikata-rinky-f9eT4NTQ/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:54.789181+02:00",
+    "player_1": "Felix Auger-Aliassime",
+    "player_2": "Rinky Hijikata"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Francisco Comesana",
+      "Flavio Cobolli"
+    ],
+    "mid": "xYnEsNM6",
+    "url": "https://www.flashscore.fr/match/tennis/cobolli-flavio-zDtaCcPe/comesana-francisco-SxKK0RUD/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:28:57.594232+02:00",
+    "player_1": "Francisco Comesana",
+    "player_2": "Flavio Cobolli"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Roman Andres Burruchaga",
+      "Karen Khachanov"
+    ],
+    "mid": "C4r834qQ",
+    "url": "https://www.flashscore.fr/match/tennis/burruchaga-roman-andres-CE7B5N90/khachanov-karen-4bNPtZT5/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:29:00.751028+02:00",
+    "player_1": "Roman Andres Burruchaga",
+    "player_2": "Karen Khachanov"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Nuno Borges",
+      "Learner Tien"
+    ],
+    "mid": "WjCJALjg",
+    "url": "https://www.flashscore.fr/match/tennis/borges-nuno-hzbEPIOa/tien-learner-xUHOBJK6/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:29:04.012714+02:00",
+    "player_1": "Nuno Borges",
+    "player_2": "Learner Tien"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Matteo Berrettini",
+      "Stan Wawrinka"
+    ],
+    "mid": "4K8ZqmNG",
+    "url": "https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/wawrinka-stan-Uo9lu6le/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:29:06.848458+02:00",
+    "player_1": "Matteo Berrettini",
+    "player_2": "Stan Wawrinka"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Matteo Arnaldi",
+      "James Duckworth"
+    ],
+    "mid": "K44b087c",
+    "url": "https://www.flashscore.fr/match/tennis/arnaldi-matteo-hlVLAfZK/duckworth-james-2JWHPUUb/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:29:10.717200+02:00",
+    "player_1": "Matteo Arnaldi",
+    "player_2": "James Duckworth"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Alexander Bublik",
+      "Jeffrey John Wolf"
+    ],
+    "mid": "SU76bnxA",
+    "url": "https://www.flashscore.fr/match/tennis/bublik-alexander-t0WN9vR6/wolf-jeffrey-john-f5Zc3wW6/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:29:14.118688+02:00",
+    "player_1": "Alexander Bublik",
+    "player_2": "Jeffrey John Wolf"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - US Open, dur - 1/64 de finale",
+    "date": "2026-08-30",
+    "time_paris": "17:00",
+    "participants": [
+      "Marin Cilic",
+      "Andrey Rublev"
+    ],
+    "mid": "phJu0aDE",
+    "url": "https://www.flashscore.fr/match/tennis/cilic-marin-nLoK5syL/rublev-andrey-AeAn4gP0/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:29:16.978242+02:00",
+    "player_1": "Marin Cilic",
+    "player_2": "Andrey Rublev"
   },
   {
     "sport": "football",
@@ -414,10 +394,10 @@
     "preview_full_text": "Après un début de saison domestique sans victoire, le PSG cherchera à redresser la barre et à poursuivre son incroyable série dans les affrontements face à la dernière équipe à l’avoir battu en Ligue 1, Lille.Actus sur le match et forme actuelleEn terminant troisième la saison dernière, Lille a réalisé sa meilleure campagne de Ligue 1 depuis son titre en 2020/21. Le nouvel entraîneur Davide Ancelotti a capitalisé sur cette dynamique avec une victoire 2-0 maîtrisée lors de la première journée à Angers. Les Dogues pourraient marquer les esprits cette saison en battant le champion en titre. Leur bilan, avec une victoire lors de leur premier match à domicile au cours des quatre dernières saisons de championnat, montre aussi qu’il ne faut pas les écarter ici. La forme récente pourrait toutefois tempérer les attentes des supporters. Lille ne s’est imposé qu’à trois reprises à domicile en 2026 (4n, 6d) et n’a pas marqué lors de quatre de ses huit dernières apparitions à domicile.Après une superbe saison 2025/26, au cours de laquelle le PSG a distancé Lens dans la course au titre de Ligue 1 et conservé sa couronne en Ligue des champions, le club parisien peine à démarrer cet exercice. La défaite contre Lens dans le Trophée des Champions (1-0) a été suivie d’un match nul 2-2 face à Rennes lors de la première journée de championnat. Les hommes de Luis Enrique ont dû remonter un déficit de deux buts pour arracher ce point. L’entraîneur parisien a demandé à ses joueurs de sortir de leur « zone de confort ». Cela commence à l’extérieur, où le PSG risque de ne pas gagner trois matchs consécutifs de Ligue 1 hors de ses bases pour la première fois depuis mars 2022.Historique des confrontationsLa dernière victoire de Lille dans cet affrontement remonte à août 2021 (2n, 8d), tandis que le PSG ne s’est incliné qu’une seule fois au stade Pierre-Mauroy, toutes compétitions confondues, depuis avril 2012 (10v, 4n).[image alt=\"Win Probability\" id=\"3ad815cd-f93f-492b-9158-0ce5f6d69331\" credit-line=\"Opta by StatsPerform\" guid=\"28dd8fc4-b1e8-461d-9904-171758dacaee\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursLille est invaincu lors de ses huit derniers matchs de championnat à domicile disputés un vendredi (6v, 2n), avec une victoire lors des trois derniers.Lille a évité la défaite lors de chacun de ses 19 derniers matchs de Ligue 1 après avoir ouvert le score (16v, 3n).Six des sept derniers buts officiels du PSG ont été inscrits après la mi-temps.Un seul des sept derniers matchs de championnat du PSG à l’extérieur a produit plus de 9,5 corners au total.Joueurs clés et joueurs absentsGrâce à son ouverture du score contre Angers la semaine dernière, Olivier Giroud a vu quatre de ses six derniers buts avec Lille être les premiers du match. Il sera donc dangereux d’entrée, alors qu’il chasse son premier but domestique contre le PSG depuis mars 2011 ! Les deux derniers matchs officiels de Ferran Torres l’ont vu inscrire le but de la victoire en finale de la Coupe du monde, puis les deux buts du PSG contre Rennes. Ces deux dernières réalisations ont été signées sur des passes décisives de son compatriote Fabián Ruiz.L’ancien défenseur du PSG à Lille, Tanguy Nianzou, est absent. Nuno Mendes du PSG est suspendu, tandis qu’Ousmane Dembélé sera ménagé.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsIl est difficile d’imaginer le mini-déclin du PSG se prolonger beaucoup plus longtemps. Nous pensons à ce pronostic : victoire du PSG et les deux équipes marquent.Auteur : Ryan FisherTraduit à l'aide de l'IA",
     "betting_analysis": "Il est difficile d’imaginer le mini-déclin du PSG se prolonger beaucoup plus longtemps. Nous pensons à ce pronostic : victoire du PSG et les deux équipes marquent.Auteur : Ryan FisherTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:07.702495+02:00",
+    "retrieved_at": "2026-08-28T03:32:18.863281+02:00",
     "home_team": "LOSC",
     "away_team": "PSG",
-    "preview_first_seen_at": "2026-08-26T11:31:51.059125+02:00"
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -431,13 +411,13 @@
     "mid": "z1vMwmdD",
     "url": "https://www.flashscore.fr/match/football/lens-IBmris38/strasbourg-nP6UzIU1/",
     "preview_available": true,
-    "preview_full_text": "Strasbourg veut se racheter après un début de saison catastrophique lors de la réception d’un Lens flamboyant qui s’est brillamment imposé lors de son premier match.Actus sur le match et forme actuelleLes inquiétudes nées des six défaites consécutives en préparation se sont accentuées lorsque Strasbourg s’est incliné 4-0 à l’extérieur face à Marseille lors de la première journée, gâchant les débuts d’Hugo Oliveira sur le banc en Ligue 1. Ce résultat n’était pas si surprenant pour une équipe qui reste sur neuf matchs de championnat consécutifs sans clean sheet. En revanche, l’incapacité de Strasbourg à se créer la moindre « grosse occasion » a nettement contrasté avec sa victoire 5-4 contre Monaco en fin de saison dernière. Une première dans l’histoire du club, avec au moins quatre buts encaissés lors de trois matchs consécutifs de Ligue 1, semble désormais dangereusement proche. Strasbourg pourrait avoir du mal à éviter de débuter une nouvelle saison par deux défaites consécutives pour la troisième fois depuis son retour dans l’élite en 2017/18. Le club avait perdu quatre de ses six matchs à domicile en Ligue 1 en tant qu’outsider la saison dernière (2d).La quête de Lens, qui souhaite faire mieux que sa deuxième place de la saison dernière, a commencé de manière particulièrement spectaculaire avec cinq buts inscrits contre Auxerre. Cette démonstration de force pourrait être un signe inquiétant pour la défense perméable de Strasbourg. Après avoir conclu la dernière saison de Ligue 1 par une victoire 4-0, Lens pourrait désormais inscrire au moins quatre buts lors de trois matchs de championnat consécutifs pour la première fois de son histoire. Le club peut nourrir de sérieux espoirs d’écrire une nouvelle page d’histoire ici. Il avait réalisé cette performance lors de trois de ses huit victoires à l’extérieur en Ligue 1 la saison dernière (4n, 5d). Une victoire, quelle qu’elle soit, ravirait certainement les supporters lensois. Après avoir battu Le Havre (2-1) et Angers (1-0) lors de ses deux premiers déplacements des deux dernières saisons de Ligue 1, le public qui fera le long déplacement devrait arriver en confiance.  Historique des confrontationsStrasbourg n’a remporté qu’un seul des huit affrontements disputés depuis le début de 2023 (3n, 4d). Le club a concédé trois matchs nuls lors des quatre dernières confrontations à domicile, pour une défaite. [image alt=\"Win Probability\" id=\"f987ac10-4253-45d5-a78f-efa0b9131635\" credit-line=\"Opta by StatsPerform\" guid=\"967f122b-a1d4-4815-8621-50abbd539c69\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursSeul le PSG (15) a ouvert le score lors de davantage de matchs à domicile en Ligue 1 que Strasbourg (12) la saison dernière.Seuls deux des huit dernières défaites de Strasbourg en Ligue 1 l’ont été avec au moins deux buts d’écart.Lens a remporté 24 de ses 26 derniers matchs de Ligue 1 au cours desquels le club a ouvert le score (1n, 1d). Onze des 15 derniers matchs de Lens en compétition ont produit plus de 2,5 buts. Joueurs clés et joueurs absentsDouze des 13 dernières apparitions de Sékou Mara en tant que buteur au niveau pro, tous clubs confondus, se sont soldées par une victoire avec au moins deux buts d’écart. Son équipe s’est imposée lors de dix de ces 13 matchs (3d). Après son but lors de la démonstration contre Auxerre, Franjo Ivanović a remporté ses huit dernières apparitions en tant que buteur dans toutes les compétitions de clubs. Il a marqué après la mi-temps lors de sept d’entre elles.Strasbourg a indiqué cette semaine que Martial Godo et Ismaël Doukouré étaient incertains. Kyllian Antonio est toujours suspendu côté lensois. Le club a également annoncé le forfait de son défenseur Samson Baidoo.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsNous voyons Lens en vainqueur au vu des prestations des deux équipes lors de la première journée. Auteur : Aaron MurphyTraduit à l'aide de l'IA",
+    "preview_full_text": "Strasbourg veut se racheter après un début de saison catastrophique lors de la réception d’un Lens flamboyant qui s’est brillamment imposé lors de son premier match.Actus sur le match et forme actuelleLes inquiétudes nées des six défaites consécutives en préparation se sont accentuées lorsque Strasbourg s’est incliné 4-0 à l’extérieur face à Marseille lors de la première journée, gâchant les débuts d’Hugo Oliveira sur le banc en Ligue 1. Ce résultat n’était pas si surprenant pour une équipe qui reste sur neuf matchs de championnat consécutifs sans clean sheet. En revanche, l’incapacité de Strasbourg à se créer la moindre « grosse occasion » a nettement contrasté avec sa victoire 5-4 contre Monaco en fin de saison dernière. Une première dans l’histoire du club, avec au moins quatre buts encaissés lors de trois matchs consécutifs de Ligue 1, semble désormais dangereusement proche. Strasbourg pourrait avoir du mal à éviter de débuter une nouvelle saison par deux défaites consécutives pour la troisième fois depuis son retour dans l’élite en 2017/18. Le club avait perdu quatre de ses six matchs à domicile en Ligue 1 en tant qu’outsider la saison dernière (2v).La quête de Lens, qui souhaite faire mieux que sa deuxième place de la saison dernière, a commencé de manière particulièrement spectaculaire avec cinq buts inscrits contre Auxerre. Cette démonstration de force pourrait être un signe inquiétant pour la défense perméable de Strasbourg. Après avoir conclu la dernière saison de Ligue 1 par une victoire 4-0, Lens pourrait désormais inscrire au moins quatre buts lors de trois matchs de championnat consécutifs pour la première fois de son histoire. Le club peut nourrir de sérieux espoirs d’écrire une nouvelle page d’histoire ici. Il avait réalisé cette performance lors de trois de ses huit victoires à l’extérieur en Ligue 1 la saison dernière (4n, 5d). Une victoire, quelle qu’elle soit, ravirait certainement les supporters lensois. Après avoir battu Le Havre (2-1) et Angers (1-0) lors de ses deux premiers déplacements des deux dernières saisons de Ligue 1, le public qui fera le long déplacement devrait arriver en confiance.  Historique des confrontationsStrasbourg n’a remporté qu’un seul des huit affrontements disputés depuis le début de 2023 (3n, 4d). Le club a concédé trois matchs nuls lors des quatre dernières confrontations à domicile, pour une défaite. [image alt=\"Win Probability\" id=\"f987ac10-4253-45d5-a78f-efa0b9131635\" credit-line=\"Opta by StatsPerform\" guid=\"967f122b-a1d4-4815-8621-50abbd539c69\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursSeul le PSG (15) a ouvert le score lors de davantage de matchs à domicile en Ligue 1 que Strasbourg (12) la saison dernière.Seuls deux des huit dernières défaites de Strasbourg en Ligue 1 l’ont été avec au moins deux buts d’écart.Lens a remporté 24 de ses 26 derniers matchs de Ligue 1 au cours desquels le club a ouvert le score (1n, 1d). Onze des 15 derniers matchs de Lens en compétition ont produit plus de 2,5 buts. Joueurs clés et joueurs absentsDouze des 13 dernières apparitions de Sékou Mara en tant que buteur au niveau pro, tous clubs confondus, se sont soldées par une victoire avec au moins deux buts d’écart. Son équipe s’est imposée lors de dix de ces 13 matchs (3d). Après son but lors de la démonstration contre Auxerre, Franjo Ivanović a remporté ses huit dernières apparitions en tant que buteur dans toutes les compétitions de clubs. Il a marqué après la mi-temps lors de sept d’entre elles.Strasbourg a indiqué cette semaine que Martial Godo et Ismaël Doukouré étaient incertains. Kyllian Antonio est toujours suspendu côté lensois. Le club a également annoncé le forfait de son défenseur Samson Baidoo.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsNous voyons Lens en vainqueur au vu des prestations des deux équipes lors de la première journée. Auteur : Aaron MurphyTraduit à l'aide de l'IA",
     "betting_analysis": "Nous voyons Lens en vainqueur au vu des prestations des deux équipes lors de la première journée. Auteur : Aaron MurphyTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:09.684903+02:00",
+    "retrieved_at": "2026-08-28T03:32:21.623459+02:00",
     "home_team": "Strasbourg",
     "away_team": "RC Lens",
-    "preview_first_seen_at": "2026-08-26T18:43:18.015450+02:00"
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -450,13 +430,14 @@
     ],
     "mid": "IsqSlD4E",
     "url": "https://www.flashscore.fr/match/football/le-havre-CIEe04GT/lyon-2akflumR/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Lyon veut tourner la page de sa déception européenne en milieu de semaine et enchaîner une deuxième victoire en Ligue 1 lors de la réception du Havre.Actus sur le match et forme actuelleAprès avoir débuté sa campagne de Ligue 1 par une victoire 2-0 contre Toulouse, Lyon s’est incliné 2-1 à domicile mercredi face à Fenerbahçe. Cette défaite l’a éliminé des qualifications de la Ligue des champions, au terme d’un match qui restera marqué par les scènes regrettables survenues sur la pelouse au coup de sifflet final. Le club doit désormais rapidement se reconcentrer sur les compétitions nationales. Il dispute son premier match de championnat à domicile de la saison avec l’ambition d’enchaîner deux victoires, comme en 2025/26. Aucune équipe n’a autant remanié son onze de départ entre le dernier match de la saison passée et la première journée de cet exercice que les Gones (dix changements). Après avoir perdu son dernier match de championnat à domicile, Lyon cherche désormais à éviter deux défaites consécutives en Ligue 1 à domicile pour la première fois depuis septembre 2023.Le Havre ne semble pas forcément être le candidat idéal pour infliger davantage de souffrance à son hôte après sa défaite 1-0 contre Monaco lors de la première journée le week-end dernier. Une défaite ici lui ferait commencer une campagne de championnat par deux revers consécutifs pour la deuxième saison de suite. Les hommes de Didier Digard peuvent toutefois puiser de la confiance dans leur récente forme à l’extérieur. Ils sont invaincus lors de leurs quatre derniers matchs de championnat à l’extérieur (1v, 3n), à une rencontre de leur record absolu en tant que club de Ligue 1, établi à cinq matchs consécutifs en 1996.Historique des confrontationsLyon n’a perdu qu’un seul des 12 derniers affrontements (9v, 2n) et a réalisé trois clean sheets lors des quatre derniers (3v, 1n). Le club est invaincu à domicile contre Le Havre depuis décembre 1997 (5v, 2n).[image alt=\"Win Probability\" id=\"bc8025e3-796e-4109-a385-c13184832716\" credit-line=\"Opta by StatsPerform\" guid=\"468e6ce3-1e9b-4e56-8c08-4379057325ee\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursLyon était la seule équipe de Ligue 1 la saison dernière à ne pas avoir inscrit le moindre but à domicile dans les 15 premières minutes.Chacun des cinq derniers matchs à domicile de Lyon a produit plus de 2,5 buts.Sept des huit derniers matchs de championnat du Havre ont produit moins de 2,5 buts.Le Havre a reçu un ou trois cartons jaunes lors de chacun de ses sept derniers matchs de championnat à l’extérieur.Joueurs clés et joueurs absentsAprès avoir marqué en seconde période lors des deux derniers matchs de Lyon, Malick Fofana compte désormais 19 buts avec le club, dont neuf inscrits après la 75e minute. Les deux buts inscrits par Ally Samatta avec Le Havre la saison dernière l’ont été avant la pause, tout comme six de ses huit derniers buts avec n’importe quel club.Abner Vinícius est incertain pour Lyon après être sorti en boitant contre Fenerbahçe, tandis que Khalis Merah reste indisponible. Le Havre compte plusieurs absents de longue durée et a dû sortir Yanis Zouaoui avant la mi-temps la semaine dernière.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsAvec Lyon en quête de réaction après son élimination européenne et des matchs récents à domicile très animés, nous imaginons plus de 3,5 buts.Auteur : John PenningtonTraduit à l'aide de l'IA",
+    "betting_analysis": "Avec Lyon en quête de réaction après son élimination européenne et des matchs récents à domicile très animés, nous imaginons plus de 3,5 buts.Auteur : John PenningtonTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:11.661969+02:00",
+    "retrieved_at": "2026-08-28T03:32:24.593019+02:00",
     "home_team": "Olympique Lyonnais",
-    "away_team": "Le Havre"
+    "away_team": "Le Havre",
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -473,7 +454,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:13.376080+02:00",
+    "retrieved_at": "2026-08-28T03:32:28.283615+02:00",
     "home_team": "AS Monaco",
     "away_team": "Olympique de Marseille"
   },
@@ -492,7 +473,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:15.707226+02:00",
+    "retrieved_at": "2026-08-28T03:32:31.619801+02:00",
     "home_team": "Toulouse",
     "away_team": "LOSC"
   },
@@ -511,7 +492,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:18.071756+02:00",
+    "retrieved_at": "2026-08-28T03:32:33.915197+02:00",
     "home_team": "Olympique Lyonnais",
     "away_team": "AJ Auxerre"
   },
@@ -530,28 +511,47 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:19.998654+02:00",
+    "retrieved_at": "2026-08-28T03:32:36.923389+02:00",
     "home_team": "PSG",
     "away_team": "AS Monaco"
   },
   {
     "sport": "football",
-    "competition": "Ligue Conférence - Qualification - Finale",
-    "date": "2026-08-27",
-    "time_paris": "18:45",
+    "competition": "Ligue 1 - Journée 3",
+    "date": "2026-09-05",
+    "time_paris": "17:15",
     "participants": [
-      "AS Monaco",
-      "Gornik Zabrze"
+      "RC Lens",
+      "FC Lorient"
     ],
-    "mid": "jJkMU4CO",
-    "url": "https://www.flashscore.fr/match/football/gornik-zabrze-2LH3Ywq4/monaco-2PIvr8o4/",
+    "mid": "pfGof8tf",
+    "url": "https://www.flashscore.fr/match/football/lens-IBmris38/lorient-jgNAYRGi/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:24.137392+02:00",
-    "home_team": "AS Monaco",
-    "away_team": "Gornik Zabrze"
+    "retrieved_at": "2026-08-28T03:32:39.080914+02:00",
+    "home_team": "RC Lens",
+    "away_team": "FC Lorient"
+  },
+  {
+    "sport": "football",
+    "competition": "Ligue 1 - Journée 3",
+    "date": "2026-09-06",
+    "time_paris": "20:45",
+    "participants": [
+      "Olympique de Marseille",
+      "Paris FC"
+    ],
+    "mid": "QXH1jQuJ",
+    "url": "https://www.flashscore.fr/match/football/marseille-SblU3Hee/paris-fc-0OEHEprs/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:32:41.607090+02:00",
+    "home_team": "Olympique de Marseille",
+    "away_team": "Paris FC"
   },
   {
     "sport": "football",
@@ -568,49 +568,9 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T13:59:00.419821+02:00",
+    "retrieved_at": "2026-08-28T03:32:44.775231+02:00",
     "home_team": "CS Sfaxien",
     "away_team": "ES Zarzis"
-  },
-  {
-    "sport": "football",
-    "competition": "LaLiga - Journée 1",
-    "date": "2026-08-26",
-    "time_paris": "21:00",
-    "participants": [
-      "Real Madrid",
-      "Real Sociedad"
-    ],
-    "mid": "EXneuDoD",
-    "url": "https://www.flashscore.fr/match/football/real-madrid-W8mj7MDD/real-sociedad-jNvak2f3/",
-    "preview_available": true,
-    "preview_full_text": "Les fidèles du Bernabéu découvrent pour la première fois le nouveau Real Madrid de José Mourinho, qui affronte la Real Sociedad dans le cadre de cette rencontre de Liga reportée en semaine.Actus sur le match et forme actuelleCe match avait été reporté lors de la première journée en raison du nombre de joueurs concernés par la Coupe du monde. Madrid a toutefois rattrapé le temps perdu en s'imposant difficilement 2-1 face à l'Espanyol samedi soir. Le club a dû attendre les dernières minutes pour offrir à Mourinho un retour victorieux à la tête de l'équipe, avec trois points décrochés grâce au but de Carlos Espí pour ses débuts. Le Real reste ainsi sur quatre victoires consécutives en Liga, après avoir remporté ses trois derniers matchs la saison passée. Les supporters espèrent voir une prestation plus fluide que samedi, alors que la vision de Mourinho commence à prendre forme. L'ambiance devrait toutefois être animée, car le Real Madrid cherchera à prolonger son invincibilité à domicile de six matchs (5v, 1n).Les espoirs de la Sociedad de voir cette nouvelle saison changer la donne ont été douchés par une défaite 1-0 face au Betis lors de la première journée vendredi. Le club n'a plus remporté de match officiel depuis que Pellegrino Matarazzo l'a guidé vers la gloire en finale de la Copa del Rey en avril (4n, 4d). La fin de la préparation avait également été décevante. La Real n'a remporté aucun de ses sept derniers matchs de championnat à l'extérieur (3n, 4d) et pourrait ne pas se réjouir de ce déplacement difficile dans la capitale, d'autant que cette série a débuté par une défaite 3-2 contre l'Atlético de Madrid en mars.Historique des confrontationsMadrid a remporté chacun des six derniers affrontements en championnat, avec au moins deux buts inscrits à cinq reprises. Le club n'a perdu qu'une des 19 dernières confrontations de Liga disputées à domicile face à la Sociedad (15v, 3n).[image alt=\"Win Probability\" id=\"3737eb7f-a69a-4802-9004-da3b852e4477\" credit-line=\"Opta by StatsPerform\" guid=\"20a6e0c0-a675-4cca-ba46-3918d62f69a0\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursMadrid a inscrit au moins deux buts lors de quatre de ses six derniers matchs de championnat.Madrid a remporté ses six derniers matchs de Liga à domicile disputés un mercredi. Sa dernière défaite dans ce contexte remonte à septembre 2017 (12v, 2n depuis).La Sociedad a gardé sa cage inviolée en première période lors de trois de ses quatre dernières sorties en championnat.La Sociedad a concédé exactement un but lors de chacun de ses quatre derniers matchs de Liga à l'extérieur.Joueurs clés et joueurs absentsL'ouverture du score de Jude Bellingham pour Madrid contre l'Espanyol a fait de lui le seul joueur à avoir inscrit au moins une tête lors de chacune des quatre dernières campagnes de Liga. Orri Óskarsson a marqué lors de cinq des neuf derniers matchs de championnat de la Sociedad. Onze de ses 12 derniers buts pour le club ont été inscrits à partir de la 60e minute. Álvaro Odriozola devrait être forfait pour la Sociedad, qui surveillera l'évolution de Gonçalo Guedes et de Pablo Marín. Madrid devra encore se passer des Brésiliens Éder Militão et Rodrygo. Raúl Asencio et Ferland Mendy sont également indisponibles.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsMadrid part favori, mais pourrait avoir besoin de temps pour faire plier la Sociedad. Nous imaginons un match nul à la mi-temps et une victoire de Madrid au terme du match.Auteur : John PenningtonTraduit à l'aide de l'IA",
-    "betting_analysis": "Madrid part favori, mais pourrait avoir besoin de temps pour faire plier la Sociedad. Nous imaginons un match nul à la mi-temps et une victoire de Madrid au terme du match.Auteur : John PenningtonTraduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:42:26.155578+02:00",
-    "home_team": "Real Madrid",
-    "away_team": "Real Sociedad",
-    "preview_first_seen_at": "2026-08-26T11:31:51.059125+02:00"
-  },
-  {
-    "sport": "football",
-    "competition": "LaLiga - Journée 1",
-    "date": "2026-08-27",
-    "time_paris": "21:00",
-    "participants": [
-      "Barcelone",
-      "Ath. Bilbao"
-    ],
-    "mid": "0Atuqenl",
-    "url": "https://www.flashscore.fr/match/football/ath-bilbao-IP5zl0cJ/barcelone-SKbpVP5K/",
-    "preview_available": true,
-    "preview_full_text": "Après un début de campagne en Liga remarquable, Barcelone espère poursuivre sa série à domicile de la saison dernière, tandis que l’Athletic Club arrive en Catalogne en quête de réponses après son naufrage lors de la première journée.Actus sur le match et forme actuelleBarcelone a écrasé Elche 5-0 dimanche pour lancer idéalement sa quête d’un troisième titre consécutif en Liga. Il s’agissait alors de la plus large victoire de la saison dans la division, dissipant certaines craintes liées au vide potentiellement important laissé par les départs de Robert Lewandowski et Ferran Torres. Le Camp Nou espère voir cette dynamique se poursuivre. Les hommes de Hansi Flick ont toutefois de grandes attentes à satisfaire à domicile. Le Barça avait remporté tous ses matchs de championnat à domicile la saison dernière, une première depuis l’exercice 1959/60. Il est ainsi devenu le seul club à avoir réussi cette performance dans une Liga à 20 équipes.Le mandat du nouvel entraîneur de l’Athletic, Edin Terzić, a débuté samedi par une défaite 3-1 à domicile contre Séville. Un carton rouge reçu à la 11e minute a fortement influencé la rencontre, les trois buts ayant ensuite été encaissés avant l’heure de jeu. Ce n’était pas le départ idéal pour les Basques, qui cherchent à rebondir après une 12e place en championnat la saison dernière, leur pire classement depuis l’exercice 2017/18. Le manque d’activité sur le marché des transferts reste préoccupant. Les Lions doivent toutefois laisser ces difficultés derrière eux et améliorer leur bilan à l’extérieur pour rebondir ici. Seuls quatre clubs ont pris moins de points à l’extérieur que l’Athletic la saison dernière en Liga (4v, 3n, 12d), battu lors de six de ses sept derniers matchs officiels à l’extérieur (1v).Historique des confrontationsBarcelone est invaincu lors de ses 13 derniers affrontements en Liga (11v, 2n). Son bilan à domicile est encore plus impressionnant : le Barça n’a plus perdu à domicile dans un affrontement de championnat depuis novembre 2001 (21v, 3n).[image alt=\"Win Probability\" id=\"5b4ad029-caab-46a0-a953-4019c29c533d\" credit-line=\"Opta by StatsPerform\" guid=\"f356c304-a990-4a9f-87b1-127793de3ece\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursBarcelone est invaincu lors de ses 23 derniers matchs de championnat après avoir mené à la mi-temps (22v, 1n).Plus de 2,5 buts ont été inscrits lors de 11 des 16 dernières victoires de Barcelone en Liga.L’Athletic n’a gardé qu’une seule clean sheet lors de ses 23 derniers matchs de championnat.L’Athletic a encaissé au moins deux buts lors de chacun de ses six derniers déplacements en Liga.Joueurs clés et joueurs absentsAnthony Gordon a joué moins de 30 minutes pour Barcelone contre Elche et délivré deux passes décisives. Il a ainsi égalé son total sur l’ensemble de la dernière saison de Premier League avec Newcastle. Le gardien de l’Athletic Unai Simón n’apprécie guère cette affiche : il a encaissé 24 buts lors de ses 12 précédents affrontements personnels en championnat.Gavi est sorti sur blessure avec Barcelone contre Elche, tandis que Yuri Berchiche a été expulsé lors du dernier match de l’Athletic.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsLa solide forme de Barcelone à domicile et les difficultés de l’Athletic dans les affrontements entre les deux équipes laissent imaginer une victoire de Barcelone avec plus de 2,5 buts. Auteur : Sridhar BhamidiTraduit à l'aide de l'IA",
-    "betting_analysis": "La solide forme de Barcelone à domicile et les difficultés de l’Athletic dans les affrontements entre les deux équipes laissent imaginer une victoire de Barcelone avec plus de 2,5 buts. Auteur : Sridhar BhamidiTraduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:42:28.128933+02:00",
-    "home_team": "Barcelone",
-    "away_team": "Ath. Bilbao",
-    "preview_first_seen_at": "2026-08-26T11:31:51.059125+02:00"
   },
   {
     "sport": "football",
@@ -627,10 +587,10 @@
     "preview_full_text": "Pour ses débuts à domicile en Premier League, l’entraîneur de Crystal Palace, Pierre Sage, s’attend vendredi soir à un défi particulièrement relevé. Il pouvait difficilement espérer un adversaire plus coriace que Manchester City.Actus sur le match et forme actuelleAprès une défaite lors de la première journée à Everton, Sage se retrouve déjà en difficulté sur le banc de Palace. Il doit combler le vide immense laissé par Oliver Glasner, vainqueur de la FA Cup et de la Ligue Conférence. Le retour à Selhurst Park devrait être particulièrement apprécié par les Eagles. Palace y avait terminé la dernière saison en force, avec pour seule défaite à domicile depuis la mi-février celle concédée contre Arsenal, champion d’Angleterre (5v, 4n). Le calendrier de cette affiche va toutefois mettre ce bilan à rude épreuve. Palace n’a jamais remporté un match de Premier League disputé un vendredi (2n, 5d), tandis qu’une série de huit matchs de championnat sans victoire (3n, 5d) constitue un autre mauvais présage.City a échappé de peu à une énorme frayeur lors de la première journée. Deux buts tardifs lui ont permis de renverser un déficit de 1-0 et de s’imposer 2-1 contre Bournemouth lors du premier match de Premier League d’Enzo Maresca à la tête de l’équipe. Une semaine après une lourde défaite contre Arsenal dans le Community Shield, la prestation poussive de dimanche a soulevé de nouvelles questions sur la capacité de City à gérer l’après-Pep Guardiola. La réponse pourrait être différente à l’extérieur. Les Citizens n’ont remporté que quatre de leurs dix déplacements en Premier League en 2026 (5n, 1d). De plus, le nouvel entraîneur Enzo Maresca n’a gagné aucun de ses trois derniers matchs de championnat à l’extérieur avec Chelsea (2n, 1d). City ne peut donc pas vraiment compter sur son banc pour trouver l’inspiration.Historique des confrontationsPalace n’a remporté aucune des neuf dernières confrontations en championnat (3n, 6d) et n’a plus battu City à domicile dans l’élite depuis avril 2015 (3n, 8d).[image alt=\"Win Probability\" id=\"32fdd922-ceae-41da-bf68-9f93a1f3e13c\" credit-line=\"Opta by StatsPerform\" guid=\"829e4132-37b4-4b63-beb1-6048d3de33fe\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursPlus de 2,5 buts ont été inscrits lors de neuf des 12 derniers matchs de Premier League de Palace.Un seul des dix derniers matchs de Palace dans l’élite a vu l’équipe visiteuse s’imposer (équipe à l’extérieur : 4n, 5d).Six des neuf derniers matchs officiels de City ont produit exactement trois buts.City est resté invaincu lors de ses sept déplacements à Londres en Premier League la saison dernière (4v, 3n).Joueurs clés et joueurs absentsPalace pourrait se tourner vers Evann Guessand pour faire la différence en fin de match. Ses deux buts avec le club ont été inscrits à partir de la 90e minute. Pourtant, dix de ses 11 buts précédents avec son club avaient été marqués en première période. Phil Foden avait trouvé le chemin des filets lors du dernier déplacement de City dans ce stade. Six de ses sept derniers buts avec le club ont été inscrits après la 40e minute.Jean-Philippe Mateta pourrait manquer ce match avec Palace en raison d’un différend contractuel qui se poursuit. De son côté, Chadi Riad a reçu un coup contre Everton. City doit toujours composer sans Jérémy Doku.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsAvec deux équipes peu convaincantes lors de la première journée et engagées dans d’importantes périodes de transition, nous envisageons un match nul.Auteur : Chris WilsonTraduit à l'aide de l'IA",
     "betting_analysis": "Avec deux équipes peu convaincantes lors de la première journée et engagées dans d’importantes périodes de transition, nous envisageons un match nul.Auteur : Chris WilsonTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:30.148554+02:00",
+    "retrieved_at": "2026-08-28T03:32:47.313386+02:00",
     "home_team": "Crystal Palace",
     "away_team": "Manchester City",
-    "preview_first_seen_at": "2026-08-26T11:31:51.059125+02:00"
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -643,13 +603,14 @@
     ],
     "mid": "UTSRcP24",
     "url": "https://www.flashscore.fr/match/football/juventus-C06aJvIB/parma-6DxlaxHN/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "La Juventus cherchera à s’appuyer sur sa victoire lors de la première journée de Serie A à l’occasion de la réception de Parme, qui voudra rebondir après sa défaite.Actus sur le match et forme actuelleLa Juventus a débuté la saison par une victoire 1-0 à Frosinone le week-end dernier. Elle vise deux succès lors de ses deux premiers matchs de Serie A pour la troisième saison d’affilée, sans encaisser de but. À chaque fois, un entraîneur différent était en poste. Construire une forteresse à domicile sera essentiel, surtout après une fin de saison dernière poussive. La Vieille Dame n’avait remporté que trois de ses huit derniers matchs de championnat à l’Allianz Stadium (3n, 2d). Malgré cela, elle reste extrêmement difficile à battre sur ses terres. Elle n’y a subi que deux défaites dans l’élite lors de la saison 2025/26 (10v, 7n).Parme a connu un début de saison décevant avec une défaite 1-0 contre Cagliari. Les Croisés devront donc relever un défi de taille pour éviter de commencer une saison par deux défaites consécutives en championnat, ce qui ne leur est plus arrivé depuis 2020/21. Leur bilan lors de la première journée de Serie A à l’extérieur n’incite pas davantage à l’optimisme. Parme ne s’est imposé qu’une seule fois lors de ses 21 dernières saisons dans l’élite (8n, 12d). Cette appréhension liée aux déplacements s’appuie aussi sur l’histoire récente. Les hommes de Carlos Cuesta avaient dû attendre la fin novembre pour décrocher leur première victoire à l’extérieur la saison dernière. Ils n’avaient pas marqué lors de leurs quatre premiers matchs à l’extérieur en 2025/26.Historique des confrontationsLa Juventus a historiquement dominé cette affiche avec 28 victoires en Serie A. Seules deux équipes ont battu Parme plus souvent dans cette division. Trois des défaites de Parme à l’extérieur lors de son premier match de la saison ces dernières années ont été concédées face à la Juventus, pour un score cumulé de 8-1.[image alt=\"Win Probability\" id=\"fd02df08-7e13-4013-adec-94388d5d3bcc\" credit-line=\"Opta by StatsPerform\" guid=\"6cbb0577-da39-4fca-bbad-3dcca4f65977\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursLes cinq derniers matchs à domicile de la Juventus ont chacun produit exactement deux buts.Cinq des six derniers matchs de la Juventus se sont décidés sur un écart d’un but au maximum.Parme a réalisé une clean sheet lors de la moitié de ses huit derniers matchs à l’extérieur.Parme n’a obtenu que trois corners au maximum lors de chacun de ses six derniers matchs.Joueurs clés et joueurs absentsLe défenseur Gleison Bremer a inscrit le but de la victoire contre Frosinone. Il a ainsi permis à la Juventus de mener 1-0 lors de chacune de ses quatre dernières apparitions en tant que buteur avec le club depuis le début de la saison dernière. La Juventus est restée invaincue à chaque fois qu’il a marqué (10v, 2n). Ousmane Diallo, l'ado de Parme, court après son premier but chez les pros. Ses dix derniers buts en match officiel avec son club ou sa sélection ont toutefois tous été inscrits après la mi-temps.Federico Gatti et Kenan Yıldız sont incertains pour la Juventus en raison de blessures. De son côté, Parme surveillera la condition physique de l’ancien milieu de la Juve, Hans Nicolussi Caviglia.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsLa Juventus affiche un bilan à domicile impressionnant contre Parme et a marqué lors de ses 28 précédentes confrontations en Serie A. Dans ce contexte, nous imaginons un succès de la Juventus sans encaisser de but.Auteur : Tomáš VlasákTraduit à l'aide de l'IA",
+    "betting_analysis": "La Juventus affiche un bilan à domicile impressionnant contre Parme et a marqué lors de ses 28 précédentes confrontations en Serie A. Dans ce contexte, nous imaginons un succès de la Juventus sans encaisser de but.Auteur : Tomáš VlasákTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:32.063096+02:00",
+    "retrieved_at": "2026-08-28T03:32:49.605856+02:00",
     "home_team": "Juventus",
-    "away_team": "Parme"
+    "away_team": "Parme",
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -662,13 +623,14 @@
     ],
     "mid": "K8SaDccd",
     "url": "https://www.flashscore.fr/match/football/malaga-25tIqYiJ/real-madrid-W8mj7MDD/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Real Madrid met sa série parfaite de victoires en Liga en jeu à l’occasion de la réception de Málaga, promu toujours sans victoire, au Bernabéu, lors de la troisième journée,Actus sur le match et forme actuelleLa démonstration 4-1 de Real Madrid contre la Real Sociedad en milieu de semaine lui a permis d’enchaîner une cinquième victoire dans cette compétition. Le club aborde son troisième match de Liga en neuf jours. Une nouvelle rotation pourrait être mise en place pour gérer ce calendrier chargé, qui inclura bientôt la 19e campagne de José Mourinho en Ligue des champions comme entraîneur. Mourinho peut avoir confiance dans la capacité de son équipe à s’imposer ici, quelle que soit la composition alignée. Madrid a remporté ses neuf derniers matchs de championnat à domicile contre des clubs promus. Ce bilan place le club en bonne position pour commencer une nouvelle saison de Liga par trois victoires consécutives, pour la quatrième fois en cinq saisons.Málaga n’a pas réussi à battre le Deportivo La Corogne à domicile, un autre promu, lors de la journée précédente (1-1), et risque désormais de connaître une quatrième saison consécutive dans l’élite sans victoire lors de ses trois premiers matchs. Tout en regrettant ce qu’il considérait comme une occasion manquée de s’imposer, un résultat qui a prolongé la série sans victoire de Málaga en Liga à six matchs (1n, 5d), l’entraîneur Juan Funes s’est rapidement attaché à retenir les points positifs après la rencontre. Transformer rapidement cette attitude positive en points sera toutefois essentiel pour assurer le maintien. Depuis sa défaite inaugurale contre l’Atlético, Málaga n’a récolté que deux points sur 36 possibles (2n, 10d) lors de ses 12 derniers déplacements dans l’élite. S’imposer dans la capitale semble donc être une tâche particulièrement difficile.Historique des confrontationsLa seule victoire de Málaga face à Real Madrid en 36 affrontements remonte à la saison 2012/13, sur son terrain. Real Madrid a remporté les 27 autres. Seuls deux des neuf derniers affrontements ont vu le Real s’imposer avec au moins deux buts d’écart.[image alt=\"Win Probability\" id=\"8718fbc8-46d3-4cb8-8859-8f45dc8657c4\" credit-line=\"Opta by StatsPerform\" guid=\"b038b5c4-0531-4acd-af93-4b960a857871\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursReal Madrid a inscrit au moins trois buts lors de cinq de ses sept dernières victoires à domicile en Liga.Real Madrid a marqué avant et après la mi-temps lors de quatre de ses cinq derniers matchs de Liga.Sept des huit derniers matchs officiels de Málaga se sont terminés avec moins de 2,5 buts.Seules cinq des 18 dernières défaites de Málaga en Liga ont été concédées avec au moins deux buts d’écart.Joueurs clés et joueurs absentsKylian Mbappé a inscrit un triplé contre la Sociedad. Neuf de ses 11 derniers buts avec Real Madrid ont été marqués après la mi-temps. David Larrubia espère permettre à son équipe de prendre le meilleur départ possible. Il avait inscrit le premier but de Málaga lors de dix de ses 11 apparitions en tant que buteur la saison dernière (9v, 1n, 1d).Real Madrid devra composer sans plusieurs cadres, dont Endrick, Rodrygo et Éder Militão. De son côté, Málaga sera privé de Fernando Calero, Diego Murillo et Adrián Niño.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsMálaga a montré suffisamment de solidité défensive récemment pour laisser penser que miser sur moins de 2,5 buts à une cote élevée pourrait constituer une prise de risque envisageable.Auteur : Aaron MurphyTraduit à l'aide de l'IA",
+    "betting_analysis": "Málaga a montré suffisamment de solidité défensive récemment pour laisser penser que miser sur moins de 2,5 buts à une cote élevée pourrait constituer une prise de risque envisageable.Auteur : Aaron MurphyTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:34.029754+02:00",
+    "retrieved_at": "2026-08-28T03:32:52.033769+02:00",
     "home_team": "Real Madrid",
-    "away_team": "Malaga"
+    "away_team": "Malaga",
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -681,13 +643,14 @@
     ],
     "mid": "4S67nB0K",
     "url": "https://www.flashscore.fr/match/football/ipswich-thqhB2MB/manchester-utd-ppjDR086/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Battu par une équipe promue lors de la première journée de Premier League, Manchester United affronte désormais une autre équipe promue. Ipswich, victorieuse pour ses débuts, se déplace à Old Trafford.Actus sur le match et forme actuelleL’optimisme de l’avant-saison à Manchester United a été douché par une prestation catastrophique lors de la défaite 2-0 à Hull lors de la première journée. L’entraîneur Michael Carrick espère que la semaine de pause a permis de redonner le sourire au groupe. Carlos Baleba a signé et Bruno Fernandes a été élu joueur de l’année par ses pairs. Les Red Devils cherchent ainsi à éviter de perdre leurs deux premiers matchs de Premier League pour la troisième fois seulement. Le retour à Old Trafford devrait renforcer leur confiance. United y a remporté huit de ses neuf matchs sous les ordres de Carrick la saison dernière (1d). Toutefois, le club n’a gagné aucun de ses trois matchs disputés dans n’importe quel stade face à des équipes promues sous sa direction (1n, 2d). Il a subi davantage de défaites dans ces confrontations que lors de ses 21 matchs contre des équipes non promues (17v, 3n, 1d).Ipswich peut donc entrevoir une occasion intéressante après son succès lors de la première journée. Le club a inscrit un but à la 90e minute pour battre Sunderland 2-1. Les hommes de Gary O’Neil ont ensuite dominé Leicester 3-1 en milieu de semaine en Carabao Cup. La confiance devrait donc être au rendez-vous alors que les Tractor Boys cherchent à débuter une saison dans l’élite par deux victoires consécutives pour la quatrième fois seulement de leur histoire. Ipswich n’a perdu qu’un seul de ses huit derniers matchs à l’extérieur la saison dernière (4v, 3n). Ce bilan confirme ses aptitudes en déplacement. Le club y avait récolté 15 de ses 22 points lors de son dernier passage en Premier League.Historique des confrontationsUnited est invaincu lors des sept derniers affrontements en Premier League (5v, 2n) et a remporté les quatre dernières confrontations à Old Trafford sur le score cumulé de 18-2.[image alt=\"Win Probability\" id=\"1ea8ae64-98d7-40bd-b832-26ff4e1ec259\" credit-line=\"Opta by StatsPerform\" guid=\"d6b1aee8-9ccf-4bcd-9779-732bedcd8b09\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursUnited est invaincu lors de ses 400 derniers matchs de championnat à domicile après avoir mené à la mi-temps (365v, 35n), depuis sa défaite 2-1 contre Ipswich en mai 1984.Les six derniers matchs à domicile de United ont produit plus de 2,5 buts et vu les deux équipes marquer.Ipswich a inscrit exactement deux buts lors de chacune de ses sept dernières victoires à l’extérieur en match officiel.Ipswich n’a perdu que deux points après avoir ouvert le score lors de ses matchs de championnat à l’extérieur la saison dernière (8v, 1n).Joueurs clés et joueurs absentsAprès avoir évolué en pointe pendant la préparation, Bryan Mbeumo pourrait retrouver un poste plus axial avec United. Il cherchera à confirmer son bilan de trois contributions décisives lors de ses deux précédents matchs contre Ipswich (2b, 1pd). Julio Enciso s’est particulièrement illustré pour Ipswich la semaine dernière. Cinq de ses six derniers buts en Premier League ont été inscrits à l’extérieur. Il pourrait donc avoir un impact important ici.United évalue la gravité des pépins physiques d'Amad Diallo et Mason Mount. La nouvelle recrue Baleba arrive quant à elle avec une blessure à la cheville. Du côté d’Ipswich, Jack Taylor et Azor Matusiwa n’ont plus joué depuis la dernière journée de la saison passée.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsNotre pronostic pour ce match : victoire de United, les deux équipes qui marquent et plus de 2,5 buts.Auteur : Ryan FisherTraduit à l'aide de l'IA",
+    "betting_analysis": "Notre pronostic pour ce match : victoire de United, les deux équipes qui marquent et plus de 2,5 buts.Auteur : Ryan FisherTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:36.057245+02:00",
+    "retrieved_at": "2026-08-28T03:32:54.321825+02:00",
     "home_team": "Manchester Utd",
-    "away_team": "Ipswich"
+    "away_team": "Ipswich",
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -704,7 +667,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:38.219528+02:00",
+    "retrieved_at": "2026-08-28T03:32:57.035056+02:00",
     "home_team": "Aston Villa",
     "away_team": "Arsenal"
   },
@@ -723,7 +686,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:40.862576+02:00",
+    "retrieved_at": "2026-08-28T03:32:59.464204+02:00",
     "home_team": "Barcelone",
     "away_team": "Vallecano"
   },
@@ -742,66 +705,66 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:43.362023+02:00",
+    "retrieved_at": "2026-08-28T03:33:02.492113+02:00",
     "home_team": "Betis",
     "away_team": "Real Madrid"
   },
   {
     "sport": "football",
-    "competition": "NM Cup - 1/64 de finale",
-    "date": "2026-08-26",
-    "time_paris": "18:00",
-    "participants": [
-      "Fauske Sprint",
-      "Bodo/Glimt"
-    ],
-    "mid": "8OiTpRKG",
-    "url": "https://www.flashscore.fr/match/football/bodo-glimt-S0WZMUNG/fauske-sprint-GdYtNrmN/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T13:59:25.851482+02:00",
-    "home_team": "Fauske Sprint",
-    "away_team": "Bodo/Glimt"
-  },
-  {
-    "sport": "volleyball",
-    "competition": "Championnat d'Europe - Femmes",
-    "date": "2026-08-26",
+    "competition": "Premier League - Journée 3",
+    "date": "2026-09-05",
     "time_paris": "16:00",
     "participants": [
-      "France F",
-      "Italie F"
+      "Manchester City",
+      "Coventry"
     ],
-    "mid": "tGPTNA2n",
-    "url": "https://www.flashscore.fr/match/volleyball/france-WSCmiNN9/italie-WOxNzHzR/",
+    "mid": "2sLj8RMt",
+    "url": "https://www.flashscore.fr/match/football/coventry-GOvB22xg/manchester-city-Wtn9Stg0/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T13:59:28.335242+02:00",
-    "home_team": "France F",
-    "away_team": "Italie F"
+    "retrieved_at": "2026-08-28T03:33:04.516295+02:00",
+    "home_team": "Manchester City",
+    "away_team": "Coventry"
   },
   {
-    "sport": "volleyball",
-    "competition": "Championnat d'Europe - Femmes",
-    "date": "2026-08-27",
-    "time_paris": "19:00",
+    "sport": "football",
+    "competition": "Premier League - Journée 3",
+    "date": "2026-09-06",
+    "time_paris": "15:00",
     "participants": [
-      "Suède F",
-      "France F"
+      "Everton",
+      "Manchester Utd"
     ],
-    "mid": "84dS5xs1",
-    "url": "https://www.flashscore.fr/match/volleyball/france-WSCmiNN9/suede-nuDXN7Ba/",
+    "mid": "QsyJgS7m",
+    "url": "https://www.flashscore.fr/match/football/everton-KluSTr9s/manchester-utd-ppjDR086/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:48.859750+02:00",
-    "home_team": "Suède F",
-    "away_team": "France F"
+    "retrieved_at": "2026-08-28T03:33:06.935984+02:00",
+    "home_team": "Everton",
+    "away_team": "Manchester Utd"
+  },
+  {
+    "sport": "football",
+    "competition": "LaLiga - Journée 4",
+    "date": "2026-09-06",
+    "time_paris": "16:15",
+    "participants": [
+      "Valence",
+      "Barcelone"
+    ],
+    "mid": "MFH8mVvQ",
+    "url": "https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/valencia-CQeaytrD/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:33:09.002965+02:00",
+    "home_team": "Valence",
+    "away_team": "Barcelone"
   },
   {
     "sport": "volleyball",
@@ -818,7 +781,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:50.834274+02:00",
+    "retrieved_at": "2026-08-28T03:33:10.885237+02:00",
     "home_team": "USA",
     "away_team": "France"
   },
@@ -837,7 +800,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:53.324177+02:00",
+    "retrieved_at": "2026-08-28T03:33:12.730435+02:00",
     "home_team": "Italie",
     "away_team": "France"
   },
@@ -856,7 +819,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:55.478092+02:00",
+    "retrieved_at": "2026-08-28T03:33:14.569708+02:00",
     "home_team": "France",
     "away_team": "Slovénie"
   },
@@ -875,7 +838,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:42:58.946319+02:00",
+    "retrieved_at": "2026-08-28T03:33:16.441729+02:00",
     "home_team": "Pologne",
     "away_team": "France"
   },
@@ -894,9 +857,28 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:43:01.114758+02:00",
+    "retrieved_at": "2026-08-28T03:33:19.653324+02:00",
     "home_team": "Hongrie F",
     "away_team": "France F"
+  },
+  {
+    "sport": "basketball",
+    "competition": "Coupe du Monde Femmes - Journée 2",
+    "date": "2026-09-05",
+    "time_paris": "20:45",
+    "participants": [
+      "France F",
+      "Corée du Sud F"
+    ],
+    "mid": "Gxe3x73l",
+    "url": "https://www.flashscore.fr/match/basket/coree-du-sud-rTof8GKR/france-femUX0vr/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:33:21.493436+02:00",
+    "home_team": "France F",
+    "away_team": "Corée du Sud F"
   },
   {
     "sport": "football",
@@ -909,11 +891,11 @@
     ],
     "mid": "4Sv1xtml",
     "url": "https://www.flashscore.fr/match/football/clermont-IRuMRua1/sochaux-jPojkLXK/",
-    "preview_available": false,
-    "preview_full_text": "",
+    "preview_available": true,
+    "preview_full_text": "Clermont reçoit Sochaux au stade Gabriel-Montpied pour le compte de la 4e journée de Ligue 2. Les bookmakers considèrent les deux équipes comme très proches à deux jours du coup d’envoi, avec des probabilités de victoire respectives de 33 % et 36 %.Forme actuelle - ClermontClermont occupe la 16e place avec deux points, après avoir enregistré deux matchs nuls et une défaite lors de ses trois matchs disputés jusqu’ici. Lors de son dernier match de championnat, le club a concédé un match nul 1-1 à domicile contre Dijon.Forme actuelle - SochauxSochaux occupe la 11e place du championnat avec quatre points, pour un bilan d’une victoire, d’un nul et d’une défaite en trois matchs. Le club s’est imposé 1-0 à domicile contre Guingamp lors de son dernier match de championnat.Confrontations directesUne moyenne de 2,6 buts par rencontre a été enregistrée lors des cinq derniers matchs entre les deux équipes. Clermont présente un bilan de deux victoires, un nul et deux défaites dans ces confrontations. Les deux équipes se retrouvent pour la première fois depuis mai 2021, lorsque Clermont s’était imposé 3-1 à domicile. Clermont était invaincu lors de ses trois dernières confrontations face à Sochaux, entre mars 2020 et mai 2021, avec deux victoires et un nul. Clermont a remporté ses trois dernières confrontations à domicile face à Sochaux, entre août 2018 et mai 2021.Joueurs à suivreClermont peut compter sur Jean Nyindong Tsamouna, auteur d’un but avec une note moyenne de 7,1, Junior Sambia, auteur d’une passe décisive, et Ousmane Diop, qui a inscrit un but.Sochaux s’appuie sur Saad Agouzoul, auteur d’une passe décisive avec une note moyenne de 6,6, ainsi que sur Boubacar Fofana, qui a inscrit un but. Mehdi Jeannin affiche également une note moyenne de 7,6 avec Sochaux.Chiffres clés↔️ Tirs cadrés concédés par Clermont : 3,7 par match contre Sochaux : 6,0 tirs cadrés concédés par matchClermont➕ Passes entre les lignes: 1,0 par match (2e meilleur, moyenne du championnat 0,5)➖ Tirs totaux: 6,0 par match (pire du championnat, moyenne du championnat 12,6)Sochaux➖ Tirs cadrés: 2,3 par match (4e pire, moyenne du championnat 4,1)➖ Expected Goals adverses (xGA): 2,50 par match (pire du championnat, moyenne du championnat 1,37)➖ Efficacité dans les duels: 39 % (pire du championnat, moyenne du championnat 50 %)Notes du matchAllan Ackra a rejoint Clermont directement en provenance de Sochaux, le club qui l’a formé. Il y a inscrit un but en 28 apparitions lors d’une saison. Mehdi Jeannin a rejoint Sochaux directement en provenance de Clermont, le club qui l’a formé. Il a disputé 94 matchs lors de deux passages couvrant six saisons.Analyse des parisLes marchés des paris fixent la ligne de buts à 2,5, avec une probabilité de 42 % que le total dépasse ce seuil. La probabilité que les deux équipes marquent est évaluée à 50 % pour ce match.Buts implicites selon les cotes: 2,4Ces chiffres proviennent des cotes d’avant-match établies deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:43:04.281168+02:00",
+    "retrieved_at": "2026-08-28T03:33:24.184323+02:00",
     "home_team": "Clermont Foot",
     "away_team": "FC Sochaux"
   },
@@ -932,28 +914,47 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:43:06.510958+02:00",
+    "retrieved_at": "2026-08-28T03:33:26.065632+02:00",
     "home_team": "Dunkerque",
     "away_team": "Clermont Foot"
   },
   {
     "sport": "tennis",
-    "competition": "CHALLENGER MASCULIN - SIMPLES - Roehampton 2, dur - 1/8 de finale",
-    "date": "2026-08-26",
-    "time_paris": "13:33",
+    "competition": "WTA - SIMPLES - Monterrey, dur - Quarts de finale",
+    "date": "2026-08-28",
+    "time_paris": "03:30",
     "participants": [
-      "Emile Hudd",
-      "Matteo Martineau"
+      "Clara Tauson",
+      "Diane Parry"
     ],
-    "mid": "xtBB5dPi",
-    "url": "https://www.flashscore.fr/match/tennis/hudd-emile-SA5mGvvU/martineau-matteo-IDkmT0Hj/",
+    "mid": "IPBLkPKN",
+    "url": "https://www.flashscore.fr/match/tennis/parry-diane-hQQLzcNT/tauson-clara-2PPTHPya/",
+    "preview_available": true,
+    "preview_full_text": "Clara Tauson possède plusieurs avantages sur Diane Parry, malgré leurs classements similaires.Actus sur le match et forme actuelleDiane Parry réalise finalement une assez bonne tournée nord-américaine. Après avoir atteint la finale à Cincinnati, où elle s’est inclinée face à Iga Swiatek, la Française a désormais battu Donna Vekic après avoir perdu le premier set, puis Oleksandra Oliynykova en deux sets accrochés. Elle atteint ainsi son premier quart de finale WTA depuis février.Parry avait remporté le tournoi 125 de Paris et atteint les demi-finales à Ostrava plus tôt dans la saison, mais elle a connu une saison 2026 très irrégulière dans l’ensemble. Pourtant classée dans les 130 il y a moins d’un an, elle pointe désormais au 47e rang mondial.Clara Tauson n’a remporté qu’un seul match à Washington, Toronto et Cincinnati, mais elle s’est frayé un chemin jusqu’en quarts de finale. La Danoise a dû disputer trois sets face à Renata Zarazua comme face à Ekaterina Alexandrova pour enfin faire ses débuts à Monterrey.Tauson avait atteint les demi-finales à Abou Dhabi et les quarts de finale à Dubaï plus tôt dans la saison, mais cela n’a pas suffi à enrayer son déclin continu. L’ancienne 12e mondiale est désormais sortie du top 40, principalement en raison de son incapacité à remporter le moindre match entre Miami et Berlin.Historique des confrontationsDans cet affrontement, Diane Parry mène 2-0. La Française s’est imposée en deux sets à Berlin il y a quelques mois, après avoir remporté un match en trois sets sur les courts en dur d’Osaka en 2024.Hot Stats et Séries en coursDiane Parry présente un bilan de 6v-5d en quarts de finale WTA au cours de sa carrière, mais elle affiche 4v-0d lors de ses quatre derniers.Parry compte 22 victoires dans sa carrière face à des joueuses du top 50, dont plus d’un tiers ont été remportées en 2026.Clara Tauson présente un bilan de 9v-9d en quarts de finale au niveau des tournois, ainsi que de 2v-2d lors de la saison 2026.Tauson a atteint quatre demi-finales dans des tournois WTA 500 ou de niveau supérieur, contre aucune pour son adversaire française.Analyse des paris sportifsMême si Diane Parry a remporté nettement plus de matchs que la Danoise, c’est tout de même Clara Tauson qui abordera les quarts de finale avec l’avantage. Cette dernière possède simplement davantage d’expérience et de réussite aux échelons supérieurs du circuit WTA. Une victoire en deux sets semble envisageable.Traduit à l'aide de l'IA",
+    "betting_analysis": "Même si Diane Parry a remporté nettement plus de matchs que la Danoise, c’est tout de même Clara Tauson qui abordera les quarts de finale avec l’avantage. Cette dernière possède simplement davantage d’expérience et de réussite aux échelons supérieurs du circuit WTA. Une victoire en deux sets semble envisageable.Traduit à l'aide de l'IA",
+    "odds": [],
+    "retrieved_at": "2026-08-28T03:33:28.585711+02:00",
+    "player_1": "Clara Tauson",
+    "player_2": "Diane Parry"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ITF FÉMININ - SIMPLES - W50 Kursumlijska Banja, terre battue - Quarts de finale",
+    "date": "2026-08-28",
+    "time_paris": "11:30",
+    "participants": [
+      "Selena Janicijevic",
+      "Rositsa Dencheva"
+    ],
+    "mid": "46ibg53S",
+    "url": "https://www.flashscore.fr/match/tennis/dencheva-rositsa-nBPFcIyT/janicijevic-selena-IaIL1xKN/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T13:59:50.939553+02:00",
-    "player_1": "Emile Hudd",
-    "player_2": "Matteo Martineau"
+    "retrieved_at": "2026-08-28T03:33:30.473245+02:00",
+    "player_1": "Selena Janicijevic",
+    "player_2": "Rositsa Dencheva"
   },
   {
     "sport": "football",
@@ -966,13 +967,14 @@
     ],
     "mid": "EDlezEkL",
     "url": "https://www.flashscore.fr/match/football/angers-SAlF91iL/auxerre-MTLr36WA/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Après leurs défaites respectives lors de la première journée, Auxerre et Angers visent la victoire pour se relancer au moment de s'affronter ce week-end.Actus sur le match et forme actuelleUn carton rouge reçu en première période a compliqué la tâche d’Auxerre à Lens samedi dernier. L’équipe s’est finalement inclinée 5-2. Le nouvel entraîneur Will Still veut éviter de devenir le premier entraîneur de l’AJA à perdre ses deux premiers matchs de Ligue 1 à la tête de l’équipe. L’historique récent laisse penser qu’il devrait échapper à cette marque indésirable. L’AJA a remporté son premier match à domicile lors de chacune de ses deux dernières campagnes de Ligue 1 et pourrait enchaîner pour la première fois depuis 1993. Sa solide forme à domicile en fin de saison dernière (3v, 2n) confirme également son statut de favori. Auxerre a par ailleurs inscrit au moins deux buts lors de six matchs de Ligue 1 consécutivement, un record pour le club, ce qui montre à quel point l’équipe est dangereuse offensivement actuellement.Après une fin de saison dernière catastrophique, Angers a démarré la nouvelle campagne dans la continuité. Sa défaite 2-0 contre Lille lors de la première journée a porté sa série sans victoire à dix matchs (4n, 6d). Ce déplacement ne devrait guère renforcer sa confiance dans sa capacité à stopper l’hémorragie. Les Noirs et Blancs ont perdu le plus grand nombre de matchs à l’extérieur en Ligue 1 en 2026, à égalité avec une autre équipe (six). Ils avaient également inscrit le plus petit nombre de buts à l’extérieur dans la division la saison dernière, à égalité avec une autre équipe (11). Un nouveau début de match poussif pourrait être fatal au vu de leur manque d’efficacité offensive. Angers a concédé l’ouverture du score lors de sept matchs consécutifs.Historique des confrontationsAuxerre a remporté ses trois derniers matchs officiels à domicile contre Angers. Les cinq derniers affrontements ont tous été remportés par l’équipe à domicile.[image alt=\"Win Probability\" id=\"3b632b52-6031-46b7-a891-b3f0946a3b57\" credit-line=\"Opta by StatsPerform\" guid=\"dcd28586-e962-4658-98cf-6941c7764afa\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursPlus de 2,5 buts ont été inscrits lors de cinq des six derniers matchs d’Auxerre.Le résultat à la mi-temps a été reproduit au terme du match lors de 12 des 16 dernières rencontres d’Auxerre.Angers n’a remporté aucun match de Ligue 1 la saison dernière après avoir été mené (7n, 16d).Angers a gardé sa cage inviolée lors de huit de ses neuf dernières victoires en championnat.Joueurs clés et joueurs absentsRomain Faivre a inscrit son dernier but en Ligue 1 à domicile contre Angers, alors qu’il évoluait à Brest il y a deux saisons. Cinq de ses six derniers buts à domicile dans cette compétition ont été inscrits après la 40e minute. Amine Sbaï a créé neuf occasions le week-end dernier contre Lille, soit le meilleur total pour un joueur lors d’un match de Ligue 1 depuis le début de la saison dernière. Il avait toutefois été expulsé lors de la même affiche la saison passée.Le joueur d’Auxerre Christ Makosso est suspendu après avoir reçu un carton rouge le week-end dernier. Angers ne semble pas compter de nouvel absent.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsAu vu de la réussite offensive d'Auxerre actuellement, nous envisageons plus de 2,5 buts.Auteur : Alex BowmerTraduit à l'aide de l'IA",
+    "betting_analysis": "Au vu de la réussite offensive d'Auxerre actuellement, nous envisageons plus de 2,5 buts.Auteur : Alex BowmerTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:40:51.347266+02:00",
+    "retrieved_at": "2026-08-28T03:30:47.147900+02:00",
     "home_team": "AJ Auxerre",
-    "away_team": "SCO Angers"
+    "away_team": "SCO Angers",
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -985,13 +987,14 @@
     ],
     "mid": "AckQUiDr",
     "url": "https://www.flashscore.fr/match/football/brest-Cr4VGaUl/toulouse-MLmY2yB1/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Brest a poursuivi sa longue série sans victoire en Ligue 1 lors de la première journée, mais compte un point de plus que son adversaire, Toulouse, battu la semaine dernière.Actus sur le match et forme actuelleBrest a concédé un match nul 2-2 face au promu Le Mans la semaine dernière. Son incapacité à conserver son avantage après avoir ouvert le score a prolongé une inquiétante baisse de forme. Parmi les équipes présentes depuis le début de la saison, les Pirates ont pris le moins de points en championnat depuis la 26e journée de la saison dernière, avec seulement quatre unités. Ils ont encaissé le plus de buts sur cette période (23) et n'ont remporté aucun match (4n, 6d). Le nouvel entraîneur Julien Lachuer espère mettre fin à cette attente à domicile. Brest traverse sa plus longue série sans victoire en Ligue 1 depuis 2022 (2n, 2d), même si ses deux défaites ont été concédées face à des équipes qui ont terminé dans le top 8.Toulouse est également dirigé par un nouvel entraîneur. Les débuts de Jens Berthel Askou sur le banc ont été peu encourageants, avec une défaite 2-0 contre Lyon la semaine dernière. Il prend les commandes d'un club qui a amélioré son classement chaque saison depuis son retour dans l'élite. Mais faire mieux que la neuvième place obtenue la saison dernière s'annonce difficile. La tâche se compliquerait encore si les Violets perdaient leurs deux premiers matchs d'une saison de Ligue 1 pour seulement la troisième fois, et la première depuis 1992/93. Toulouse peut toutefois tirer quelques motifs d'espoir de son invincibilité lors de son premier match à l'extérieur au cours de ses quatre saisons depuis son retour dans l'élite (3v, 1n).Historique des confrontationsToulouse a remporté les deux affrontements de la saison dernière sur le même score de 2-0. Le club cherche donc à remporter deux déplacements consécutifs à Brest pour la première fois de son histoire.[image alt=\"Win Probability\" id=\"4ad329c3-6234-461c-886c-f583f444c120\" credit-line=\"Opta by StatsPerform\" guid=\"f1f545ec-ae50-4f25-adf6-504853c154a4\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursBrest a inscrit au moins deux buts lors de six de ses neuf derniers matchs à domicile.Neuf des dix derniers matchs officiels de Brest ont produit plus de 8,5 corners.Cinq des sept derniers matchs de championnat de Toulouse à l'extérieur ont produit plus de 2,5 buts.Six des huit derniers buts de Toulouse à l'extérieur dans les affrontements entre les deux équipes ont été inscrits avant la mi-temps.Joueurs clés et joueurs absentsLudovic Ajorque pourrait devoir patienter avant de trouver le chemin des filets pour sa 200e apparition en Ligue 1. Quatre de ses cinq dernières apparitions en tant que buteur l'ont vu inscrire le deuxième but du match. Julián Vignolo a été le joueur de Toulouse à tenter le plus de tirs contre Lyon la semaine dernière (4). Ses deux buts en équipe première avec le club ont été inscrits à la 80e minute ou plus tard.Brendan Chardonnet et Hugo Magnetti ont manqué le premier match de Brest, tandis que Toulouse semble disposer de toutes ses forces.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsCompte tenu des difficultés persistantes de Brest, une victoire de Toulouse nous semble envisageable.Auteur : Ryan FisherTraduit à l'aide de l'IA",
+    "betting_analysis": "Compte tenu des difficultés persistantes de Brest, une victoire de Toulouse nous semble envisageable.Auteur : Ryan FisherTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:40:53.519917+02:00",
+    "retrieved_at": "2026-08-28T03:30:49.682501+02:00",
     "home_team": "Stade Brestois",
-    "away_team": "Toulouse"
+    "away_team": "Toulouse",
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -1004,13 +1007,14 @@
     ],
     "mid": "jyitR9C7",
     "url": "https://www.flashscore.fr/match/football/lorient-jgNAYRGi/troyes-fsfAHubD/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Deux équipes qui n’ont cadré qu’un seul tir chacune lors de leur match nul et vierge de la première journée, Lorient et Troyes, se retrouvent ce week-end au stade du Moustoir. Les deux équipes chercheront à améliorer leur efficacité offensive.Actus sur le match et forme actuelleLorient n’a pas marqué lors de deux matchs de Ligue 1 depuis son match nul lors de la première journée à Nice, pour la première d’Alexandre Dujeux sur le banc. Le club n’a remporté que trois de ses 14 derniers matchs toutes compétitions confondues (6n, 5d). Il n’était donc pas surprenant de le voir se tourner vers le marché des transferts cette semaine afin de renforcer son effectif. Les améliorations pourraient toutefois attendre, car les Merlus n’ont remporté que deux de leurs 13 derniers matchs de Ligue 1 à domicile contre des promus (5n, 6d). Les victoires ont également déserté le stade du Moustoir, où Lorient a enchaîné deux défaites consécutives après une série de 13 matchs de championnat sans défaite.Troyes a marqué son retour dans l’élite par un match nul à domicile contre le Paris FC. Un nouveau match sans victoire ici serait synonyme d'une égalisation de la série record de 23 matchs sans succès d’Arles-Avignon en Ligue 1. À l’extérieur, l’ESTAC n’a pris qu’un point lors de ses dix derniers déplacements à ce niveau (1n, 9d). Avec 116 défaites en 175 matchs à l’extérieur dans cette division depuis le début du siècle, soit le plus fort pourcentage de défaites parmi les équipes ayant disputé au moins deux saisons sur cette période, il n’y aurait rien de surprenant à voir les supporters troyens se montrer pessimistes.Historique des confrontationsTroyes a battu Lorient pour la dernière fois en décembre 2021 (2n, 3d). Le club a perdu les trois derniers affrontements toutes compétitions confondues sans marquer. De son côté, Lorient n’a encore jamais remporté quatre matchs consécutivement contre Troyes.[image alt=\"Win Probability\" id=\"55b7cb43-062d-4a65-ad14-efd9907e961c\" credit-line=\"Opta by StatsPerform\" guid=\"3f07d62e-1f41-47a0-b174-40c8150f0734\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursIl y a eu exactement un but en première période lors de quatre des cinq derniers matchs à domicile de Lorient.Lorient a inscrit exactement deux buts lors de sept de ses dix derniers matchs à domicile.Aucun des cinq derniers matchs de Troyes toutes compétitions confondues n’a vu les deux équipes marquer.Aucune équipe de Ligue 2 n’a mené moins de matchs à l’extérieur à la mi-temps que Troyes la saison dernière (MT : 2v, 12n, 3d).Joueurs clés et joueurs absentsJean-Victor Makengo a cadré l’un des deux maigres tirs de Lorient le week-end dernier. Son équipe a remporté ses quatre matchs lorsqu’il a marqué la saison passée, mais un seul de ces succès a été obtenu à domicile. Kandet Diawara a inscrit quatre buts depuis sa signature à Troyes, dont trois après la mi-temps.Des incertitudes liées à des blessures concernent le Lorientais Mohamed Bamba, ainsi que les Troyens Yvann Titi, Iron Gomis et Ismaël Boura.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsAu vu des difficultés récentes de Lorient et du bilan désastreux de Troyes à l’extérieur à ce niveau, nous imaginons un autre match nul et vierge.Auteur : Tom PennTraduit à l'aide de l'IA",
+    "betting_analysis": "Au vu des difficultés récentes de Lorient et du bilan désastreux de Troyes à l’extérieur à ce niveau, nous imaginons un autre match nul et vierge.Auteur : Tom PennTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:40:55.822969+02:00",
+    "retrieved_at": "2026-08-28T03:30:52.597557+02:00",
     "home_team": "FC Lorient",
-    "away_team": "ESTAC"
+    "away_team": "ESTAC",
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -1023,13 +1027,14 @@
     ],
     "mid": "KAX5sVdl",
     "url": "https://www.flashscore.fr/match/football/nice-YagoQJpq/paris-fc-0OEHEprs/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Le Paris FC et Nice ont connu des débuts de saison sans éclat : les deux équipes ont concédé un match nul 0-0 lors de leur entrée en Ligue 1, ce qui donne à cette affiche une importance particulière pour lancer leur dynamique en début de saison.Actus sur le match et forme actuelleLe mandat de Liam Rosenior à la tête du Paris FC a débuté par un frustrant match nul et vierge concédé chez le promu Troyes. L’Anglais reste ainsi sans victoire et ses équipes n’ont inscrit aucun but lors de ses six derniers matchs en tant qu’entraîneur dans l’élite. Il prend toutefois en main une équipe qui a terminé la saison dernière avec une excellente dynamique à domicile. Les Parisiens ont remporté cinq de leurs six dernières rencontres de ce type (1d). Si les supporters du stade Jean-Bouin les poussent vers un nouveau résultat positif, ce sera la première fois de leur histoire qu’ils entament une campagne dans l’élite sans perdre l’un de leurs deux premiers matchs.Nice pouvait espérer qu’après avoir évité de justesse la relégation la saison dernière, le remplacement de Claude Puel par le nouvel entraîneur Olivier Pantaloni entraînerait immédiatement un changement positif. Cela ne s’est toutefois pas produit. Le match nul et vierge à domicile contre l’ancien club de Pantaloni a constitué une entrée en matière terne pour son mandat, et les choses pourraient empirer avant de s’améliorer. Pantaloni s’est incliné lors de ses quatre derniers déplacements au Paris FC en tant qu’entraîneur. Depuis le début de la saison dernière, aucune équipe actuelle de Ligue 1 n’a subi davantage de défaites à l’extérieur dans l’élite que Nice, avec 11 (3v, 3n).Historique des confrontationsLe Paris FC a remporté ses quatre matchs à domicile dans l’élite face à Nice, en conservant trois clean sheets. Il s’agit de son meilleur bilan dans ce type d’affrontements contre un adversaire.[image alt=\"Win Probability\" id=\"51e9024d-7ba8-40c4-b54f-75dc27639252\" credit-line=\"Opta by StatsPerform\" guid=\"434bffbf-5fb9-48ab-855f-d2619fbeaaa0\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursLe Paris FC n’a concédé au moins deux buts qu’une seule fois lors de ses huit derniers matchs.Le résultat à la mi-temps a été reproduit au coup de sifflet final lors de six des sept derniers matchs à domicile du Paris FC.Parmi les cinq grands championnats européens, aucune équipe n’a concédé davantage de matchs nuls (dix) ni disputé davantage de 0-0 (quatre) que Nice en 2026.Nice a obtenu moins de corners que son adversaire lors de six de ses sept derniers matchs à l’extérieur.Joueurs clés et joueurs absentsLa nouvelle recrue du Paris FC, Lassine Sinayoko, a marqué à domicile comme à l’extérieur contre Nice la saison dernière. La plus récente de ces réalisations faisait partie des trois de ses quatre derniers buts contre n’importe quel adversaire inscrits après la pause. Sofiane Diop cherchera à marquer avant lui ce week-end. Il a inscrit neuf de ses dix buts avec Nice la saison dernière avant la pause, dont un contre le Paris FC.Pablo Pagis du Paris FC sera suivi après être sorti blessé le week-end dernier. Nice ne compte apparemment aucun nouvel absent.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsAucune des deux équipes ne voudra se découvrir. Le début de match pourrait donc être tendu, ce qui rend le match nul à la mi-temps envisageable.Auteur : Peter StavrinouTraduit à l'aide de l'IA",
+    "betting_analysis": "Aucune des deux équipes ne voudra se découvrir. Le début de match pourrait donc être tendu, ce qui rend le match nul à la mi-temps envisageable.Auteur : Peter StavrinouTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:41:00.162746+02:00",
+    "retrieved_at": "2026-08-28T03:30:57.260473+02:00",
     "home_team": "Paris FC",
-    "away_team": "OGC Nice"
+    "away_team": "OGC Nice",
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -1042,32 +1047,14 @@
     ],
     "mid": "SzyEu9R0",
     "url": "https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/rennes-d2nnj1IE/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "La réception du Mans, promu cette saison, offre à Rennes une occasion idéale de décrocher sa première victoire de la saison, après que les deux équipes ont concédé un match nul lors de la première journée.Actus sur le match et forme actuelleLa première journée de Rennes a été entourée de polémique. La pelouse du Parc des Princes ayant été jugée impraticable, le club a finalement accueilli le PSG lors de la première journée. Rennes n’a pas su profiter de ce changement favorable et a laissé filer une avance de 2-0 pour finalement arracher un match nul 2-2. Le retour à domicile devrait toutefois l’aider à décrocher sa première victoire, puisque le club n’a perdu qu’une seule fois au Roazhon Park sous Franck Haise (4v, 2n, 1d). Un sérieux bémol concerne néanmoins le bilan récent de Rennes à domicile face aux promus : ses quatre dernières affiches de ce type n’ont produit qu’une victoire (1n, 2d).Le retour de conte de fées du Mans en Ligue 1 s’est finalement soldé par un échec, avec l’incapacité du club à s'imposer face à Brest. Le match nul 2-2 reste toutefois très honorable, puisque Le Mans n’a enregistré qu’un quart des xG de son adversaire. L’entraîneur Patrick Videira tentera de maintenir le moral de ses joueurs après avoir évité la défaite. Cette rencontre s’annonce cependant plus exigeante pour juger le niveau du club, qui n’a remporté que deux de ses 22 derniers matchs à l’extérieur à ce niveau (3n, 17d). Le Mans s’était toutefois montré bien plus solide à l’extérieur en Ligue 2 la saison dernière (7v, 8n, 2d). Seul club français à pouvoir se prévaloir d’une série de dix matchs ou plus sans défaite dans les deux premières divisions (6v, 6n), il devrait aborder cette affiche avec confiance.Historique des confrontationsCes deux équipes ne se sont plus affrontées depuis la victoire du Mans aux tirs au but contre Rennes lors d’un match de Coupe de la Ligue 2011/12. En Ligue 1, Rennes n’a perdu qu’un seul de ses 12 affrontements (5v, 6n).[image alt=\"Win Probability\" id=\"c37e4ccb-01ce-4ae9-99ef-11714766e025\" credit-line=\"Opta by StatsPerform\" guid=\"39f4f9e7-51fa-4629-95bf-e5ff6dd0a18e\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursLes huit derniers matchs de Rennes en Ligue 1 ont tous produit plus de 2,5 buts.Rennes a enregistré moins de tirs cadrés que son adversaire lors de quatre de ses cinq derniers matchs.Six des neuf derniers matchs de championnat du Mans à l’extérieur ont produit moins de 2,5 buts.Le Mans n’a pas marqué lors de sept de ses neuf derniers déplacements en Ligue 1 disputés un dimanche.Joueurs clés et joueurs absentsIssa Soumaré de Rennes monte progressivement en puissance dans les matchs, puisque 16 de ses 17 derniers buts en club ont été inscrits après la 30e minute. L’attaquant du Mans Dame Guèye a inscrit huit de ses neuf derniers buts en club entre la 25e et la 60e minute, après avoir égalisé en première période contre Brest.Rennes semble proche d’évoluer au complet, tandis que Le Mans a vu Yasser Larouci sortir sur blessure le week-end dernier.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsLe Mans s’est montré difficile à battre à l’extérieur la saison dernière. La combativité affichée lors de la première journée nous laisse imaginer ce pronostic : Nul/Le Mans en double chance.Auteur : Chris WilsonTraduit à l'aide de l'IA",
+    "betting_analysis": "Le Mans s’est montré difficile à battre à l’extérieur la saison dernière. La combativité affichée lors de la première journée nous laisse imaginer ce pronostic : Nul/Le Mans en double chance.Auteur : Chris WilsonTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:41:02.458828+02:00",
+    "retrieved_at": "2026-08-28T03:31:00.415192+02:00",
     "home_team": "Stade Rennais",
-    "away_team": "Le Mans"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue 1 - Journée 3",
-    "date": "2026-09-05",
-    "time_paris": "17:15",
-    "participants": [
-      "RC Lens",
-      "FC Lorient"
-    ],
-    "mid": "pfGof8tf",
-    "url": "https://www.flashscore.fr/match/football/lens-IBmris38/lorient-jgNAYRGi/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:42:21.973693+02:00",
-    "home_team": "RC Lens",
-    "away_team": "FC Lorient"
+    "away_team": "Le Mans",
+    "preview_first_seen_at": "2026-08-28T03:33:36.150843+02:00"
   },
   {
     "sport": "football",
@@ -1084,7 +1071,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:41:14.109781+02:00",
+    "retrieved_at": "2026-08-28T03:31:13.605755+02:00",
     "home_team": "Le Havre",
     "away_team": "Stade Brestois"
   },
@@ -1103,160 +1090,8 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-08-26T18:41:16.010367+02:00",
+    "retrieved_at": "2026-08-28T03:31:16.565159+02:00",
     "home_team": "OGC Nice",
     "away_team": "Le Mans"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "21:45",
-    "participants": [
-      "Rei Sakamoto",
-      "Alexandre Müller"
-    ],
-    "mid": "hxsUd6Ak",
-    "url": "https://www.flashscore.fr/match/tennis/muller-alexandre-nLLdS9q0/sakamoto-rei-AeBHWNls/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:39:19.875205+02:00",
-    "player_1": "Rei Sakamoto",
-    "player_2": "Alexandre Müller"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "22:00",
-    "participants": [
-      "Kei Nishikori",
-      "Michael Antonius"
-    ],
-    "mid": "OlmheL9M",
-    "url": "https://www.flashscore.fr/match/tennis/antonius-michael-nB7oqApL/nishikori-kei-YNkOjUIB/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:39:22.767915+02:00",
-    "player_1": "Kei Nishikori",
-    "player_2": "Michael Antonius"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "22:00",
-    "participants": [
-      "Henrique Rocha",
-      "Lloyd Harris"
-    ],
-    "mid": "KGd4FdPs",
-    "url": "https://www.flashscore.fr/match/tennis/harris-lloyd-YyK3wlb0/rocha-henrique-b7jXvxef/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:39:25.719237+02:00",
-    "player_1": "Henrique Rocha",
-    "player_2": "Lloyd Harris"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "22:00",
-    "participants": [
-      "Zsombor Piros",
-      "Daniil Glinka"
-    ],
-    "mid": "6P8BL4AL",
-    "url": "https://www.flashscore.fr/match/tennis/glinka-daniil-bimjKJAE/piros-zsombor-2BC3jj8o/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:39:28.780524+02:00",
-    "player_1": "Zsombor Piros",
-    "player_2": "Daniil Glinka"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "22:15",
-    "participants": [
-      "Hugo Gaston",
-      "Andre Ilagan"
-    ],
-    "mid": "S0rtSoqT",
-    "url": "https://www.flashscore.fr/match/tennis/gaston-hugo-hGqnSub7/ilagan-andre-GbjJTs06/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:39:31.432724+02:00",
-    "player_1": "Hugo Gaston",
-    "player_2": "Andre Ilagan"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - US Open - Qualifications, dur - Demi-finales",
-    "date": "2026-08-26",
-    "time_paris": "22:00",
-    "participants": [
-      "Jérôme Kym",
-      "Colton Smith"
-    ],
-    "mid": "KQ9fAVzA",
-    "url": "https://www.flashscore.fr/match/tennis/colton-smith-IHCZRRUJ/kym-jer-me-0dNeJ8OB/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:39:33.866200+02:00",
-    "player_1": "Jérôme Kym",
-    "player_2": "Colton Smith"
-  },
-  {
-    "sport": "football",
-    "competition": "Premier League - Journée 3",
-    "date": "2026-09-05",
-    "time_paris": "16:00",
-    "participants": [
-      "Manchester City",
-      "Coventry"
-    ],
-    "mid": "2sLj8RMt",
-    "url": "https://www.flashscore.fr/match/football/coventry-GOvB22xg/manchester-city-Wtn9Stg0/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:42:46.081855+02:00",
-    "home_team": "Manchester City",
-    "away_team": "Coventry"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Winston-Salem, dur - 1/8 de finale",
-    "date": "2026-08-26",
-    "time_paris": "20:00",
-    "participants": [
-      "Rinky Hijikata",
-      "Benjamin Bonzi"
-    ],
-    "mid": "nDBnCi6c",
-    "url": "https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/hijikata-rinky-f9eT4NTQ/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-08-26T18:43:11.437509+02:00",
-    "player_1": "Rinky Hijikata",
-    "player_2": "Benjamin Bonzi"
   }
 ]
