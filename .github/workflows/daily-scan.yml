@@ -10,6 +10,10 @@ on:
     - cron: '30 16 * * *'   # 18:30 CEST
   workflow_dispatch: {}
 
+concurrency:
+  group: flashscore-push
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -43,4 +47,5 @@ jobs:
           git add -A
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Scan $(TZ=Europe/Paris date '+%Y-%m-%d %H:%M Paris')"
-          git push
+          git pull --rebase origin main
+          git push origin main
