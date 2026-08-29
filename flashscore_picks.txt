@@ -281,6 +281,8 @@ URL: https://www.flashscore.fr/match/tennis/majchrzak-kamil-fPZlNrGS/medjedovic-
 ---
 
 17:00 | TENNIS | Sho Shimabukuro - Arthur Rinderknech
+Flashscore conclusion:
+Grâce à sa plus grande expérience, à son meilleur classement et à quelques bons résultats obtenus par le passé à l’US Open, Rinderknech débutera logiquement en favori. Toutefois, au vu de sa forme actuelle, sa cote disponible semble trop basse.Shimabukuro, de son côté, a les moyens de compliquer la tâche d’un Rinderknech en manque de confiance et de transformer ce match en une bataille serrée. Le Français reste néanmoins attendu vainqueur au bout du compte.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/rinderknech-arthur-pIxZZsof/shimabukuro-sho-86URR6MP/
 ---
 
@@ -291,6 +293,8 @@ URL: https://www.flashscore.fr/match/tennis/daniel-merida-aguilar-WOtXbAu5/fucso
 ---
 
 17:00 | TENNIS | Dino Prizmic - Alexander Shevchenko
+Flashscore conclusion:
+Cette affiche comporte de nombreuses inconnues. Dino Prizmic, le joueur le plus fiable des deux, est actuellement confronté à des problèmes physiques. De manière générale, son profil n’est pas idéal pour le format au meilleur des cinq sets. S’il veut s’imposer, il devra probablement faire la différence en trois ou quatre sets.De son côté, Alexander Shevchenko reste une véritable énigme, et il est très difficile de prévoir le niveau qu’il affichera sur le court. Il possède assurément le jeu pour battre, voire dominer, Prizmic dans ces conditions. Mais sa capacité à sortir son meilleur tennis, ou même à atteindre un niveau important pour profiter de la vulnérabilité physique actuelle de Prizmic, reste une grande inconnue.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/prizmic-dino-YcluY2Zi/shevchenko-alexander-jTIB3FIA/
 ---
 
@@ -299,6 +303,8 @@ URL: https://www.flashscore.fr/match/tennis/carreno-busta-pablo-W8WmcXdq/lehecka
 ---
 
 17:00 | TENNIS | Yibing Wu - Adam Walton
+Flashscore conclusion:
+Yibing Wu est le joueur le plus talentueux et, si la condition physique n'entrait pas en ligne de compte dans ce match, il devrait pouvoir s'imposer facilement. Cependant, sa condition physique est si incertaine et peu fiable qu'elle devient souvent un problème majeur dans un format au meilleur des cinq sets. Cela donne un léger avantage à Walton dans cette affiche.Wu pourrait toutefois contrôler les premiers échanges du match. Walton devra peut-être s'accrocher et rester compétitif jusqu'à ce que le niveau physique de Wu commence finalement à baisser.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/walton-adam-jNRjAU1U/wu-yibing-8ASNvPfK/
 ---
 
@@ -351,6 +357,8 @@ URL: https://www.flashscore.fr/match/tennis/kecmanovic-miomir-MTQ5CPOR/shapovalo
 ---
 
 20:30 | TENNIS | Aleksandar Vukic - Rei Sakamoto
+Flashscore conclusion:
+Rei Sakamoto a assurément le talent nécessaire pour rivaliser d’égal à égal avec Aleksandar Vukic. Son manque d’expérience au niveau ATP, ainsi que dans le format au meilleur des cinq sets, constitue toutefois un motif d’encouragement et de confiance pour l’Australien avant cet affrontement. Cette affiche s’annonce très équilibrée et peut basculer d’un côté comme de l’autre.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/sakamoto-rei-AeBHWNls/vukic-aleksandar-O2CmIROi/
 ---
 
@@ -368,5 +376,13 @@ URL: https://www.flashscore.fr/match/tennis/fearnley-jacob-pGBaKGOn/landaluce-ma
 Flashscore conclusion:
 Federico Cina est un jeune joueur très talentueux, doté d’un fort potentiel. On s’attend largement à le voir intégrer le top 100 dans les prochaines années. Toutefois, à ce stade de son développement, il ne semble pas encore prêt à battre un joueur du top 50 dans ces conditions. Au vu du niveau régulier affiché par Michelsen tout au long de cette tournée américaine sur dur et plus généralement sur cette surface cette année, l’Américain devrait vivre un match à sa portée.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/cina-federico-lvlXwMKk/michelsen-alex-nDIhfm9l/
+---
+
+19:25 | BASKETBALL | France 3x3 - Macédoine du Nord 3x3
+URL: https://www.flashscore.fr/match/basket/france-AJETeJun/macedoine-du-nord-OjpDjCMu/
+---
+
+20:00 | HANDBALL | PSG - Montpellier
+URL: https://www.flashscore.fr/match/handball/montpellier-Qopo6dYu/paris-MmvaXAoA/
 ---
 
