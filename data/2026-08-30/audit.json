@@ -2,14 +2,15 @@
   "scan_times": [
     "2026-08-30T09:39:00.952195+02:00",
     "2026-08-30T12:37:49.378807+02:00",
-    "2026-08-30T15:41:22.851721+02:00"
+    "2026-08-30T15:41:22.851721+02:00",
+    "2026-08-30T18:40:33.651693+02:00"
   ],
-  "last_scan": "2026-08-30T15:41:22.851721+02:00",
-  "events_seen": 373,
-  "previews_found": 130,
-  "new_previews_added": 27,
-  "duplicates_merged": 296,
-  "invalid_mid_excluded": 18,
+  "last_scan": "2026-08-30T18:40:33.651693+02:00",
+  "events_seen": 496,
+  "previews_found": 165,
+  "new_previews_added": 33,
+  "duplicates_merged": 400,
+  "invalid_mid_excluded": 24,
   "post_start_previews_rejected": 0,
-  "total_entries": 59
+  "total_entries": 72
 }
