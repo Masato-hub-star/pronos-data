@@ -286,3 +286,7 @@ URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/psg-CjhkPw0k/
 URL: https://www.flashscore.fr/match/basket/france-p0oPpgXp/turquie-SAyDj3Sd/
 ---
 
+20:35 | BASKETBALL | France 3x3 - Espagne 3x3
+URL: https://www.flashscore.fr/match/basket/espagne-AgqYhHP4/france-AJETeJun/
+---
+
