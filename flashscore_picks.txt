@@ -222,7 +222,7 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/dunkerque-tAAobN
 URL: https://www.flashscore.fr/match/tennis/almazan-valiente-izan-Sxms8uzF/gueymard-wayenburg-sascha-OdbfkgxD/
 ---
 
-11:30 | TENNIS | Anton Shepp - Mathys Erhard
+12:50 | TENNIS | Anton Shepp - Mathys Erhard
 URL: https://www.flashscore.fr/match/tennis/erhard-mathys-ngZLM7eO/shepp-anton-Ewcd2IBp/
 ---
 
@@ -280,5 +280,9 @@ URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/lens-IBmris38/
 
 20:45 | FOOTBALL | Stade Brestois - PSG
 URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/psg-CjhkPw0k/
+---
+
+19:35 | BASKETBALL | France 3x3 W - Turquie 3x3 W
+URL: https://www.flashscore.fr/match/basket/france-p0oPpgXp/turquie-SAyDj3Sd/
 ---
 
