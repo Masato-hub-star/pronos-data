@@ -234,11 +234,11 @@ URL: https://www.flashscore.fr/match/football/boulogne-IL4RHuFr/clermont-IRuMRua
 URL: https://www.flashscore.fr/match/tennis/faurel-thomas-vgfc2Q2F/hemery-calvin-fse58iGB/
 ---
 
-11:00 | TENNIS | Robin Bertrand - Luc Fomba
+11:58 | TENNIS | Robin Bertrand - Luc Fomba
 URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/fomba-luc-WGu2ufNi/
 ---
 
-14:00 | TENNIS | Selena Janicijevic - Denislava Glushkova
+13:55 | TENNIS | Selena Janicijevic - Denislava Glushkova
 URL: https://www.flashscore.fr/match/tennis/glushkova-denislava-GCVy5Dvm/janicijevic-selena-IaIL1xKN/
 ---
 
@@ -316,5 +316,9 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/nice-AkAAP4QB/
 
 20:00 | HOCKEY | Anglet - Girondins de Bordeaux
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/bordeaux-n9V6xiyI/
+---
+
+15:00 | TENNIS | Sascha Gueymard Wayenburg - Michele Ribecai
+URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/ribecai-michele-fNFrUmQq/
 ---
 
