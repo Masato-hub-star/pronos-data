@@ -72,7 +72,7 @@ URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/buse-ignacio
 
 22:00 | TENNIS | Zizou Bergs - Jesper De Jong
 Flashscore conclusion:
-De Jong n’est pas totalement hors course dans cette affiche. Il est capable de poser des problèmes et pourrait se retrouver en bonne position si Bergs passe à côté de son match. Toutefois, Bergs garde fermement le contrôle de cette confrontation. L’issue dépendra largement du niveau qu’il affichera le jour J. Plus expérimenté et plus accompli sur le circuit, il devrait finalement faire la différence.Traduit à l'aide de l'IA
+De Jong n’est pas totalement hors course dans cette affiche. Il est capable de poser des problèmes et pourrait se retrouver en bonne position si Bergs passe à côté de son match. Toutefois, Bergs garde fermement le contrôle de cette confrontation. L’issue dépendra largement du niveau qu’il affichera le jour J. Plus expérimenté et plus accompli sur le circuit, il a les moyens de faire la différence.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/bergs-zizou-SbeTx1o8/de-jong-jesper-8jStUWzB/
 ---
 
@@ -171,10 +171,14 @@ URL: https://www.flashscore.fr/match/football/coventry-GOvB22xg/manchester-city-
 ---
 
 15:00 | FOOTBALL | Everton - Manchester Utd
+Flashscore conclusion:
+United est loin d’être convaincant à l’extérieur sous les ordres de Carrick. Les cotes d’une victoire d’Everton semblent donc particulièrement intéressantes.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/everton-KluSTr9s/manchester-utd-ppjDR086/
 ---
 
 16:15 | FOOTBALL | Valence - Barcelone
+Flashscore conclusion:
+Valence n’a montré que peu de signes laissant penser que le club puisse empêcher une victoire de Barcelone par au moins deux buts d’écart ici.Auteur : Aaron MurphyTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/valencia-CQeaytrD/
 ---
 
@@ -232,11 +236,11 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/dunkerque-tAAobN
 URL: https://www.flashscore.fr/match/football/boulogne-IL4RHuFr/clermont-IRuMRua1/
 ---
 
-11:00 | TENNIS | Robin Bertrand - Kenny De Schepper
+12:04 | TENNIS | Robin Bertrand - Kenny De Schepper
 URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/de-schepper-kenny-0bPhsiMF/
 ---
 
-12:30 | TENNIS | Selena Janicijevic - Adriana Reami
+12:50 | TENNIS | Selena Janicijevic - Adriana Reami
 URL: https://www.flashscore.fr/match/tennis/janicijevic-selena-IaIL1xKN/reami-adriana-UZNZclQb/
 ---
 
@@ -245,18 +249,26 @@ URL: https://www.flashscore.fr/match/tennis/balshaw-felix-OUFziENR/muller-alexan
 ---
 
 20:45 | FOOTBALL | Le Havre - Stade Brestois
+Flashscore conclusion:
+Le Havre (dix) et Brest (13) sont les deux équipes à avoir perdu le plus de points après avoir pris l’avantage en Ligue 1 en 2026 avant le week-end. Dans ce contexte, le pari sur un match nul 1-1 est tentant.Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/le-havre-CIEe04GT/
 ---
 
 20:45 | FOOTBALL | OGC Nice - Le Mans
+Flashscore conclusion:
+Nice devrait mettre fin à sa disette offensive face à une défense fragile du Mans. Le pari les deux équipes marquent est donc envisageable.Auteur : Matt JonesTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/nice-YagoQJpq/
 ---
 
 15:00 | FOOTBALL | ESTAC - Strasbourg
+Flashscore conclusion:
+Les locaux ont bien débuté la saison, tandis que Strasbourg traverse encore une période de transition sous les ordres de son nouvel entraîneur. Miser légèrement sur une victoire de Troyes pourrait donc être envisageable.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/strasbourg-nP6UzIU1/troyes-fsfAHubD/
 ---
 
 17:15 | FOOTBALL | SCO Angers - Stade Rennais
+Flashscore conclusion:
+Malgré ses récentes difficultés à l’extérieur, l’excellent bilan de Rennes dans les affrontements rend la victoire de Rennes associée à plus de 2,5 buts particulièrement envisageable.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/rennes-d2nnj1IE/
 ---
 
