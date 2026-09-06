@@ -23,6 +23,8 @@ URL: https://www.flashscore.fr/match/tennis/shelton-ben-QNuG0Gzb/tsitsipas-stefa
 ---
 
 17:00 | TENNIS | Francisco Cerundolo - Alexander Blockx
+Flashscore conclusion:
+L’imprévisibilité de Cerundolo le rend particulièrement difficile à évaluer. Il a livré de nombreuses prestations décevantes ces derniers mois, mais sa capacité à puiser au fond de lui-même, à surmonter les situations difficiles et à arracher des victoires peut encore faire de lui un adversaire redoutable, notamment pour un joueur inexpérimenté comme Blockx. Toutefois, si Blockx évolue à un niveau proche de celui affiché contre Cobolli, il a les moyens de dicter le rythme de ce match du début à la fin et de largement dominer les débats, alors qu’il cherche à poursuivre son impressionnante épopée à l’US Open.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/blockx-alexander-xll0TzGG/cerundolo-francisco-lWQ3G6gB/
 ---
 
@@ -272,5 +274,17 @@ URL: https://www.flashscore.fr/match/tennis/cretu-cezar-0xqR9dG1/mayot-harold-jP
 
 10:00 | TENNIS | Manas Dhamne - Antoine Escoffier
 URL: https://www.flashscore.fr/match/tennis/dhamne-manas-llqYSSzF/escoffier-antoine-GEizcmDF/
+---
+
+21:00 | FOOTBALL | Real Madrid - Vallecano
+URL: https://www.flashscore.fr/match/football/real-madrid-W8mj7MDD/vallecano-8bcjFy6O/
+---
+
+16:15 | FOOTBALL | Levante - Barcelone
+URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/levante-G8FL0ShI/
+---
+
+17:30 | FOOTBALL | Manchester Utd - Manchester City
+URL: https://www.flashscore.fr/match/football/manchester-city-Wtn9Stg0/manchester-utd-ppjDR086/
 ---
 
