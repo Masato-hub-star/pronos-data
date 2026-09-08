@@ -150,7 +150,7 @@ URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/m
 URL: https://www.flashscore.fr/match/tennis/erhard-mathys-ngZLM7eO/pietri-benjamin-fVEgNWMT/
 ---
 
-14:30 | TENNIS | Mathieu Scaglia - Robin Bertrand
+14:25 | TENNIS | Mathieu Scaglia - Robin Bertrand
 URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/scaglia-mathieu-txt1SgPI/
 ---
 
@@ -276,5 +276,13 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/chamonix-mont-blanc-
 
 20:30 | HOCKEY | Olympique de Marseille - Rouen
 URL: https://www.flashscore.fr/match/hockey/marseille-nkohUngl/rouen-xYpMeMxS/
+---
+
+15:00 | TENNIS | Adrian Andreev - Geoffrey Blancaneaux
+URL: https://www.flashscore.fr/match/tennis/andreev-adrian-8zKQSxfi/blancaneaux-geoffrey-EFwAtztn/
+---
+
+11:00 | TENNIS | Titouan Droguet - Gijs Brouwer
+URL: https://www.flashscore.fr/match/tennis/brouwer-gijs-MwKZZs1c/droguet-titouan-A57Xet1f/
 ---
 
