@@ -1,4 +1,4 @@
-20:30 | TENNIS | Karen Khachanov - Alexander Blockx
+21:30 | TENNIS | Karen Khachanov - Alexander Blockx
 Flashscore conclusion:
 Blockx a évolué à un niveau nettement supérieur cette année, et le niveau moyen qu’il a affiché doit lui permettre de dominer Khachanov. Toutefois, son état physique suscite de vives inquiétudes. Il a beaucoup souffert et a dû recevoir des soins médicaux sur le court lors de son huitième de finale. Ce point ne peut pas être pris à la légère, car il s’agit de sa première expérience dans une campagne de Grand Chelem aussi exigeante.Un joueur expérimenté et aguerri comme Khachanov devrait être bien armé pour exploiter la moindre fragilité physique, prolonger le match et tenter d’user Blockx. L’affiche s’annonce donc bien plus indécise que ne le laisserait penser la seule forme actuelle des deux joueurs.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/blockx-alexander-xll0TzGG/khachanov-karen-4bNPtZT5/
@@ -60,7 +60,7 @@ URL: https://www.flashscore.fr/match/football/besiktas-IDmErJCR/marseille-SblU3H
 URL: https://www.flashscore.fr/match/football/lens-IBmris38/monaco-2PIvr8o4/
 ---
 
-18:45 | FOOTBALL | Barcelone - Feyenoord
+18:47 | FOOTBALL | Barcelone - Feyenoord
 Flashscore conclusion:
 Au vu de l'impressionnante série offensive de Barcelone, le scénario d'une victoire à domicile et plus de 2,5 buts du Barça est envisageable.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/feyenoord-8zjySeoN/
@@ -142,7 +142,7 @@ URL: https://www.flashscore.fr/match/tennis/boitan-gabi-adrian-0Y4LAw2l/mayot-ha
 URL: https://www.flashscore.fr/match/tennis/brouwer-gijs-MwKZZs1c/droguet-titouan-A57Xet1f/
 ---
 
-18:45 | HANDBALL | Aalborg - PSG
+18:46 | HANDBALL | Aalborg - PSG
 URL: https://www.flashscore.fr/match/handball/aalborg-fDQfxPPh/paris-MmvaXAoA/
 ---
 
@@ -268,9 +268,13 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/chamonix-mont-blanc-
 URL: https://www.flashscore.fr/match/hockey/marseille-nkohUngl/rouen-xYpMeMxS/
 ---
 
-19:00 | TENNIS | Mirra Andreeva - Coco Gauff
+20:00 | TENNIS | Mirra Andreeva - Coco Gauff
 Flashscore conclusion:
 Cette rencontre peut basculer d’un côté comme de l’autre, mais c’est Coco Gauff qui possède l’avantage dans tous les secteurs sur le papier. L’Américaine dispose d’une plus grande expérience des quarts de finale de Grand Chelem et a dominé les confrontations du passé. Mais surtout, elle va bénéficier du soutien non-négligeable du public local.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/andreeva-mirra-lI6fOOat/gauff-coco-f5BXmEH6/
+---
+
+20:00 | HANDBALL | Metz F - OGC Nice F
+URL: https://www.flashscore.fr/match/handball/metz-SjMxXdfB/nice-xW1HxO10/
 ---
 
