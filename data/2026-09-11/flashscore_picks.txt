@@ -1,4 +1,4 @@
-21:00 | TENNIS | Alexander Zverev - Karen Khachanov
+21:05 | TENNIS | Alexander Zverev - Karen Khachanov
 Flashscore conclusion:
 Zverev a connu de sérieux problèmes dans les dernières phases des tournois du Grand Chelem jusqu’à il y a quelques mois. Ces difficultés s’expliquaient toutefois en grande partie par son incapacité à battre des adversaires du top 10 en Grand Chelem. Face à des joueurs hors du top 10, il s’est montré aussi régulier que n’importe qui dans les tournois majeurs.Avec un bilan favorable dans ses affrontements face à Khachanov et aucune raison d’avoir de sérieux doutes sur son niveau dans ce match, Zverev devrait pouvoir éviter le carcan de pression qui l’a parfois affecté dans les moments les plus importants. Il devrait rester calme et confiant, se plaçant en bonne position pour décrocher une nouvelle victoire et se rapprocher encore d’un deuxième titre du Grand Chelem.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/khachanov-karen-4bNPtZT5/zverev-alexander-dGbUhw9m/
@@ -282,5 +282,9 @@ URL: https://www.flashscore.fr/match/tennis/basing-max-CpNtcwr9/mayot-harold-jPf
 
 13:30 | BASKETBALL | France 3x3 W - Suède 3x3 W
 URL: https://www.flashscore.fr/match/basket/france-p0oPpgXp/suede-neIX7eLF/
+---
+
+14:00 | TENNIS | Titouan Droguet - Nicolai Budkov Kjaer
+URL: https://www.flashscore.fr/match/tennis/budkov-kjaer-nicolai-Gj3CGbX5/droguet-titouan-A57Xet1f/
 ---
 
