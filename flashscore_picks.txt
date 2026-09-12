@@ -256,3 +256,11 @@ URL: https://www.flashscore.fr/match/hockey/cergy-pontoise-CK87QfVF/nice-AkAAP4Q
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/chamonix-mont-blanc-byLLnpOd/
 ---
 
+20:00 | HANDBALL | PSG - Cesson Rennes
+URL: https://www.flashscore.fr/match/handball/cesson-rennes-zqEVKrVC/paris-MmvaXAoA/
+---
+
+20:30 | BASKETBALL | Bayern - Lyon-Villeurbanne
+URL: https://www.flashscore.fr/match/basket/bayern-6LstMRPo/lyon-villeurbanne-KrXB5aC1/
+---
+
