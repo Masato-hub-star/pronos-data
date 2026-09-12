@@ -136,7 +136,7 @@ URL: https://www.flashscore.fr/match/basket/france-p0oPpgXp/republique-tcheque-G
 URL: https://www.flashscore.fr/match/rugby/france-OO1bzV73/nouvelle-zelande-OA2cSGHp/
 ---
 
-19:30 | TENNIS | Carole Monnet - Julia Garcia
+20:37 | TENNIS | Carole Monnet - Julia Garcia
 URL: https://www.flashscore.fr/match/tennis/garcia-julia-KOetRHt3/monnet-carole-GQ68ufRu/
 ---
 
@@ -256,11 +256,11 @@ URL: https://www.flashscore.fr/match/hockey/cergy-pontoise-CK87QfVF/nice-AkAAP4Q
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/chamonix-mont-blanc-byLLnpOd/
 ---
 
-20:00 | HANDBALL | PSG - Cesson Rennes
+20:34 | HANDBALL | PSG - Cesson Rennes
 URL: https://www.flashscore.fr/match/handball/cesson-rennes-zqEVKrVC/paris-MmvaXAoA/
 ---
 
-20:30 | BASKETBALL | Bayern - Lyon-Villeurbanne
+20:38 | BASKETBALL | Bayern - Lyon-Villeurbanne
 URL: https://www.flashscore.fr/match/basket/bayern-6LstMRPo/lyon-villeurbanne-KrXB5aC1/
 ---
 
@@ -270,5 +270,9 @@ URL: https://www.flashscore.fr/match/tennis/droguet-titouan-A57Xet1f/lajal-mark-
 
 15:30 | BASKETBALL | Espagne 3x3 - France 3x3
 URL: https://www.flashscore.fr/match/basket/espagne-AgqYhHP4/france-AJETeJun/
+---
+
+16:00 | HANDBALL | Metz F - Bistrita F
+URL: https://www.flashscore.fr/match/handball/cs-gloria-bistrita-CnuaTJy3/metz-SjMxXdfB/
 ---
 
