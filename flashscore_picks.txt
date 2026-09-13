@@ -50,7 +50,7 @@ URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/psg-CjhkPw0k/
 URL: https://www.flashscore.fr/match/football/esperance-tunis-bVINpDMl/hammam-lif-l8FEjeUE/
 ---
 
-16:15 | FOOTBALL | Levante - Barcelone
+16:17 | FOOTBALL | Levante - Barcelone
 Flashscore conclusion:
 Il est difficile d’imaginer qui que ce soit arrêter Barcelone actuellement. Nous imaginons une victoire avec un handicap de -2.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/levante-G8FL0ShI/
@@ -126,7 +126,7 @@ URL: https://www.flashscore.fr/match/basket/azerbaidjan-vZvf0M30/france-p0oPpgXp
 URL: https://www.flashscore.fr/match/basket/espagne-AgqYhHP4/france-AJETeJun/
 ---
 
-16:00 | HANDBALL | Metz F - Bistrita F
+16:01 | HANDBALL | Metz F - Bistrita F
 URL: https://www.flashscore.fr/match/handball/cs-gloria-bistrita-CnuaTJy3/metz-SjMxXdfB/
 ---
 
@@ -228,5 +228,17 @@ URL: https://www.flashscore.fr/match/hockey/cergy-pontoise-CK87QfVF/nice-AkAAP4Q
 
 20:30 | HOCKEY | Anglet - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/chamonix-mont-blanc-byLLnpOd/
+---
+
+19:00 | FOOTBALL | CS Sfaxien - Shooting Stars
+URL: https://www.flashscore.fr/match/football/cs-sfaxien-2BJIkFqL/shooting-stars-thJIFAIJ/
+---
+
+21:05 | RUGBY | Stade Toulousain - Bordeaux Bègles
+URL: https://www.flashscore.fr/match/rugby/bordeaux-begles-hzHredXK/stade-toulousain-2LK4pW1j/
+---
+
+05:00 | TENNIS | Ha Minh Duc Vu - Luka Pavlovic
+URL: https://www.flashscore.fr/match/tennis/pavlovic-luka-Mkf0LF4j/vu-ha-minh-duc-8puMfw4M/
 ---
 
