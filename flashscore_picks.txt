@@ -6,7 +6,7 @@ URL: https://www.flashscore.fr/match/football/anderlecht-vslqAKNo/lyon-2akflumR/
 
 21:00 | FOOTBALL | Besiktas - Olympique de Marseille
 Flashscore conclusion:
-Compte tenu des difficultés de Marseille et du début de saison tonitruant des locaux, le pari victoire de Beşiktaş et plus de 2,5 buts semble envisageable ici.Auteur : Ben OlawumiTraduit à l'aide de l'IA
+Compte tenu des difficultés de Marseille et du début de saison tonitruant des locaux, une victoire de Beşiktaş et plus de 2,5 buts sont envisageables ici.Auteur : Ben OlawumiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/besiktas-IDmErJCR/marseille-SblU3Hee/
 ---
 
@@ -32,7 +32,7 @@ URL: https://www.flashscore.fr/match/football/ben-guerdane-4MWKcfBn/cs-sfaxien-2
 
 21:00 | FOOTBALL | Sturm Graz - Stade Rennais
 Flashscore conclusion:
-Les visiteurs sont assez largement favoris, si bien que associer plus de 2,5 buts à une victoire de Rennes est plus intéressant.Auteur : Ryan FisherTraduit à l'aide de l'IA
+Les visiteurs sont favoris et nous imaginons plus de 2,5 buts ainsi qu'une victoire de Rennes lors de ce match.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/rennes-d2nnj1IE/sturm-zsktjfsD/
 ---
 
@@ -70,7 +70,7 @@ URL: https://www.flashscore.fr/match/football/manchester-city-Wtn9Stg0/norwich-Q
 
 21:00 | FOOTBALL | Juventus - Nijmegen
 Flashscore conclusion:
-L’expérience européenne de la Juventus, combinée aux difficultés récentes de Nimègue en championnat, fait de la Juventus gagnante de la première mi-temps une option intéressante.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
+L’expérience européenne de la Juventus, combinée aux difficultés récentes de Nimègue en championnat, laisse envisager le fait que la Juventus soit devant à la mi-temps.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/nijmegen-nRluRF0T/
 ---
 
@@ -111,8 +111,6 @@ URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/harris-billy-G
 ---
 
 20:45 | FOOTBALL | Red Star - FC Metz
-Flashscore conclusion:
-Metz se déplace pour affronter le Red Star lors de la sixième journée de Ligue 2, Le Red Star aborde cette rencontre en léger favori, avec une probabilité de victoire de 40 % à deux jours du coup d’envoi.Forme actuelle - Red StarLe Red Star occupe la neuvième place du classement avec huit points, après sa victoire 2-1 à l’extérieur contre Laval. Le club affiche deux victoires, deux nuls et une défaite lors de ses cinq derniers matchs.Forme actuelle - MetzMetz occupe la cinquième place avec neuf points, après s’être imposé 4-1 à domicile contre Rodez lors de son dernier match de championnat. Le club reste actuellement sur une série de cinq matchs sans défaite, avec deux victoires et trois nuls.Confrontations directesCes affiches produisent en moyenne 2,4 buts par rencontre. Le Red Star affiche un bilan d’une victoire, d’un nul et de trois défaites lors de ses cinq derniers affrontements contre Metz. Les deux équipes se sont quittées sur un match nul 2-2 lorsque Metz a accueilli leur plus récente rencontre, il y a deux saisons.Joueurs à suivre et absentsCôté Red Star, Kevin Cabral compte un but et deux passes décisives, avec une note moyenne de 7,3, tandis que Damien Durand a inscrit deux buts. Le Red Star devra composer sans Mahamadou Diawara, suspendu après un carton rouge, ni Guillaume Trani.Pape Moussa Fall a inscrit cinq buts avec une note moyenne de 7,4 pour Metz et occupe actuellement la première place ex aequo du classement des buteurs. Teji Savanier compte un but et deux passes décisives, avec une note moyenne de 8,2, tandis que Jessy Deminguet a enregistré un but et deux passes décisives.Chiffres clés↔️ Erreurs menant à un tir : Red Star 0,60 par match contre Metz 0,20 par matchRed Star➕ Expected Goals (xG): 1,94 par match (3e meilleur, moyenne du championnat 1,43)➖ Passes entre les lignes: 0,2 par match (2e pire, moyenne du championnat 0,7)➖ Cartons jaunes: 16 (plus haut du championnat, moyenne du championnat 9,0)Metz➕ Buts de la tête: 0,80 par match (2e meilleur, moyenne du championnat 0,23)ℹ️ Tirs contrés: 4,2 par match (moyenne du championnat 3,0)Notes du matchIdris Mohamed a été expulsé avec Metz il y a trois matchs.Analyse des parisLa cote de 2,5 buts présente une probabilité de 49 % d’être dépassée lors de ce match. Les bookmakers évaluent également à 55 % la probabilité que les deux équipes marquent.Buts implicites selon les cotes: 2,6Ces chiffres proviennent des cotes d’avant-match établies à deux jours du coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
 URL: https://www.flashscore.fr/match/football/metz-4v0yqlWc/red-star-2kM6ufaS/
 ---
 
@@ -224,5 +222,13 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/chamonix-mont-blanc-
 
 16:00 | FOOTBALL | Ouzbékistan - Iran
 URL: https://www.flashscore.fr/match/football/iran-xrRx85iA/ouzbekistan-EZYKKRMc/
+---
+
+18:00 | FOOTBALL | RD Congo - Guinée Équatoriale
+URL: https://www.flashscore.fr/match/football/dr-congo-phn9mm8H/guinee-equatoriale-vN7WWxY0/
+---
+
+11:00 | TENNIS | Maxime Janvier - Sascha Gueymard Wayenburg
+URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/janvier-maxime-S4riPNES/
 ---
 
