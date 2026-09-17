@@ -1,13 +1,14 @@
 {
   "scan_times": [
-    "2026-09-17T14:45:14.189059+02:00"
+    "2026-09-17T14:45:14.189059+02:00",
+    "2026-09-17T17:12:47.047355+02:00"
   ],
-  "last_scan": "2026-09-17T14:45:14.189059+02:00",
-  "events_seen": 121,
-  "previews_found": 34,
+  "last_scan": "2026-09-17T17:12:47.047355+02:00",
+  "events_seen": 242,
+  "previews_found": 68,
   "new_previews_added": 14,
-  "duplicates_merged": 60,
-  "invalid_mid_excluded": 9,
+  "duplicates_merged": 172,
+  "invalid_mid_excluded": 18,
   "post_start_previews_rejected": 0,
   "total_entries": 52
 }
