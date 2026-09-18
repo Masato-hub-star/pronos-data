@@ -240,3 +240,31 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/grenoble-fas8xYmC/
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/anglet-t4PXVott/
 ---
 
+16:00 | FOOTBALL | Inde - Panama
+URL: https://www.flashscore.fr/match/football/inde-A1UUGpep/panama-OWKqbCfi/
+---
+
+15:00 | HOCKEY | Cergy-Pontoise - Angers
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
+---
+
+16:30 | HOCKEY | Briancon - Chamonix Mont-Blanc
+URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/chamonix-mont-blanc-byLLnpOd/
+---
+
+18:00 | HOCKEY | Amiens - Gap
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/gap-2TtYxh3I/
+---
+
+18:30 | HOCKEY | Girondins de Bordeaux - Rouen
+URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/rouen-xYpMeMxS/
+---
+
+18:30 | HOCKEY | Olympique de Marseille - Nice
+URL: https://www.flashscore.fr/match/hockey/marseille-nkohUngl/nice-AkAAP4QB/
+---
+
+19:00 | HOCKEY | Anglet - Grenoble
+URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
+---
+
