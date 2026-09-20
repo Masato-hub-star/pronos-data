@@ -52,14 +52,20 @@ jobs:
 
       - name: Fetch yesterday results + Run RatingBet Auditor
         run: |
-          YESTERDAY=$(TZ=Europe/Paris date -d 'yesterday' '+%Y-%m-%d')
-          python flashscore.py --sport all --results --date "$YESTERDAY" || echo "[WARN] Results fetch failed"
-          python ratingbet_auditor.py --date "$YESTERDAY" || echo "[WARN] RatingBet auditor failed for $YESTERDAY"
+          HOUR=$(TZ=Europe/Paris date '+%H')
+          if [ "$HOUR" -le "10" ]; then
+            YESTERDAY=$(TZ=Europe/Paris date -d 'yesterday' '+%Y-%m-%d')
+            python flashscore.py --sport all --results --date "$YESTERDAY" || echo "[WARN] Results fetch failed"
+            python ratingbet_auditor.py --date "$YESTERDAY" || echo "[WARN] RatingBet auditor failed for $YESTERDAY"
+          fi
 
       - name: Update RatingBet Performance stats
         run: |
-          YESTERDAY=$(TZ=Europe/Paris date -d 'yesterday' '+%Y-%m-%d')
-          python ratingbet_performance.py --date "$YESTERDAY" || echo "[WARN] RatingBet performance update failed for $YESTERDAY"
+          HOUR=$(TZ=Europe/Paris date '+%H')
+          if [ "$HOUR" -le "10" ]; then
+            YESTERDAY=$(TZ=Europe/Paris date -d 'yesterday' '+%Y-%m-%d')
+            python ratingbet_performance.py --date "$YESTERDAY" || echo "[WARN] RatingBet performance update failed for $YESTERDAY"
+          fi
 
       - name: Commit and push results
         run: |
