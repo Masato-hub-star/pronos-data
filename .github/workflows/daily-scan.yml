@@ -1,4 +1,4 @@
-name: Flashscore Scan (4x daily)
+name: Flashscore + RatingBet Scan (4x daily)
 
 on:
   schedule:
@@ -39,6 +39,16 @@ jobs:
         run: |
           cp flashscore_previews.json flashscore_today.json 2>/dev/null || echo '[]' > flashscore_today.json
           echo "Scan termine : $(TZ=Europe/Paris date '+%Y-%m-%d %H:%M Paris')"
+
+      - name: Run RatingBet Model scraper
+        run: |
+          TODAY=$(TZ=Europe/Paris date '+%Y-%m-%d')
+          python ratingbet_model.py --date "$TODAY" || echo "[WARN] RatingBet scrape failed (Cloudflare?)"
+
+      - name: Run RatingBet Matcher
+        run: |
+          TODAY=$(TZ=Europe/Paris date '+%Y-%m-%d')
+          python ratingbet_matcher.py --date "$TODAY" || echo "[WARN] RatingBet matcher failed"
 
       - name: Commit and push results
         run: |
