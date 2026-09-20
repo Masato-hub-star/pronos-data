@@ -48,7 +48,7 @@ La tendance de Sunderland à marquer à l’extérieur laisse envisager une vict
 URL: https://www.flashscore.fr/match/football/manchester-city-Wtn9Stg0/sunderland-WSzc94ws/
 ---
 
-16:15 | FOOTBALL | Atl. Madrid - Real Madrid
+16:16 | FOOTBALL | Atl. Madrid - Real Madrid
 Flashscore conclusion:
 Le Real a récemment affiché quelques fragilités à l’extérieur. Compte tenu de son statut d’outsider assez marqué, on pourrait envisager une victoire de l’Atlético ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/atl-madrid-jaarqpLQ/real-madrid-W8mj7MDD/
@@ -206,5 +206,9 @@ URL: https://www.flashscore.fr/match/hockey/marseille-nkohUngl/nice-AkAAP4QB/
 
 19:00 | HOCKEY | Anglet - Grenoble
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
+---
+
+19:15 | FOOTBALL | Brann - Bodo/Glimt
+URL: https://www.flashscore.fr/match/football/bodo-glimt-S0WZMUNG/brann-QBbt6ivB/
 ---
 
