@@ -50,6 +50,17 @@ jobs:
           TODAY=$(TZ=Europe/Paris date '+%Y-%m-%d')
           python ratingbet_matcher.py --date "$TODAY" || echo "[WARN] RatingBet matcher failed"
 
+      - name: Fetch yesterday results + Run RatingBet Auditor
+        run: |
+          YESTERDAY=$(TZ=Europe/Paris date -d 'yesterday' '+%Y-%m-%d')
+          python flashscore.py --sport all --results --date "$YESTERDAY" || echo "[WARN] Results fetch failed"
+          python ratingbet_auditor.py --date "$YESTERDAY" || echo "[WARN] RatingBet auditor failed for $YESTERDAY"
+
+      - name: Update RatingBet Performance stats
+        run: |
+          YESTERDAY=$(TZ=Europe/Paris date -d 'yesterday' '+%Y-%m-%d')
+          python ratingbet_performance.py --date "$YESTERDAY" || echo "[WARN] RatingBet performance update failed for $YESTERDAY"
+
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"
