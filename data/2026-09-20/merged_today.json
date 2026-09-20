@@ -1,0 +1,1352 @@
+[
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:00",
+    "home_team_rb": "Manchester City",
+    "away_team_rb": "Sunderland",
+    "home_team_fs": "Manchester City",
+    "away_team_fs": "Sunderland",
+    "competition_fs": "Premier League - Journée 5",
+    "league_rb": "England: English Premier League",
+    "match_status": "MATCHED",
+    "flashscore_mid": "fZCq6HE7",
+    "ratingbet_slug": "manchester-city-vs-sunderland",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 50,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.38
+    },
+    "flashscore_preview_snippet": "Après avoir débuté sa campagne en Ligue Europa par une victoire mercredi, Sunderland pourrait vite retomber sur terre en se déplaçant à Manchester City, qui affiche un bilan de 100 % de victoires en P"
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:00",
+    "home_team_rb": "Leeds",
+    "away_team_rb": "Crystal Palace",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: English Premier League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "crystal-palace-vs-leeds",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 63,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 67,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.76
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:00",
+    "home_team_rb": "Bournemouth",
+    "away_team_rb": "Liverpool",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: English Premier League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "bournemouth-vs-liverpool",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 38,
+      "over_25_pct": 67,
+      "btts_yes_pct": 77
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.44
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "08:30",
+    "home_team_rb": "Fulham",
+    "away_team_rb": "Manchester United",
+    "home_team_fs": "Fulham",
+    "away_team_fs": "Manchester Utd",
+    "competition_fs": "Premier League - Journée 5",
+    "league_rb": "England: English Premier League",
+    "match_status": "MATCHED",
+    "flashscore_mid": "vq6T9aFr",
+    "ratingbet_slug": "fulham-vs-manchester-united",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 33,
+      "over_25_pct": 53,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.52
+    },
+    "flashscore_preview_snippet": "Après la semaine la plus mouvementée depuis sa prise de fonctions, Michael Carrick est sous pression et doit offrir une victoire à Manchester United, qui se déplace chez un Fulham toujours sans victoi"
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:15",
+    "home_team_rb": "Atletico Madrid",
+    "away_team_rb": "Real Madrid",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Spain: LaLiga Spain",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "atletico-madrid-vs-real-madrid",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 56,
+      "over_25_pct": 63,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.46
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "09:30",
+    "home_team_rb": "Villarreal",
+    "away_team_rb": "Levante",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Spain: LaLiga Spain",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "levante-2-vs-villarreal-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 67,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 71,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.41
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "09:30",
+    "home_team_rb": "Deportivo de A Coruna",
+    "away_team_rb": "Real Betis",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Spain: LaLiga Spain",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "deportivo-la-coruna-vs-real-betis",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 40,
+      "over_25_pct": null,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.6
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Valencia",
+    "away_team_rb": "Real Sociedad",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Spain: LaLiga Spain",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "real-sociedad-2-vs-valencia",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 42,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 53,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.69
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:00",
+    "home_team_rb": "Auxerre",
+    "away_team_rb": "Brest",
+    "home_team_fs": "AJ Auxerre",
+    "away_team_fs": "Stade Brestois",
+    "competition_fs": "Ligue 1 - Journée 5",
+    "league_rb": "France: Ligue 1 France",
+    "match_status": "MATCHED",
+    "flashscore_mid": "KSEQBX7d",
+    "ratingbet_slug": "auxerre-vs-brest",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 40,
+      "over_25_pct": 60,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.79
+    },
+    "flashscore_preview_snippet": "Fort d’une première victoire en Ligue 1 cette saison, Auxerre cherchera à décrocher trois nouveaux points face à une équipe de Brest qui reste difficile à cerner.Actus sur le match et forme actuelleGr"
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "08:15",
+    "home_team_rb": "Nice",
+    "away_team_rb": "Lille",
+    "home_team_fs": "OGC Nice",
+    "away_team_fs": "LOSC",
+    "competition_fs": "Ligue 1 - Journée 5",
+    "league_rb": "France: Ligue 1 France",
+    "match_status": "MATCHED",
+    "flashscore_mid": "Uuc6OAi2",
+    "ratingbet_slug": "lille-vs-nice",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 50,
+      "over_25_pct": 30,
+      "btts_yes_pct": 43
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 2.27
+    },
+    "flashscore_preview_snippet": "Après avoir passé la semaine à la dernière place de Ligue 1, Nice doit relever le difficile défi de sortir du trou dans lequel le club s’est retrouvé en début de saison face à Lille, leader du classem"
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Marseille",
+    "away_team_rb": "Paris Saint-Germain",
+    "home_team_fs": "Olympique de Marseille",
+    "away_team_fs": "PSG",
+    "competition_fs": "Ligue 1 - Journée 5",
+    "league_rb": "France: Ligue 1 France",
+    "match_status": "MATCHED",
+    "flashscore_mid": "SC8SVhaS",
+    "ratingbet_slug": "marseille-vs-paris-saint-germain-2",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 47,
+      "over_25_pct": 77,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.33
+    },
+    "flashscore_preview_snippet": "Le PSG, champion en titre en Ligue 1, connaît un début de saison poussif, mais aimerait enfin lancer sa saison dans Le Classique face à Marseille.Actus sur le match et forme actuelleMarseille avait en"
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:30",
+    "home_team_rb": "Bayer Leverkusen",
+    "away_team_rb": "RB Leipzig",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Germany: Bundesliga Germany",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "bayer-leverkusen-2-vs-rb-leipzig",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 60,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 83,
+      "btts_yes_pct": 73
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.28
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "08:30",
+    "home_team_rb": "Schalke 04",
+    "away_team_rb": "Elversberg",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Germany: Bundesliga Germany",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "elversberg-vs-schalke-04",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 64,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 70,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.48
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "10:30",
+    "home_team_rb": "Paderborn",
+    "away_team_rb": "Hoffenheim",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Germany: Bundesliga Germany",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "hoffenheim-vs-paderborn",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 80,
+      "over_25_pct": 63,
+      "btts_yes_pct": 70
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.76
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:00",
+    "home_team_rb": "Parma Calcio 1913",
+    "away_team_rb": "Genoa",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Italy: Serie A Italy",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "genoa-vs-parma-calcio-1913",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 50,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.59
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:00",
+    "home_team_rb": "Frosinone",
+    "away_team_rb": "Como",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Italy: Serie A Italy",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "como-vs-frosinone",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 55,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.55
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "09:00",
+    "home_team_rb": "Juventus",
+    "away_team_rb": "Atalanta",
+    "home_team_fs": "Juventus",
+    "away_team_fs": "Atalanta",
+    "competition_fs": "Serie A - Journée 5",
+    "league_rb": "Italy: Serie A Italy",
+    "match_status": "MATCHED",
+    "flashscore_mid": "MPvurjRO",
+    "ratingbet_slug": "atalanta-vs-juventus-2",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": 53,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 47,
+      "btts_yes_pct": 43
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.77
+    },
+    "flashscore_preview_snippet": "La Juventus et l’Atalanta doivent absolument relancer leur saison en championnat lors de leur confrontation à l’Allianz Stadium. Les deux équipes cherchent une réaction immédiate après n’avoir remport"
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "11:45",
+    "home_team_rb": "AC Milan",
+    "away_team_rb": "Lecce",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Italy: Serie A Italy",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "ac-milan-2-vs-lecce",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 55,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 52,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.68
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:30",
+    "home_team_rb": "Vitoria de Guimaraes",
+    "away_team_rb": "Moreirense",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "moreirense-vs-vitoria-de-guimaraes",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 40,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 2.02
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:30",
+    "home_team_rb": "Estrela da Amadora",
+    "away_team_rb": "Academico Viseu",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "academico-viseu-vs-estrela-da-amadora",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.73
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "10:00",
+    "home_team_rb": "Santa Clara",
+    "away_team_rb": "Braga",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "braga-vs-santa-clara",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 40,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.57
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "10:00",
+    "home_team_rb": "Estoril",
+    "away_team_rb": "Casa Pia AC",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "casa-pia-ac-vs-estoril",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 14,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 2.1
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "12:30",
+    "home_team_rb": "FC Porto",
+    "away_team_rb": "Benfica",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "benfica-vs-fc-porto",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 53,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.66
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:00",
+    "home_team_rb": "St.Truiden",
+    "away_team_rb": "Westerlo",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Belgium: Pro League Belgium",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "st-truiden-vs-westerlo",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 77,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 63,
+      "btts_yes_pct": 43
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.69
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "09:30",
+    "home_team_rb": "Club Brugge",
+    "away_team_rb": "Genk",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Belgium: Pro League Belgium",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "club-bruges-vs-genk",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 70,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.57
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "10:15",
+    "home_team_rb": "Kortrijk",
+    "away_team_rb": "SK Beveren",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Belgium: Pro League Belgium",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "kortrijk-vs-waasland-beveren",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 60,
+      "btts_yes_pct": 40
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.73
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:45",
+    "home_team_rb": "NEC Nijmegen",
+    "away_team_rb": "Go Ahead Eagles",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Netherlands: Eredivisie Netherlands",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "go-ahead-eagles-vs-nec-nijmegen",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 30,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 83,
+      "btts_yes_pct": 70
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.31
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:00",
+    "home_team_rb": "Levadiakos",
+    "away_team_rb": "Olympiacos",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "levadiakos-vs-olympiacos",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 67,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.31
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "08:00",
+    "home_team_rb": "NFC Volos",
+    "away_team_rb": "AEK Athens",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "aek-athens-vs-nfc-volos",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 67,
+      "over_25_pct": 68,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.56
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "09:00",
+    "home_team_rb": "OFI Crete",
+    "away_team_rb": "Asteras Tripolis",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "asteras-tripolis-vs-ofi-crete",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 40,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.59
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "09:30",
+    "home_team_rb": "Kalamata",
+    "away_team_rb": "Panathinaikos",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "kalamata-vs-panathinaikos",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 56,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.28
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Panetolikos",
+    "away_team_rb": "PAOK Thessaloniki FC",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "panetolikos-vs-paok-thessaloniki-fc",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 47,
+      "over_25_pct": 57,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.85
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:00",
+    "home_team_rb": "Gremio",
+    "away_team_rb": "Palmeiras",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "gremio-vs-palmeiras",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 47,
+      "over_25_pct": null,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.76
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Vitoria",
+    "away_team_rb": "Cruzeiro",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "cruzeiro-vs-vitoria",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 54,
+      "over_25_pct": 57,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.89
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Corinthians",
+    "away_team_rb": "Fluminense",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "corinthians-vs-fluminense",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 40,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.58
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "14:30",
+    "home_team_rb": "Flamengo",
+    "away_team_rb": "Red Bull Bragantino",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "flamengo-vs-red-bull-bragantino",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 80,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 62,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.35
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "15:30",
+    "home_team_rb": "Athletico Paranaense",
+    "away_team_rb": "Bahia",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "athletico-paranaense-vs-bahia",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 56,
+      "btts_yes_pct": 73
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 2.23
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:00",
+    "home_team_rb": "AC Horsens",
+    "away_team_rb": "AGF",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Denmark: Superliga Denmark",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "ac-horsens-vs-agf",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 53,
+      "over_25_pct": 60,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.75
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "09:00",
+    "home_team_rb": "Viborg",
+    "away_team_rb": "FC Nordsjaelland",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Denmark: Superliga Denmark",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "fc-nordsjaelland-vs-viborg",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 79,
+      "over_25_pct": 47,
+      "btts_yes_pct": 50
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 2.17
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:00",
+    "home_team_rb": "Marumo Gallants",
+    "away_team_rb": "Orlando Pirates",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "South Africa: Betway Premiership",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "marumo-gallants-vs-orlando-pirates",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 73,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.33
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:00",
+    "home_team_rb": "Milford FC",
+    "away_team_rb": "Durban City",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "South Africa: Betway Premiership",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "maritzburg-united-vs-milford-fc",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 50,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.51
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "06:00",
+    "home_team_rb": "Lamontville Golden Arrows",
+    "away_team_rb": "Kaizer Chiefs",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "South Africa: Betway Premiership",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "kaizer-chiefs-vs-lamontville-golden-arrows",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 47,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.48
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "08:30",
+    "home_team_rb": "TS Galaxy",
+    "away_team_rb": "Chippa United",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "South Africa: Betway Premiership",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "chippa-united-vs-ts-galaxy",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 57,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.47
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:00",
+    "home_team_rb": "Southall",
+    "away_team_rb": "Dorking Wanderers",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: FA Cup England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 86,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.26
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "07:00",
+    "home_team_rb": "KF Tirana",
+    "away_team_rb": "Elbasani",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Albania: Kategoria Superiore Albania",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 90,
+      "over_25_pct": null,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 2.95
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "09:30",
+    "home_team_rb": "Egnatia",
+    "away_team_rb": "Partizani",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Albania: Kategoria Superiore Albania",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 69,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.47
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Inter Club d'Escaldes",
+    "away_team_rb": "FC Rangers",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Andorra: Primera Divisió Andorra",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 63,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 76,
+      "btts_yes_pct": 61
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.74
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "10:45",
+    "home_team_rb": "San Lorenzo",
+    "away_team_rb": "Boca Juniors",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Argentina: Liga Profesional Argentina",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 40,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.41
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "13:00",
+    "home_team_rb": "Rosario Central",
+    "away_team_rb": "Argentinos Juniors",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Argentina: Liga Profesional Argentina",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 33,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.54
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-09-20",
+    "match_time_paris": "13:00",
+    "home_team_rb": "Club Atletico Platense",
+    "away_team_rb": "Newell's Old Boys",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Argentina: Liga Profesional Argentina",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 18,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.38
+    },
+    "flashscore_preview_snippet": null
+  }
+]
