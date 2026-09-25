@@ -210,15 +210,15 @@ Compte tenu des récents affrontements et des difficultés offensives des deux �
 URL: https://www.flashscore.fr/match/football/azerbaijan-UTJj1saj/lituanie-lfrBTu8p/
 ---
 
-20:00 | HOCKEY | Rouen - Gap
+20:03 | HOCKEY | Rouen - Gap
 URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/rouen-xYpMeMxS/
 ---
 
-20:00 | HOCKEY | Nice - Briancon
+20:01 | HOCKEY | Nice - Briancon
 URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/nice-AkAAP4QB/
 ---
 
-20:05 | HOCKEY | Chamonix Mont-Blanc - Cergy-Pontoise
+20:04 | HOCKEY | Chamonix Mont-Blanc - Cergy-Pontoise
 URL: https://www.flashscore.fr/match/hockey/cergy-pontoise-CK87QfVF/chamonix-mont-blanc-byLLnpOd/
 ---
 
@@ -294,5 +294,17 @@ URL: https://www.flashscore.fr/match/football/jordanie-vNcmJoU2/syrie-bDoeW1BH/
 Flashscore conclusion:
 Les buts semblent suivre la Norvège partout. On envisage donc plus de 2,5 buts ici. Auteur : Matt JonesTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/norvege-8rP6JO0H/portugal-WvJrjFVN/
+---
+
+18:00 | FOOTBALL | Danemark - Pays de Galles
+Flashscore conclusion:
+L’absence d'Harry Wilson a mis en évidence le manque de danger du pays de Galles face au Portugal. Ainsi, la victoire du Danemark avec un handicap de -1 semble envisageable ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/danemark-0KUdxQVi/pays-de-galles-YcUP0Nqp/
+---
+
+18:00 | FOOTBALL | Gibraltar - Andorre
+Flashscore conclusion:
+L'historique des confrontations et les tendances récentes de ces deux sélections laissent imaginer que les deux équipes ne marqueront pas.Auteur : Aaron MurphyTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/andorre-dnO5z404/gibraltar-CEihsqe7/
 ---
 
