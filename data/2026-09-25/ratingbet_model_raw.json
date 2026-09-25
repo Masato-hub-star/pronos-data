@@ -1,0 +1,2508 @@
+{
+  "fetched_at": "2026-09-25T14:56:51.996528+02:00",
+  "date": "2026-09-25",
+  "source_url": "https://ratingbet.com/math-predictions/2026-09-25/",
+  "match_count": 50,
+  "matches": [
+    {
+      "match_id": "",
+      "home_team": "India",
+      "away_team": "Panama",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "International: Friendly International",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 2.13,
+            "prob_pct": 81
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.65,
+            "prob_pct": 49
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 2.13
+      }
+    },
+    {
+      "match_id": "guinea-bissau-vs-tanzania",
+      "home_team": "Tanzania",
+      "away_team": "Guinea-Bissau",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.4,
+            "prob_pct": 95
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.61,
+            "prob_pct": 70
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.4
+      }
+    },
+    {
+      "match_id": "lesotho-vs-niger",
+      "home_team": "Niger",
+      "away_team": "Lesotho",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "11:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.63,
+            "prob_pct": 59
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.7,
+            "prob_pct": 77
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.7
+      }
+    },
+    {
+      "match_id": "liberia-vs-rwanda",
+      "home_team": "Rwanda",
+      "away_team": "Liberia",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "12:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.48,
+            "prob_pct": 47
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.59,
+            "prob_pct": 61
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.59
+      }
+    },
+    {
+      "match_id": "malawi-vs-south-sudan",
+      "home_team": "Malawi",
+      "away_team": "South Sudan",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "12:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.56,
+            "prob_pct": 79
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.59,
+            "prob_pct": 81
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.59
+      }
+    },
+    {
+      "match_id": "madagascar-vs-nigeria",
+      "home_team": "Nigeria",
+      "away_team": "Madagascar",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "12:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.75,
+            "prob_pct": 100
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.39,
+            "prob_pct": 27
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.75
+      }
+    },
+    {
+      "match_id": "ethiopia-vs-sudan",
+      "home_team": "Sudan",
+      "away_team": "Ethiopia",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "12:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.53,
+            "prob_pct": 82
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.63,
+            "prob_pct": 72
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.53
+      }
+    },
+    {
+      "match_id": "burundi-vs-togo",
+      "home_team": "Togo",
+      "away_team": "Burundi",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "12:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.58,
+            "prob_pct": 59
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.57,
+            "prob_pct": 66
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.57
+      }
+    },
+    {
+      "match_id": "gambia-vs-somalia",
+      "home_team": "Gambia",
+      "away_team": "Somalia",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "12:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.61,
+            "prob_pct": 67
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.34,
+            "prob_pct": 67
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.61
+      }
+    },
+    {
+      "match_id": "cape-verde-vs-mali",
+      "home_team": "Mali",
+      "away_team": "Cabo Verde",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "15:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.42,
+            "prob_pct": 71
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.57,
+            "prob_pct": 69
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.42
+      }
+    },
+    {
+      "match_id": "angola-vs-egypt",
+      "home_team": "Egypt",
+      "away_team": "Angola",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "15:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.33,
+            "prob_pct": 40
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.66,
+            "prob_pct": 53
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.43,
+            "prob_pct": 34
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.66
+      }
+    },
+    {
+      "match_id": "algeria-vs-zambia",
+      "home_team": "Algeria",
+      "away_team": "Zambia",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "15:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.18,
+            "prob_pct": 83
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.79,
+            "prob_pct": 61
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.4,
+            "prob_pct": 54
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.18
+      }
+    },
+    {
+      "match_id": "benin-vs-burkina-faso",
+      "home_team": "Burkina Faso",
+      "away_team": "Benin",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "15:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.55,
+            "prob_pct": 49
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.51,
+            "prob_pct": 64
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.51
+      }
+    },
+    {
+      "match_id": "gabon-vs-morocco",
+      "home_team": "Morocco",
+      "away_team": "Gabon",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "15:00",
+      "league": "International: AFCON - Africa Cup of Nations",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.11,
+            "prob_pct": 93
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.54,
+            "prob_pct": 23
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.44,
+            "prob_pct": 87
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.11
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Ituzaingo",
+      "away_team": "CA Defensores Unidos",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "18:00",
+      "league": "Argentina: Primera B Metropolitana Argentina",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.35,
+            "prob_pct": 33
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.47,
+            "prob_pct": 67
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.69,
+            "prob_pct": 57
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.47
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Excursionistas",
+      "away_team": "Real Pilar",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "19:00",
+      "league": "Argentina: Primera B Metropolitana Argentina",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.98,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.48,
+            "prob_pct": 53
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.65,
+            "prob_pct": 50
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.98
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Mercedes",
+      "away_team": "Puerto Nuevo",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "18:00",
+      "league": "Argentina: Primera C Argentina",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.05,
+            "prob_pct": 50
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.4,
+            "prob_pct": 63
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.58,
+            "prob_pct": 70
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.58
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Parndorf",
+      "away_team": "Favoritner AC",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Austria: Regionalliga Austria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.41,
+            "prob_pct": 100
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.5,
+            "prob_pct": 80
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.65,
+            "prob_pct": 50
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.41
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "FC Marchfeld Donauauen",
+      "away_team": "Oberwart",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Austria: Regionalliga Austria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.54,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.32,
+            "prob_pct": 80
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.4,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.32
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "SV Horn",
+      "away_team": "FCM Traiskirchen",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:30",
+      "league": "Austria: Regionalliga Austria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.35,
+            "prob_pct": 44
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.4,
+            "prob_pct": 73
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.37,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.4
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Krems / Getzersdorf",
+      "away_team": "Mattersburg 2020",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:30",
+      "league": "Austria: Regionalliga Austria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.57,
+            "prob_pct": 92
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.5,
+            "prob_pct": 62
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.57
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Novorizontino",
+      "away_team": "Sao Bernardo",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "18:30",
+      "league": "Brazil: Serie B Brazil",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.57,
+            "prob_pct": 60
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.81,
+            "prob_pct": 50
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.84,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.84
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Vila Nova",
+      "away_team": "Londrina EC",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "19:30",
+      "league": "Brazil: Serie B Brazil",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.58,
+            "prob_pct": 67
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.7,
+            "prob_pct": 50
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.68,
+            "prob_pct": 57
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.58
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Cavalry FC",
+      "away_team": "Supra du Quebec",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "21:00",
+      "league": "Canada: Premier League Canada",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.45,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.43,
+            "prob_pct": 51
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.53,
+            "prob_pct": 77
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.53
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Colo Colo",
+      "away_team": "Audax Italiano",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "19:00",
+      "league": "Chile: Chile Cup",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.57,
+            "prob_pct": 60
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.67,
+            "prob_pct": 73
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.73,
+            "prob_pct": 60
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.67
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Chico FC",
+      "away_team": "Deportivo Pasto",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "19:10",
+      "league": "Colombia: Primera A Colombia",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.53,
+            "prob_pct": 17
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.5,
+            "prob_pct": 50
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.71,
+            "prob_pct": 63
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.71
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Once Caldas",
+      "away_team": "Bucaramanga",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "21:15",
+      "league": "Colombia: Primera A Colombia",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.95,
+            "prob_pct": 67
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.67,
+            "prob_pct": 50
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.82,
+            "prob_pct": 40
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.95
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Union Magdalena",
+      "away_team": "Santa Fe",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "19:00",
+      "league": "Colombia: Colombia Cup",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.3,
+            "prob_pct": 40
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.55,
+            "prob_pct": 53
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.77,
+            "prob_pct": 50
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.55
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "HIK",
+      "away_team": "FC Roskilde",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Denmark: 2. Division Denmark",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.42,
+            "prob_pct": 64
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.46,
+            "prob_pct": 77
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.61,
+            "prob_pct": 73
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.46
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "FC Helsingoer",
+      "away_team": "Holbaek B&I",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Denmark: 3. Division Denmark",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.3,
+            "prob_pct": 83
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.55,
+            "prob_pct": 70
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.48,
+            "prob_pct": 77
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 2.3
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "El Nacional",
+      "away_team": "Cumbaya",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "20:00",
+      "league": "Ecuador: Serie B Ecuador",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.87,
+            "prob_pct": 60
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.87
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "FC KTP",
+      "away_team": "MP",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "11:30",
+      "league": "Finland: Ykkonen Finland",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.37,
+            "prob_pct": 85
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.35,
+            "prob_pct": 56
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.52,
+            "prob_pct": 50
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.37
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "KaePa",
+      "away_team": "Haka",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "12:00",
+      "league": "Finland: Ykkonen Finland",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.38,
+            "prob_pct": 58
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.39,
+            "prob_pct": 67
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.55,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.39
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Tampere United",
+      "away_team": "JJK",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "12:00",
+      "league": "Finland: Kakkonen Finland",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.24,
+            "prob_pct": 67
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.19,
+            "prob_pct": 77
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.44,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.19
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "TSV Havelse",
+      "away_team": "Fortuna Koeln",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: 3. Liga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.28,
+            "prob_pct": 33
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.67,
+            "prob_pct": 67
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.55,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.67
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Union Sandersdorf",
+      "away_team": "VfL Halle 96",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "12:30",
+      "league": "Germany: Oberliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.92,
+            "prob_pct": 67
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.92
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Ingolstadt II",
+      "away_team": "DJK Ammerthal",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: Oberliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.2,
+            "prob_pct": 60
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.2
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "DJK Gebenbach",
+      "away_team": "SV Fortuna Regensburg",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: Oberliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.09,
+            "prob_pct": 67
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.09
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Viktoria Aschaffenburg",
+      "away_team": "SpVgg Bayern Hof",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: Oberliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.17,
+            "prob_pct": 17
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.17
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "1. CfR Pforzheim",
+      "away_team": "Karlsruher SC II",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: Oberliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.09,
+            "prob_pct": 40
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.09
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "SV Erlbach",
+      "away_team": "FC Pipinsried",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: Oberliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.04,
+            "prob_pct": 70
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.04
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "FCA Walldorf",
+      "away_team": "Sandhausen",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: Regionalliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.05,
+            "prob_pct": 38
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.32,
+            "prob_pct": 77
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.32,
+            "prob_pct": 77
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.32
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Magdeburg II",
+      "away_team": "VSG Altglienicke",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: Regionalliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.72,
+            "prob_pct": 53
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.34,
+            "prob_pct": 52
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.37,
+            "prob_pct": 73
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.37
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Greuther Fuerth II",
+      "away_team": "Nuernberg II",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: Regionalliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.01,
+            "prob_pct": 67
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 2.01
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "SC Eltersdorf",
+      "away_team": "SpVgg Bayreuth",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Germany: Regionalliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.01,
+            "prob_pct": 50
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.01
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Schoeningen",
+      "away_team": "SV Drochtersen/Assel",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "13:30",
+      "league": "Germany: Regionalliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.64,
+            "prob_pct": 73
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.38,
+            "prob_pct": 70
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.41,
+            "prob_pct": 73
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.64
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Grenada",
+      "away_team": "Cuba",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "17:00",
+      "league": "International: CONCACAF Nations League",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.83,
+            "prob_pct": 75
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.83
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Jamaica",
+      "away_team": "Guatemala",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "20:00",
+      "league": "International: CONCACAF Nations League",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.61,
+            "prob_pct": 67
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.72,
+            "prob_pct": 65
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.61
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Honduras",
+      "away_team": "Suriname",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "21:00",
+      "league": "International: CONCACAF Nations League",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.68,
+            "prob_pct": 64
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.72,
+            "prob_pct": 54
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.68
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Azerbaijan U21",
+      "away_team": "Czechia U21",
+      "date": "2026-09-25",
+      "time_utc": "",
+      "time_paris": "09:45",
+      "league": "International: EURO U21",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.56,
+            "prob_pct": 58
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.63,
+            "prob_pct": 58
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.56
+      }
+    }
+  ]
+}
