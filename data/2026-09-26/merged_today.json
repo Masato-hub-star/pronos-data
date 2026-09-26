@@ -35,7 +35,7 @@
     "away_team_fs": null,
     "competition_fs": null,
     "league_rb": "International: Friendly International",
-    "match_status": "UNMATCHED",
+    "match_status": "AMBIGUOUS",
     "flashscore_mid": null,
     "ratingbet_slug": "",
     "flashscore_preview_available": false,
