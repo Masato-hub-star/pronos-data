@@ -278,3 +278,19 @@ URL: https://www.flashscore.fr/match/hockey/cergy-pontoise-CK87QfVF/gap-2TtYxh3I
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/anglet-t4PXVott/
 ---
 
+16:30 | HOCKEY | Angers - Girondins de Bordeaux
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/bordeaux-n9V6xiyI/
+---
+
+18:00 | HOCKEY | Rouen - Anglet
+URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/rouen-xYpMeMxS/
+---
+
+18:00 | HOCKEY | Amiens - Cergy-Pontoise
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/cergy-pontoise-CK87QfVF/
+---
+
+18:15 | HOCKEY | Grenoble - Olympique de Marseille
+URL: https://www.flashscore.fr/match/hockey/grenoble-fas8xYmC/marseille-nkohUngl/
+---
+
