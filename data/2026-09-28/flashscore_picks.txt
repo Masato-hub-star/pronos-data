@@ -62,7 +62,7 @@ URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/rune-holger-
 URL: https://www.flashscore.fr/match/tennis/arnaldi-matteo-hlVLAfZK/sakamoto-rei-AeBHWNls/
 ---
 
-20:45 | FOOTBALL | Belgique - France
+21:54 | FOOTBALL | Belgique - France
 Flashscore conclusion:
 On imagine des buts de la part des deux équipes dans cette affiche.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/belgique-GbB957na/france-QkGeVG1n/
@@ -350,5 +350,33 @@ URL: https://www.flashscore.fr/match/football/danemark-0KUdxQVi/portugal-WvJrjFV
 
 20:45 | FOOTBALL | Grèce - Pays-Bas
 URL: https://www.flashscore.fr/match/football/grece-COuk57Ci/pays-bas-WYintcWb/
+---
+
+18:00 | FOOTBALL | Russie - Iran
+URL: https://www.flashscore.fr/match/football/iran-xrRx85iA/russie-hrgrswHh/
+---
+
+21:00 | FOOTBALL | Somalie - Côte d'Ivoire
+URL: https://www.flashscore.fr/match/football/cote-d-ivoire-G2FRjBgn/somalie-Aiu9mqIL/
+---
+
+20:45 | FOOTBALL | Israel - Kosovo
+URL: https://www.flashscore.fr/match/football/israel-rqK1ypob/kosovo-v1DTPQwI/
+---
+
+20:45 | FOOTBALL | Pays de Galles - Norvège
+URL: https://www.flashscore.fr/match/football/norvege-8rP6JO0H/pays-de-galles-YcUP0Nqp/
+---
+
+20:45 | FOOTBALL | Malte - Gibraltar
+URL: https://www.flashscore.fr/match/football/gibraltar-CEihsqe7/malte-YHpMYsVG/
+---
+
+16:00 | FOOTBALL | Kazakhstan - Moldavie
+URL: https://www.flashscore.fr/match/football/kazakhstan-l6fBVhqk/moldavie-zsDPKQGb/
+---
+
+18:00 | FOOTBALL | Chypre - Arménie
+URL: https://www.flashscore.fr/match/football/armenie-2TEHMnnn/chypre-fumziNU3/
 ---
 
