@@ -37,6 +37,8 @@ URL: https://www.flashscore.fr/match/tennis/fery-arthur-SKxbA6KA/musetti-lorenzo
 ---
 
 05:30 | TENNIS | Alejandro Tabilo - Tommy Paul
+Flashscore conclusion:
+Tommy Paul n’a pas été le joueur le plus fiable cette année. Ses performances et ses résultats ont souvent manqué de solidité, tandis que son niveau dépend également de sa condition physique. Sa cote semble donc un peu trop basse pour cette affiche. Malgré tout, sa supériorité sur dur et son bilan nettement meilleur à Tokyo justifient qu’il débute en favori.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/paul-tommy-pd3ye1BS/tabilo-alejandro-YgVnM5vO/
 ---
 
@@ -63,6 +65,8 @@ URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/rune-holger-
 ---
 
 10:30 | TENNIS | Matteo Arnaldi - Rei Sakamoto
+Flashscore conclusion:
+Matteo Arnaldi devrait idéalement disposer de suffisamment de régularité et d’expérience pour prendre le dessus sur un joueur inexpérimenté comme Rei Sakamoto. Toutefois, les difficultés de forme actuelles d’Arnaldi, combinées à l’avantage du Japonais à domicile et au soutien du public, susceptible de rehausser son niveau, pourraient faire une différence importante dans cette affiche. Ces facteurs offrent au jeune Japonais une excellente occasion de décrocher une rare victoire sur le circuit et de tirer pleinement parti de cette invitation à Tokyo.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/arnaldi-matteo-hlVLAfZK/sakamoto-rei-AeBHWNls/
 ---
 
@@ -100,13 +104,13 @@ Le Brésil devrait tirer profit du rythme acquis lors du match à Townsville. L�
 URL: https://www.flashscore.fr/match/football/australie-xSrf6qMM/bresil-I9l9aqLq/
 ---
 
-20:45 | FOOTBALL | Écosse - Suisse
+20:47 | FOOTBALL | Écosse - Suisse
 Flashscore conclusion:
 Le manque de finisseurs cliniques de l’Écosse pourrait lui être fatal ici. Nous envisageons une victoire de la Suisse ici.Auteur : Matthew BillonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/ecosse-fZRU25WH/suisse-rHJ2vy1B/
 ---
 
-20:45 | FOOTBALL | République Tchèque - Angleterre
+20:46 | FOOTBALL | République Tchèque - Angleterre
 Flashscore conclusion:
 L’Angleterre est sans surprise largement favorite ici au vu de sa forme récente, notamment à l’extérieur. Notre pronostic est néanmoins Nul/Angleterre à la mi-temps/fin de match si les locaux parviennent à rester solides en début de rencontre.Auteur : John PenningtonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/republique-tcheque-6LHwBDGU/
@@ -116,7 +120,7 @@ URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/republique-tch
 URL: https://www.flashscore.fr/match/football/lesotho-fTM4XmgO/maroc-IDKYO3R8/
 ---
 
-20:45 | FOOTBALL | Espagne - Croatie
+20:46 | FOOTBALL | Espagne - Croatie
 Flashscore conclusion:
 Aller à l'encontre de l'Espagne semble insensé. Notre pronostic : victoire de l’Espagne avec plus de 2,5 buts inscrits.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/croatie-K8aznggo/espagne-bLyo6mco/
@@ -208,25 +212,25 @@ La Slovaquie affiche une grande régularité dans son efficacité offensive. Nou
 URL: https://www.flashscore.fr/match/football/kazakhstan-l6fBVhqk/slovaquie-KpLb2q1U/
 ---
 
-20:45 | FOOTBALL | Bulgarie - Estonie
+20:46 | FOOTBALL | Bulgarie - Estonie
 Flashscore conclusion:
 La Bulgarie peine à conserver sa cage inviolée dernièrement. Ainsi, une victoire des locaux avec des buts des deux équipes est envisageable.Auteur : Ben OlawumiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/bulgarie-WEeqYLaT/estonie-YJwM4R15/
 ---
 
-20:45 | FOOTBALL | Saint-Marin - Albanie
+20:48 | FOOTBALL | Saint-Marin - Albanie
 Flashscore conclusion:
 Au vu des résultats récents contrastés des deux pays, une victoire de l’Albanie avec plus de 2,5 buts inscrits semble envisageable.Auteur : Alex BowmerTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/albanie-ELP2K4oB/san-marin-Wlrb53yT/
 ---
 
-20:45 | FOOTBALL | Slovénie - Macédoine du Nord
+20:46 | FOOTBALL | Slovénie - Macédoine du Nord
 Flashscore conclusion:
 Compte tenu de la propension de la Slovénie à concéder des matchs nuls à domicile et de celle de la Macédoine du Nord à ne pas marquer, un match nul 0-0 pourrait être envisageable ici.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/macedoine-du-nord-GrTQ3oHB/slovenie-tfMf3PoO/
 ---
 
-20:45 | FOOTBALL | Luxembourg - Islande
+20:47 | FOOTBALL | Luxembourg - Islande
 Flashscore conclusion:
 Compte tenu de la confiance retrouvée par le Luxembourg après sa victoire inaugurale et de la série actuelle de sept matchs sans victoire de l’Islande, une victoire du Luxembourg est envisageable ici.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/islande-6TsAIrGN/luxembourg-2cnFSaNj/
@@ -349,10 +353,14 @@ URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/nice-Ak
 ---
 
 05:30 | TENNIS | Tomas Martin Etcheverry - Stefanos Tsitsipas
+Flashscore conclusion:
+Stefanos Tsitsipas est nettement le joueur le plus expérimenté sur dur des deux, et sa forme semble également évoluer dans la bonne direction. Etcheverry, de son côté, s’est montré très irrégulier ces derniers mois. Tsitsipas dispose donc d’une excellente occasion de prolonger sa dynamique récente, d’autant qu’il a déjà disputé quelques matchs à Tokyo cette semaine.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/etcheverry-tomas-martin-AXL5qpKa/tsitsipas-stefanos-hb6oWfc6/
 ---
 
 09:00 | TENNIS | Arthur Fils - Luca van Assche
+Flashscore conclusion:
+Les deux joueurs ont gravi les échelons du classement à une période similaire et connu leurs premières percées à peu près au même moment en 2023. Depuis, Fils a toutefois progressé bien plus rapidement et évolue désormais à un tout autre niveau. Il s’est imposé comme un joueur du top 20 et arrive à Tokyo avec un bilan impressionnant dans ce tournoi. À moins que sa condition physique ne devienne un problème, comme cela a parfois été le cas cette année, Fils devrait disposer d’un avantage net sur Van Assche dans cet affrontement.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/van-assche-luca-nP9K42Bg/
 ---
 
@@ -398,5 +406,29 @@ URL: https://www.flashscore.fr/match/football/lettonie-WC2jLpW4/montenegro-hOduZ
 
 20:45 | FOOTBALL | Belgique - Turquie
 URL: https://www.flashscore.fr/match/football/belgique-GbB957na/turquie-QeijuHo5/
+---
+
+18:00 | FOOTBALL | Croatie - Angleterre
+URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/croatie-K8aznggo/
+---
+
+20:00 | HOCKEY | Nice - Angers
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
+---
+
+20:00 | HOCKEY | Briancon - Amiens
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
+---
+
+20:00 | HOCKEY | Rouen - Chamonix Mont-Blanc
+URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/rouen-xYpMeMxS/
+---
+
+20:30 | HOCKEY | Cergy-Pontoise - Anglet
+URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/cergy-pontoise-CK87QfVF/
+---
+
+20:30 | HOCKEY | Olympique de Marseille - Gap
+URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/marseille-nkohUngl/
 ---
 
