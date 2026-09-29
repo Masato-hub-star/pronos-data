@@ -14,7 +14,7 @@ URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/majchrzak-kamil
 URL: https://www.flashscore.fr/match/tennis/faria-jaime-ETojuYQP/vallejo-daniel-U5RiWEZu/
 ---
 
-03:00 | TENNIS | Valentin Vacherot - Alexander Blockx
+04:00 | TENNIS | Valentin Vacherot - Alexander Blockx
 URL: https://www.flashscore.fr/match/tennis/blockx-alexander-xll0TzGG/vacherot-valentin-rFqoSYd8/
 ---
 
@@ -34,7 +34,7 @@ URL: https://www.flashscore.fr/match/tennis/nishikori-kei-YNkOjUIB/tiafoe-france
 URL: https://www.flashscore.fr/match/tennis/fery-arthur-SKxbA6KA/musetti-lorenzo-xtH2ODVI/
 ---
 
-03:00 | TENNIS | Alejandro Tabilo - Tommy Paul
+05:30 | TENNIS | Alejandro Tabilo - Tommy Paul
 URL: https://www.flashscore.fr/match/tennis/paul-tommy-pd3ye1BS/tabilo-alejandro-YgVnM5vO/
 ---
 
@@ -50,7 +50,7 @@ URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/miche
 URL: https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/davidovich-fokina-alejandro-0zQXLfz4/
 ---
 
-03:00 | TENNIS | Jiri Lehecka - Zizou Bergs
+04:00 | TENNIS | Jiri Lehecka - Zizou Bergs
 URL: https://www.flashscore.fr/match/tennis/bergs-zizou-SbeTx1o8/lehecka-jiri-6PlgfXKR/
 ---
 
@@ -58,7 +58,7 @@ URL: https://www.flashscore.fr/match/tennis/bergs-zizou-SbeTx1o8/lehecka-jiri-6P
 URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/rune-holger-2kRS8swG/
 ---
 
-03:00 | TENNIS | Matteo Arnaldi - Rei Sakamoto
+10:30 | TENNIS | Matteo Arnaldi - Rei Sakamoto
 URL: https://www.flashscore.fr/match/tennis/arnaldi-matteo-hlVLAfZK/sakamoto-rei-AeBHWNls/
 ---
 
@@ -175,10 +175,14 @@ URL: https://www.flashscore.fr/match/football/ouzbekistan-EZYKKRMc/syrie-bDoeW1B
 ---
 
 20:45 | FOOTBALL | Irlande - Autriche
+Flashscore conclusion:
+Une équipe d’Irlande solide à domicile face à une sélection autrichienne performante à l’extérieur laisse imaginer un match nul.Auteur : Tom PennTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/autriche-naHiWdnt/irlande-Gfyqk1aG/
 ---
 
 20:45 | FOOTBALL | Danemark - Portugal
+Flashscore conclusion:
+Compte tenu des habitudes offensives du Danemark et défensives du Portugal ces derniers temps, il est envisageable de voir les deux équipes marquer ici.Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/danemark-0KUdxQVi/portugal-WvJrjFVN/
 ---
 
@@ -225,26 +229,38 @@ URL: https://www.flashscore.fr/match/football/islande-6TsAIrGN/luxembourg-2cnFSa
 ---
 
 18:00 | FOOTBALL | Azerbaïdjan - Liechtenstein
+Flashscore conclusion:
+Aucune des deux sélections n’affiche une grande efficacité offensive récemment. Nous pensons qu'il y aura moins de 2,5 buts ici.Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/azerbaijan-UTJj1saj/liechtenstein-8KIf01Ed/
 ---
 
 20:45 | FOOTBALL | Israel - Kosovo
+Flashscore conclusion:
+La défense vulnérable d’Israël ouvre la porte à une victoire du Kosovo. Auteur : Aaron MurphyTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/israel-rqK1ypob/kosovo-v1DTPQwI/
 ---
 
 20:45 | FOOTBALL | Allemagne - Serbie
+Flashscore conclusion:
+L’Allemagne a tendance à concéder des buts en fin de match dans cette compétition. Nous pensons donc que la Serbie va inscrire le dernier but du match.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/allemagne-ptQide1O/serbie-8Kl6iq0i/
 ---
 
 20:45 | FOOTBALL | Grèce - Pays-Bas
+Flashscore conclusion:
+Au vu des derniers matchs des Pays-Bas et de la forme actuelle de la Grèce, il est envisageable de voir les deux équipes marquer ici.Auteur : Alex BowmerTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/grece-COuk57Ci/pays-bas-WYintcWb/
 ---
 
 20:45 | FOOTBALL | Pays de Galles - Norvège
+Flashscore conclusion:
+Les buts ont tendance à affluer des deux côtés lorsque la Norvège joue, mais les problèmes offensifs du Pays de Galles rendent envisageable le fait que les deux équipes ne marquent pas ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/norvege-8rP6JO0H/pays-de-galles-YcUP0Nqp/
 ---
 
 20:45 | FOOTBALL | Malte - Gibraltar
+Flashscore conclusion:
+L’historique des confrontations et le faible nombre de buts inscrits par ces deux équipes laissent envisager moins de 2,5 buts ici.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/gibraltar-CEihsqe7/malte-YHpMYsVG/
 ---
 
@@ -312,7 +328,7 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/bordeaux-n9V6xiyI/
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/rouen-xYpMeMxS/
 ---
 
-18:00 | HOCKEY | Amiens - Cergy-Pontoise
+19:00 | HOCKEY | Amiens - Cergy-Pontoise
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/cergy-pontoise-CK87QfVF/
 ---
 
@@ -326,5 +342,37 @@ URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/gap-2TtYxh3I/
 
 18:35 | HOCKEY | Chamonix Mont-Blanc - Nice
 URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/nice-AkAAP4QB/
+---
+
+05:30 | TENNIS | Tomas Martin Etcheverry - Stefanos Tsitsipas
+URL: https://www.flashscore.fr/match/tennis/etcheverry-tomas-martin-AXL5qpKa/tsitsipas-stefanos-hb6oWfc6/
+---
+
+09:00 | TENNIS | Arthur Fils - Luca van Assche
+URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/van-assche-luca-nP9K42Bg/
+---
+
+03:00 | TENNIS | Adolfo Daniel Vallejo - Rafael Jodar
+URL: https://www.flashscore.fr/match/tennis/jodar-rafael-OdngshVK/vallejo-daniel-U5RiWEZu/
+---
+
+03:00 | TENNIS | Taylor Fritz - Jaume Munar
+URL: https://www.flashscore.fr/match/tennis/fritz-taylor-UH09iaZ6/munar-jaume-zZieQm4D/
+---
+
+02:00 | FOOTBALL | États-Unis - Chili
+URL: https://www.flashscore.fr/match/football/chili-KUCG35cM/etats-unis-fuitL4CF/
+---
+
+03:00 | FOOTBALL | Mexique - Pérou
+URL: https://www.flashscore.fr/match/football/mexique-O6iHcNkd/perou-Uend67D3/
+---
+
+12:10 | FOOTBALL | Japon - Équateur
+URL: https://www.flashscore.fr/match/football/equateur-8tbm8Tri/japon-ULXPdOUj/
+---
+
+13:00 | FOOTBALL | RD Congo - Ouganda
+URL: https://www.flashscore.fr/match/football/dr-congo-phn9mm8H/uganda-hnw06lwh/
 ---
 
