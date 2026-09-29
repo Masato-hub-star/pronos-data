@@ -15,6 +15,8 @@ URL: https://www.flashscore.fr/match/tennis/faria-jaime-ETojuYQP/vallejo-daniel-
 ---
 
 04:00 | TENNIS | Valentin Vacherot - Alexander Blockx
+Flashscore conclusion:
+Valentin Vacherot n'est actuellement ni dans une forme particulièrement bonne ni à son meilleur niveau physique. La pression augmente également, avec un nombre important de points à défendre dans les prochaines semaines de la tournée asiatique. Dans de telles circonstances, il paraît difficile d'imaginer qu'il inverse la tendance et produise son meilleur tennis. Alexander Blockx, de son côté, semble avoir eu suffisamment de temps pour récupérer après son abandon à l'US Open. Au vu de la qualité de tennis qu'il a produite ces derniers mois, il paraît capable de prendre le dessus sur Vacherot et d'ajouter une nouvelle victoire face à un membre du top 20 à son palmarès.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/blockx-alexander-xll0TzGG/vacherot-valentin-rFqoSYd8/
 ---
 
@@ -51,6 +53,8 @@ URL: https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/davidovic
 ---
 
 04:00 | TENNIS | Jiri Lehecka - Zizou Bergs
+Flashscore conclusion:
+Sur le papier, Jiri Lehecka est le meilleur joueur des deux et évolue également à un niveau nettement supérieur actuellement. Plus important encore, il semble épargné par les problèmes physiques. C’est toujours un signe encourageant pour Lehecka, car ses chances d’exprimer tout son potentiel et de produire des performances et des résultats de qualité sont bien plus élevées lorsqu’il est en pleine possession de ses moyens.Sa forme actuelle, sa confiance et son niveau général vont tous dans le même sens. Lehecka devrait donc pouvoir s’imposer facilement ici.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/bergs-zizou-SbeTx1o8/lehecka-jiri-6PlgfXKR/
 ---
 
@@ -374,5 +378,25 @@ URL: https://www.flashscore.fr/match/football/equateur-8tbm8Tri/japon-ULXPdOUj/
 
 13:00 | FOOTBALL | RD Congo - Ouganda
 URL: https://www.flashscore.fr/match/football/dr-congo-phn9mm8H/uganda-hnw06lwh/
+---
+
+18:00 | FOOTBALL | Érythrée - Afrique du Sud
+URL: https://www.flashscore.fr/match/football/afrique-du-sud-W2ijYvlr/erythree-ns8a5zLl/
+---
+
+18:00 | FOOTBALL | Rana FK - Bodo/Glimt
+URL: https://www.flashscore.fr/match/football/bodo-glimt-S0WZMUNG/rana-fk-UybhicVh/
+---
+
+02:00 | FOOTBALL | Colombie - Paraguay
+URL: https://www.flashscore.fr/match/football/colombie-G02s4PCS/paraguay-YaNlqp6j/
+---
+
+18:00 | FOOTBALL | Lettonie - Monténégro
+URL: https://www.flashscore.fr/match/football/lettonie-WC2jLpW4/montenegro-hOduZ1pN/
+---
+
+20:45 | FOOTBALL | Belgique - Turquie
+URL: https://www.flashscore.fr/match/football/belgique-GbB957na/turquie-QeijuHo5/
 ---
 
