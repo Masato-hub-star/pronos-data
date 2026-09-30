@@ -59,6 +59,8 @@ URL: https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/davidovic
 ---
 
 10:30 | TENNIS | Adolfo Daniel Vallejo - Rafael Jodar
+Flashscore conclusion:
+Daniel Vallejo a déjà réalisé un excellent parcours pour atteindre le tableau principal à Tokyo, en évoluant hors de sa zone de confort. Sa semaine sera donc réussie quel que soit le résultat. Rafael Jodar représente toutefois un net palier en matière de niveau. Au vu de la forme actuelle de l’Espagnol, il devrait être trop fort pour Vallejo et dominer cet affrontement.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/jodar-rafael-OdngshVK/vallejo-daniel-U5RiWEZu/
 ---
 
@@ -340,5 +342,13 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/cergy-pontoise-CK87Q
 
 20:30 | HOCKEY | Olympique de Marseille - Gap
 URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/marseille-nkohUngl/
+---
+
+17:15 | FOOTBALL | LOSC - Le Havre
+URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/lille-pfDZL71o/
+---
+
+20:00 | FOOTBALL | Maroc - Mali
+URL: https://www.flashscore.fr/match/football/mali-jVn5lThB/maroc-IDKYO3R8/
 ---
 
