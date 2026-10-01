@@ -126,13 +126,13 @@ URL: https://www.flashscore.fr/match/football/real-madrid-W8mj7MDD/villarreal-lU
 URL: https://www.flashscore.fr/match/football/algerie-nc87N1BR/niger-Eevd7UNo/
 ---
 
-20:45 | FOOTBALL | Irlande - Autriche
+20:47 | FOOTBALL | Irlande - Autriche
 Flashscore conclusion:
 Une équipe d’Irlande solide à domicile face à une sélection autrichienne performante à l’extérieur laisse imaginer un match nul.Auteur : Tom PennTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/autriche-naHiWdnt/irlande-Gfyqk1aG/
 ---
 
-20:45 | FOOTBALL | Danemark - Portugal
+20:48 | FOOTBALL | Danemark - Portugal
 Flashscore conclusion:
 Compte tenu des habitudes offensives du Danemark et défensives du Portugal ces derniers temps, il est envisageable de voir les deux équipes marquer ici.Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/danemark-0KUdxQVi/portugal-WvJrjFVN/
@@ -332,5 +332,33 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/cergy-pontoise-CK87Q
 
 20:30 | HOCKEY | Olympique de Marseille - Gap
 URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/marseille-nkohUngl/
+---
+
+18:00 | FOOTBALL | Islande - Bulgarie
+Flashscore conclusion:
+Comme ces deux nations éprouvent des difficultés à réaliser régulièrement des clean sheets, nous imaginons voir les deux équipes marquer et plus de 2,5 buts ici.Auteur : Aaron MurphyTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/bulgarie-WEeqYLaT/islande-6TsAIrGN/
+---
+
+18:00 | FOOTBALL | Estonie - Luxembourg
+Flashscore conclusion:
+Compte tenu du début de parcours étonnamment solide de l’Estonie, un autre match nul est envisageable ici.Auteur : Matthew BillonTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/estonie-YJwM4R15/luxembourg-2cnFSaNj/
+---
+
+20:45 | FOOTBALL | Macédoine du Nord - Écosse
+Flashscore conclusion:
+Les difficultés offensives de ces deux sélections laissent envisager moins de 2,5 buts ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/ecosse-fZRU25WH/macedoine-du-nord-GrTQ3oHB/
+---
+
+20:45 | FOOTBALL | Suisse - Slovénie
+Flashscore conclusion:
+Une victoire de la Suisse sans encaisser de but semble envisageable au vu de sa forme impressionnante récemment et de sa domination dans les affrontements.Auteur : Peter StavrinouTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/slovenie-tfMf3PoO/suisse-rHJ2vy1B/
+---
+
+15:00 | FOOTBALL | Azerbaïdjan - Lituanie
+URL: https://www.flashscore.fr/match/football/azerbaijan-UTJj1saj/lituanie-lfrBTu8p/
 ---
 
