@@ -278,3 +278,7 @@ URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/grenoble-fas8xYmC/
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
 ---
 
+20:00 | HOCKEY | Rouen - Olympique de Marseille
+URL: https://www.flashscore.fr/match/hockey/marseille-nkohUngl/rouen-xYpMeMxS/
+---
+
