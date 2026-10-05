@@ -183,6 +183,8 @@ URL: https://www.flashscore.fr/match/tennis/monnet-carole-GQ68ufRu/stefanini-luc
 ---
 
 11:00 | TENNIS | Carlos Alcaraz - Jiri Lehecka
+Flashscore conclusion:
+Jiri Lehecka peut se montrer irrégulier, avec un niveau de performance qui fluctue souvent, notamment lorsque sa condition physique devient un problème. Lorsqu’il trouve son rythme et que tous les éléments s’imbriquent, il possède toutefois les qualités pour rivaliser avec les tout meilleurs. Il l’a déjà démontré à plusieurs reprises face à Carlos Alcaraz. Si Lehecka parvient à produire son meilleur tennis en finale et qu’Alcaraz continue d’évoluer au niveau affiché lors de ses quatre précédents matchs à Tokyo, le Tchèque aura une réelle occasion non seulement de s’imposer, mais aussi de le faire confortablement. La réputation d’Alcaraz et l’enjeu rendent toutefois la tâche difficile. Beaucoup pourrait dépendre de la manière dont Lehecka gérera mentalement ce défi face à un joueur du top niveau qui semble vulnérable.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/lehecka-jiri-6PlgfXKR/
 ---
 
@@ -330,5 +332,9 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/chamonix-mont-blanc-
 
 20:30 | HOCKEY | Anglet - Briancon
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/briancon-p4oJOtWk/
+---
+
+18:45 | FOOTBALL | Olympique Lyonnais - Crystal Palace
+URL: https://www.flashscore.fr/match/football/crystal-palace-AovF1Mia/lyon-2akflumR/
 ---
 
