@@ -1,256 +1,28 @@
 [
   {
     "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
     "time_paris": "06:00",
     "participants": [
-      "Roman Safiullin",
-      "Shintaro Mochizuki"
+      "Jaume Munar",
+      "Jenson Brooksby"
     ],
-    "mid": "6DWHmL7j",
-    "url": "https://www.flashscore.fr/match/tennis/mochizuki-shintaro-KrwvlzXb/safiullin-roman-IBpggNog/",
+    "mid": "pvA8i9iR",
+    "url": "https://www.flashscore.fr/match/tennis/brooksby-jenson-MoOtVkbN/munar-jaume-zZieQm4D/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T00:50:34.805582+02:00",
-    "player_1": "Roman Safiullin",
-    "player_2": "Shintaro Mochizuki"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "06:00",
-    "participants": [
-      "Liam Draxl",
-      "Nikoloz Basilashvili"
-    ],
-    "mid": "nowroMno",
-    "url": "https://www.flashscore.fr/match/tennis/basilashvili-nikoloz-Kb8ttRy2/draxl-liam-IiUa42eG/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:50:37.832012+02:00",
-    "player_1": "Liam Draxl",
-    "player_2": "Nikoloz Basilashvili"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "06:00",
-    "participants": [
-      "Aziz Dougaz",
-      "Federico Cina"
-    ],
-    "mid": "ttf4cjx8",
-    "url": "https://www.flashscore.fr/match/tennis/cina-federico-lvlXwMKk/dougaz-aziz-0YI8tRD1/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:50:41.290819+02:00",
-    "player_1": "Aziz Dougaz",
-    "player_2": "Federico Cina"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "06:00",
-    "participants": [
-      "Bernard Tomic",
-      "Timofey Skatov"
-    ],
-    "mid": "UiPg2OG6",
-    "url": "https://www.flashscore.fr/match/tennis/skatov-timofey-h6n0i9iE/tomic-bernard-fVQY2TUC/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:50:44.738903+02:00",
-    "player_1": "Bernard Tomic",
-    "player_2": "Timofey Skatov"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "07:30",
-    "participants": [
-      "Michael Zheng",
-      "Nicolas Mejia"
-    ],
-    "mid": "fDPnO5wQ",
-    "url": "https://www.flashscore.fr/match/tennis/mejia-nicolas-QcT8wHe4/zheng-michael-tjS5ZIzl/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:50:47.228958+02:00",
-    "player_1": "Michael Zheng",
-    "player_2": "Nicolas Mejia"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "07:30",
-    "participants": [
-      "Rigele Te",
-      "Ilia Simakin"
-    ],
-    "mid": "A7QOsCiD",
-    "url": "https://www.flashscore.fr/match/tennis/simakin-ilia-OOU52gdD/te-rigele-6Pb5YA6E/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:50:50.200780+02:00",
-    "player_1": "Rigele Te",
-    "player_2": "Ilia Simakin"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "07:30",
-    "participants": [
-      "Kyrian Jacquet",
-      "Rei Sakamoto"
-    ],
-    "mid": "ljFQbJpe",
-    "url": "https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/sakamoto-rei-AeBHWNls/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:55:26.125158+02:00",
-    "player_1": "Kyrian Jacquet",
-    "player_2": "Rei Sakamoto"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "07:30",
-    "participants": [
-      "Yoshihito Nishioka",
-      "Dalibor Svrcina"
-    ],
-    "mid": "pUGUBurQ",
-    "url": "https://www.flashscore.fr/match/tennis/nishioka-yoshihito-neAMoGXa/svrcina-dalibor-vDue624T/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:50:56.375350+02:00",
-    "player_1": "Yoshihito Nishioka",
-    "player_2": "Dalibor Svrcina"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "09:00",
-    "participants": [
-      "Pavel Kotov",
-      "Aleksandar Vukic"
-    ],
-    "mid": "z10BQ8pR",
-    "url": "https://www.flashscore.fr/match/tennis/kotov-pavel-809HrNqi/vukic-aleksandar-O2CmIROi/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:50:59.447771+02:00",
-    "player_1": "Pavel Kotov",
-    "player_2": "Aleksandar Vukic"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "09:00",
-    "participants": [
-      "Dane Sweeny",
-      "Kimmer Coppejans"
-    ],
-    "mid": "ngeZf0mD",
-    "url": "https://www.flashscore.fr/match/tennis/coppejans-kimmer-67EJxseJ/sweeny-dane-f7I9IJsH/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:51:02.351875+02:00",
-    "player_1": "Dane Sweeny",
-    "player_2": "Kimmer Coppejans"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "09:00",
-    "participants": [
-      "Mattia Bellucci",
-      "Alexandre Müller"
-    ],
-    "mid": "2sJJuOr2",
-    "url": "https://www.flashscore.fr/match/tennis/bellucci-mattia-M9pojLqi/muller-alexandre-nLLdS9q0/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:55:28.241629+02:00",
-    "player_1": "Mattia Bellucci",
-    "player_2": "Alexandre Müller"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai - Qualifications, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "09:00",
-    "participants": [
-      "Chak Lam Coleman Wong",
-      "Lloyd Harris"
-    ],
-    "mid": "Uk0qsgtS",
-    "url": "https://www.flashscore.fr/match/tennis/harris-lloyd-YyK3wlb0/wong-chak-lam-coleman-zJqvgzz6/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:51:07.734450+02:00",
-    "player_1": "Chak Lam Coleman Wong",
-    "player_2": "Lloyd Harris"
+    "retrieved_at": "2026-10-07T16:38:03.465197+02:00",
+    "player_1": "Jaume Munar",
+    "player_2": "Jenson Brooksby"
   },
   {
     "sport": "tennis",
     "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
     "date": "2026-10-08",
-    "time_paris": "04:00",
-    "participants": [
-      "Hubert Hurkacz",
-      "James Duckworth"
-    ],
-    "mid": "Ch67Xm0e",
-    "url": "https://www.flashscore.fr/match/tennis/duckworth-james-2JWHPUUb/hurkacz-hubert-zuHOBnY9/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:35.686875+02:00",
-    "player_1": "Hubert Hurkacz",
-    "player_2": "James Duckworth"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-08",
-    "time_paris": "04:00",
+    "time_paris": "06:00",
     "participants": [
       "Nuno Borges",
       "Facundo Diaz Acosta"
@@ -261,73 +33,167 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:07:38.151731+02:00",
+    "retrieved_at": "2026-10-07T16:38:06.843085+02:00",
     "player_1": "Nuno Borges",
     "player_2": "Facundo Diaz Acosta"
   },
   {
     "sport": "tennis",
     "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "13:30",
-    "participants": [
-      "Arthur Fery",
-      "Marin Cilic"
-    ],
-    "mid": "d02fr5ED",
-    "url": "https://www.flashscore.fr/match/tennis/cilic-marin-nLoK5syL/fery-arthur-SKxbA6KA/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:32.300019+02:00",
-    "player_1": "Arthur Fery",
-    "player_2": "Marin Cilic"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
     "date": "2026-10-08",
-    "time_paris": "04:00",
-    "participants": [
-      "Vit Kopriva",
-      "Zizou Bergs"
-    ],
-    "mid": "Mwft686K",
-    "url": "https://www.flashscore.fr/match/tennis/bergs-zizou-SbeTx1o8/kopriva-vit-EHGKxKDL/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:40.746483+02:00",
-    "player_1": "Vit Kopriva",
-    "player_2": "Zizou Bergs"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
     "time_paris": "06:00",
     "participants": [
-      "Arthur Gea",
-      "Jaime Faria"
+      "Pavel Kotov",
+      "Tallon Griekspoor"
     ],
-    "mid": "QZrKbQbf",
-    "url": "https://www.flashscore.fr/match/tennis/faria-jaime-ETojuYQP/gea-arthur-M5Nr6FTR/",
-    "preview_available": true,
-    "preview_full_text": "Deux espoirs du top 50 se retrouvent à Shanghai, à portée d'une nouvelle étape majeureActus sur le match et forme actuelleArthur Gea progresse régulièrement depuis le début de la saison 2026. Il a encore accéléré lors de la tournée nord-américaine sur dur. Il a remporté son premier titre ATP à Los Cabos, atteint la deuxième semaine de l'US Open et s'est finalement rapproché du top 50. Il a également conservé cette dynamique lors de la tournée asiatique. Il a fait ses débuts à Pékin la semaine dernière et atteint le deuxième tour en tant que qualifié, avant de s'incliner face à un Hubert Hurkacz en forme au terme d'un match serré en trois sets.Jaime Faria a également connu une période prolifique ces derniers mois. Une solide campagne dans l'US Open Series l'a aidé à se rapprocher d'une possible entrée dans le top 50. Sa tournée asiatique a toutefois été bien moins linéaire, malgré une grande confiance au moment d'arriver dans la région. Lors des tournois de Hangzhou et de Tokyo, il a disputé six matchs, dont quatre se sont joués au maximum des manches au terme de combats physiques en trois sets. Il a aussi subi deux défaites en tant que lucky loser à Tokyo la semaine dernière.Historique des confrontations : 0-0 Aucun affrontement n'a encore opposé ces deux joueurs.Stats et faitsArthur Gea affiche cette année un impressionnant bilan de 28v et 6d sur dur. Il s'agit du premier tournoi Masters d'Arthur Gea dans le tableau principal. Jaime Faria a fait ses débuts dans le tableau principal d'un Masters plus tôt cette année. Il affiche un bilan de 1v et 2d au premier tour.Face à des joueurs mieux classés que lui, Faria affiche un bilan de 16v et 12d cette année.Analyse des paris sportifsBien que les deux joueurs soient classés à un niveau similaire et encore relativement novices dans les compétitions du circuit, en particulier au niveau Masters, chacun est capable de remporter ce match. Gea s'est toutefois montré plus impressionnant et semble davantage à l'aise sur dur cette année, ce qui en fait le léger favori.Le résultat est difficile à pronostiquer, mais un long combat physique semble le scénario le plus probable. Les derniers matchs de Faria se sont régulièrement transformés en batailles interminables. Gea apprécie lui aussi ce type de confrontation.Traduit à l'aide de l'IA",
-    "betting_analysis": "Bien que les deux joueurs soient classés à un niveau similaire et encore relativement novices dans les compétitions du circuit, en particulier au niveau Masters, chacun est capable de remporter ce match. Gea s'est toutefois montré plus impressionnant et semble davantage à l'aise sur dur cette année, ce qui en fait le léger favori.Le résultat est difficile à pronostiquer, mais un long combat physique semble le scénario le plus probable. Les derniers matchs de Faria se sont régulièrement transformés en batailles interminables. Gea apprécie lui aussi ce type de confrontation.Traduit à l'aide de l'IA",
+    "mid": "2B4xV6nB",
+    "url": "https://www.flashscore.fr/match/tennis/griekspoor-tallon-f3zfMU5i/kotov-pavel-809HrNqi/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:27.205806+02:00",
-    "player_1": "Arthur Gea",
-    "player_2": "Jaime Faria",
-    "preview_first_seen_at": "2026-10-06T18:58:20.826428+02:00"
+    "retrieved_at": "2026-10-07T16:38:09.922138+02:00",
+    "player_1": "Pavel Kotov",
+    "player_2": "Tallon Griekspoor"
   },
   {
     "sport": "tennis",
     "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
     "date": "2026-10-08",
-    "time_paris": "04:00",
+    "time_paris": "06:00",
+    "participants": [
+      "Kimmer Coppejans",
+      "Stefanos Tsitsipas"
+    ],
+    "mid": "Ay8pTpHN",
+    "url": "https://www.flashscore.fr/match/tennis/coppejans-kimmer-67EJxseJ/tsitsipas-stefanos-hb6oWfc6/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:13.299724+02:00",
+    "player_1": "Kimmer Coppejans",
+    "player_2": "Stefanos Tsitsipas"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "06:00",
+    "participants": [
+      "Camilo Ugo Carabelli",
+      "Ilia Simakin"
+    ],
+    "mid": "E52HspWG",
+    "url": "https://www.flashscore.fr/match/tennis/simakin-ilia-OOU52gdD/ugo-carabelli-camilo-KWdgY7Bq/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:16.439498+02:00",
+    "player_1": "Camilo Ugo Carabelli",
+    "player_2": "Ilia Simakin"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "07:30",
+    "participants": [
+      "Hubert Hurkacz",
+      "James Duckworth"
+    ],
+    "mid": "Ch67Xm0e",
+    "url": "https://www.flashscore.fr/match/tennis/duckworth-james-2JWHPUUb/hurkacz-hubert-zuHOBnY9/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:20.603563+02:00",
+    "player_1": "Hubert Hurkacz",
+    "player_2": "James Duckworth"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "07:30",
+    "participants": [
+      "Adolfo Daniel Vallejo",
+      "Valentin Royer"
+    ],
+    "mid": "lzanpRq1",
+    "url": "https://www.flashscore.fr/match/tennis/royer-valentin-IFGPWCuI/vallejo-daniel-U5RiWEZu/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:23.818908+02:00",
+    "player_1": "Adolfo Daniel Vallejo",
+    "player_2": "Valentin Royer"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "07:30",
+    "participants": [
+      "Mariano Navone",
+      "Pablo Carreno-Busta"
+    ],
+    "mid": "I9uC0nUs",
+    "url": "https://www.flashscore.fr/match/tennis/carreno-busta-pablo-W8WmcXdq/navone-mariano-YoPUeL3o/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:26.839428+02:00",
+    "player_1": "Mariano Navone",
+    "player_2": "Pablo Carreno-Busta"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "07:30",
+    "participants": [
+      "Thiago Agustin Tirante",
+      "Hamad Medjedovic"
+    ],
+    "mid": "Kxnipn1b",
+    "url": "https://www.flashscore.fr/match/tennis/medjedovic-hamad-nDcBkcu7/tirante-thiago-agustin-jBkGDj34/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:30.009163+02:00",
+    "player_1": "Thiago Agustin Tirante",
+    "player_2": "Hamad Medjedovic"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "07:30",
+    "participants": [
+      "Bernard Tomic",
+      "Matteo Arnaldi"
+    ],
+    "mid": "tKbGNOvo",
+    "url": "https://www.flashscore.fr/match/tennis/arnaldi-matteo-hlVLAfZK/tomic-bernard-fVQY2TUC/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:33.389298+02:00",
+    "player_1": "Bernard Tomic",
+    "player_2": "Matteo Arnaldi"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "09:00",
     "participants": [
       "Marcos Giron",
       "Sebastian Baez"
@@ -338,68 +204,180 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:07:43.109253+02:00",
+    "retrieved_at": "2026-10-07T16:38:36.347831+02:00",
     "player_1": "Marcos Giron",
     "player_2": "Sebastian Baez"
   },
   {
     "sport": "tennis",
     "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "06:00",
+    "date": "2026-10-08",
+    "time_paris": "09:00",
     "participants": [
-      "Aleksandar Kovacevic",
-      "Matteo Berrettini"
+      "Fabian Marozsan",
+      "Zachary Svajda"
     ],
-    "mid": "G0qWdPp4",
-    "url": "https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/kovacevic-aleksandar-AudsF90U/",
-    "preview_available": true,
-    "preview_full_text": "Matteo Berrettini a besoin que son physique tienne face à Aleksandar Kovacevic, en manque de confianceActus sur le match et forme actuelleAleksandar Kovacevic a connu sa percée sur le circuit ATP lors de la tournée asiatique en 2022. Il avait alors atteint les demi-finales à Séoul en tant que lucky loser. Depuis cette belle performance, chacun de ses retours en Asie s’est toutefois révélé compliqué. Cette année ne déroge pas à la règle. Il a été éliminé au premier tour à Chengdu il y a deux semaines, avant de s’incliner au dernier tour des qualifications à Tokyo la semaine dernière. Il arrive désormais à Shanghai avec un bilan de 0v, 3d au premier tour de ce tournoi.Matteo Berrettini n’est décidément pas épargné. Il continue de travailler dur et de faire preuve de beaucoup de combativité en match, mais son état physique l’empêche de progresser réellement dans sa quête de retour au niveau qui lui avait permis d’atteindre la 6e place mondiale. Ces dernières années ont été marquées par des problèmes physiques récurrents, et cette saison ne fait pas exception. Même lors de l’un de ses meilleurs parcours à Roland-Garros, il a été contraint d’abandonner en quarts de finale face à Matteo Arnaldi, dans un match largement à sa portée.Son début de tournée asiatique n’a pas non plus été très encourageant. Berrettini a lancé sa campagne à Tokyo la semaine dernière. Il y semblait physiquement à court de rythme face à l’outsider Daniel Vallejo au deuxième tour. Il s’est incliné 6-7, 1-6 et a semblé souffrir physiquement tout au long de la deuxième manche. Une nouvelle fois, il aborde un tournoi avec de nombreuses interrogations sur son état physique. Celui-ci pourrait finalement déterminer son sort le jour du match.Historique des confrontations : 0-0 Les deux joueurs ne se sont encore jamais affrontés. Statistiques et faits Aleksandar Kovacevic affiche un bilan de 8v, 15d au premier tour des tournois du circuit ATP cette année. Le bilan de Kovacevic au premier tour des Masters est de 3v, 18d. Matteo Berrettini a déjà atteint les demi-finales du Masters de Shanghai, mais son dernier parcours ici, en 2025, s’est arrêté au premier tour. Berrettini a participé à 15 tournois cette année et a franchi le premier tour dans dix d’entre eux.Analyse des paris sportifsAleksandar Kovacevic est en difficulté depuis le début de la saison. Dans ces conditions, Matteo Berrettini devrait idéalement être en mesure de gérer ce match et de s’imposer. Toutefois, comme cela a si souvent été le cas pour Berrettini ces dernières années, beaucoup dépendra de son état physique. Si le physique de l’Italien tient bon, Berrettini devrait avoir les moyens de remporter ce match. Cependant, le fait que son corps puisse le lâcher à tout moment redonne aussi beaucoup d’espoir et de confiance à Kovacevic avant cette rencontre.Traduit à l'aide de l'IA",
-    "betting_analysis": "Aleksandar Kovacevic est en difficulté depuis le début de la saison. Dans ces conditions, Matteo Berrettini devrait idéalement être en mesure de gérer ce match et de s’imposer. Toutefois, comme cela a si souvent été le cas pour Berrettini ces dernières années, beaucoup dépendra de son état physique. Si le physique de l’Italien tient bon, Berrettini devrait avoir les moyens de remporter ce match. Cependant, le fait que son corps puisse le lâcher à tout moment redonne aussi beaucoup d’espoir et de confiance à Kovacevic avant cette rencontre.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:02.061333+02:00",
-    "player_1": "Aleksandar Kovacevic",
-    "player_2": "Matteo Berrettini",
-    "preview_first_seen_at": "2026-10-06T18:58:20.826428+02:00"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "07:30",
-    "participants": [
-      "Yannick Hanfmann",
-      "Kamil Majchrzak"
-    ],
-    "mid": "OQnve3FG",
-    "url": "https://www.flashscore.fr/match/tennis/hanfmann-yannick-zLJYYbhm/majchrzak-kamil-fPZlNrGS/",
-    "preview_available": true,
-    "preview_full_text": "Yannick Hanfmann continue de passer tout près tandis que Kamil Majchrzak peine toujours à gagner des matchsActus sur le match et forme actuelleYannick Hanfmann a terminé 2025 en trombe, enchaînant les victoires après son arrivée en Asie et concluant l’année par une apparition en demi-finales de l’ATP d’Athènes. Il aura donc beaucoup de points à défendre durant le reste de la saison. Après avoir affiché un tennis solide et obtenu de bons résultats ces derniers mois, il semblait bien parti pour y parvenir, mais les victoires se font soudain plus rares,Cela doit être extrêmement frustrant pour Hanfmann, qui continue de livrer de bons combats, mais s’incline de peu face à de solides adversaires. Arthur Fils à Cincinnati, Alejandro Tabilo à l’US Open et, plus récemment, Tomas Machac à Pékin en sont de bons exemples.Lorsque Kamil Majchrzak a remporté son premier titre ATP à l’ATP de Bois-le-Duc en juin, pendant la saison sur gazon, le Polonais semblait disposer d’une solide base pour viser plus haut le reste de l’année. Malheureusement, c’est la dernière fois qu’il s’est illustré, puisqu’il connaît de grandes difficultés depuis les quatre mois qui ont suivi. En réalité, il n’a pas réussi à gagner deux matchs consécutifs lors des dix tournois auxquels il a participé depuis ce titre. Cette série a quasiment anéanti l’excellente dynamique créée par cette victoire marquante.Historique des confrontations : Kamil Majchrzak mène 1-0Les deux joueurs se sont affrontés au Challenger de Szczecin il y a cinq ans. Le Polonais avait alors profité de l’avantage du terrain pour dominer le match et s’imposer sans perdre le moindre set.Hot Stats et Séries en coursYannick Hanfmann affiche un bilan parfait de 2-0 au premier tour du Masters de Shanghai. Cette année, Hanfmann présente également un solide bilan de 15-4 au premier tour des tournois du circuit principal. -Majchrzak a fait ses débuts au Masters de Shanghai en 2025 et a atteint le troisième tour.Majchrzak compte cinq victoires au premier tour des tournois Masters dans sa carrière, dont deux cette année à Indian Wells et à Miami.Analyse des paris sportifsCette affiche s’annonce très disputée entre deux joueurs au classement similaire, aucun ne disposant d’un avantage net au vu de sa forme récente. Tous deux ont les armes pour s’imposer, ce qui rend le pronostic difficile. Hanfmann pourrait toutefois être une option envisageable au vu de sa cote actuelle, après avoir fait preuve d’une belle compétitivité ces dernières semaines. S’il parvient à maintenir ce niveau, il a de bonnes chances de prendre le dessus sur Majchrzak, qui peine à enchaîner les victoires dernièrement.Traduit à l'aide de l'IA",
-    "betting_analysis": "Cette affiche s’annonce très disputée entre deux joueurs au classement similaire, aucun ne disposant d’un avantage net au vu de sa forme récente. Tous deux ont les armes pour s’imposer, ce qui rend le pronostic difficile. Hanfmann pourrait toutefois être une option envisageable au vu de sa cote actuelle, après avoir fait preuve d’une belle compétitivité ces dernières semaines. S’il parvient à maintenir ce niveau, il a de bonnes chances de prendre le dessus sur Majchrzak, qui peine à enchaîner les victoires dernièrement.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:08.278994+02:00",
-    "player_1": "Yannick Hanfmann",
-    "player_2": "Kamil Majchrzak",
-    "preview_first_seen_at": "2026-10-06T21:05:00.331953+02:00"
-  },
-  {
-    "sport": "football",
-    "competition": "Euro U21 - Qualification",
-    "date": "2026-10-06",
-    "time_paris": "19:00",
-    "participants": [
-      "France -21",
-      "Suisse -21"
-    ],
-    "mid": "Q9M400F8",
-    "url": "https://www.flashscore.fr/match/football/france-ShmZavVI/suisse-G8r4wEY5/",
+    "mid": "GtgxyrOp",
+    "url": "https://www.flashscore.fr/match/tennis/marozsan-fabian-I1mux0lj/svajda-zachary-vynGYhMa/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T18:57:02.370356+02:00",
-    "home_team": "France -21",
-    "away_team": "Suisse -21"
+    "retrieved_at": "2026-10-07T16:38:39.868782+02:00",
+    "player_1": "Fabian Marozsan",
+    "player_2": "Zachary Svajda"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "09:00",
+    "participants": [
+      "Martin Landaluce",
+      "Jan-Lennard Struff"
+    ],
+    "mid": "8ztOboGi",
+    "url": "https://www.flashscore.fr/match/tennis/landaluce-martin-AoOnGZEp/struff-jan-lennard-Ek3bDDo2/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:42.281260+02:00",
+    "player_1": "Martin Landaluce",
+    "player_2": "Jan-Lennard Struff"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "09:00",
+    "participants": [
+      "Juan Manuel Cerundolo",
+      "Nicolas Mejia"
+    ],
+    "mid": "YyOCEo2U",
+    "url": "https://www.flashscore.fr/match/tennis/cerundolo-juan-manuel-A93TM7BR/mejia-nicolas-QcT8wHe4/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:45.212960+02:00",
+    "player_1": "Juan Manuel Cerundolo",
+    "player_2": "Nicolas Mejia"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "10:30",
+    "participants": [
+      "Vit Kopriva",
+      "Zizou Bergs"
+    ],
+    "mid": "Mwft686K",
+    "url": "https://www.flashscore.fr/match/tennis/bergs-zizou-SbeTx1o8/kopriva-vit-EHGKxKDL/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:48.490390+02:00",
+    "player_1": "Vit Kopriva",
+    "player_2": "Zizou Bergs"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "10:30",
+    "participants": [
+      "Botic Van De Zandschulp",
+      "Daniel Merida Aguilar"
+    ],
+    "mid": "YanSd4T6",
+    "url": "https://www.flashscore.fr/match/tennis/daniel-merida-aguilar-WOtXbAu5/van-de-zandschulp-botic-YwiLpILD/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:51.361137+02:00",
+    "player_1": "Botic Van De Zandschulp",
+    "player_2": "Daniel Merida Aguilar"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "12:00",
+    "participants": [
+      "Luca van Assche",
+      "Yunchaokete Bu"
+    ],
+    "mid": "6DpzerbJ",
+    "url": "https://www.flashscore.fr/match/tennis/van-assche-luca-nP9K42Bg/yunchaokete-bu-Qabjt3Y5/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:43:19.572150+02:00",
+    "player_1": "Luca van Assche",
+    "player_2": "Yunchaokete Bu"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
+    "date": "2026-10-08",
+    "time_paris": "13:30",
+    "participants": [
+      "Cameron Norrie",
+      "Dalibor Svrcina"
+    ],
+    "mid": "KljAlhq1",
+    "url": "https://www.flashscore.fr/match/tennis/norrie-cameron-pvzhJGY8/svrcina-dalibor-vDue624T/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:57.237913+02:00",
+    "player_1": "Cameron Norrie",
+    "player_2": "Dalibor Svrcina"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/32 de finale",
+    "date": "2026-10-10",
+    "time_paris": "04:00",
+    "participants": [
+      "Matteo Berrettini",
+      "Brandon Nakashima"
+    ],
+    "mid": "AehP8J2C",
+    "url": "https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/nakashima-brandon-ETGnbrpH/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:38:59.613950+02:00",
+    "player_1": "Matteo Berrettini",
+    "player_2": "Brandon Nakashima"
+  },
+  {
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/32 de finale",
+    "date": "2026-10-10",
+    "time_paris": "04:00",
+    "participants": [
+      "Alexander Bublik",
+      "Tomas Machac"
+    ],
+    "mid": "hr6BwfJN",
+    "url": "https://www.flashscore.fr/match/tennis/bublik-alexander-t0WN9vR6/machac-tomas-S44E7UYr/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:39:02.775229+02:00",
+    "player_1": "Alexander Bublik",
+    "player_2": "Tomas Machac"
   },
   {
     "sport": "football",
@@ -412,13 +390,14 @@
     ],
     "mid": "MFDuQNS6",
     "url": "https://www.flashscore.fr/match/football/lens-IBmris38/lyon-2akflumR/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Invaincu, Lyon vise clairement la première place de Ligue 1 et pourrait prendre les commandes en battant un Lens en difficulté vendredi soir.Actus sur le match et forme actuelleCertains supporters de Lens pourraient redouter le retour du football de clubs après la dernière trêve internationale. Leur équipe n'a pris que quatre points lors de ses cinq premiers matchs de Ligue 1 et s'est séparée de son entraîneur Dino Toppmöller. Son successeur Yannick Cahuzac a débuté son mandat par une défaite, avec un revers 2-1 contre Monaco. Il va maintenant retrouver les supporters lensois, avec l'espoir d'aider les locaux à éviter deux défaites consécutives à domicile en championnat pour la première fois depuis avril 2025. Pour y parvenir, une nette amélioration défensive est indispensable. Seuls trois clubs ont encaissé davantage de buts que les neuf de Lens cette saison dans l'élite française. Il s'agit aussi de son troisième plus mauvais total après cinq matchs d'une saison depuis le début du siècle.Lyon, qui se déplace, a connu un début de saison 2026/27 bien plus convaincant. Le club retrouve la compétition à la deuxième place de la Ligue 1 et reste l'une des trois seules équipes encore invaincues après cinq matchs (3v, 2n). Il faut remonter à 2012/13 pour voir Lyon rester invaincu lors de ses six premières sorties d'une saison de championnat. Grâce à sa victoire 4-0 contre Rennes lors de la journée précédente, Lyon partage le statut d'équipe la plus prolifique de la division avec dix buts. Le club possède également la meilleure défense de la compétition à l'heure actuelle, avec seulement deux buts encaissés. Il cherchera ici à aligner trois clean sheets consécutifs à l'extérieur en championnat pour la première fois depuis novembre 2017.Historique des confrontationsLens a remporté quatre de ses six derniers matchs de Ligue 1 contre Lyon, soit autant que lors de ses 28 affrontements précédents réunis (7n, 17d).[image alt=\"Win Probability\" id=\"c01d1072-f978-45eb-a0bf-12313f755741\" credit-line=\"Opta by StatsPerform\" guid=\"d5ea25e7-2ee0-4fcf-ba1a-5bb60248eb3e\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursLens a enregistré au moins quatre tirs cadrés lors de chacun de ses 11 derniers matchs de championnat.Lens n'a remporté que deux de ses sept derniers matchs de Ligue 1 en tant que favori selon les cotes (3n, 2d).Plus de 2,5 buts ont été inscrits lors de 11 des 15 derniers matchs de Lyon, toutes compétitions confondues.Lyon a tenté au moins dix tirs lors de 14 de ses 16 derniers matchs de championnat.Joueurs clés et joueurs absentsC'est contre Lyon (7b) que Florian Thauvin a le plus marqué en carrière. Il a marqué et délivré une passe décisive lors de chacun de ses deux derniers affrontements. Ernest Nuamah a inscrit un doublé lors de sa dernière apparition avec Lyon. Trois de ses cinq buts en club et en sélection cette saison ont ouvert le score.Lens doit toujours composer avec plusieurs absents, notamment les milieux de terrain Amadou Haidara et Yacine Titraoui. Le défenseur Moussa Niakhaté reste quant à lui indisponible pour Lyon.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsAu vu de la forme récente des deux équipes, une victoire de Lyon avec les deux équipes qui marquent est envisageable.Auteur : Nathan EvansTraduit à l'aide de l'IA",
+    "betting_analysis": "Au vu de la forme récente des deux équipes, une victoire de Lyon avec les deux équipes qui marquent est envisageable.Auteur : Nathan EvansTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:43.492012+02:00",
+    "retrieved_at": "2026-10-07T16:42:18.860832+02:00",
     "home_team": "RC Lens",
-    "away_team": "Olympique Lyonnais"
+    "away_team": "Olympique Lyonnais",
+    "preview_first_seen_at": "2026-10-07T16:43:29.804126+02:00"
   },
   {
     "sport": "football",
@@ -431,13 +410,14 @@
     ],
     "mid": "UuHmO1cJ",
     "url": "https://www.flashscore.fr/match/football/le-havre-CIEe04GT/lille-pfDZL71o/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Lille cherche à renouer avec la victoire face au Havre après la trêve internationale. La position des visiteurs en bas de la Ligue 1 masque peut-être leur compétitivité à l’extérieur.Actus sur le match et forme actuelleL’optimisme suscité par le début de saison invaincu de Lille (3v, 1n) a été terni par une défaite 2-1 à Nice avant la trêve. Le club voudra donc rapidement retrouver cette dynamique initiale et mettre la pression sur les premiers du classement. Les Dogues ont enregistré 11 clean sheets en Ligue 1 en 2026. Leurs trois victoires cette saison ont toutes été accompagnées d’un clean sheet. Un quatrième ici renforcerait leur total de points relativement modeste à domicile cette année. Lille compte 14 points à domicile, contre 25 à l’extérieur. Parmi les cinq grands championnats européens, il s’agit du deuxième plus grand écart de ce type, derrière Bologne.Le Havre occupe la dernière place de la Ligue 1 (2n, 3d), mais le fait que ces trois défaites aient toutes été concédées sur une marge d’un but souligne la compétitivité de l’équipe. Elle est la seule formation encore privée de victoire dans l’élite française cette saison. Cette tendance n’est pas nouvelle pour Le Havre, qui n’a remporté qu’un seul de ses 17 derniers matchs de championnat (8n, 8d). Le club rappellera toutefois rapidement qu’il est plus difficile à battre à l’extérieur. Les Ciel et Bleu n’ont perdu qu’un seul de leurs six derniers matchs de championnat à l’extérieur (1v, 4n). Ils ont marqué lors de leurs sept derniers déplacements de championnat, ce qui laisse penser qu’ils peuvent au moins se montrer dangereux offensivement ici.Historique des confrontationsBien que Lille n’ait perdu que deux de ses 20 confrontations à domicile en Ligue 1 (11v, 7n), le club reste sans victoire lors des deux dernières (1n, 1d). Il n’a encore jamais accueilli trois confrontations consécutives sans s’imposer.[image alt=\"Win Probability\" id=\"5dacbdff-41b2-4289-b71b-b7b9ef5fc9f8\" credit-line=\"Opta by StatsPerform\" guid=\"37ce1941-0b1e-4091-9d0f-5808d7613afd\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursLes quatre derniers matchs de Lille en Ligue 1 ont donné lieu à un but après la 70e minute.Sept des huit derniers matchs de championnat de Lille à domicile ont produit moins de neuf corners.Le Havre est la seule équipe à ne pas encore avoir marqué avant la mi-temps en Ligue 1 cette saison.Cinq des six derniers matchs de championnat du Havre à l’extérieur ont produit exactement deux buts.Joueurs clés et joueurs absentsMaurits Kjærgaard pourrait être le premier joueur à délivrer une passe décisive lors de chacune de ses trois premières apparitions en Ligue 1 au cours des 20 dernières saisons. Deux de ses quatre derniers buts ont été inscrits après la 90e minute. Mbwana Ally Samatta du Havre a tenté 20 tirs en Ligue 1 cette saison, un record en championnat avant cette journée. Ses deux buts ont été inscrits à l’extérieur après la 70e minute.Ethan Mbappé s’est blessé à la cheville lors du rassemblement avec l’équipe de France U21 et manquera à Lille. Au Havre, Felix Mambimbi, Lionel Mpasi et Stephan Zagadou ne devraient pas jouer.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsLa domination historique de Lille dans cette confrontation à domicile est significative, mais la forme du Havre à l’extérieur laisse envisager un succès de Lille avec les deux équipes qui marquent.Auteur : John PenningtonTraduit à l'aide de l'IA",
+    "betting_analysis": "La domination historique de Lille dans cette confrontation à domicile est significative, mais la forme du Havre à l’extérieur laisse envisager un succès de Lille avec les deux équipes qui marquent.Auteur : John PenningtonTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:45.388105+02:00",
+    "retrieved_at": "2026-10-07T16:42:21.554790+02:00",
     "home_team": "LOSC",
-    "away_team": "Le Havre"
+    "away_team": "Le Havre",
+    "preview_first_seen_at": "2026-10-07T16:43:29.804126+02:00"
   },
   {
     "sport": "football",
@@ -454,7 +434,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:47.585558+02:00",
+    "retrieved_at": "2026-10-07T16:42:23.484346+02:00",
     "home_team": "PSG",
     "away_team": "Le Mans"
   },
@@ -473,7 +453,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:49.556128+02:00",
+    "retrieved_at": "2026-10-07T16:42:25.910765+02:00",
     "home_team": "France F",
     "away_team": "Lettonie F"
   },
@@ -492,7 +472,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:51.436531+02:00",
+    "retrieved_at": "2026-10-07T16:42:28.334029+02:00",
     "home_team": "ESTAC",
     "away_team": "Olympique de Marseille"
   },
@@ -511,7 +491,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:53.587635+02:00",
+    "retrieved_at": "2026-10-07T16:42:30.622820+02:00",
     "home_team": "RC Lens",
     "away_team": "Sporting"
   },
@@ -530,7 +510,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:55.611219+02:00",
+    "retrieved_at": "2026-10-07T16:42:32.883150+02:00",
     "home_team": "Arsenal",
     "away_team": "LOSC"
   },
@@ -549,7 +529,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:57.287385+02:00",
+    "retrieved_at": "2026-10-07T16:42:35.436732+02:00",
     "home_team": "Manchester City",
     "away_team": "PSG"
   },
@@ -568,29 +548,28 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:59.577406+02:00",
+    "retrieved_at": "2026-10-07T16:42:38.109879+02:00",
     "home_team": "Olympique Lyonnais",
     "away_team": "Crystal Palace"
   },
   {
     "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue A - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "20:45",
+    "competition": "Ligue Europa - Phase de ligue - Journée 2",
+    "date": "2026-10-15",
+    "time_paris": "21:00",
     "participants": [
-      "Croatie",
-      "Espagne"
+      "Olympique de Marseille",
+      "Olympiakos"
     ],
-    "mid": "GYG5XytT",
-    "url": "https://www.flashscore.fr/match/football/croatie-K8aznggo/espagne-bLyo6mco/",
-    "preview_available": true,
-    "preview_full_text": "Tourner la page après la nuit la plus sombre de son histoire s’annonce difficile pour la Croatie, qui reçoit l’Espagne, irrésistible, pour son dernier match lors de cette fenêtre de la Ligue des Nations (LDN).Actus sur le match et forme actuelleLe deuxième passage de Slaven Bilić à la tête de la Croatie semble déjà toucher à sa fin après la plus lourde défaite de l’histoire de la sélection, samedi, avec un cinglant revers 7-0 contre l’Angleterre. La Croatie a désormais encaissé 11 buts lors de ses deux derniers matchs. Une nouvelle défaite mettrait presque certainement fin à ses espoirs de franchir la phase de groupes pour un troisième cycle consécutif de LDN. Une place de barragiste semble être une destination bien plus probable pour la Croatie après sa première défaite à domicile dans cette compétition depuis juin 2022. La sélection avait toutefois réagi à ce revers contre l’Autriche en tenant en échec la France, alors championne du monde, sur le score de 1-1.Un résultat similaire serait assez surprenant au vu de la forme irrésistible de l’Espagne, dont la série mondiale record de matchs sans défaite après 90 minutes a atteint 41 rencontres (31v, 10n) grâce à un succès maîtrisé 3-1 contre la Tchéquie lors de la troisième journée. L’Espagne était tellement à l’aise que Luis de la Fuente a pu faire souffler des joueurs dès la mi-temps. La Roja a conservé son avance de trois points en tête du groupe A3. L’Espagne est donc bien partie pour atteindre une quatrième finale consécutive de LDN. Elle devra toutefois resserrer sa défense. Après n’avoir encaissé qu’un seul but lors de sa campagne victorieuse en Coupe du monde, elle en a concédé quatre en trois matchs de LDN.Historique des confrontationsL’Espagne a remporté un quatrième affrontement consécutif la semaine dernière lors de l’affiche retour. Il s’agissait de sa troisième victoire en quatre matchs de LDN contre la Croatie (1d). La Roja ne s’est jamais imposée sur le sol croate (1n, 1d), et seuls deux des 12 affrontements précédents ont eu lieu dans ce pays.Hot Stats et Séries en coursDouze des 14 derniers matchs de la Croatie ont produit plus de 2,5 buts.La Croatie a reçu moins de 1,5 carton jaune lors de chacun de ses huit derniers matchs officiels à domicile.Cinq des six derniers matchs officiels de l’Espagne ont produit moins de 9,5 corners.L’Espagne n’a pas encaissé le premier but lors de ses 32 derniers matchs.Joueurs clés et joueurs absentsIgor Matanović espère retrouver sa place dans le onze croate après avoir été impliqué sur dix buts en neuf apparitions avec son club et sa sélection cette saison (6b, 4pd). Il a inscrit quatre de ces buts après l’heure de jeu. Dani Olmo compte cinq passes décisives avec Barcelone et l’Espagne cette saison. Ses trois derniers buts en sélection ont soit ouvert le score, soit été inscrits dans les 30 premières minutes. Il pourrait donc rapidement peser sur la rencontre.La Croatie ne semble pas avoir enregistré de nouvelle blessure. L’Espagne a en revanche perdu Nico Williams et Ferran Torres sur blessure. Fabián Ruiz a manqué leur dernier match pour des raisons personnelles.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsL’Espagne n’aura aucune compassion pour son hôte en difficulté. On voit bien Lamine Yamal auteur du premier but, comme lors des six premières minutes de ses trois derniers matchs.Auteur : Ryan FisherTraduit à l'aide de l'IA",
-    "betting_analysis": "L’Espagne n’aura aucune compassion pour son hôte en difficulté. On voit bien Lamine Yamal auteur du premier but, comme lors des six premières minutes de ses trois derniers matchs.Auteur : Ryan FisherTraduit à l'aide de l'IA",
+    "mid": "n95a5iuI",
+    "url": "https://www.flashscore.fr/match/football/marseille-SblU3Hee/olympiakos-hnzvnHPS/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T21:04:08.491211+02:00",
-    "home_team": "Croatie",
-    "away_team": "Espagne",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
+    "retrieved_at": "2026-10-07T16:42:40.549863+02:00",
+    "home_team": "Olympique de Marseille",
+    "away_team": "Olympiakos"
   },
   {
     "sport": "football",
@@ -603,13 +582,14 @@
     ],
     "mid": "xtmHKGT0",
     "url": "https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/leeds-tUxUbLR2/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Champion en titre de Premier League, Arsenal a subi une lourde défaite avant la trêve internationale. Le club espère que son ascendant dans les récentes confrontations l’aidera à réagir face à une équipe de Leeds en forme.Actus sur le match et forme actuelleLa défaite 3-0 d’Arsenal contre Brighton lors de son dernier match est la plus lourde concédée par le club depuis mai 2023. Elle lui a aussi coûté la première place de Premier League au profit de Manchester City, dont la condamnation a détourné l’attention des hommes de Mikel Arteta depuis. Ce dernier voudra orchestrer une réaction après la première défaite de son équipe cette saison (7v), qui risque de concéder deux défaites consécutives en championnat pour seulement la deuxième fois depuis le début de l’année 2024. Le bilan parfait d’Arteta face à son homologue Daniel Farke en Premier League (4v), associé à une série de six victoires à l’Emirates, dont cinq clean sheets, devrait donner confiance aux Gunners pour renouer avec le succès.Leeds occupait une place dans le top 5 pendant la trêve internationale grâce à son premier début de saison sans défaite en cinq matchs (2v, 3n) en Premier League depuis 2001/02. L’équipe de Farke cherchera à prolonger cette dynamique et s’est montrée particulièrement difficile à battre à l’extérieur, avec seulement deux défaites lors de ses 14 derniers déplacements en championnat (2v, 10n). Prendre les trois points pourrait toutefois être hors de portée pour une équipe qui n’a pas gagné à Londres en Premier League la saison dernière (4n, 3d) et qui n’a remporté qu’un seul de ses 17 derniers déplacements chez le champion en titre de l’élite (6n, 10d). Cette victoire avait toutefois été obtenue contre Arsenal en mai 2003 !Historique des confrontationsArsenal a remporté chacune des sept dernières confrontations en Premier League, sur un score cumulé de 24-5. Leeds a perdu ses cinq derniers déplacements chez les Gunners dans l’élite, en encaissant au moins quatre buts lors de quatre d’entre eux.[image alt=\"Win Probability\" id=\"16b88c25-2dd5-4054-9d2c-5fef415f9e35\" credit-line=\"Opta by StatsPerform\" guid=\"dddad7bc-bab7-4b48-bfc1-cd8d29ca3c71\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursArsenal n’a mené qu’un seul match de championnat à la mi-temps cette saison (MT : 3n, 1d).Arsenal a reçu exactement un carton jaune lors de cinq de ses sept derniers matchs de championnat.Leeds a encaissé au moins trois buts lors de chacun de ses cinq derniers matchs à l’extérieur perdus en Premier League.Plus de 9,5 corners ont été tirés lors de 11 des 15 derniers matchs de championnat de Leeds.Joueurs clés et joueurs absentsViktor Gyökeres a inscrit quatre buts en autant de matchs avec la Suède durant la trêve internationale. Il pourrait être titulaire avec Arsenal, d’autant qu’il a marqué trois buts dans les confrontations la saison dernière, dont deux sur cette pelouse. Son homologue Dominic Calvert-Lewin n’a pas marqué lors de ses neuf dernières confrontations, mais chacun de ses trois derniers buts à l’extérieur avec Leeds a été inscrit à Londres.Kai Havertz et Christos Tzolis se sont blessés avec leurs sélections, mais Declan Rice devrait être apte à tenir le milieu de terrain d’Arsenal. Joe Rodon est indisponible pour Leeds, tandis que son compatriote Harry Wilson est également incertain.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsEn quête de réaction après sa lourde défaite contre Brighton, Arsenal pourrait s'imposer par au moins deux buts si l'on s'en tient à sa domination dans les confrontations.Auteur : Ryan FisherTraduit à l'aide de l'IA",
+    "betting_analysis": "En quête de réaction après sa lourde défaite contre Brighton, Arsenal pourrait s'imposer par au moins deux buts si l'on s'en tient à sa domination dans les confrontations.Auteur : Ryan FisherTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:05.514625+02:00",
+    "retrieved_at": "2026-10-07T16:42:43.154735+02:00",
     "home_team": "Arsenal",
-    "away_team": "Leeds"
+    "away_team": "Leeds",
+    "preview_first_seen_at": "2026-10-07T16:43:29.804126+02:00"
   },
   {
     "sport": "football",
@@ -622,13 +602,14 @@
     ],
     "mid": "hQ2NzTJb",
     "url": "https://www.flashscore.fr/match/football/manchester-utd-ppjDR086/tottenham-UDg08Ohm/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
+    "preview_available": true,
+    "preview_full_text": "Il est difficile de trouver deux clubs de Premier League qui ont davantage besoin d’une victoire que Manchester United et Tottenham. Leurs entraîneurs subissent tous deux une pression croissante après un début de saison décevant.Actus sur le match et forme actuelleAlors que les gros titres de la trêve internationale étaient dominés par son voisin de l’autre côté de la ville, Manchester United a dû apprécier de ne plus être sous les projecteurs après avoir signé son pire début de saison en championnat, à égalité avec celui de 1989/90, après cinq journées. Les cinq maigres points récoltés par les Red Devils à ce stade n’empêchent pas le club d’afficher le meilleur total de tirs du championnat avant cette journée, avec 113 tentatives cette saison. Michael Carrick commence à sentir la pression après avoir supervisé une série de quatre matchs nationaux sans victoire (2n, 2d). Ces deux défaites ont été concédées à Old Trafford, où United avait remporté dix de ses onze matchs précédents sous les ordres de Carrick (1d). Le club pourrait donc perdre trois matchs consécutifs à domicile pour la première fois depuis décembre 2024.La conviction des supporters de Tottenham, qui pensaient que le club ne pouvait pas faire pire que deux 17es places consécutives, s’est déjà évanouie. Les Spurs occupent la dernière place du classement après n’avoir remporté aucun de leurs cinq matchs de championnat cette saison (2n, 3d). Tottenham a récolté moins de points en Premier League (18) que n’importe quel autre club présent sans interruption dans l’élite en 2026. Le club pourrait maintenant commencer une saison sans gagner aucun de ses six premiers matchs de championnat pour seulement la quatrième fois de son histoire. Roberto De Zerbi, qui cherche à devenir seulement le cinquième entraîneur de l’histoire de la Premier League à remporter ses deux premiers déplacements à United, peut au moins se raccrocher au fait que trois des quatre dernières victoires de Tottenham en championnat ont été remportées à l’extérieur.Historique des confrontationsUnited a mis fin à une série de huit affrontements sans victoire (3n, 5d) en s’imposant 2-0 contre les Spurs dans ce stade en février. Il s’agissait de la 25e défaite de Tottenham en déplacement face à United en Premier League. Une seule équipe dans l’histoire de la compétition a déjà perdu davantage de matchs à l’extérieur contre un même adversaire.[image alt=\"Win Probability\" id=\"45d46f76-8fbb-41a0-8115-f1885bec106e\" credit-line=\"Opta by StatsPerform\" guid=\"d7206603-1519-4272-834b-2ee20d4fc14e\" original-width=\"1920\" original-height=\"1080\" /]Hot Stats et Séries en coursUnited a remporté chacun de ses six derniers matchs de championnat à domicile disputés un samedi, le plus récent face à Tottenham.United aborde cette journée parmi les cinq équipes qui n’ont encore jamais mené à la mi-temps d’un match de Premier League cette saison (MT : 4n, 1d).Tottenham n’a remporté aucun de ses 37 derniers matchs de Premier League après avoir concédé le premier but (8n, 29d), à une seule rencontre de son record historique négatif.Plus de 9,5 corners ont été tirés lors de dix des onze derniers matchs de championnat de Tottenham.Joueurs clés et joueurs absentsBryan Mbeumo de United brille face aux Spurs. Il a été impliqué dans sept buts lors de ses six derniers matchs de championnat contre eux (6b, 1pd), en marquant lors des deux affrontements de la saison dernière. Conor Gallagher pourrait avoir gagné sa place dans le onze de Tottenham ici après avoir inscrit son troisième but pour le club lors du dernier match. Ses deux buts cette saison ont toutefois été marqués après la 65e minute, lors de défaites.Patrick Dorgu et Noussair Mazraoui de United se sont blessés pendant la trêve internationale. C’est également le cas des deux joueurs des Spurs, Micky van de Ven et Jan Paul van Hecke.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsUn affrontement entre deux équipes qui ont affiché de nettes fragilités défensives ouvre possiblement la voie à plus de 2,5 buts dans ce match.Auteur : Ryan FisherTraduit à l'aide de l'IA",
+    "betting_analysis": "Un affrontement entre deux équipes qui ont affiché de nettes fragilités défensives ouvre possiblement la voie à plus de 2,5 buts dans ce match.Auteur : Ryan FisherTraduit à l'aide de l'IA",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:07.391727+02:00",
+    "retrieved_at": "2026-10-07T16:42:46.022299+02:00",
     "home_team": "Manchester Utd",
-    "away_team": "Tottenham"
+    "away_team": "Tottenham",
+    "preview_first_seen_at": "2026-10-07T16:43:29.804126+02:00"
   },
   {
     "sport": "football",
@@ -645,7 +626,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:09.331690+02:00",
+    "retrieved_at": "2026-10-07T16:42:48.399185+02:00",
     "home_team": "Barcelone",
     "away_team": "Getafe"
   },
@@ -664,7 +645,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:11.217216+02:00",
+    "retrieved_at": "2026-10-07T16:42:50.815001+02:00",
     "home_team": "Real Madrid",
     "away_team": "Villarreal"
   },
@@ -683,7 +664,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:12.904783+02:00",
+    "retrieved_at": "2026-10-07T16:42:52.740840+02:00",
     "home_team": "Liverpool",
     "away_team": "Manchester City"
   },
@@ -702,7 +683,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:14.714287+02:00",
+    "retrieved_at": "2026-10-07T16:42:55.629576+02:00",
     "home_team": "Cagliari",
     "away_team": "Juventus"
   },
@@ -721,7 +702,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:17.075413+02:00",
+    "retrieved_at": "2026-10-07T16:42:58.318589+02:00",
     "home_team": "Galatasaray",
     "away_team": "Barcelone"
   },
@@ -740,85 +721,9 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:18.861174+02:00",
+    "retrieved_at": "2026-10-07T16:43:00.701355+02:00",
     "home_team": "Atl. Madrid",
     "away_team": "Manchester Utd"
-  },
-  {
-    "sport": "football",
-    "competition": "Amical International",
-    "date": "2026-10-06",
-    "time_paris": "19:00",
-    "participants": [
-      "Algérie",
-      "Niger"
-    ],
-    "mid": "S84Rue1b",
-    "url": "https://www.flashscore.fr/match/football/algerie-nc87N1BR/niger-Eevd7UNo/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T18:57:52.611412+02:00",
-    "home_team": "Algérie",
-    "away_team": "Niger"
-  },
-  {
-    "sport": "football",
-    "competition": "Amical International",
-    "date": "2026-10-06",
-    "time_paris": "13:00",
-    "participants": [
-      "Corée du Sud",
-      "Ouzbékistan"
-    ],
-    "mid": "UBufwQDa",
-    "url": "https://www.flashscore.fr/match/football/coree-du-sud-K6Gs7P6G/ouzbekistan-EZYKKRMc/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T00:55:16.834340+02:00",
-    "home_team": "Corée du Sud",
-    "away_team": "Ouzbékistan"
-  },
-  {
-    "sport": "football",
-    "competition": "Amical International",
-    "date": "2026-10-06",
-    "time_paris": "19:00",
-    "participants": [
-      "Jordanie",
-      "Venezuela"
-    ],
-    "mid": "KplKNguQ",
-    "url": "https://www.flashscore.fr/match/football/jordanie-vNcmJoU2/venezuela-raj05RS9/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T18:57:55.426671+02:00",
-    "home_team": "Jordanie",
-    "away_team": "Venezuela"
-  },
-  {
-    "sport": "football",
-    "competition": "Amical International",
-    "date": "2026-10-07",
-    "time_paris": "01:45",
-    "participants": [
-      "Colombie",
-      "Pérou"
-    ],
-    "mid": "jgKYDBxR",
-    "url": "https://www.flashscore.fr/match/football/colombie-G02s4PCS/perou-Uend67D3/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:11:20.541273+02:00",
-    "home_team": "Colombie",
-    "away_team": "Pérou"
   },
   {
     "sport": "football",
@@ -835,228 +740,180 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:11:23.136725+02:00",
+    "retrieved_at": "2026-10-07T16:43:03.315225+02:00",
     "home_team": "Clermont Foot",
     "away_team": "Red Star"
   },
   {
-    "sport": "tennis",
-    "competition": "CHALLENGER FÉMININ - SIMPLES - Samsun, dur - 1/16 de finale",
-    "date": "2026-10-06",
-    "time_paris": "10:00",
+    "sport": "football",
+    "competition": "Ligue 2 - Journée 9",
+    "date": "2026-10-16",
+    "time_paris": "20:00",
     "participants": [
-      "Lucrezia Stefanini",
-      "Carole Monnet"
+      "Laval",
+      "Clermont Foot"
     ],
-    "mid": "boGGRuNr",
-    "url": "https://www.flashscore.fr/match/tennis/monnet-carole-GQ68ufRu/stefanini-lucrezia-bkppJqxo/",
+    "mid": "U1Q7vKFd",
+    "url": "https://www.flashscore.fr/match/football/clermont-IRuMRua1/laval-E1wDrLsJ/",
     "preview_available": false,
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T00:55:30.781110+02:00",
-    "player_1": "Lucrezia Stefanini",
-    "player_2": "Carole Monnet"
+    "retrieved_at": "2026-10-07T16:43:05.157192+02:00",
+    "home_team": "Laval",
+    "away_team": "Clermont Foot"
+  },
+  {
+    "sport": "badminton",
+    "competition": "BWF WORLD TOUR - HOMMES - Arctic Open - 1/16 de finale",
+    "date": "2026-10-07",
+    "time_paris": "16:36",
+    "participants": [
+      "Toma Junior Popov",
+      "Rasmus Gemke"
+    ],
+    "mid": "I7hLwXx1",
+    "url": "https://www.flashscore.fr/match/badminton/gemke-rasmus-jeJcG9rb/popov-toma-junior-4ltqyHW4/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:39:59.041831+02:00",
+    "home_team": "Toma Junior Popov",
+    "away_team": "Rasmus Gemke"
+  },
+  {
+    "sport": "handball",
+    "competition": "Division 1 - Femmes - Journée 5",
+    "date": "2026-10-07",
+    "time_paris": "20:00",
+    "participants": [
+      "Metz F",
+      "Brest Bretagne F"
+    ],
+    "mid": "vmzi7ByG",
+    "url": "https://www.flashscore.fr/match/handball/brest-bretagne-IcLJim3d/metz-SjMxXdfB/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:43:07.262854+02:00",
+    "home_team": "Metz F",
+    "away_team": "Brest Bretagne F"
+  },
+  {
+    "sport": "handball",
+    "competition": "Ligue des Champions - Préliminaire - Journée 3",
+    "date": "2026-10-07",
+    "time_paris": "20:45",
+    "participants": [
+      "PSG",
+      "Celje"
+    ],
+    "mid": "K6HxKqy8",
+    "url": "https://www.flashscore.fr/match/handball/celje-bcsZkcJn/paris-MmvaXAoA/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:43:09.532182+02:00",
+    "home_team": "PSG",
+    "away_team": "Celje"
+  },
+  {
+    "sport": "basketball",
+    "competition": "Euroligue - Journée 4",
+    "date": "2026-10-07",
+    "time_paris": "20:45",
+    "participants": [
+      "Paris",
+      "Lyon-Villeurbanne"
+    ],
+    "mid": "l2LUzTVH",
+    "url": "https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/paris-CdCP6AWf/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:43:11.977626+02:00",
+    "home_team": "Paris",
+    "away_team": "Lyon-Villeurbanne"
+  },
+  {
+    "sport": "badminton",
+    "competition": "BWF WORLD TOUR - HOMMES - Arctic Open - 1/8 de finale",
+    "date": "2026-10-08",
+    "time_paris": "09:00",
+    "participants": [
+      "Tharun Mannepalli",
+      "Christo Popov"
+    ],
+    "mid": "QRhfOXbM",
+    "url": "https://www.flashscore.fr/match/badminton/mannepalli-tharun-rHey7g9B/popov-christo-6s0IBZwf/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
+    "odds": [],
+    "retrieved_at": "2026-10-07T16:43:14.729865+02:00",
+    "home_team": "Tharun Mannepalli",
+    "away_team": "Christo Popov"
   },
   {
     "sport": "tennis",
-    "competition": "ATP - SIMPLES - Tokyo, dur - Finale",
-    "date": "2026-10-06",
-    "time_paris": "11:00",
+    "competition": "ITF MASCULIN - SIMPLES - M25 Kigali 2, terre battue - 1/8 de finale",
+    "date": "2026-10-08",
+    "time_paris": "10:00",
     "participants": [
-      "Carlos Alcaraz",
-      "Jiri Lehecka"
+      "Calvin Hemery",
+      "Benjamin Lock"
     ],
-    "mid": "nBSdhTc4",
-    "url": "https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/lehecka-jiri-6PlgfXKR/",
-    "preview_available": true,
-    "preview_full_text": "Carlos Alcaraz continue de s’en sortir à Tokyo, mais Jiri Lehecka lui oppose son test le plus difficile à ce jourActus sur le match et forme actuelleTout au long de sa carrière, notamment dans les premiers tours, Carlos Alcaraz a parfois eu tendance à jouer de manière décontractée et à évoluer avec une intensité moindre. Nous avons encore observé des passages similaires chez lui ces dernières semaines. La situation actuelle est toutefois plus préoccupante, car il revient de blessure. Cette baisse de régime ne peut donc pas être simplement écartée en considérant qu’il lui suffirait d’augmenter son intensité pour la surmonter. Malgré ces inquiétudes, il continue de trouver les moyens de gagner à Tokyo, même après s’être mis en difficulté lors de chaque match. En demi-finales, il a récemment battu Jaume Munar après avoir remonté un set de retard, alors qu’il avait mené 5-3 dans la première manche.Après une semaine compliquée à Tokyo, Alcaraz n’est désormais plus qu’à une victoire du titre. Même s’il ne s’agit que d’un titre ATP 500, celui-ci aurait une grande valeur pour lui. Il lui permettrait de retrouver l’élan et la confiance nécessaires après son retour de blessure. Les titres ont également toujours été difficiles à décrocher pour lui lors de cette dernière partie de la saison. En réalité, il n’a remporté que deux titres dans des tournois disputés après l’US Open au cours de sa carrière. L’un d’eux a été remporté à Tokyo l’an dernier, lors de sa première participation.Le parcours de Jiri Lehecka s’est dessiné presque à l’inverse. Il a commencé par deux victoires consécutives en trois sets contre Zizou Bergs et Ugo Humbert, avant de livrer des prestations de plus en plus dominantes au fil du tournoi. Il a facilement dominé Daniel Vallejo et Valentin Vacherot. C’est un résultat à la fois important et satisfaisant pour Lehecka. Il affiche un niveau constant depuis quelques mois, mais peinait à concrétiser cette régularité par un résultat marquant. Il a notamment été pénalisé par un calendrier de tirages défavorable, qui l’a régulièrement conduit à affronter des adversaires dangereux et en forme dès les premiers tours. Historique des confrontations : Carlos Alcaraz mène 3-1 Trois de leurs quatre précédentes rencontres ont eu lieu lors de la saison 2025. Dans l’ensemble, Alcaraz a conservé un net ascendant dans cet affrontement.Stats et faits Alcaraz a remporté huit titres l’an dernier, Tokyo étant le huitième. Il n’a toutefois encore réussi à défendre aucun de ces titres cette saison. Alcaraz affiche un bilan de 27-9 en finales sur le circuit, dont six de ses neuf défaites face à des adversaires du top 10. Lehecka reste sur six victoires consécutives, dont deux succès consécutifs face à des adversaires du top 20 en Coupe Davis le mois dernier. Lehecka présente un bilan de 12-26 face aux adversaires du top 10 au cours de sa carrière. Lehecka a perdu six de ses huit finales sur le circuit. Ses deux victoires ont été remportées face à des adversaires classés au-delà de la 50e place.Analyse des paris sportifsJiri Lehecka peut se montrer irrégulier, avec un niveau de performance qui fluctue souvent, notamment lorsque sa condition physique devient un problème. Lorsqu’il trouve son rythme et que tous les éléments s’imbriquent, il possède toutefois les qualités pour rivaliser avec les tout meilleurs. Il l’a déjà démontré à plusieurs reprises face à Carlos Alcaraz. Si Lehecka parvient à produire son meilleur tennis en finale et qu’Alcaraz continue d’évoluer au niveau affiché lors de ses quatre précédents matchs à Tokyo, le Tchèque aura une réelle occasion non seulement de s’imposer, mais aussi de le faire confortablement. La réputation d’Alcaraz et l’enjeu rendent toutefois la tâche difficile. Beaucoup pourrait dépendre de la manière dont Lehecka gérera mentalement ce défi face à un joueur du top niveau qui semble vulnérable.Traduit à l'aide de l'IA",
-    "betting_analysis": "Jiri Lehecka peut se montrer irrégulier, avec un niveau de performance qui fluctue souvent, notamment lorsque sa condition physique devient un problème. Lorsqu’il trouve son rythme et que tous les éléments s’imbriquent, il possède toutefois les qualités pour rivaliser avec les tout meilleurs. Il l’a déjà démontré à plusieurs reprises face à Carlos Alcaraz. Si Lehecka parvient à produire son meilleur tennis en finale et qu’Alcaraz continue d’évoluer au niveau affiché lors de ses quatre précédents matchs à Tokyo, le Tchèque aura une réelle occasion non seulement de s’imposer, mais aussi de le faire confortablement. La réputation d’Alcaraz et l’enjeu rendent toutefois la tâche difficile. Beaucoup pourrait dépendre de la manière dont Lehecka gérera mentalement ce défi face à un joueur du top niveau qui semble vulnérable.Traduit à l'aide de l'IA",
+    "mid": "tEkTwXmm",
+    "url": "https://www.flashscore.fr/match/tennis/hemery-calvin-fse58iGB/lock-benjamin-SIBro5R7/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T00:55:32.685995+02:00",
-    "player_1": "Carlos Alcaraz",
-    "player_2": "Jiri Lehecka",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
+    "retrieved_at": "2026-10-07T16:43:16.680008+02:00",
+    "player_1": "Calvin Hemery",
+    "player_2": "Benjamin Lock"
   },
   {
-    "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue C - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "16:00",
+    "sport": "tennis",
+    "competition": "WTA - SIMPLES - Pékin, dur - Quarts de finale",
+    "date": "2026-10-09",
+    "time_paris": "05:00",
     "participants": [
-      "Kazakhstan",
-      "Iles Féroé"
+      "Elise Mertens",
+      "Iga Swiatek"
     ],
-    "mid": "rH0l2Mhl",
-    "url": "https://www.flashscore.fr/match/football/iles-feroe-nBmAj3Fc/kazakhstan-l6fBVhqk/",
-    "preview_available": true,
-    "preview_full_text": "Les deux équipes du groupe C3 de la Ligue des Nations (LDN) toujours sans victoire s’affrontent lors de la 4e journée. Le Kazakhstan cherche à dépasser les Îles Féroé au classement grâce à une victoire à Astana.Actus sur le match et forme actuelleLe Kazakhstan a encaissé deux buts lors de la première heure de jeu avant de s’incliner 2-1 face à la Moldavie, nouvelle venue en Ligue C, vendredi. La sélection reste ainsi sans victoire en LDN cette saison et depuis cinq matchs au total (2n, 3d). Elle occupe donc la dernière place du groupe C3 avec un seul point. Ce point a été pris lors du match aller de la 1re journée. John van 't Schip et son équipe espèrent donc que l’avantage du terrain leur permettra de conserver leurs minces espoirs de remonter au classement. La défaite à domicile de vendredi était en réalité la première du Kazakhstan en cinq matchs chez lui. La sélection était invaincue lors de ses quatre précédentes rencontres à l’Astana Arena (3v, 1n), dont deux victoires contre des équipes mieux classées que son prochain adversaire. De quoi lui redonner un peu de confiance.Malgré un but contre son camp, les Îles Féroé, 126es au classement, ont obtenu un match nul 1-1 contre la Slovaquie vendredi. Ce résultat constitue leur troisième match nul 1-1 consécutif dans cette campagne de LDN et leur permet de préserver leur invincibilité. Avec seulement deux défaites lors de leurs 11 derniers matchs (6v, 3n), les Féringiens ont montré à quel point ils étaient difficiles à battre. Pour intégrer le top 2, les Îles Féroé devront toutefois trouver le moyen de mieux conclure leurs matchs et améliorer légèrement leur bilan récent, avec cinq nuls lors de leurs sept dernières rencontres en LDN (1v, 1d). Les hommes d’Eyðun Klakstein se montrent tout aussi accrocheurs à l’extérieur, avec seulement deux défaites lors de leurs six derniers déplacements (3v, 1n).Historique des confrontationsDeux des trois dernières confrontations se sont terminées sur un match nul 1-1. Les Îles Féroé ne se sont inclinées qu’une seule fois dans cet affrontement (3v, 2n).Hot Stats et Séries en coursLe Kazakhstan a inscrit exactement un but lors de huit de ses dix derniers matchs, dont chacun des six plus récents.Six des huit derniers buts encaissés par le Kazakhstan l’ont été après la mi-temps.Les Îles Féroé ont encaissé exactement un but lors de six de leurs neuf derniers matchs.L’une des deux équipes a inscrit exactement un but lors des 14 derniers déplacements des Îles Féroé.Joueurs clés et joueurs absentsUn but d’Islambek Kuat serait une bonne nouvelle pour le Kazakhstan, car ses trois dernières réalisations ont permis à la sélection de rester invaincue (2v, 1n). Il devra toutefois contenir son agressivité, puisqu’il a reçu un carton jaune lors de quatre de ses cinq dernières apparitions avec la sélection. Le bilan de Kuat pourrait être mis à l’épreuve si Hanus Sørensen marque. Ses quatre derniers buts avec les Îles Féroé ont en effet été inscrits lors de trois victoires.Les deux équipes semblent avoir évité toute blessure majeure lors de leurs précédents matchs.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsAu vu des résultats historiques des confrontations et des tendances récentes des deux sélections, nous envisageons un match nul 1-1.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA",
-    "betting_analysis": "Au vu des résultats historiques des confrontations et des tendances récentes des deux sélections, nous envisageons un match nul 1-1.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA",
+    "mid": "Iccxtb3k",
+    "url": "https://www.flashscore.fr/match/tennis/mertens-elise-Y1ZrrUtl/swiatek-iga-jNyZsXZe/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T00:52:43.433091+02:00",
-    "home_team": "Kazakhstan",
-    "away_team": "Iles Féroé",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
+    "retrieved_at": "2026-10-07T16:43:21.631413+02:00",
+    "player_1": "Elise Mertens",
+    "player_2": "Iga Swiatek"
   },
   {
-    "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue C - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "20:45",
+    "sport": "tennis",
+    "competition": "ATP - SIMPLES - Shanghai, dur - 1/32 de finale",
+    "date": "2026-10-10",
+    "time_paris": "04:00",
     "participants": [
-      "Moldavie",
-      "Slovaquie"
+      "Arthur Gea",
+      "Ugo Humbert"
     ],
-    "mid": "EHxWYKTP",
-    "url": "https://www.flashscore.fr/match/football/moldavie-zsDPKQGb/slovaquie-KpLb2q1U/",
-    "preview_available": true,
-    "preview_full_text": "Les deux premières équipes du groupe C3 de la Ligue des Nations (LDN) s’affrontent lors de la quatrième journée, alors que la Moldavie cherche à prendre sa revanche après sa défaite 2-0 contre la Slovaquie au début de cette fenêtre internationale.Actus sur le match et forme actuelleLa série de 17 matchs internationaux consécutifs sans victoire de la Moldavie, entamée en novembre 2024, a pris fin vendredi soir avec un succès 2-1 bienvenu au Kazakhstan. La Moldavie a inscrit au moins deux buts pour la première fois en quatre tentatives. Elle compte désormais quatre points dans le groupe C3 et est bien placée pour obtenir sa promotion en Ligue B pour la première fois. Une victoire ici lui permettrait notamment de réduire l’écart avec la Slovaquie, leader du groupe. La Moldavie cherche maintenant à remporter son premier match à domicile en neuf rencontres (2n, 6d). Une amélioration défensive sera essentielle. Malgré sa victoire de vendredi, qui a mis fin à sa disette, elle reste sur 18 matchs consécutifs sans clean sheet depuis sa promotion en Ligue D.La Slovaquie se déplace à l’est sans avoir perdu lors de ses trois premiers matchs de cette édition (2v, 1n), avec trois points d’avance en tête du groupe C. Son match nul 1-1 aux Îles Féroé lors de la troisième journée a constitué une petite surprise. Elle n’a pas su tirer profit de sa domination dans la possession et n’a remporté qu’un seul de ses huit derniers déplacements (1n, 6d). Elle doit rapidement redresser la barre pour concrétiser son ambition d’une première promotion en LDN. Une septième rencontre consécutive sans défaite, ce qui ne lui est plus arrivé depuis juin 2023, lui permettrait de faire un grand pas vers cet objectif.Historique des confrontationsLa Slovaquie a remporté ses trois précédents affrontements contre la Moldavie, avec un score cumulé de 7-2, dont son seul match à l’extérieur, gagné 1-0 en octobre 2000.Hot Stats et Séries en coursLes deux équipes ont marqué lors de cinq des six derniers matchs internationaux de la Moldavie.La Moldavie a concédé au maximum deux tirs cadrés lors de chacun de ses cinq derniers matchs de LDN à domicile.Au moins une équipe a inscrit au moins deux buts lors de sept des huit derniers matchs internationaux de la Slovaquie.La Slovaquie a obtenu au moins six corners lors de chacun de ses six derniers matchs de LDN.Joueurs clés et joueurs absentsPetru Popescu, côté moldave, reste sur trois matchs consécutifs remportés lorsqu’il marque avec son club ou sa sélection. Il a inscrit le dernier but de son équipe à chacune de ces occasions. Ondrej Duda a marqué lors du précédent affrontement pendant cette trêve internationale. La Moldavie est invaincue lors de ses 13 dernières sélections où il a marqué (9v, 4n).Vadim Rață, côté moldave, pourrait manquer ce match en raison d’une légère blessure, mais la Slovaquie devrait pouvoir compter sur un groupe au complet.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsCompte tenu de l’écart actuel entre les deux sélections au classement mondial de la FIFA, une victoire de la Slovaquie avec plus de 2,5 buts pourrait être envisageable.Auteur : Nathan EvansTraduit à l'aide de l'IA",
-    "betting_analysis": "Compte tenu de l’écart actuel entre les deux sélections au classement mondial de la FIFA, une victoire de la Slovaquie avec plus de 2,5 buts pourrait être envisageable.Auteur : Nathan EvansTraduit à l'aide de l'IA",
+    "mid": "jHC4q3Z0",
+    "url": "https://www.flashscore.fr/match/tennis/gea-arthur-M5Nr6FTR/humbert-ugo-O4ywE5Ah/",
+    "preview_available": false,
+    "preview_full_text": "",
+    "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T18:54:42.533492+02:00",
-    "home_team": "Moldavie",
-    "away_team": "Slovaquie",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue C - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "20:45",
-    "participants": [
-      "Estonie",
-      "Islande"
-    ],
-    "mid": "KELttxyg",
-    "url": "https://www.flashscore.fr/match/football/estonie-YJwM4R15/islande-6TsAIrGN/",
-    "preview_available": true,
-    "preview_full_text": "Révélation de la Ligue des Nations (LDN), l’Estonie a l’occasion de prendre la tête du groupe C4 si elle bat l’Islande pour la première fois depuis près de 24 ans.Actus sur le match et forme actuelleLa victoire 1-0 de l’Estonie, acquise de haute lutte contre le Luxembourg samedi soir, lui a permis de se rapprocher d’une promotion surprise en Ligue B, une première dans son histoire. L’équipe de Jürgen Henn est l’une des grandes surprises de la LDN jusqu’ici. Elle reste invaincue (1v, 2n) malgré un classement largement au-delà de la 100e place mondiale de la FIFA. Les cotes seront à nouveau défavorables ici, alors qu’elle cherche à égaler sa plus longue série d’invincibilité de la dernière décennie : six matchs amicaux entre 2017 et 2018. Avec seulement deux défaites lors de ses sept derniers matchs en Ligue C (2v, 3n), dont deux victoires en trois matchs à domicile (1d), l’Estonie peut discrètement croire à cet exploit malgré son classement FIFA nettement inférieur.L’Islande domine le groupe avec sept points en trois matchs. Elle a décroché samedi soir sa quatrième victoire seulement en LDN (6n, 15d) en s’imposant facilement 3-0 à domicile face à la Bulgarie. Après sa descente de la Ligue A vers la Ligue C au terme de la saison 2020/21, l’Islande a enfin trouvé un niveau à sa portée en LDN. Cette dynamique lui a permis de mettre fin à une série de six matchs sans victoire avant le début de cette campagne de LDN (2n, 4d). Cette forme devrait aider les Islandais à garder les pieds sur terre, d’autant que cette rencontre se joue à l’extérieur. Ils ont perdu sept de leurs 11 matchs de phase de groupes de LDN loin de leurs bases (2v, 2n).Historique des confrontationsL’Estonie n’a remporté qu’un seul de ses huit matchs contre l’Islande, en 2002. Les quatre dernières confrontations se sont toutes soldées par un match nul.Hot Stats et Séries en coursLes sept derniers matchs de l’Estonie ont produit moins de 2,5 buts.Cinq des six dernières défaites de l’Estonie ont été concédées avec au moins deux buts d’écart.Seuls deux des huit derniers matchs de l’Islande à l’extérieur, terrain neutre compris, ont vu les deux équipes marquer.Neuf des dix dernières victoires de l’Islande ont été acquises avec au moins deux buts d’écart.Joueurs clés et joueurs absentsLe défenseur Rasmus Peetson est une source de buts surprenante pour l’Estonie. Il a marqué ou délivré une passe décisive lors de ses deux derniers matchs. C’est généralement de bon augure, puisque la sélection estonienne n’a jamais perdu un match lorsqu’il a contribué à un but (4v, 1n). Andri Guðjohnsen a inscrit les seuls buts de l’Islande lors de chacune des deux dernières confrontations. Il a également ouvert le score lors de deux des trois derniers matchs de sa sélection.Robi Saarma a manqué le dernier match de l’Estonie en raison d’une blessure, tout comme les Islandais Stefán Teitur Þórðarson et Albert Guðmundsson. Le capitaine estonien Karol Mets et le milieu islandais Mikael Egill Ellertsson purgent tous deux une suspension pour accumulation de cartons jaunes.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsComme les deux équipes n'ont concédé qu’un seul but après trois journées, on imagine moins de 2,5 buts ici.Auteur : Aaron MurphyTraduit à l'aide de l'IA",
-    "betting_analysis": "Comme les deux équipes n'ont concédé qu’un seul but après trois journées, on imagine moins de 2,5 buts ici.Auteur : Aaron MurphyTraduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T18:54:44.604951+02:00",
-    "home_team": "Estonie",
-    "away_team": "Islande",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue C - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "20:45",
-    "participants": [
-      "Albanie",
-      "Saint-Marin"
-    ],
-    "mid": "8IQ4zY4U",
-    "url": "https://www.flashscore.fr/match/football/albanie-ELP2K4oB/san-marin-Wlrb53yT/",
-    "preview_available": true,
-    "preview_full_text": "L'Albanie cherchera à reprendre la tête du groupe C1 de la Ligue des Nations (LDN) lors de la réception de Saint-Marin, qui n'a pas encore pris le moindre point à ce niveau de la compétition.Actus sur le match et forme actuelleMalgré l'ouverture du score face à la Finlande, l'Albanie a été pénalisée par un carton rouge reçu peu après. Elle s'est finalement inclinée 2-1, concédant sa première défaite de la campagne. Ce résultat pourrait lui être préjudiciable dans la course à la promotion directe, puisqu'il a permis à la Finlande de prendre la tête. Tout n'est toutefois pas perdu dans la quête d'un retour en Ligue B dès la première tentative, puisque deux des trois derniers matchs auront lieu à domicile. La perspective de remporter deux matchs officiels consécutifs à domicile pour la première fois depuis octobre 2023 devrait la motiver. En cas de succès ici, l'Albanie décrocherait également une quatrième victoire consécutive à domicile en Ligue C.La première campagne de Saint-Marin se déroule comme la plupart l'avaient prévu. La sélection a subi trois défaites sans inscrire de but et reste ancrée à la dernière place du groupe. Elle peut au moins se rassurer en constatant qu'aucune relégation n'est prévue en Ligue C lors de cette édition. Son statut au troisième échelon est donc assuré, quel que soit le résultat de ces trois dernières journées. Sa défaite 4-0 lors de sa dernière sortie constitue toutefois la nouvelle tache sur une campagne jusqu'ici désastreuse. Ce résultat reste conforme à la logique, puisque Saint-Marin n'a remporté aucun de ses 17 derniers matchs internationaux (1n, 16d). La sélection n'a inscrit que six buts durant cette période, tout en en encaissant pas moins de 63.Historique des confrontationsL'Albanie a remporté le match retour de septembre sur le score de 3-0. Elle a ainsi prolongé son bilan parfait dans les confrontations, sans encaisser le moindre but (5v).Hot Stats et Séries en coursAucun des 13 derniers matchs internationaux de l'Albanie ne s'est soldé par un match nul (7v, 6d).Une seule des six dernières rencontres de l'Albanie a vu les deux équipes marquer.Plus de 2,5 buts ont été inscrits lors de sept des huit derniers matchs de Saint-Marin.Saint-Marin n'a pas marqué après la mi-temps lors de ses 15 derniers matchs internationaux.Joueurs clés et joueurs absentsRey Manaj, côté albanais, a inscrit huit buts lors de ses huit derniers matchs avec son club ou sa sélection. Il a également marqué contre la Finlande. C'est le seul de ses cinq derniers buts à avoir été inscrit avant l'heure de jeu, après son but à la 65e minute lors du match retour. Le gardien de Saint-Marin, Edoardo Colombo, est très sollicité depuis le début de cette édition. Il réalise en moyenne 3,3 arrêts par match et a déjà encaissé 14 buts.L'Albanie devra se passer de son gardien suspendu, Etrit Berisha. Le latéral de Saint-Marin, Simone Giocondi, est sorti sur blessure contre la Biélorussie. Le deuxième meilleur buteur de l'histoire de la sélection, Nicola Nanni, est quant à lui suspendu.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsCompte tenu de la forme de ces deux sélections et de leur bilan dans les confrontations, une victoire de l'Albanie sans encaisser de but semble très envisageable ici.Auteur : Alex BowmerTraduit à l'aide de l'IA",
-    "betting_analysis": "Compte tenu de la forme de ces deux sélections et de leur bilan dans les confrontations, une victoire de l'Albanie sans encaisser de but semble très envisageable ici.Auteur : Alex BowmerTraduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T18:54:47.448128+02:00",
-    "home_team": "Albanie",
-    "away_team": "Saint-Marin",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue C - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "20:45",
-    "participants": [
-      "Biélorussie",
-      "Finlande"
-    ],
-    "mid": "8CZffSe3",
-    "url": "https://www.flashscore.fr/match/football/bielorussie-lhXEH2VT/finlande-QuVpPpic/",
-    "preview_available": true,
-    "preview_full_text": "La Biélorussie cherchera à poursuivre ses progrès lorsqu’elle affrontera la Finlande, leader invaincu du groupe C1 de la Ligue des Nations (LDN), lors d’un deuxième match consécutif « à domicile » à Budapest.Actus sur le match et forme actuelleLa Biélorussie a pris quatre points lors de ses trois premiers matchs dans le groupe C1, mais ses performances suivent une trajectoire clairement ascendante. Elle a décroché sa première victoire en battant Saint-Marin 4-0 dans ce stade samedi et reste fermement en course pour la montée. Viktor Goncharenko réalise des débuts solides à la tête de la sélection : il n’a perdu qu’un seul de ses sept matchs à la tête de l’équipe (4v, 2n). Les Ailes blanches n’ont pas encaissé plus de deux buts lors de leurs dix derniers matchs. Goncharenko a ainsi offert à son équipe une base solide, alors qu’elle doit composer avec l’obligation de disputer tous ses matchs à domicile sur terrain neutre et à huis clos.Même l’ouverture du score précoce n’a pas déstabilisé le bon début de campagne de la Finlande en LDN, qui a renversé la situation pour battre l’Albanie 2-1 samedi. Après trois matchs, les Aigles-Hiboux restent la seule équipe invaincue du groupe C1. Ils occupent la tête avec sept points (2v, 1n) et ont inscrit neuf buts, un total impressionnant. La Finlande devra toutefois encore progresser à l’extérieur. Elle n’a battu que Saint-Marin et Malte lors de ses neuf derniers matchs officiels à l’extérieur (1n, 6d), s’inclinant par au moins deux buts d’écart lors de cinq de ces six défaites.Historique des confrontationsLa Finlande reste invaincue lors de ses six précédentes confrontations (2v, 4n), dont la plus récente s’est soldée par un match nul et vierge la semaine dernière. Cette rencontre a prolongé la tendance des cinq dernières confrontations, qui ont toutes produit moins de 2,5 buts.Hot Stats et Séries en coursLors de seulement deux des neuf derniers matchs de la Biélorussie en LDN, les deux équipes ont marqué. La Biélorussie a inscrit huit de ses dix derniers buts après la pause.Huit des 11 derniers matchs officiels à l’extérieur de la Finlande ont produit plus de 2,5 buts.La Finlande n’a encaissé plus d’un but que lors de deux de ses neuf derniers matchs.Joueurs clés et joueurs absentsL’attaquant biélorusse Artem Kontsevoy a inscrit un doublé contre Saint-Marin. Cinq de ses 11 derniers buts en club et en sélection ont été marqués lors des 20 premières minutes. L’attaquant finlandais Leo Walta a lui aussi marqué deux fois samedi. Il se montre toutefois généralement plus efficace en fin de match : 11 de ses 12 derniers buts en club ou en sélection ont été inscrits en seconde période.Aucune des deux équipes n’a fait état d’une nouvelle blessure avant cette affiche.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsLa Biélorussie a enfin retrouvé son efficacité offensive et les Finlandais sont en forme. On imagine donc voir les deux équipes marquer ici.Auteur : Tomáš VlasákTraduit à l'aide de l'IA",
-    "betting_analysis": "La Biélorussie a enfin retrouvé son efficacité offensive et les Finlandais sont en forme. On imagine donc voir les deux équipes marquer ici.Auteur : Tomáš VlasákTraduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T18:54:50.446475+02:00",
-    "home_team": "Biélorussie",
-    "away_team": "Finlande",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue B - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "20:45",
-    "participants": [
-      "Écosse",
-      "Slovénie"
-    ],
-    "mid": "S2ToNxm4",
-    "url": "https://www.flashscore.fr/match/football/ecosse-fZRU25WH/slovenie-tfMf3PoO/",
-    "preview_available": true,
-    "preview_full_text": "L'Écosse et la Slovénie se retrouvent pour la deuxième fois durant cette trêve internationale après leur match nul et vierge lors de la première journée de la Ligue des Nations (LDN). Le vainqueur prendra un avantage concret dans la course à la promotion.Actus sur le match et forme actuelleSébastien Pocognoli a enregistré sa première victoire à la tête de l’Écosse à sa troisième tentative, avec un succès 2-0 contre la Macédoine du Nord. Le score ne reflète finalement pas la domination écossaise dans le jeu. L’Écosse a reçu un carton rouge lors de chacun de ses deux derniers matchs, ce qui fait de la discipline un axe d’amélioration évident alors que la sélection vise un retour en Ligue A dès sa première tentative. Jouer devant la Tartan Army à Glasgow devrait lui donner un supplément de confiance, mais l’Écosse s’est inclinée lors de deux de ses trois dernières apparitions à Hampden Park (1v).À égalité avec l’Écosse avec quatre points et un bilan identique dans le groupe (1v, 1n, 1d) après une défaite 2-1 en Suisse, au cours de laquelle elle a laissé échapper un avantage précoce, la Slovénie sait qu’une victoire lui donnerait un avantage dans la course à la promotion. Un match nul ferait également les affaires des visiteurs grâce à leur meilleure différence de buts. Ce résultat semble probable puisque la Slovénie n’a plus perdu deux matchs consécutifs depuis juin 2022. Depuis cette date, la Slovénie a concédé sept matchs nuls lors de ses dix rencontres suivant une défaite (3v). Toutefois, avec une seule victoire lors de ses sept derniers matchs à l’extérieur (2n, 4d), ses attentes doivent rester mesurées.Historique des confrontationsL’Écosse n’a jamais perdu lors de ses six précédentes confrontations avec la Slovénie (2v, 4n). Les deux affrontements disputés en Écosse ont produit moins de 1,5 but.Hot Stats et Séries en coursLes deux équipes n’ont pas marqué lors des sept derniers matchs de l’Écosse.Au moins un but a été inscrit dans chaque mi-temps lors de trois des quatre derniers matchs de l’Écosse.Moins de 9,5 corners ont été tirés lors de sept des neuf derniers matchs officiels de la Slovénie.Aucun des six derniers matchs à l’extérieur de la Slovénie ne s’est terminé avec plus d’un but d’écart.Joueurs clés et joueurs absentsJohn McGinn a inscrit le deuxième pénalty de sa carrière avec l’Écosse lors du dernier match. Il s’agissait également de sa 19e apparition consécutive en tant que buteur avec son club ou sa sélection, toutes conclues par une victoire. Žan Vipotnik a ouvert le score sans empêcher la défaite de la Slovénie contre la Suisse. Il n’a donc été du côté des vainqueurs que lors de trois de ses huit dernières apparitions en tant que buteur avec son club et sa sélection (3n, 2d).Scott McKenna est suspendu, tandis que la Slovénie ne semble pas avoir de nouvelle absence à déplorer.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsLa Slovénie ne doit pas être sous-estimée malgré le regain de forme de l’Écosse lors de son dernier match. Nous pensons à un match nul ici.Auteur : Matthew BillonTraduit à l'aide de l'IA",
-    "betting_analysis": "La Slovénie ne doit pas être sous-estimée malgré le regain de forme de l’Écosse lors de son dernier match. Nous pensons à un match nul ici.Auteur : Matthew BillonTraduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T18:54:53.494767+02:00",
-    "home_team": "Écosse",
-    "away_team": "Slovénie",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue B - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "20:45",
-    "participants": [
-      "Suisse",
-      "Macédoine du Nord"
-    ],
-    "mid": "SIwFNofE",
-    "url": "https://www.flashscore.fr/match/football/macedoine-du-nord-GrTQ3oHB/suisse-rHJ2vy1B/",
-    "preview_available": true,
-    "preview_full_text": "La Suisse pourrait retrouver la Ligue A de la Ligue des Nations (LDN) en cas de succès face à une Macédoine du Nord qui semble promise à la relégation.Actus sur le match et forme actuelleLa Suisse est aux portes d'un retour immédiat dans l'élite de la LDN après avoir remporté chacun de ses trois premiers matchs de groupe. Le plus récent s'est soldé par une victoire 2-1 contre la Slovénie ce week-end. Ce succès a également prolongé une impressionnante série, avec une seule défaite lors de ses 12 dernières rencontres internationales (8v, 3n). La sélection a inscrit au moins deux buts lors de sept de ces victoires. Une série de 19 matchs (12v, 7n) sans défaite contre une équipe actuellement située hors du top 20 du classement FIFA laisse espérer un nouveau succès. L'Espagne, à deux reprises, est aussi la seule sélection visiteuse à s'être imposée lors d'un match international officiel en Suisse depuis 2014 (26v, 10n) !La Macédoine du Nord connaît un début cauchemardesque pour sa première saison en Ligue B. Sa mauvaise série s'est étirée à 11 rencontres internationales sans victoire (5n, 6d). Trois de ces défaites ont été concédées dans le cadre d'une campagne de LDN déjà sans enjeu, laissant les Lynx derniers du groupe et menacés d'un retour immédiat en troisième division en cas de défaite, si les autres résultats leur sont défavorables. Une série de quatre défaites, dont la plus récente est celle subie 2-0 contre l'Écosse samedi, constitue également sa pire période depuis dix ans. La pression pèse aussi clairement sur le sélectionneur Goce Sedloski, arrivé en janvier, qui n'a pas encore vu son équipe inscrire le moindre but (2n, 5d).Historique des confrontationsLa seule confrontation entre ces deux sélections a eu lieu plus tôt dans cette phase de groupes, lorsque la Suisse s'était imposée 3-0.Hot Stats et Séries en coursAvec 26 tirs cadrés, la Suisse possède le meilleur total de la LDN avant cette journée.La Suisse n'a pas concédé le moindre but en seconde période lors de ses six derniers matchs.Lors de seulement deux des 12 dernières rencontres internationales de la Macédoine du Nord, les deux équipes ont marqué.Une seule équipe a reçu plus de cartons jaunes en LDN que la Macédoine du Nord (12) avant cette journée.Joueurs clés et joueurs absentsSix des 11 buts de Dan Ndoye avec la Suisse ont été inscrits depuis le début de l'année. Quatre d'entre eux ont ouvert ou clôturé le score. Le gardien de la Macédoine du Nord, Stole Dimitrievski, a réalisé au moins trois arrêts lors de chacune de ses trois apparitions pendant cette trêve internationale. Il en a notamment effectué huit lors du match aller.Aucune des deux équipes ne déplore de nouvelle blessure.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsL'inefficacité de la Macédoine du Nord devant le but, associée à l'excellente forme des locaux, laisse penser qu'une victoire de la Suisse sans encaisser de but pourrait être envisageable.Auteur : Matt JonesTraduit à l'aide de l'IA",
-    "betting_analysis": "L'inefficacité de la Macédoine du Nord devant le but, associée à l'excellente forme des locaux, laisse penser qu'une victoire de la Suisse sans encaisser de but pourrait être envisageable.Auteur : Matt JonesTraduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T18:54:56.390040+02:00",
-    "home_team": "Suisse",
-    "away_team": "Macédoine du Nord",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue A - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "20:45",
-    "participants": [
-      "Angleterre",
-      "République Tchèque"
-    ],
-    "mid": "OvE4kA1E",
-    "url": "https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/republique-tcheque-6LHwBDGU/",
-    "preview_available": true,
-    "preview_full_text": "Forte de sa large victoire lors de sa dernière sortie, l’Angleterre conclut cette fenêtre de la Ligue des Nations (LDN) par un match à domicile face à la dernière équipe du groupe A3, la Tchéquie.Actus sur le match et forme actuelleSamedi, l’Angleterre a vécu une soirée historique. Son succès 7-0 contre la Croatie constitue sa plus large victoire dans l’histoire de la LDN. Malgré cette victoire éclatante, sa défaite lors de la première journée contre l’Espagne l’oblige à courir après les résultats dans le groupe A3. Elle n’a plus droit à l’erreur. Cette situation pèse forcément sur l’Angleterre avant son retour à Wembley. Les hommes de Thomas Tuchel n’y ont pas gagné lors de leurs trois dernières sorties (1n, 2d). Ils restent également sur quatre matchs à domicile sans victoire en LDN (2n, 2d). L’Angleterre devra donc franchir plusieurs obstacles psychologiques pour remporter un troisième match consécutif sans encaisser de but.Après avoir débuté sa campagne en LDN par trois défaites consécutives, la Tchéquie doit probablement considérer la relégation comme presque inéluctable. Elle peut toutefois retenir un point positif : seuls les deux plus mauvais quatrièmes des quatre groupes de la Ligue A seront automatiquement relégués. Mais ce départ très lent et les deux matchs restants contre des nations classées dans le top 4 de la FIFA signifient que disputer les barrages de relégation constitue désormais le meilleur objectif réaliste. Même obtenir un seul point dans ce groupe paraît probablement hors de portée pour les Tchèques. La Tchéquie reste sur six matchs sans victoire (1n, 5d) et a perdu chacun de ses sept derniers matchs de Ligue A.Historique des confrontationsL’Angleterre a sans surprise pris le dessus dans l’historique des affrontements (5v, 1n, 1d). Elle a remporté 5-0 le dernier match disputé à Wembley, en 2019. Hot Stats et Séries en coursHuit des neuf derniers matchs de l’Angleterre ont compté au moins deux buts après la mi-temps.Six des sept derniers matchs de l’Angleterre en LDN ont produit plus de 2,5 buts.Six des sept derniers matchs internationaux de la Tchéquie ont produit plus de 1,5 but en seconde période.La Tchéquie a concédé au moins deux buts lors de huit matchs consécutifs en Ligue A.Joueurs clés et joueurs absentsJude Bellingham a contribué à quatre des sept buts de l’Angleterre contre la Croatie (1b, 3pd). Il a également délivré une passe décisive lors de chacune de ses trois dernières titularisations en Ligue A. Le meilleur tireur de la Tchéquie contre l’Espagne était Ondřej Lingr, avec deux tirs. Ses deux derniers buts en club ou en sélection ont été inscrits avant la mi-temps, mais ses 15 précédents l’ont tous été après la pause, dont son unique but avec la sélection.Nico O'Reilly a quitté le rassemblement de l’Angleterre avant le match contre la Croatie. La Tchéquie devra composer sans Ladislav Krejčí, suspendu.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsIl est difficile de trouver beaucoup d’arguments en faveur des Tchèques ici. Une victoire de l’Angleterre sans encaisser de but semble donc envisageable.Auteur : Chris WilsonTraduit à l'aide de l'IA",
-    "betting_analysis": "Il est difficile de trouver beaucoup d’arguments en faveur des Tchèques ici. Une victoire de l’Angleterre sans encaisser de but semble donc envisageable.Auteur : Chris WilsonTraduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T18:55:01.147513+02:00",
-    "home_team": "Angleterre",
-    "away_team": "République Tchèque",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue des Nations UEFA - Ligue C - Journée 4",
-    "date": "2026-10-06",
-    "time_paris": "20:45",
-    "participants": [
-      "Luxembourg",
-      "Bulgarie"
-    ],
-    "mid": "r5r0BrlC",
-    "url": "https://www.flashscore.fr/match/football/bulgarie-WEeqYLaT/luxembourg-2cnFSaNj/",
-    "preview_available": true,
-    "preview_full_text": "Les deux derniers du groupe C4 de la Ligue des Nations (LDN) s’affrontent lorsque le Luxembourg reçoit une Bulgarie en manque de confiance, qu’il a battue lors de la première journée.Actus sur le match et forme actuelleLe Luxembourg a parfaitement lancé sa campagne en LDN en s’imposant 2-1 en Bulgarie, mais les défaites suivantes contre l’Islande (3-0) et l’Estonie (1-0) ont rapidement tempéré les attentes. Le fait d’avoir concédé l’ouverture du score lors de ces trois matchs offre à Jeff Strasser un axe d’amélioration immédiat avant cette rencontre. Ce sera peut-être le cadet de ses soucis, puisque les Lions rouges n’ont remporté qu’un seul de leurs huit derniers matchs officiels à domicile (1n, 6d). Heureusement, la relégation ne les menace pas, la Ligue D disparaissant après cette campagne de LDN. C’est peut-être aussi bien, car le Luxembourg affiche une forme désastreuse dans cette compétition, avec une seule victoire lors de ses neuf derniers matchs de groupe en LDN (3n, 5d).L’absence de relégation réjouira également les supporters bulgares, qui ont vu leur équipe débuter sa campagne en LDN sans victoire (1n, 2d) après une lourde défaite 3-0 contre l’Islande lors de sa dernière sortie. La démission d’Aleksandar Dimitrov en cours de campagne a provoqué quelques remous. Son intérimaire, Atanas Ribarski, estimera peut-être que cette situation lui a été préjudiciable, puisqu’il a perdu son premier match à la tête de l’équipe. Dans la continuité de son prédécesseur, la Bulgarie n’a remporté qu’un seul de ses 12 derniers matchs officiels (2n, 9d). Son déclin est particulièrement visible à l’extérieur, avec cinq défaites consécutives lors de ses derniers déplacements officiels sans inscrire le moindre but.Historique des confrontationsLe Luxembourg a remporté son premier affrontement face à la Bulgarie en s’imposant 2-1 lors du match aller, après 17 tentatives infructueuses (3n, 14d). Il n’a toutefois pas marqué lors de quatre de ses cinq dernières confrontations à domicile.Hot Stats et Séries en coursUn but a été inscrit avant la 20e minute lors de cinq des six derniers matchs du Luxembourg.Un seul des 12 derniers matchs du Luxembourg a vu les deux équipes marquer.Plus de 2,5 buts ont été inscrits lors de neuf des 11 derniers matchs officiels de la Bulgarie.Un seul des six derniers matchs de la Bulgarie s’est décidé par plus d’un but d’écart.Joueurs clés et joueurs absentsLe Luxembourgeois Vincent Thill pourrait détenir la clé de la victoire, puisqu’il n’a perdu qu’un seul de ses 15 derniers matchs où il a marqué avec son club ou sa sélection (10v, 4n). Asen Chandarov pourrait vouloir se mettre rapidement en évidence, puisque cinq de ses neuf derniers buts ont été les premiers de la rencontre, notamment lors du match aller.Le Luxembourg a perdu Danel Sinani et Laurent Jans sur blessure lors de cette fenêtre de la LDN, tandis que la Bulgarie ne semble pas compter de nouvel absent.Consultez la fiche du match sur Flashscore pour les toutes dernières informations sur les équipes.Analyse des paris sportifsLes deux équipes ont éprouvé des difficultés à marquer depuis leur dernier affrontement. On imagine donc moins de 2,5 buts ici.Auteur : Peter StavrinouTraduit à l'aide de l'IA",
-    "betting_analysis": "Les deux équipes ont éprouvé des difficultés à marquer depuis leur dernier affrontement. On imagine donc moins de 2,5 buts ici.Auteur : Peter StavrinouTraduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T18:55:03.581724+02:00",
-    "home_team": "Luxembourg",
-    "away_team": "Bulgarie",
-    "preview_first_seen_at": "2026-10-06T00:55:38.263728+02:00"
+    "retrieved_at": "2026-10-07T16:43:23.486524+02:00",
+    "player_1": "Arthur Gea",
+    "player_2": "Ugo Humbert"
   },
   {
     "sport": "hockey",
@@ -1073,7 +930,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:07.949989+02:00",
+    "retrieved_at": "2026-10-07T16:41:37.049466+02:00",
     "home_team": "Nice",
     "away_team": "Angers"
   },
@@ -1092,7 +949,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:11.003995+02:00",
+    "retrieved_at": "2026-10-07T16:41:40.666817+02:00",
     "home_team": "Briancon",
     "away_team": "Amiens"
   },
@@ -1111,7 +968,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:13.718471+02:00",
+    "retrieved_at": "2026-10-07T16:41:43.463352+02:00",
     "home_team": "Rouen",
     "away_team": "Chamonix Mont-Blanc"
   },
@@ -1130,7 +987,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:15.964570+02:00",
+    "retrieved_at": "2026-10-07T16:41:47.274668+02:00",
     "home_team": "Cergy-Pontoise",
     "away_team": "Anglet"
   },
@@ -1149,7 +1006,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:18.218215+02:00",
+    "retrieved_at": "2026-10-07T16:41:49.616098+02:00",
     "home_team": "Olympique de Marseille",
     "away_team": "Gap"
   },
@@ -1168,7 +1025,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:20.718009+02:00",
+    "retrieved_at": "2026-10-07T16:41:52.432806+02:00",
     "home_team": "Girondins de Bordeaux",
     "away_team": "Grenoble"
   },
@@ -1187,7 +1044,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:23.205735+02:00",
+    "retrieved_at": "2026-10-07T16:41:54.992345+02:00",
     "home_team": "Rouen",
     "away_team": "Angers"
   },
@@ -1206,7 +1063,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:25.607281+02:00",
+    "retrieved_at": "2026-10-07T16:41:58.149002+02:00",
     "home_team": "Rouen",
     "away_team": "Olympique de Marseille"
   },
@@ -1225,7 +1082,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:28.478411+02:00",
+    "retrieved_at": "2026-10-07T16:42:01.020661+02:00",
     "home_team": "Gap",
     "away_team": "Girondins de Bordeaux"
   },
@@ -1244,7 +1101,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:30.950008+02:00",
+    "retrieved_at": "2026-10-07T16:42:04.299704+02:00",
     "home_team": "Grenoble",
     "away_team": "Nice"
   },
@@ -1263,7 +1120,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:33.718654+02:00",
+    "retrieved_at": "2026-10-07T16:42:07.513782+02:00",
     "home_team": "Amiens",
     "away_team": "Olympique de Marseille"
   },
@@ -1282,7 +1139,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:36.356247+02:00",
+    "retrieved_at": "2026-10-07T16:42:10.252917+02:00",
     "home_team": "Cergy-Pontoise",
     "away_team": "Rouen"
   },
@@ -1301,7 +1158,7 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:38.947923+02:00",
+    "retrieved_at": "2026-10-07T16:42:13.228462+02:00",
     "home_team": "Angers",
     "away_team": "Chamonix Mont-Blanc"
   },
@@ -1320,378 +1177,8 @@
     "preview_full_text": "",
     "betting_analysis": "",
     "odds": [],
-    "retrieved_at": "2026-10-06T23:10:41.230825+02:00",
+    "retrieved_at": "2026-10-07T16:42:16.437646+02:00",
     "home_team": "Anglet",
     "away_team": "Briancon"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "06:00",
-    "participants": [
-      "Sho Shimabukuro",
-      "Miomir Kecmanovic"
-    ],
-    "mid": "CCrqn8Wo",
-    "url": "https://www.flashscore.fr/match/tennis/kecmanovic-miomir-MTQ5CPOR/shimabukuro-sho-86URR6MP/",
-    "preview_available": true,
-    "preview_full_text": "Miomir Kecmanovic a les chiffres pour lui, mais sa saison reste marquée par les occasions manquéesActus sur le match et forme actuelleSho Shimabukuro a réalisé quelques progrès remarquables sur le circuit principal cette année, avec un résultat en quarts de finale et une première apparition dans le top 100. Il a également eu une excellente occasion d’accumuler du rythme et de la confiance lors de son tournoi à domicile, à Tokyo, la semaine dernière. Mais il n’a malheureusement pas su en profiter. De manière générale, il a eu du mal à tirer profit de cette période familière de la tournée asiatique, s’inclinant au premier tour à Hangzhou comme à Tokyo sans remporter le moindre set.La saison de Miomir Kecmanovic ressemble à celles qu’il a déjà vécues, avec des défaites difficiles à encaisser. Il est difficile de lui reprocher son engagement, lui qui livre régulièrement de solides batailles avant de finir du mauvais côté du résultat. Il affiche toujours un bilan négatif de 22v, 26d et reste hors du top 50. Nombre de ces matchs sont allés jusqu’à la manche décisive, comme sa plus récente apparition à Pékin la semaine dernière. Il s’y est incliné face à Adrian Mannarino dans un match très disputé en trois sets, après être passé tout près de conclure.Historique des confrontations : Miomir Kecmanovic mène 2-0 Leurs deux précédents affrontements ont eu lieu cette année, à Dallas et à Winston-Salem. Kecmanovic les a tous deux remportés. L’un de ces matchs s’est décidé en trois sets. Stats et faits Il s’agit de la première apparition de Sho Shimabukuro dans le tableau principal du Masters de Shanghai, après avoir été éliminé en qualifications en 2023 et 2024. Shimabukuro n’a jamais remporté de match dans le tableau principal au niveau Masters. Son bilan est de 0v, 3d. - Kecmanovic a déjà participé quatre fois au tableau principal à Shanghai et ne compte qu’une seule victoire dans ce tableau. Kecmanovic a disputé 48 matchs cette année, dont 26 sont allés jusqu’à une manche décisive.Analyse des paris sportifsSon expérience supérieure sur le circuit, son meilleur classement et ses qualités globales font de Kecmanovic un favori logique ici. Toutefois, son manque de victoires et sa tendance à régulièrement céder dans des matchs à sa portée le rendent difficile à suivre en tant que favori, quel que soit son adversaire.Traduit à l'aide de l'IA",
-    "betting_analysis": "Son expérience supérieure sur le circuit, son meilleur classement et ses qualités globales font de Kecmanovic un favori logique ici. Toutefois, son manque de victoires et sa tendance à régulièrement céder dans des matchs à sa portée le rendent difficile à suivre en tant que favori, quel que soit son adversaire.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:06:58.812410+02:00",
-    "player_1": "Sho Shimabukuro",
-    "player_2": "Miomir Kecmanovic",
-    "preview_first_seen_at": "2026-10-06T18:58:20.826428+02:00"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "07:30",
-    "participants": [
-      "Zhizhen Zhang",
-      "Tomas Machac"
-    ],
-    "mid": "CCd1gVME",
-    "url": "https://www.flashscore.fr/match/tennis/machac-tomas-S44E7UYr/zhang-zhizhen-IFKEHRGG/",
-    "preview_available": true,
-    "preview_full_text": "Zhizhen Zhang et Tomas Machac se retrouvent, leurs saisons une nouvelle fois perturbées par des problèmes physiquesActus sur le match et forme actuelleZhizhen Zhang semblait avoir retrouvé une partie de sa forme et de ses moyens physiques lors de la tournée sur gazon cette année, après près d’un an de difficultés. Il pouvait ainsi espérer mieux profiter de la tournée asiatique, relancer sa carrière et rattraper une partie du terrain perdu au classement,Malheureusement, cela ne s’est pas vérifié. Ses problèmes physiques ont refait surface et sérieusement nui à ses performances ces derniers mois, réduisant ses chances de gagner des matchs et d’améliorer son classement. Il reste sur quatre défaites consécutives. Deux d’entre elles ont eu lieu lors de la tournée asiatique, avec notamment des défaites sans remporter le moindre set au premier tour à Hangzhou et à Pékin.Tomas Machac a lui aussi connu son lot de problèmes physiques. Sa saison avait pourtant bien commencé avec un titre à Adélaïde, mais elle s’est complètement délitée au fil des mois. Des soucis physiques récurrents ont perturbé sa campagne. Il peine actuellement à produire le niveau nécessaire pour gagner des matchs sur le circuit principal.Il n’a remporté qu’un seul de ses sept derniers matchs et a même subi deux défaites consécutives sans remporter le moindre set à Pékin la semaine dernière. Il s’est d’abord incliné au dernier tour des qualifications, puis au premier tour en tant que lucky loser.Historique des confrontations : Tomas Machac mène 2-0 Les deux précédentes rencontres sont allées jusqu’au set décisif. Machac s’est imposé à chaque fois, la dernière fois lors des Jeux olympiques de Paris 2024. Stats et faits Zhizhen Zhang a atteint une fois les huitièmes de finale du Masters de Shanghai, mais ses trois autres participations au tableau principal se sont toutes terminées au premier tour. Zhang n’a plus remporté de match sur le circuit depuis Bois-le-Duc en juin. Tomas Machac a déjà atteint les demi-finales du Masters de Shanghai et affiche un bilan parfait de 2-0 au premier tour de ce tournoi. Machac a perdu trois de ses quatre matchs face à des joueurs classés au-delà de la 100e place mondiale cette année.Analyse des paris sportifsLa condition physique pourrait finalement s’avérer déterminante dans cette affiche, les deux joueurs connaissant des difficultés sur ce plan et peinant à trouver la moindre régularité ces dernières semaines. Tous deux sont tout à fait capables de battre l’autre lorsqu’ils sont dans un bon jour, mais aucun n’a récemment approché son meilleur niveau. Le joueur qui saura rester le plus solide physiquement et maintenir son niveau tout au long du match devrait avoir l’avantage. La condition physique sera donc la principale variable d’un duel qui s’annonce très imprévisible.Traduit à l'aide de l'IA",
-    "betting_analysis": "La condition physique pourrait finalement s’avérer déterminante dans cette affiche, les deux joueurs connaissant des difficultés sur ce plan et peinant à trouver la moindre régularité ces dernières semaines. Tous deux sont tout à fait capables de battre l’autre lorsqu’ils sont dans un bon jour, mais aucun n’a récemment approché son meilleur niveau. Le joueur qui saura rester le plus solide physiquement et maintenir son niveau tout au long du match devrait avoir l’avantage. La condition physique sera donc la principale variable d’un duel qui s’annonce très imprévisible.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:05.115269+02:00",
-    "player_1": "Zhizhen Zhang",
-    "player_2": "Tomas Machac",
-    "preview_first_seen_at": "2026-10-06T21:05:00.331953+02:00"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "07:30",
-    "participants": [
-      "Adrian Mannarino",
-      "Nikoloz Basilashvili"
-    ],
-    "mid": "Uc6UWSHb",
-    "url": "https://www.flashscore.fr/match/tennis/basilashvili-nikoloz-Kb8ttRy2/mannarino-adrian-fLOdtByM/",
-    "preview_available": true,
-    "preview_full_text": "Nikoloz Basilashvili a retrouvé son meilleur tennis au moment où Adrian Mannarino reprend de l’élanActus sur le match et forme actuelleLa situation devenait de plus en plus préoccupante pour Adrian Mannarino. Après une nouvelle saison sur terre battue désastreuse, il n’a pas réussi à retrouver son rythme habituel ni sa forme lors de la tournée sur gazon, en grande partie à cause de problèmes physiques. Cette mauvaise série s’est poursuivie tout au long de la tournée précédant l’US Open. Même son passage au niveau Challenger à Rennes le mois dernier n’a pas suffi à l’aider, puisqu’il a été éliminé au deuxième tour par l’outsider Matisse Bobichon.Heureusement pour Mannarino, la tournée asiatique lui a apporté une aide bienvenue. Il a désormais remporté trois de ses cinq matchs dans la région, avec notamment une apparition en quarts de finale à Chengdu. Il a ainsi relancé sa saison et stoppé sa glissade vers une possible sortie du top 100 ATP.Quelle que soit la faiblesse de la forme de Nikoloz Basilashvili ou sa chute au classement, il peut produire instantanément un tennis du niveau du top 50 dès qu’il se met en marche, qu’il s’investit et qu’il joue à son meilleur niveau. C’est exactement ce qu’il a montré jusqu’ici lors de cette tournée asiatique.Arrivé sur une série de quatre défaites consécutives tous niveaux confondus, il a retrouvé son rythme en atteignant les demi-finales à Chengdu après être sorti des qualifications. Il s’est ensuite qualifié avec succès pour le Masters de Shanghai, enchaînant deux victoires en trois sets, typiquement imprévisibles, face à des adversaires relativement inexpérimentés, Andre Ilagan et Liam Draxl.Historique des confrontations : Adrian Mannarino mène 2-1 Tous leurs précédents affrontements ont eu lieu sur des courts en dur Indoor, avec un avantage de 2-1 pour Mannarino.Hot Stats et Séries en cours Mannarino a déjà participé huit fois au Masters de Shanghai et ne compte que deux victoires dans le tableau principal.Mannarino affiche cette année un bilan négatif de 19 victoires pour 31 défaites.L’un des meilleurs résultats de Basilashvili cette année a été obtenu au niveau Masters à Rome, où il a atteint les huitièmes de finale en tant que qualifié.Basilashvili a remporté 11 matchs sur dur cette année, dont sept lors de cette tournée asiatique.Analyse des paris sportifsLes deux joueurs sont très imprévisibles, ce qui rend difficile de savoir quelle version de chacun se présentera le jour du match. Celui qui parviendra à produire le meilleur niveau devrait avoir l’avantage, mais Basilashvili part avec un léger avantage après avoir affiché des intentions encourageantes lors de la tournée asiatique. S’il parvient à conserver cette même intensité, il a de bonnes chances de s’imposer face à Mannarino.Traduit à l'aide de l'IA",
-    "betting_analysis": "Les deux joueurs sont très imprévisibles, ce qui rend difficile de savoir quelle version de chacun se présentera le jour du match. Celui qui parviendra à produire le meilleur niveau devrait avoir l’avantage, mais Basilashvili part avec un léger avantage après avoir affiché des intentions encourageantes lors de la tournée asiatique. S’il parvient à conserver cette même intensité, il a de bonnes chances de s’imposer face à Mannarino.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:11:31.723799+02:00",
-    "player_1": "Adrian Mannarino",
-    "player_2": "Nikoloz Basilashvili",
-    "preview_first_seen_at": "2026-10-06T21:05:00.331953+02:00"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "08:00",
-    "participants": [
-      "Alex Molcan",
-      "Federico Cina"
-    ],
-    "mid": "hbMdIT25",
-    "url": "https://www.flashscore.fr/match/tennis/cina-federico-lvlXwMKk/molcan-alex-drgiRTl7/",
-    "preview_available": true,
-    "preview_full_text": "Alex Molcan peut franchir une nouvelle étape importante dans son retour au premier plan avec une première victoire dans le tableau principal d’un Masters depuis trois ansActus sur le match et forme actuelleAlex Molcan a tiré le meilleur parti des occasions limitées qui lui ont été offertes sur le circuit principal en début d’année. Il a rapidement réintégré le top 100 ATP et a parfaitement su surfer sur cette dynamique. Il a poursuivi sa progression lors de la tournée asiatique. Il a fait ses débuts à Pékin la semaine dernière et a réalisé un parcours solide en tant que qualifié, atteignant le deuxième tour avant de s’incliner au terme d’un match disputé face à un Karen Khachanov revigoré.Federico Cina s’est immédiatement illustré sur le circuit principal lorsqu’il a bénéficié de quelques rares opportunités au début de sa carrière, en 2025. Il a certes eu du mal à confirmer régulièrement les espoirs suscités par ses débuts au cours des mois suivants, mais il continue d’obtenir ponctuellement des occasions au plus haut niveau. Celles-ci devraient s’avérer précieuses pour son développement.Après s’être récemment qualifié pour l’US Open, il a désormais acquis une nouvelle expérience importante du tennis de niveau Masters au Masters de Shanghai. Il a fait ses débuts dans le tournoi et a remporté deux matchs consécutifs en trois sets lors des qualifications.Historique des confrontations : 0-0 Ces deux joueurs ne se sont encore jamais affrontés. Hot Stats et Séries en cours Il s’agit de la première apparition d’Alex Molcan dans le tableau principal d’un Masters depuis Rome 2023. Molcan affiche un bilan solide de 5v-2d au premier tour des tournois Masters. Federico Cina a disputé 12 matchs dans le tableau principal de tournois du circuit principal au cours de sa carrière, dont cinq au niveau Masters. Cina a affronté des joueurs du top 100 à 15 reprises au cours de sa carrière, s’inclinant lors de 12 de ces matchs.Analyse des paris sportifsCina a indéniablement le potentiel pour s’imposer comme un habitué du circuit dans les prochaines années, mais sa forme actuelle n’est pas particulièrement convaincante. De son côté, Molcan a affiché un bon niveau chaque fois qu’il a été en pleine possession de ses moyens cette année. S’il parvient à éviter les problèmes physiques qui ont souvent perturbé sa carrière, il devrait avoir la qualité et l’expérience nécessaires pour dominer le jeune Italien ici.Traduit à l'aide de l'IA",
-    "betting_analysis": "Cina a indéniablement le potentiel pour s’imposer comme un habitué du circuit dans les prochaines années, mais sa forme actuelle n’est pas particulièrement convaincante. De son côté, Molcan a affiché un bon niveau chaque fois qu’il a été en pleine possession de ses moyens cette année. S’il parvient à éviter les problèmes physiques qui ont souvent perturbé sa carrière, il devrait avoir la qualité et l’expérience nécessaires pour dominer le jeune Italien ici.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:13.577508+02:00",
-    "player_1": "Alex Molcan",
-    "player_2": "Federico Cina",
-    "preview_first_seen_at": "2026-10-06T23:11:45.696846+02:00"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "09:00",
-    "participants": [
-      "Marco Trungelliti",
-      "Rei Sakamoto"
-    ],
-    "mid": "O03MYlmn",
-    "url": "https://www.flashscore.fr/match/tennis/sakamoto-rei-AeBHWNls/trungelliti-marco-dQJqWoGg/",
-    "preview_available": true,
-    "preview_full_text": "La disette asiatique de Marco Trungelliti face à Rei Sakamoto, déterminé à saisir sa chanceActus sur le match et forme actuelleC'est déjà la meilleure saison de la carrière de Marco Trungelliti. Il a atteint une finale sur le circuit à Marrakech et a enfin fait ses débuts dans le top 100 à l'âge de 36 ans. Il compte également trois apparitions dans le tableau principal d'un tournoi du Grand Chelem. Il peut encore embellir cette saison en remportant un ou deux matchs lors de la tournée asiatique. Il n'avait encore jamais gagné de match dans le tableau principal pendant cette partie de la saison. Il a commencé sa tournée asiatique à Pékin la semaine dernière, mais s'est incliné au dernier tour des qualifications face à Alex Molcan.Rei Sakamoto doit rattraper son retard cette semaine au Masters de Shanghai après avoir laissé filer une belle occasion à domicile, à Tokyo, la semaine dernière. Il y avait notamment perdu un set d'avance au premier tour contre un Matteo Arnaldi en manque de forme. Il a déjà bien lancé sa quête à Shanghai en battant Seong Chan Hong et Kyrian Jacquet, en forme, pour se qualifier avec succès pour le tableau principal du tournoi pour la deuxième année consécutive.Historique des confrontations : Marco Trungelliti mène 1-0 Les deux joueurs se sont affrontés à Marrakech plus tôt cette année. Plus à l'aise sur terre battue, Trungelliti s'était imposé sans perdre le moindre set. Hot Stats et Séries en cours Trungelliti n'a disputé que 10 tableaux principaux dans des tournois sur dur du circuit au cours de sa carrière. Il affiche un bilan de 4v, 6d au premier tour. Trungelliti n'a disputé que quatre tableaux principaux dans des tournois Masters. Son bilan au premier tour est de 1v, 3d.Sakamoto s'était qualifié avec succès pour le tableau principal du Masters de Shanghai l'an dernier, avant de s'incliner au premier tour. Sakamoto affiche un bilan de 1v, 2d au premier tour des tournois Masters au cours de sa carrière.Analyse des paris sportifsSakamoto possède les qualités nécessaires sur dur et connaît bien ces conditions. Il peut tirer le meilleur parti de cette occasion et décrocher une victoire importante, qui le rapprocherait du top 100. Il manque toutefois souvent de régularité. Reste à voir s'il saura produire son meilleur tennis dans les moments les plus importants. Compte tenu de l'importance de cette occasion et du niveau solide affiché pendant les qualifications, il peut raisonnablement poursuivre sur cette dynamique dans le tableau principal.Traduit à l'aide de l'IA",
-    "betting_analysis": "Sakamoto possède les qualités nécessaires sur dur et connaît bien ces conditions. Il peut tirer le meilleur parti de cette occasion et décrocher une victoire importante, qui le rapprocherait du top 100. Il manque toutefois souvent de régularité. Reste à voir s'il saura produire son meilleur tennis dans les moments les plus importants. Compte tenu de l'importance de cette occasion et du niveau solide affiché pendant les qualifications, il peut raisonnablement poursuivre sur cette dynamique dans le tableau principal.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:15.921550+02:00",
-    "player_1": "Marco Trungelliti",
-    "player_2": "Rei Sakamoto",
-    "preview_first_seen_at": "2026-10-06T23:11:45.696846+02:00"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "09:00",
-    "participants": [
-      "Mattia Bellucci",
-      "Yi Zhou"
-    ],
-    "mid": "6ua9q614",
-    "url": "https://www.flashscore.fr/match/tennis/bellucci-mattia-M9pojLqi/zhou-yi-SbSmfis2/",
-    "preview_available": true,
-    "preview_full_text": "Mattia Bellucci arrive à Shanghai en pleine confiance, tandis que Yi Zhou cherche à réussir une percée à domicileActus sur le match et forme actuelleMattia Bellucci s’est tourné à plusieurs reprises cette année vers les tournois de niveau Challenger lorsqu’il avait besoin de victoires et de confiance. Cette approche lui a une nouvelle fois réussi lors de la tournée asiatique. Après avoir perdu au premier tour de l’ATP de Hangzhou le mois dernier, il a disputé le Challenger de Jingshan la semaine passée et a terminé finaliste après être sorti des qualifications. Ce retour en forme lui a donné un nouvel élan. Il s’est désormais qualifié pour le Masters de Shanghai après avoir battu Elias Ymer et Alexandre Muller.Yi Zhou a connu une carrière junior prometteuse, atteignant la 3e place mondiale, et a certes connu quelques moments positifs au niveau Challenger. Il a toutefois eu du mal à maintenir une dynamique positive et à progresser suffisamment pour espérer percer sur le circuit principal. S’il veut changer cette trajectoire et grimper au classement, il devra tirer le meilleur parti de ces occasions à domicile. Il a récemment bénéficié d’occasions importantes à Chengdu et à Pékin, mais n’a réussi à concrétiser aucune des deux. Il a perdu au premier tour à Chengdu, puis au premier tour des qualifications à Pékin. Sa plus grande opportunité se présente désormais au Masters de Shanghai. De précieux points au classement, des gains importants et une expérience inestimable sont en jeu pour le Chinois de 21 ans.Historique des confrontations : 0-0 Ces deux joueurs ne se sont encore jamais affrontés. Stats et faits Mattia Bellucci a atteint le deuxième tour lors de chacune de ses deux précédentes participations au Masters de Shanghai. Bellucci affiche un solide bilan de 20-5 cette année face aux joueurs classés au-delà du top 100. Il reste actuellement sur une série de huit victoires consécutives contre eux. Yi Zhou compte trois victoires dans le tableau principal au niveau du circuit, toutes obtenues lors de la tournée asiatique, dont une ici même au Masters de Shanghai en 2024. Zhou reste sur trois défaites consécutives et affiche un bilan de 21-22 cette année.Analyse des paris sportifsYi Zhou est un jeune joueur talentueux et bénéficiera du soutien du public local, mais son niveau actuel ne laisse pas penser qu’il est prêt à créer la surprise ici. Il a eu du mal à produire un tennis convaincant ces dernières semaines, ce qui rend difficile de lui faire confiance à ce niveau. Zhou peut néanmoins tirer quelques encouragements du volume de matchs disputés par Bellucci. L’Italien a beaucoup joué au cours des dix derniers jours. Il a commencé par les qualifications du Challenger de Jingshan, puis a de nouveau dû passer par les qualifications au Masters de Shanghai.Traduit à l'aide de l'IA",
-    "betting_analysis": "Yi Zhou est un jeune joueur talentueux et bénéficiera du soutien du public local, mais son niveau actuel ne laisse pas penser qu’il est prêt à créer la surprise ici. Il a eu du mal à produire un tennis convaincant ces dernières semaines, ce qui rend difficile de lui faire confiance à ce niveau. Zhou peut néanmoins tirer quelques encouragements du volume de matchs disputés par Bellucci. L’Italien a beaucoup joué au cours des dix derniers jours. Il a commencé par les qualifications du Challenger de Jingshan, puis a de nouveau dû passer par les qualifications au Masters de Shanghai.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:18.009350+02:00",
-    "player_1": "Mattia Bellucci",
-    "player_2": "Yi Zhou",
-    "preview_first_seen_at": "2026-10-06T23:11:45.696846+02:00"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "09:30",
-    "participants": [
-      "Rinky Hijikata",
-      "Roman Safiullin"
-    ],
-    "mid": "YDo2oSWi",
-    "url": "https://www.flashscore.fr/match/tennis/hijikata-rinky-f9eT4NTQ/safiullin-roman-IBpggNog/",
-    "preview_available": true,
-    "preview_full_text": "Roman Safiullin arrive à Shanghai sur une impressionnante dynamique face à Rinky HijikataActus sur le match et forme actuelleRinky Hijikata réalise une saison solide dans l’ensemble. Son bilan en témoigne, avec déjà 34 victoires à son actif, soit exactement autant que sur l’ensemble de la saison 2025. Son niveau est également resté constant lors de la tournée asiatique, mais le tirage ne l’a pas épargné et il n’a pas encore obtenu de résultat marquant. Il a affronté Andrey Rublev, futur finaliste, au deuxième tour à Hangzhou, puis Stefanos Tsitsipas, ancien troisième joueur mondial, au dernier tour des qualifications à Tokyo la semaine dernière.Roman Safiullin est un joueur qui se nourrit de sa dynamique. Lorsqu’il trouve son rythme et entre pleinement dans son match, il peut se montrer extrêmement dangereux. Il affiche cette forme depuis plusieurs mois. Cela lui a permis de progresser considérablement au classement et de rattraper une grande partie du terrain perdu lors d’une saison 2025 perturbée par les blessures.Après son superbe parcours jusqu’à la deuxième semaine de Wimbledon en tant que qualifié, le Russe a continué à tirer le meilleur parti de la tournée asiatique. Il a déjà remporté six de ses huit matchs. Il a atteint les demi-finales à Hangzhou, ce qui lui a permis de réintégrer le top 100, puis le deuxième tour à Pékin. Il a ensuite signé une campagne de qualifications dominante au Masters de Shanghai.Confrontations : 0-0Ces deux joueurs ne se sont encore jamais affrontés.Stats et faitsHijikata affiche un bilan de 1-1 au premier tour du Masters de Shanghai.Hijikata présente un bilan de 9-6 au niveau Masters cette année. Son meilleur résultat est un parcours jusqu’aux huitièmes de finale à Indian Wells en tant que qualifié.Safiullin a atteint au moins le troisième tour lors de ses deux précédentes participations au Masters de Shanghai.Safiullin affiche un solide bilan de 38-16 cette année.Analyse des paris sportifsSafiullin est le genre de joueur imprévisible qui peut perdre contre presque n’importe qui lorsque son niveau baisse, mais la situation semble différente actuellement. Il joue avec beaucoup de confiance et de détermination, tandis que ses résultats récents sont excellents. À ce stade, il semble en mesure de confirmer son potentiel et d’afficher le niveau requis pour poursuivre sa série de victoires.Traduit à l'aide de l'IA",
-    "betting_analysis": "Safiullin est le genre de joueur imprévisible qui peut perdre contre presque n’importe qui lorsque son niveau baisse, mais la situation semble différente actuellement. Il joue avec beaucoup de confiance et de détermination, tandis que ses résultats récents sont excellents. À ce stade, il semble en mesure de confirmer son potentiel et d’afficher le niveau requis pour poursuivre sa série de victoires.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:20.556426+02:00",
-    "player_1": "Rinky Hijikata",
-    "player_2": "Roman Safiullin",
-    "preview_first_seen_at": "2026-10-06T23:11:45.696846+02:00"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "10:30",
-    "participants": [
-      "Holger Rune",
-      "Daniel Altmaier"
-    ],
-    "mid": "KI9FVRU7",
-    "url": "https://www.flashscore.fr/match/tennis/altmaier-daniel-IPR8h9gM/rune-holger-2kRS8swG/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:23.470483+02:00",
-    "player_1": "Holger Rune",
-    "player_2": "Daniel Altmaier"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "10:30",
-    "participants": [
-      "Quentin Halys",
-      "Chak Lam Coleman Wong"
-    ],
-    "mid": "nJ0PuO0T",
-    "url": "https://www.flashscore.fr/match/tennis/halys-quentin-EDve8Ljh/wong-chak-lam-coleman-zJqvgzz6/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:27.004923+02:00",
-    "player_1": "Quentin Halys",
-    "player_2": "Chak Lam Coleman Wong"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-07",
-    "time_paris": "12:00",
-    "participants": [
-      "Yibing Wu",
-      "Michael Zheng"
-    ],
-    "mid": "0OP4G7XH",
-    "url": "https://www.flashscore.fr/match/tennis/wu-yibing-8ASNvPfK/zheng-michael-tjS5ZIzl/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:29.641211+02:00",
-    "player_1": "Yibing Wu",
-    "player_2": "Michael Zheng"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-08",
-    "time_paris": "04:00",
-    "participants": [
-      "Juan Manuel Cerundolo",
-      "Nicolas Mejia"
-    ],
-    "mid": "YyOCEo2U",
-    "url": "https://www.flashscore.fr/match/tennis/cerundolo-juan-manuel-A93TM7BR/mejia-nicolas-QcT8wHe4/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:46.240089+02:00",
-    "player_1": "Juan Manuel Cerundolo",
-    "player_2": "Nicolas Mejia"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ATP - SIMPLES - Shanghai, dur - 1/64 de finale",
-    "date": "2026-10-08",
-    "time_paris": "04:00",
-    "participants": [
-      "Kimmer Coppejans",
-      "Stefanos Tsitsipas"
-    ],
-    "mid": "Ay8pTpHN",
-    "url": "https://www.flashscore.fr/match/tennis/coppejans-kimmer-67EJxseJ/tsitsipas-stefanos-hb6oWfc6/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:07:49.012158+02:00",
-    "player_1": "Kimmer Coppejans",
-    "player_2": "Stefanos Tsitsipas"
-  },
-  {
-    "sport": "tennis",
-    "competition": "WTA - SIMPLES - Pékin, dur - 1/8 de finale",
-    "date": "2026-10-07",
-    "time_paris": "07:00",
-    "participants": [
-      "Iva Jovic",
-      "Iga Swiatek"
-    ],
-    "mid": "hMOR26Vp",
-    "url": "https://www.flashscore.fr/match/tennis/jovic-iva-bmWvBlnL/swiatek-iga-jNyZsXZe/",
-    "preview_available": true,
-    "preview_full_text": "Iga Swiatek a miraculeusement évité l’élimination à Pékin et devra se montrer très prudente face à l’étoile montante Iva Jovic,Actus sur le match et forme actuelleIga Swiatek était à deux doigts de subir une défaite surprise face à Donna Vekic, après avoir été menée d’un set et 5-2. L’ancienne numéro 1 mondiale a alors livré un match quasiment parfait. Elle a notamment remporté le jeu décisif sans perdre le moindre point, avant de renverser la situation au troisième tour sur le score de 4-6, 7-6, 6-2.Swiatek connaît une nouvelle saison difficile au regard de ses standards élevés. La Polonaise a dû attendre Toronto, en août, pour remporter son premier titre de la saison. Elle n’a pas non plus atteint les quarts de finale lors de ses trois dernières participations en Grand Chelem. Elle figure toujours dans le top 10, mais de justesse.Iva Jovic a perdu le premier set de son match du premier tour, mais elle a depuis remporté quatre sets consécutifs. Elle a ainsi déjà tourné la page de son élimination au premier tour à Pékin en 2025. L’étoile montante a éliminé Harriet Dart après avoir perdu le premier set, puis s’est débarrassée de Kamilla Rakhimova sur le score de 6-1, 7-5. Elle a ainsi prolongé sa série de victoires entamée à Guadalajara.Jovic se montre exceptionnelle depuis le tout premier mois de la saison. Elle a commencé par atteindre la finale à Hobart, puis les quarts de finale d’un Grand Chelem à l’Open d’Australie. Depuis, elle a signé de nombreux résultats enthousiasmants, notamment des huitièmes de finale à Wimbledon et à l’US Open, ainsi qu’une défense de titre réussie à Guadalajara.Historique des confrontationsIl s’agira de leur premier affrontement.Stats et faitsIga Swiatek cherche à atteindre les quarts de finale à Pékin pour la première fois depuis son sacre en 2023, lors de sa première participation.Swiatek a perdu la moitié de ses 16 confrontations avec des joueuses du top 20 cette saison.Iva Jovic a atteint à ce jour sept quarts de finale au niveau du circuit, mais aucun en Asie pour le moment.Jovic a perdu neuf de ses onze confrontations avec des joueuses du top 10 depuis le début de sa carrière.Analyse des paris sportifsIga Swiatek a certainement retenu la leçon de son match contre Donna Vekic et ne prendra pas à la légère Iva Jovic, nouvelle 13e mondiale. Toutefois, la Polonaise, bien plus expérimentée, restera favorite pour aller plus loin à Pékin, où elle a remporté dix de ses onze matchs disputés au cours de sa carrière.Traduit à l'aide de l'IA",
-    "betting_analysis": "Iga Swiatek a certainement retenu la leçon de son match contre Donna Vekic et ne prendra pas à la légère Iva Jovic, nouvelle 13e mondiale. Toutefois, la Polonaise, bien plus expérimentée, restera favorite pour aller plus loin à Pékin, où elle a remporté dix de ses onze matchs disputés au cours de sa carrière.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:11:29.283378+02:00",
-    "player_1": "Iva Jovic",
-    "player_2": "Iga Swiatek",
-    "preview_first_seen_at": "2026-10-06T18:58:20.826428+02:00"
-  },
-  {
-    "sport": "badminton",
-    "competition": "BWF WORLD TOUR - HOMMES - Arctic Open - 1/16 de finale",
-    "date": "2026-10-07",
-    "time_paris": "16:20",
-    "participants": [
-      "Toma Junior Popov",
-      "Rasmus Gemke"
-    ],
-    "mid": "I7hLwXx1",
-    "url": "https://www.flashscore.fr/match/badminton/gemke-rasmus-jeJcG9rb/popov-toma-junior-4ltqyHW4/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:11:39.754218+02:00",
-    "home_team": "Toma Junior Popov",
-    "away_team": "Rasmus Gemke"
-  },
-  {
-    "sport": "badminton",
-    "competition": "BWF WORLD TOUR - HOMMES - Arctic Open - 1/16 de finale",
-    "date": "2026-10-07",
-    "time_paris": "14:40",
-    "participants": [
-      "Jason Gunawan",
-      "Christo Popov"
-    ],
-    "mid": "0EShhWif",
-    "url": "https://www.flashscore.fr/match/badminton/gunawan-jason-WWduvmf6/popov-christo-6s0IBZwf/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:11:37.872374+02:00",
-    "home_team": "Jason Gunawan",
-    "away_team": "Christo Popov"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue Europa - Phase de ligue - Journée 2",
-    "date": "2026-10-15",
-    "time_paris": "21:00",
-    "participants": [
-      "Olympique de Marseille",
-      "Olympiakos"
-    ],
-    "mid": "n95a5iuI",
-    "url": "https://www.flashscore.fr/match/football/marseille-SblU3Hee/olympiakos-hnzvnHPS/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:11:03.797320+02:00",
-    "home_team": "Olympique de Marseille",
-    "away_team": "Olympiakos"
-  },
-  {
-    "sport": "football",
-    "competition": "Ligue 2 - Journée 9",
-    "date": "2026-10-16",
-    "time_paris": "20:00",
-    "participants": [
-      "Laval",
-      "Clermont Foot"
-    ],
-    "mid": "U1Q7vKFd",
-    "url": "https://www.flashscore.fr/match/football/clermont-IRuMRua1/laval-E1wDrLsJ/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:11:25.520289+02:00",
-    "home_team": "Laval",
-    "away_team": "Clermont Foot"
-  },
-  {
-    "sport": "tennis",
-    "competition": "WTA - SIMPLES - Pékin, dur - 1/8 de finale",
-    "date": "2026-10-07",
-    "time_paris": "08:30",
-    "participants": [
-      "Coco Gauff",
-      "Elise Mertens"
-    ],
-    "mid": "dlSy8jLO",
-    "url": "https://www.flashscore.fr/match/tennis/gauff-coco-f5BXmEH6/mertens-elise-Y1ZrrUtl/",
-    "preview_available": true,
-    "preview_full_text": "Coco Gauff n’a pas été parfaite, mais reste en lice pour une nouvelle épopée à l’Open de Chine,Actus sur le match et forme actuelleCoco Gauff n’a pas connu un parcours sans faute à Pékin jusqu’ici, mais l’ancienne championne a éliminé Camila Osorio en trois sets, puis la bénéficiaire d’une invitation Xinran Sun, âgée de 16 ans, sur le score de 7-5, 6-1. La quatrième joueuse mondiale cherchera à frapper un grand coup après avoir atteint huit quarts de finale en 2026 au niveau WTA 1000 ou supérieur.Après avoir terminé finaliste à Miami et à Rome, puis atteint les demi-finales à Wimbledon, Gauff a éprouvé un immense soulagement en remportant enfin son premier titre de la saison à Cincinnati. Elle a toutefois prolongé sa dynamique en montagnes russes et sa forme douce-amère avec une défaite cruelle en demi-finales face à Elena Rybakina à l’US Open.Elise Mertens n’a remporté aucun match à Singapour, malgré une exemption au premier tour et un forfait lors du deuxième. La Belge a cherché à prendre un nouveau départ dans la tournée asiatique à Pékin. Elle y a éliminé Katie Volynets et Jelena Ostapenko au terme de matchs en trois sets.Mertens a peu fait parler d’elle cette saison et n’avait, en réalité, atteint aucun quart de finale dans un tournoi avant Wimbledon. Elle s’est maintenue dans le top 20 à la faveur de plusieurs présences en huitièmes de finale, notamment à l’Open d’Australie et à Rome, ainsi que d’une finale à Monterrey.Historique des confrontationsCoco Gauff mène 5-0. Elle a sauvé pas moins de trois balles de match lors de leur dernier affrontement, à Dubaï plus tôt cette saison, avant de s’imposer 2-6, 7-6, 6-3.Statistiques et faits marquantsCoco Gauff a atteint au moins les demi-finales lors de ses trois précédentes participations à Pékin. Elle y a notamment remporté le titre en 2024.Gauff affiche un bilan mitigé de 12v, 9d face aux joueuses du top 20 cette saison.Elise Mertens affichait un bilan de 3v, 6d à Pékin avant cette quinzaine et n’y a jamais atteint les quarts de finale.Mertens n’a plus battu de joueuse du top 10 sur dur depuis trois ans et demi.Analyse des paris sportifsCoco Gauff est généralement une joueuse fiable à l’Open de Chine, et cela reste vrai malgré quelques difficultés lors des premiers tours cette année. L’Américaine devrait prolonger sa série de victoires face à Elise Mertens, même si la Belge pourrait l’obliger à disputer des sets accrochés.Traduit à l'aide de l'IA",
-    "betting_analysis": "Coco Gauff est généralement une joueuse fiable à l’Open de Chine, et cela reste vrai malgré quelques difficultés lors des premiers tours cette année. L’Américaine devrait prolonger sa série de victoires face à Elise Mertens, même si la Belge pourrait l’obliger à disputer des sets accrochés.Traduit à l'aide de l'IA",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:11:33.614727+02:00",
-    "player_1": "Coco Gauff",
-    "player_2": "Elise Mertens",
-    "preview_first_seen_at": "2026-10-06T21:05:00.331953+02:00"
-  },
-  {
-    "sport": "tennis",
-    "competition": "ITF MASCULIN - SIMPLES - M25 Kigali 2, terre battue - 1/16 de finale",
-    "date": "2026-10-07",
-    "time_paris": "10:00",
-    "participants": [
-      "Calvin Hemery",
-      "Niklas Grunewald"
-    ],
-    "mid": "by7gVJIk",
-    "url": "https://www.flashscore.fr/match/tennis/grunewald-niklas-dh7PxgmK/hemery-calvin-fse58iGB/",
-    "preview_available": false,
-    "preview_full_text": "",
-    "betting_analysis": "",
-    "odds": [],
-    "retrieved_at": "2026-10-06T23:11:35.504492+02:00",
-    "player_1": "Calvin Hemery",
-    "player_2": "Niklas Grunewald"
   }
 ]
