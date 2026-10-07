@@ -39,14 +39,20 @@ URL: https://www.flashscore.fr/match/tennis/royer-valentin-IFGPWCuI/vallejo-dani
 ---
 
 07:30 | TENNIS | Mariano Navone - Pablo Carreno-Busta
+Flashscore conclusion:
+Pablo Carreno Busta est le joueur le plus expérimenté sur le circuit et possède un bilan de carrière bien supérieur sur dur. Cependant, son niveau de forme fluctuant le rend très peu fiable. De son côté, Navone traverse la meilleure période de sa carrière sur dur et continue de livrer des prestations très compétitives sur cette surface. À ce stade, Navone semble avoir l’avantage.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/carreno-busta-pablo-W8WmcXdq/navone-mariano-YoPUeL3o/
 ---
 
 07:30 | TENNIS | Thiago Agustin Tirante - Hamad Medjedovic
+Flashscore conclusion:
+Medjedovic possède toutes les armes pour dominer et prendre le dessus sur Thiago Agustin Tirante dans ces conditions. Il devra toutefois être au meilleur de sa forme physique pour imposer son jeu et laisser parler ses qualités et son talent.Sa condition physique constituant actuellement une grande incertitude, Tirante devrait avoir une vraie chance de rendre ce match disputé. Au final, beaucoup dépendra de l’état physique de Medjedovic le jour du match et de la liberté que celui-ci lui permettra d’exprimer sur le court.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/medjedovic-hamad-nDcBkcu7/tirante-thiago-agustin-jBkGDj34/
 ---
 
 07:30 | TENNIS | Bernard Tomic - Matteo Arnaldi
+Flashscore conclusion:
+Bernard Tomic possède suffisamment de talent pour rivaliser avec Arnaldi et tenir tête à plusieurs joueurs du top 50 lorsqu’il évolue à son meilleur niveau. Toutefois, ses principales faiblesses résident dans sa motivation et son implication. Ses problèmes physiques sont également devenus une préoccupation récurrente ces derniers temps. Il a souvent du mal à maintenir son niveau, même dans les échelons inférieurs du tennis. Il est donc extrêmement difficile de lui faire confiance à ce stade, surtout face à un adversaire aussi intense et infatigable que Matteo Arnaldi.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/arnaldi-matteo-hlVLAfZK/tomic-bernard-fVQY2TUC/
 ---
 
@@ -186,11 +192,11 @@ URL: https://www.flashscore.fr/match/badminton/gemke-rasmus-jeJcG9rb/popov-toma-
 URL: https://www.flashscore.fr/match/handball/brest-bretagne-IcLJim3d/metz-SjMxXdfB/
 ---
 
-20:45 | HANDBALL | PSG - Celje
+21:28 | HANDBALL | PSG - Celje
 URL: https://www.flashscore.fr/match/handball/celje-bcsZkcJn/paris-MmvaXAoA/
 ---
 
-20:45 | BASKETBALL | Paris - Lyon-Villeurbanne
+21:05 | BASKETBALL | Paris - Lyon-Villeurbanne
 URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/paris-CdCP6AWf/
 ---
 
