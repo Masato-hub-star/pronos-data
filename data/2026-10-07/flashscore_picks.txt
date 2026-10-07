@@ -35,6 +35,8 @@ URL: https://www.flashscore.fr/match/tennis/duckworth-james-2JWHPUUb/hurkacz-hub
 ---
 
 07:30 | TENNIS | Adolfo Daniel Vallejo - Valentin Royer
+Flashscore conclusion:
+Royer est plus naturellement à l’aise sur dur et a déjà acquis de l’expérience sur ce site à Shanghai. Il aurait été le favori évident de cette confrontation sur dur en début d’année. Cependant, ses difficultés à enchaîner les victoires ont changé la donne. De son côté, Vallejo reste sur un parcours jusqu’en quarts de finale à Tokyo et a affiché des progrès encourageants sur dur.Vallejo mérite donc de débuter en favori, même si Royer a de bonnes chances de rendre cette confrontation disputée s’il retrouve son meilleur niveau.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/royer-valentin-IFGPWCuI/vallejo-daniel-U5RiWEZu/
 ---
 
@@ -73,6 +75,8 @@ URL: https://www.flashscore.fr/match/tennis/cerundolo-juan-manuel-A93TM7BR/mejia
 ---
 
 10:30 | TENNIS | Vit Kopriva - Zizou Bergs
+Flashscore conclusion:
+Vit Kopriva possède la combativité, la résilience et l’endurance physique nécessaires pour mettre Bergs en difficulté, surtout si le Belge n’évolue pas à son meilleur niveau. Cependant, Kopriva est actuellement le joueur en manque de forme, tandis que Bergs a affiché un niveau compétitif malgré son manque de victoires. Si Bergs parvient à reproduire le niveau montré à Tokyo, il devrait être en bonne position pour maîtriser le Kopriva actuel sans trop de problèmes.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/bergs-zizou-SbeTx1o8/kopriva-vit-EHGKxKDL/
 ---
 
@@ -274,5 +278,13 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/briancon-p4oJOtWk/
 
 12:30 | BADMINTON | Toma Junior Popov - Yushi Tanaka
 URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/tanaka-yuji-xQbRefgp/
+---
+
+04:00 | TENNIS | Adrian Mannarino - Flavio Cobolli
+URL: https://www.flashscore.fr/match/tennis/cobolli-flavio-zDtaCcPe/mannarino-adrian-fLOdtByM/
+---
+
+16:00 | HANDBALL | Győr F - Metz F
+URL: https://www.flashscore.fr/match/handball/gyor-bVfjVoZm/metz-SjMxXdfB/
 ---
 
