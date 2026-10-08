@@ -17,6 +17,8 @@ URL: https://www.flashscore.fr/match/tennis/rublev-andrey-AeAn4gP0/sakamoto-rei-
 ---
 
 06:00 | TENNIS | Ben Shelton - Daniel Altmaier
+Flashscore conclusion:
+La pression et les attentes augmentent autour de Ben Shelton depuis son entrée dans le top 4, et il sera intéressant de voir comment il les gère. Mais il apprécie la lumière et élève son niveau lorsque l’enjeu est important. Il devrait donc gérer ce moment sans trop de difficultés et venir à bout d’Altmaier, loin de son meilleur niveau ces derniers mois.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/altmaier-daniel-IPR8h9gM/shelton-ben-QNuG0Gzb/
 ---
 
@@ -39,6 +41,8 @@ URL: https://www.flashscore.fr/match/tennis/blockx-alexander-xll0TzGG/halys-quen
 ---
 
 07:30 | TENNIS | Alexander Zverev - Yibing Wu
+Flashscore conclusion:
+Un futur numéro 1 mondial opposé à un joueur situé en dehors du top 100 devrait normalement largement donner l’avantage au mieux classé. Il est toutefois difficile de faire confiance à Zverev avec une cote aussi faible, compte tenu de sa fragilité récente en dehors des tournois du Grand Chelem. Wu est un joueur extrêmement talentueux, soutenu par son public. S’il reste en forme et joue à son meilleur niveau, il possède les qualités nécessaires pour mettre Zverev en difficulté et rendre ce match compétitif.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/wu-yibing-8ASNvPfK/zverev-alexander-dGbUhw9m/
 ---
 
@@ -53,6 +57,8 @@ URL: https://www.flashscore.fr/match/tennis/fery-arthur-SKxbA6KA/khachanov-karen
 ---
 
 09:00 | TENNIS | Alejandro Davidovich Fokina - Jenson Brooksby
+Flashscore conclusion:
+Le solide début de tournée asiatique d'Alejandro Davidovich Fokina lui vaut le statut de favori avant ce match. Des doutes subsistent toutefois sur sa condition physique, qui a lourdement perturbé sa saison, l'éloignant des courts et pénalisant ses résultats dans plusieurs tournois. Elle a également joué un rôle dans sa défaite à l'usure à Tokyo la semaine dernière. Beaucoup dépendra de sa capacité à gérer son corps le jour du match. Il affiche en tout cas la forme nécessaire pour battre Jenson Brooksby actuellement.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/brooksby-jenson-MoOtVkbN/davidovich-fokina-alejandro-0zQXLfz4/
 ---
 
@@ -201,6 +207,8 @@ URL: https://www.flashscore.fr/match/tennis/hemery-calvin-fse58iGB/vankan-marlon
 ---
 
 13:00 | TENNIS | Elise Mertens - Iga Swiatek
+Flashscore conclusion:
+Iga Swiatek ne peut se permettre de prendre la moindre adversaire à la légère, d’autant que sa place dans le top 10 est en jeu. Malgré tout, l’ancienne numéro 1 mondiale conservera l’avantage alors qu’elle cherche à décrocher une troisième victoire face à Elise Mertens.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/mertens-elise-Y1ZrrUtl/swiatek-iga-jNyZsXZe/
 ---
 
@@ -330,5 +338,25 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/chamonix-mont-blanc-
 
 20:30 | HOCKEY | Anglet - Briancon
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/briancon-p4oJOtWk/
+---
+
+20:00 | HOCKEY | Nice - Gap
+URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/nice-AkAAP4QB/
+---
+
+20:00 | HOCKEY | Chamonix Mont-Blanc - Grenoble
+URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
+---
+
+20:00 | HOCKEY | Briancon - Cergy-Pontoise
+URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/cergy-pontoise-CK87QfVF/
+---
+
+20:15 | HOCKEY | Girondins de Bordeaux - Amiens
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/bordeaux-n9V6xiyI/
+---
+
+20:15 | HOCKEY | Olympique de Marseille - Anglet
+URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/marseille-nkohUngl/
 ---
 
