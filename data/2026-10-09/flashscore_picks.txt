@@ -59,6 +59,8 @@ URL: https://www.flashscore.fr/match/tennis/svajda-zachary-vynGYhMa/tien-learner
 ---
 
 10:30 | TENNIS | Luciano Darderi - Stefanos Tsitsipas
+Flashscore conclusion:
+Stefanos Tsitsipas était un grand favori lors de leur affrontement à Halle l’année dernière. Il ne présente toutefois plus la même garantie aujourd’hui, puisqu’il n’est plus le joueur qu’il était et que Luciano Darderi progresse sur dur. Tsitsipas devrait néanmoins avoir l’avantage. Sa dynamique est positive et il reste le joueur le plus expérimenté dans ces conditions.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/darderi-luciano-jeXTxMIp/tsitsipas-stefanos-hb6oWfc6/
 ---
 
@@ -77,6 +79,8 @@ URL: https://www.flashscore.fr/match/tennis/michelsen-alex-nDIhfm9l/van-de-zands
 ---
 
 12:00 | TENNIS | Juan Manuel Cerundolo - Carlos Alcaraz
+Flashscore conclusion:
+Juan Manuel Cerundolo a signé la plus belle victoire de sa carrière en profitant des problèmes physiques de Jannik Sinner à Roland-Garros. Il cherchera désormais à tirer parti de la fatigue accumulée par Carlos Alcaraz lors de son parcours victorieux à Tokyo afin de rejoindre le cercle restreint des joueurs ayant battu les deux hommes au cours d’une même saison. Alcaraz a montré une grande vulnérabilité à Tokyo. Une prestation sans faute semble donc improbable, mais Cerundolo ne semble pas être le joueur capable d’en profiter.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/cerundolo-juan-manuel-A93TM7BR/
 ---
 
@@ -370,7 +374,7 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/bordeaux-n9V6xiyI/
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/marseille-nkohUngl/
 ---
 
-10:00 | TENNIS | Max Houkes - Calvin Hemery
+11:00 | TENNIS | Max Houkes - Calvin Hemery
 URL: https://www.flashscore.fr/match/tennis/hemery-calvin-fse58iGB/houkes-max-00P4vHo8/
 ---
 
