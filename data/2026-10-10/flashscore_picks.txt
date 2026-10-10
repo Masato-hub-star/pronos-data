@@ -326,11 +326,27 @@ URL: https://www.flashscore.fr/match/football/celta-vigo-8pvUZFhf/juventus-C06aJ
 URL: https://www.flashscore.fr/match/football/ipswich-thqhB2MB/manchester-city-Wtn9Stg0/
 ---
 
-10:00 | TENNIS | Ugo Blanchet - Nicolas Tepmahc
+11:30 | TENNIS | Ugo Blanchet - Nicolas Tepmahc
 URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/tepmahc-nicolas-I17Wo6gj/
 ---
 
 13:00 | TENNIS | Mathys Erhard - Lorenzo Rocco
 URL: https://www.flashscore.fr/match/tennis/erhard-mathys-ngZLM7eO/rocco-lorenzo-2yuPxsum/
+---
+
+18:30 | FOOTBALL | Betis - Barcelone
+URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/betis-vJbTeCGP/
+---
+
+20:45 | FOOTBALL | Stade Brestois - OGC Nice
+URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/nice-YagoQJpq/
+---
+
+17:15 | FOOTBALL | Toulouse - ESTAC
+URL: https://www.flashscore.fr/match/football/toulouse-MLmY2yB1/troyes-fsfAHubD/
+---
+
+20:45 | FOOTBALL | RC Lens - Paris FC
+URL: https://www.flashscore.fr/match/football/lens-IBmris38/paris-fc-0OEHEprs/
 ---
 
