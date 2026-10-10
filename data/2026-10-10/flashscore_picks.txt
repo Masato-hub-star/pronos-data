@@ -35,6 +35,8 @@ URL: https://www.flashscore.fr/match/tennis/bublik-alexander-t0WN9vR6/nakashima-
 ---
 
 12:00 | TENNIS | Alexander Zverev - Quentin Halys
+Flashscore conclusion:
+L’une des raisons pour lesquelles les performances compétitives de Halys ne se sont pas toujours traduites par des résultats positifs tient à une série de tirages défavorables. Il a récemment été battu par Alex de Minaur à Cincinnati, Zverev à l’US Open, Felix Auger-Aliassime en Coupe Davis, puis de nouveau par De Minaur à Beijing. Le point positif est qu’il a poussé ces joueurs du top 10 dans leurs retranchements à chaque fois. Il devrait en faire de même ici, comme lorsqu’il avait contraint Zverev à disputer cinq sets à l’US Open il y a quelques semaines.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/halys-quentin-EDve8Ljh/zverev-alexander-dGbUhw9m/
 ---
 
@@ -314,5 +316,21 @@ URL: https://www.flashscore.fr/match/tennis/paul-tommy-pd3ye1BS/vacherot-valenti
 
 04:00 | TENNIS | Diane Parry - Anna Kalinskaya
 URL: https://www.flashscore.fr/match/tennis/kalinskaya-anna-KGdcQnEf/parry-diane-hQQLzcNT/
+---
+
+21:00 | FOOTBALL | Celta Vigo - Juventus
+URL: https://www.flashscore.fr/match/football/celta-vigo-8pvUZFhf/juventus-C06aJvIB/
+---
+
+16:00 | FOOTBALL | Manchester City - Ipswich
+URL: https://www.flashscore.fr/match/football/ipswich-thqhB2MB/manchester-city-Wtn9Stg0/
+---
+
+10:00 | TENNIS | Ugo Blanchet - Nicolas Tepmahc
+URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/tepmahc-nicolas-I17Wo6gj/
+---
+
+13:00 | TENNIS | Mathys Erhard - Lorenzo Rocco
+URL: https://www.flashscore.fr/match/tennis/erhard-mathys-ngZLM7eO/rocco-lorenzo-2yuPxsum/
 ---
 
