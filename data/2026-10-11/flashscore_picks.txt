@@ -35,10 +35,14 @@ URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/van-de-zandschu
 ---
 
 12:00 | TENNIS | Zizou Bergs - Carlos Alcaraz
+Flashscore conclusion:
+Zizou Bergs peut afficher une réelle qualité par séquences lorsqu’il évolue à son meilleur niveau. S’il y parvient pendant toute cette campagne à Shanghai, il devrait aborder cette grande affiche avec optimisme. Mais Carlos Alcaraz trouve les moyens de s’imposer match après match dans cette période difficile, quelques semaines seulement après son retour de blessure. Il est donc difficile d’imaginer Bergs mettre fin à la série de victoires actuelle de l’Espagnol.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/bergs-zizou-SbeTx1o8/
 ---
 
 13:30 | TENNIS | Tommy Paul - Valentin Vacherot
+Flashscore conclusion:
+Valentin Vacherot est peut-être le tenant du titre, mais il s'agit d'un test très difficile face à un adversaire confirmé, expérimenté et difficile à faire plier comme Tommy Paul. Vacherot a signé plusieurs victoires remarquables à Shanghai l'an dernier, puis de nouveau à Tokyo la semaine dernière. Il devra renouer avec son esprit combatif et retrouver la magie de la tournée asiatique pour entretenir sa défense de titre. Cette affiche s'annonce passionnante.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/paul-tommy-pd3ye1BS/vacherot-valentin-rFqoSYd8/
 ---
 
@@ -168,7 +172,7 @@ URL: https://www.flashscore.fr/match/tennis/pavlovic-luka-Mkf0LF4j/shi-kangyuan-
 URL: https://www.flashscore.fr/match/tennis/martineau-matteo-IDkmT0Hj/schoenhaus-max-2k82Daun/
 ---
 
-10:00 | TENNIS | Sascha Gueymard Wayenburg - Liam Broady
+16:30 | TENNIS | Sascha Gueymard Wayenburg - Liam Broady
 URL: https://www.flashscore.fr/match/tennis/broady-liam-UTu7grNI/gueymard-wayenburg-sascha-OdbfkgxD/
 ---
 
@@ -176,7 +180,7 @@ URL: https://www.flashscore.fr/match/tennis/broady-liam-UTu7grNI/gueymard-wayenb
 URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/grenier-hugo-dQsvQVYi/
 ---
 
-10:00 | TENNIS | Ugo Blanchet - Daniel De Jonge
+10:30 | TENNIS | Ugo Blanchet - Daniel De Jonge
 URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/de-jonge-daniel-tGGdpX9d/
 ---
 
@@ -268,5 +272,17 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/bordeaux-n9V6xiyI/
 
 20:15 | HOCKEY | Olympique de Marseille - Anglet
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/marseille-nkohUngl/
+---
+
+04:00 | TENNIS | Hubert Hurkacz - Alejandro Davidovich Fokina
+URL: https://www.flashscore.fr/match/tennis/davidovich-fokina-alejandro-0zQXLfz4/hurkacz-hubert-zuHOBnY9/
+---
+
+15:00 | FOOTBALL | Leeds - Manchester Utd
+URL: https://www.flashscore.fr/match/football/leeds-tUxUbLR2/manchester-utd-ppjDR086/
+---
+
+11:30 | TENNIS | Mathys Erhard - Leo Raquillet
+URL: https://www.flashscore.fr/match/tennis/erhard-mathys-ngZLM7eO/raquillet-leo-6XFOXbPo/
 ---
 
