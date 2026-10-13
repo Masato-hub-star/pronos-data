@@ -1,14 +1,15 @@
 {
   "scan_times": [
     "2026-10-13T01:13:43.043328+02:00",
-    "2026-10-13T17:17:22.892569+02:00"
+    "2026-10-13T17:17:22.892569+02:00",
+    "2026-10-13T19:47:00.856590+02:00"
   ],
-  "last_scan": "2026-10-13T17:17:22.892569+02:00",
-  "events_seen": 256,
-  "previews_found": 56,
-  "new_previews_added": 15,
-  "duplicates_merged": 161,
-  "invalid_mid_excluded": 24,
+  "last_scan": "2026-10-13T19:47:00.856590+02:00",
+  "events_seen": 384,
+  "previews_found": 87,
+  "new_previews_added": 18,
+  "duplicates_merged": 273,
+  "invalid_mid_excluded": 36,
   "post_start_previews_rejected": 0,
-  "total_entries": 71
+  "total_entries": 75
 }
