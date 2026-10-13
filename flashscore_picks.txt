@@ -298,7 +298,7 @@ URL: https://www.flashscore.fr/match/tennis/frech-magdalena-W6pL8zuB/swiatek-iga
 URL: https://www.flashscore.fr/match/tennis/pavlovic-luka-Mkf0LF4j/schoolkate-tristan-hn8XQkiU/
 ---
 
-09:00 | BADMINTON | Hong Yang Weng - Christo Popov
+14:00 | BADMINTON | Hong Yang Weng - Christo Popov
 URL: https://www.flashscore.fr/match/badminton/popov-christo-6s0IBZwf/weng-hongyang-0rMDF0d6/
 ---
 
@@ -332,5 +332,21 @@ URL: https://www.flashscore.fr/match/tennis/bertimon-charles-KjiS6S8C/blancaneau
 
 11:30 | TENNIS | Robin Bertrand - Mohamed Ali Abibsi
 URL: https://www.flashscore.fr/match/tennis/abibsi-mohamed-ali-fLsxCRR2/bertrand-robin-2mcblDiJ/
+---
+
+18:45 | FOOTBALL | LOSC - Galatasaray
+URL: https://www.flashscore.fr/match/football/galatasaray-riaqqurF/lille-pfDZL71o/
+---
+
+20:45 | FOOTBALL | Juventus - Lazio
+URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/lazio-URcSl02h/
+---
+
+21:00 | FOOTBALL | Real Madrid - FC Séville
+URL: https://www.flashscore.fr/match/football/real-madrid-W8mj7MDD/sevilla-h8oAv4Ts/
+---
+
+20:00 | FOOTBALL | Clermont Foot - Guingamp
+URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/guingamp-QDfKl36E/
 ---
 
