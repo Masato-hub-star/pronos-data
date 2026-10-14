@@ -1,0 +1,13 @@
+{
+  "scan_times": [
+    "2026-10-14T15:04:16.350557+02:00"
+  ],
+  "last_scan": "2026-10-14T15:04:16.350557+02:00",
+  "events_seen": 128,
+  "previews_found": 25,
+  "new_previews_added": 9,
+  "duplicates_merged": 56,
+  "invalid_mid_excluded": 16,
+  "post_start_previews_rejected": 0,
+  "total_entries": 56
+}
