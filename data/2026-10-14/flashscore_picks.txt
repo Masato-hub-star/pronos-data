@@ -250,7 +250,7 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
 URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/paul-tommy-pd3ye1BS/
 ---
 
-10:00 | BADMINTON | Alex Lanier - Kidambi Srikanth
+12:20 | BADMINTON | Alex Lanier - Kidambi Srikanth
 URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/srikanth-kidambi-zq9lAhel/
 ---
 
@@ -262,7 +262,7 @@ URL: https://www.flashscore.fr/match/tennis/donnet-etienne-2kmMRrQ3/martineau-ma
 URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
 ---
 
-10:00 | BADMINTON | Panitchaphon Teeraratsakul - Christo Popov
+14:00 | BADMINTON | Panitchaphon Teeraratsakul - Christo Popov
 URL: https://www.flashscore.fr/match/badminton/popov-christo-6s0IBZwf/teeraratsakul-panitchaphon-l402bQTo/
 ---
 
@@ -272,5 +272,27 @@ URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/von-de
 
 11:30 | TENNIS | Robin Bertrand - Nazim Makhlouf
 URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/makhlouf-nazim-I17CAyKl/
+---
+
+21:00 | FOOTBALL | Club Brugge - RC Lens
+URL: https://www.flashscore.fr/match/football/club-bruges-rgTHIK74/lens-IBmris38/
+---
+
+21:00 | FOOTBALL | Manchester City - AEK
+URL: https://www.flashscore.fr/match/football/aek-ANpZncAM/manchester-city-Wtn9Stg0/
+---
+
+18:45 | FOOTBALL | Côme - Manchester Utd
+URL: https://www.flashscore.fr/match/football/come-ttyLthOA/manchester-utd-ppjDR086/
+---
+
+13:00 | TENNIS | Ashlyn Krueger - Iga Swiatek
+Flashscore conclusion:
+Iga Swiatek, quart-finaliste à Wuhan en 2025, n’a pas su répondre à bon nombre de questions difficiles cette saison. Elle s’est notamment inclinée face à Elise Mertens en quarts de finale à Pékin la semaine dernière. Elle ne devrait toutefois rencontrer aucune difficulté face à Ashlyn Krueger et devrait s’imposer sans perdre le moindre set.Traduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/tennis/krueger-ashlyn-O81eud9p/swiatek-iga-jNyZsXZe/
+---
+
+14:00 | TENNIS | Jérôme Kym - Ugo Blanchet
+URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/kym-jer-me-0dNeJ8OB/
 ---
 
