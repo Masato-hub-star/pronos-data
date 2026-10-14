@@ -114,7 +114,7 @@ URL: https://www.flashscore.fr/match/badminton/popov-christo-6s0IBZwf/weng-hongy
 URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/tabur-clement-fHPZtbgE/
 ---
 
-18:30 | TENNIS | Mika Brunold - Benjamin Bonzi
+18:45 | TENNIS | Mika Brunold - Benjamin Bonzi
 URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/brunold-mika-AqiRBgj5/
 ---
 
@@ -238,5 +238,21 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/marseille-nkohUngl/
 
 22:15 | HOCKEY | Rouen - Angers
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
+---
+
+04:00 | TENNIS | Daniil Medvedev - Tommy Paul
+URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/paul-tommy-pd3ye1BS/
+---
+
+10:00 | BADMINTON | Alex Lanier - Kidambi Srikanth
+URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/srikanth-kidambi-zq9lAhel/
+---
+
+10:00 | TENNIS | Etienne Donnet - Matteo Martineau
+URL: https://www.flashscore.fr/match/tennis/donnet-etienne-2kmMRrQ3/martineau-matteo-IDkmT0Hj/
+---
+
+18:15 | HOCKEY | Grenoble - Chamonix Mont-Blanc
+URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
 ---
 
