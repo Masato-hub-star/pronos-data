@@ -332,7 +332,7 @@
     "away_team_fs": null,
     "competition_fs": null,
     "league_rb": "International: Europa League",
-    "match_status": "UNMATCHED",
+    "match_status": "AMBIGUOUS",
     "flashscore_mid": null,
     "ratingbet_slug": "bournemouth-vs-sturm-graz",
     "flashscore_preview_available": false,
