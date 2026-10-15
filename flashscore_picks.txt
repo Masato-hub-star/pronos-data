@@ -1,23 +1,13 @@
-08:30 | TENNIS | Arthur Gea - Alejandro Davidovich Fokina
-Flashscore conclusion:
-Arthur Gea sera satisfait de retrouver Alejandro Davidovich Fokina dans la situation qu’il espérait. L’Espagnol a souffert physiquement au troisième tour et vient désormais d’enchaîner deux matchs éprouvants en trois sets. Gea excelle lorsqu’il transforme les matchs en batailles physiques et use ses adversaires. Il peut donc croire en ses chances.Malgré tout, la dynamique victorieuse de Davidovich Fokina en Chine ne doit pas être prise à la légère. Il évolue avec beaucoup de confiance, et une telle dynamique peut parfois permettre à un joueur de compenser ses lacunes.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/davidovich-fokina-alejandro-0zQXLfz4/gea-arthur-M5Nr6FTR/
----
-
-12:00 | TENNIS | Alexander Zverev - Alex De Minaur
-Flashscore conclusion:
-Aucun des deux joueurs n’a semblé en confiance à Shanghai, mais Alex de Minaur peut au moins s’appuyer sur une tournée asiatique réussie, marquée notamment par son parcours jusqu’en finale à Pékin. Zverev, en revanche, subit une pression supplémentaire, car on attend de lui qu’il décroche un titre avant de devenir officiellement numéro 1 mondial la semaine prochaine. Son mauvais bilan face aux joueurs du top 10 devrait également lui trotter dans la tête. Ce match s’annonce difficile pour l’Allemand, qui devra non seulement élever son niveau de jeu, mais aussi être mentalement prêt à gérer la pression et la nervosité.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/de-minaur-alex-EZgZ9Xfh/zverev-alexander-dGbUhw9m/
----
-
-04:00 | TENNIS | Rafael Jodar - Casper Ruud
+08:30 | TENNIS | Rafael Jodar - Casper Ruud
 URL: https://www.flashscore.fr/match/tennis/jodar-rafael-OdngshVK/ruud-casper-zN9UpRqp/
 ---
 
-21:00 | FOOTBALL | Manchester City - PSG
-Flashscore conclusion:
-City affiche peut-être une forme étincelante, mais le PSG a remporté cette compétition deux fois de suite et semble avoir trouvé son rythme. Dans ce contexte, la victoire du PSG est envisageable.Auteur : Ryan FisherTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/manchester-city-Wtn9Stg0/psg-CjhkPw0k/
+12:00 | TENNIS | Daniil Medvedev - Tommy Paul
+URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/paul-tommy-pd3ye1BS/
+---
+
+04:00 | TENNIS | Alexander Zverev - Alejandro Davidovich Fokina
+URL: https://www.flashscore.fr/match/tennis/davidovich-fokina-alejandro-0zQXLfz4/zverev-alexander-dGbUhw9m/
 ---
 
 18:45 | FOOTBALL | Olympique Lyonnais - Crystal Palace
@@ -33,6 +23,8 @@ URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/olympiakos-hnzv
 ---
 
 17:15 | FOOTBALL | Strasbourg - PSG
+Flashscore conclusion:
+Au vu du déroulement des récentes confrontations, victoire du PSG avec les deux équipes qui marquent semble être un pari relativement sûr ici.Auteur : Alex BowmerTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/psg-CjhkPw0k/strasbourg-nP6UzIU1/
 ---
 
@@ -64,10 +56,8 @@ URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/psg-CjhkPw0k/
 URL: https://www.flashscore.fr/match/football/galatasaray-riaqqurF/lille-pfDZL71o/
 ---
 
-21:00 | FOOTBALL | AS Rome - Real Madrid
-Flashscore conclusion:
-Le Real est favori, mais il ne faut pas sous-estimer le danger offensif de la Roma à domicile. Nous envisageons une victoire du Real Madrid avec les deux équipes qui marquent.Auteur : John PenningtonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/as-roma-zVqqL0ma/real-madrid-W8mj7MDD/
+21:00 | FOOTBALL | Club Brugge - RC Lens
+URL: https://www.flashscore.fr/match/football/club-bruges-rgTHIK74/lens-IBmris38/
 ---
 
 21:00 | FOOTBALL | Celta Vigo - Juventus
@@ -77,10 +67,14 @@ URL: https://www.flashscore.fr/match/football/celta-vigo-8pvUZFhf/juventus-C06aJ
 ---
 
 16:00 | FOOTBALL | Manchester City - Ipswich
+Flashscore conclusion:
+Les hôtes affichant une forme étincelante en championnat, la victoire de City avec un handicap de -2 semble être le choix évident.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/ipswich-thqhB2MB/manchester-city-Wtn9Stg0/
 ---
 
 18:30 | FOOTBALL | Betis - Barcelone
+Flashscore conclusion:
+Barcelone n’arrête plus de marquer. Le pari plus de 3,5 buts figure donc en bonne place parmi les issues les plus probables.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/betis-vJbTeCGP/
 ---
 
@@ -91,6 +85,8 @@ URL: https://www.flashscore.fr/match/football/leeds-tUxUbLR2/manchester-utd-ppjD
 ---
 
 17:30 | FOOTBALL | Nottingham Forest - Arsenal
+Flashscore conclusion:
+Les difficultés de Forest à la finition et la capacité de l’Arsenal à arracher des victoires étriquées suggèrent que miser sur une victoire de l’Arsenal par exactement un but mérite d’être envisagé.Auteur : John PenningtonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/nottingham-UsushcZr/
 ---
 
@@ -99,7 +95,17 @@ URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/lazio-URcSl02h/
 ---
 
 21:00 | FOOTBALL | Real Madrid - FC Séville
+Flashscore conclusion:
+Les buts s’enchaînent dernièrement pour Séville, mais au vu de l’incroyable bilan des locaux dans les affrontements, victoire du Real avec les deux équipes qui marquent semble être l’option la plus logique.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/real-madrid-W8mj7MDD/sevilla-h8oAv4Ts/
+---
+
+21:00 | FOOTBALL | Manchester City - AEK
+URL: https://www.flashscore.fr/match/football/aek-ANpZncAM/manchester-city-Wtn9Stg0/
+---
+
+18:45 | FOOTBALL | Côme - Manchester Utd
+URL: https://www.flashscore.fr/match/football/come-ttyLthOA/manchester-utd-ppjDR086/
 ---
 
 20:00 | FOOTBALL | Laval - Clermont Foot
@@ -112,32 +118,36 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/laval-E1wDrLsJ/
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/guingamp-QDfKl36E/
 ---
 
-14:47 | BADMINTON | Hong Yang Weng - Christo Popov
-URL: https://www.flashscore.fr/match/badminton/popov-christo-6s0IBZwf/weng-hongyang-0rMDF0d6/
+14:47 | TENNIS | Jérôme Kym - Ugo Blanchet
+URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/kym-jer-me-0dNeJ8OB/
 ---
 
-15:45 | TENNIS | Sascha Gueymard Wayenburg - Clément Tabur
-URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/tabur-clement-fHPZtbgE/
+15:45 | BADMINTON | Panitchaphon Teeraratsakul - Christo Popov
+URL: https://www.flashscore.fr/match/badminton/popov-christo-6s0IBZwf/teeraratsakul-panitchaphon-l402bQTo/
 ---
 
-18:45 | TENNIS | Mika Brunold - Benjamin Bonzi
-URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/brunold-mika-AqiRBgj5/
+16:30 | TENNIS | Etienne Donnet - Matteo Martineau
+URL: https://www.flashscore.fr/match/tennis/donnet-etienne-2kmMRrQ3/martineau-matteo-IDkmT0Hj/
 ---
 
-18:45 | HANDBALL | Celje - PSG
-URL: https://www.flashscore.fr/match/handball/celje-bcsZkcJn/paris-MmvaXAoA/
+21:00 | BASKETBALL | Real Madrid - ASVEL Lyon-Villeurbanne
+URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/real-madrid-MP6gLUO7/
 ---
 
-20:01 | HANDBALL | Besançon F - Metz F
-URL: https://www.flashscore.fr/match/handball/besancon-xW40usFR/metz-SjMxXdfB/
+10:00 | BADMINTON | Tien Chen Chou - Alex Lanier
+URL: https://www.flashscore.fr/match/badminton/chou-tien-chen-C0M90JJT/lanier-alex-4fGvqPra/
 ---
 
-20:45 | BASKETBALL | Paris - Virtus Bologna
-URL: https://www.flashscore.fr/match/basket/paris-CdCP6AWf/virtus-bologna-YwDFycYd/
+20:00 | BASKETBALL | Étoile Rouge Belgrade - Paris
+URL: https://www.flashscore.fr/match/basket/etoile-rouge-belgrade-6uAuZ6Pt/paris-CdCP6AWf/
 ---
 
-07:30 | TENNIS | Luka Pavlovic - Mattia Bellucci
-URL: https://www.flashscore.fr/match/tennis/bellucci-mattia-M9pojLqi/pavlovic-luka-Mkf0LF4j/
+21:00 | RUGBY | Gloucester - Bordeaux Bègles
+URL: https://www.flashscore.fr/match/rugby/bordeaux-begles-hzHredXK/gloucester-Uk3kFoj7/
+---
+
+04:05 | RUGBY | Nouvelle-Zélande F - France F
+URL: https://www.flashscore.fr/match/rugby/france-OO1bzV73/nouvelle-zelande-OA2cSGHp/
 ---
 
 20:45 | FOOTBALL | Le Mans - Toulouse
@@ -147,6 +157,8 @@ URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/toulouse-MLmY2yB1
 ---
 
 17:15 | FOOTBALL | Le Havre - AJ Auxerre
+Flashscore conclusion:
+L’équipe visiteuse affiche une meilleure forme offensive cette saison, ce qui fait du pari Auxerre marque en premier une option de premier choix ici.Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/le-havre-CIEe04GT/
 ---
 
@@ -226,10 +238,6 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/briancon-p4oJOtWk/
 URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/nice-AkAAP4QB/
 ---
 
-20:00 | HOCKEY | Chamonix Mont-Blanc - Grenoble
-URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
----
-
 20:00 | HOCKEY | Briancon - Cergy-Pontoise
 URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/cergy-pontoise-CK87QfVF/
 ---
@@ -246,53 +254,7 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/marseille-nkohUngl/
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
 ---
 
-04:00 | TENNIS | Daniil Medvedev - Tommy Paul
-URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/paul-tommy-pd3ye1BS/
----
-
-12:20 | BADMINTON | Alex Lanier - Kidambi Srikanth
-URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/srikanth-kidambi-zq9lAhel/
----
-
-10:00 | TENNIS | Etienne Donnet - Matteo Martineau
-URL: https://www.flashscore.fr/match/tennis/donnet-etienne-2kmMRrQ3/martineau-matteo-IDkmT0Hj/
----
-
 18:15 | HOCKEY | Grenoble - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
----
-
-14:00 | BADMINTON | Panitchaphon Teeraratsakul - Christo Popov
-URL: https://www.flashscore.fr/match/badminton/popov-christo-6s0IBZwf/teeraratsakul-panitchaphon-l402bQTo/
----
-
-11:00 | TENNIS | Geoffrey Blancaneaux - Jeffrey Von der Schulenburg
-URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/von-der-schulenburg-jeffrey-tfb3h6El/
----
-
-11:30 | TENNIS | Robin Bertrand - Nazim Makhlouf
-URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/makhlouf-nazim-I17CAyKl/
----
-
-21:00 | FOOTBALL | Club Brugge - RC Lens
-URL: https://www.flashscore.fr/match/football/club-bruges-rgTHIK74/lens-IBmris38/
----
-
-21:00 | FOOTBALL | Manchester City - AEK
-URL: https://www.flashscore.fr/match/football/aek-ANpZncAM/manchester-city-Wtn9Stg0/
----
-
-18:45 | FOOTBALL | Côme - Manchester Utd
-URL: https://www.flashscore.fr/match/football/come-ttyLthOA/manchester-utd-ppjDR086/
----
-
-13:00 | TENNIS | Ashlyn Krueger - Iga Swiatek
-Flashscore conclusion:
-Iga Swiatek, quart-finaliste à Wuhan en 2025, n’a pas su répondre à bon nombre de questions difficiles cette saison. Elle s’est notamment inclinée face à Elise Mertens en quarts de finale à Pékin la semaine dernière. Elle ne devrait toutefois rencontrer aucune difficulté face à Ashlyn Krueger et devrait s’imposer sans perdre le moindre set.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/krueger-ashlyn-O81eud9p/swiatek-iga-jNyZsXZe/
----
-
-14:00 | TENNIS | Jérôme Kym - Ugo Blanchet
-URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/kym-jer-me-0dNeJ8OB/
 ---
 
