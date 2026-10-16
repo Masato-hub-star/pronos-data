@@ -1,29 +1,9 @@
-08:30 | TENNIS | Rafael Jodar - Casper Ruud
-Flashscore conclusion:
-Casper Ruud a déjà dépassé les attentes cette semaine en atteignant les quarts de finale grâce à un mélange de réussite et de solides performances. Pour aller plus loin, il devra probablement compter sur une contre-performance de Jodar. Ce scénario n’est pas impossible, car l’Espagnol est loin d’avoir affiché son meilleur niveau tout au long de cette campagne, même s’il a toujours trouvé le moyen de s’en sortir. Les chances de Ruud restent donc intactes. Malgré une série de performances décevantes, les statistiques exceptionnelles de Jodar sur dur cette année en font le favori face à son adversaire plus expérimenté.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/jodar-rafael-OdngshVK/ruud-casper-zN9UpRqp/
----
-
-12:00 | TENNIS | Daniil Medvedev - Tommy Paul
-Flashscore conclusion:
-Tommy Paul a prouvé sa valeur à plusieurs reprises face à des joueurs mieux classés au fil des années. Mais Medvedev maîtrise extrêmement bien cette affiche et évolue actuellement en excellente forme, proche de son meilleur niveau mondial sur dur. Il possède donc un avantage net alors qu’il cherche à atteindre les demi-finales de Shanghai pour la deuxième année consécutive.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/paul-tommy-pd3ye1BS/
----
-
-04:00 | TENNIS | Alexander Zverev - Alejandro Davidovich Fokina
+10:30 | TENNIS | Alexander Zverev - Alejandro Davidovich Fokina
 URL: https://www.flashscore.fr/match/tennis/davidovich-fokina-alejandro-0zQXLfz4/zverev-alexander-dGbUhw9m/
 ---
 
-18:45 | FOOTBALL | Olympique Lyonnais - Crystal Palace
-Flashscore conclusion:
-Il semble difficilement imaginable que ces deux équipes parviennent à rester solides défensivement. Un match avec plus de 2,5 buts paraît donc envisageable.Auteur : Matt JonesTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/crystal-palace-AovF1Mia/lyon-2akflumR/
----
-
-21:00 | FOOTBALL | Olympique de Marseille - Olympiakos
-Flashscore conclusion:
-Les difficultés de Marseille et la résilience croissante de l’Olympiacos laissent présager une affiche fermée. On peut s'attendre à moins de 2,5 buts dans ce match.Auteur : John PenningtonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/olympiakos-hnzvnHPS/
+13:00 | TENNIS | Rafael Jodar - Daniil Medvedev
+URL: https://www.flashscore.fr/match/tennis/jodar-rafael-OdngshVK/medvedev-daniil-O8qG0Nhb/
 ---
 
 17:15 | FOOTBALL | Strasbourg - PSG
@@ -45,10 +25,14 @@ URL: https://www.flashscore.fr/match/football/lens-IBmris38/troyes-fsfAHubD/
 ---
 
 15:00 | FOOTBALL | SCO Angers - Olympique de Marseille
+Flashscore conclusion:
+Ces deux équipes semblent se réveiller après la pause. Il paraît donc envisageable de voir la deuxième période comme mi-temps la plus prolifique.Auteur : Matt JonesTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/marseille-SblU3Hee/
 ---
 
 20:45 | FOOTBALL | Olympique Lyonnais - OGC Nice
+Flashscore conclusion:
+Au vu du manque de clean sheets de Lyon récemment, on pourrait imaginer Nice marquer exactement un but ici.Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lyon-2akflumR/nice-YagoQJpq/
 ---
 
@@ -64,10 +48,12 @@ URL: https://www.flashscore.fr/match/football/galatasaray-riaqqurF/lille-pfDZL71
 URL: https://www.flashscore.fr/match/football/club-bruges-rgTHIK74/lens-IBmris38/
 ---
 
-21:00 | FOOTBALL | Celta Vigo - Juventus
-Flashscore conclusion:
-Alors que six des sept derniers matchs de Vigo se sont terminés avec moins de 2,5 buts et que la Juventus n’a encaissé qu’une seule fois avant l’heure de jeu cette saison, on envisage une première mi-temps vierge ici.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/celta-vigo-8pvUZFhf/juventus-C06aJvIB/
+18:45 | FOOTBALL | Sturm Graz - Olympique de Marseille
+URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/sturm-zsktjfsD/
+---
+
+21:00 | FOOTBALL | Hoffenheim - Olympique Lyonnais
+URL: https://www.flashscore.fr/match/football/hoffenheim-hQAtP9Sl/lyon-2akflumR/
 ---
 
 16:00 | FOOTBALL | Manchester City - Ipswich
@@ -95,6 +81,8 @@ URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/nottingham-Usushc
 ---
 
 20:45 | FOOTBALL | Juventus - Lazio
+Flashscore conclusion:
+Les deux équipes ont l’habitude de rester prudentes en début de match. Parier sur une première mi-temps sans but semble donc particulièrement envisageable.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/lazio-URcSl02h/
 ---
 
@@ -112,6 +100,10 @@ URL: https://www.flashscore.fr/match/football/aek-ANpZncAM/manchester-city-Wtn9S
 URL: https://www.flashscore.fr/match/football/come-ttyLthOA/manchester-utd-ppjDR086/
 ---
 
+21:00 | FOOTBALL | Bayern Munich - Arsenal
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/bayern-nVp0wiqd/
+---
+
 20:00 | FOOTBALL | Laval - Clermont Foot
 Flashscore conclusion:
 Laval reçoit Clermont sur son terrain dans le cadre de la neuvième journée de Ligue 2. Laval aborde ce match avec le statut de grand favori, avec une probabilité de victoire de 44 % à deux jours du coup d’envoi.Forme actuelle - LavalLaval occupe la 18e place du championnat avec cinq points. Lors de son dernier match de championnat, le club s’est incliné 2-3 à l’extérieur face à Pau. Sur ses cinq derniers matchs, il affiche un bilan d’un nul et de quatre défaites, ce qui porte à six sa série de matchs sans victoire.Forme actuelle - ClermontClermont occupe la 17e place du championnat avec six points. Lors de sa dernière sortie, le club s’est incliné 2-3 à domicile contre le Red Star. Sur ses cinq derniers matchs, il compte quatre nuls et une défaite. Il reste sur une série de huit matchs sans victoire, avec six nuls et deux défaites.Confrontations directesCes affiches ont produit en moyenne 2,4 buts par rencontre. Laval compte trois nuls et deux défaites lors de ses cinq derniers affrontements avec Clermont. Clermont est resté invaincu lors de ses huit dernières confrontations avec Laval, avec trois victoires et cinq nuls. Lors de la dernière rencontre entre les deux équipes la saison passée, Clermont s’est imposé 4-1 à domicile.Joueurs à suivre et absentsEthan Clavreul compte deux buts et quatre passes décisives, avec une note moyenne de 7,0 pour Laval. Mathis Houdayer a inscrit trois buts, dont deux lors de ses cinq derniers matchs, et affiche une note moyenne de 7,0. Laval sera privé de Julien Maggiotti, suspendu après un carton rouge, ainsi que de Corentin Fatou.Vital Nsimba représente Clermont avec une passe décisive et une note moyenne de 7,2. Florian Bianchini compte un but et une passe décisive pour le club, tandis qu’Adrien Hunou affiche également un but et une passe décisive. Clermont devra composer sans Maidine Douane, touché au genou, ni Abdellah Baallal, victime d’un coup.Chiffres clés↔️ Erreurs ayant entraîné un but : Laval 3 contre Clermont 0Laval➕ Conversion des grosses occasions: 50 % (2e meilleur, moyenne du championnat 36 %)➖ Tirs cadrés adverses: 5,8 par match (pire du championnat, moyenne du championnat 4,3)Clermont➖ Expected Goals (xG): 0,83 par match (2e pire, moyenne du championnat 1,44)➖ Tirs totaux: 8,1 par match (pire du championnat, moyenne du championnat 12,8)Analyse des parisLes bookmakers ont fixé la ligne des buts à 2,5, avec une probabilité de 46 % que le total du match dépasse ce seuil. Le marché « les deux équipes marquent » évalue à 52 % la probabilité que les deux équipes trouvent le chemin des filets.Buts implicites selon les cotes: 2,5Ces chiffres proviennent des cotes d’avant-match établies deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
@@ -122,20 +114,8 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/laval-E1wDrLsJ/
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/guingamp-QDfKl36E/
 ---
 
-14:47 | TENNIS | Jérôme Kym - Ugo Blanchet
-URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/kym-jer-me-0dNeJ8OB/
----
-
-15:45 | BADMINTON | Panitchaphon Teeraratsakul - Christo Popov
-URL: https://www.flashscore.fr/match/badminton/popov-christo-6s0IBZwf/teeraratsakul-panitchaphon-l402bQTo/
----
-
-16:41 | TENNIS | Etienne Donnet - Matteo Martineau
-URL: https://www.flashscore.fr/match/tennis/donnet-etienne-2kmMRrQ3/martineau-matteo-IDkmT0Hj/
----
-
-21:00 | BASKETBALL | Real Madrid - ASVEL Lyon-Villeurbanne
-URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/real-madrid-MP6gLUO7/
+15:10 | BADMINTON | Yudai Okimoto - Christo Popov
+URL: https://www.flashscore.fr/match/badminton/okimoto-yudai-I39T9L5e/popov-christo-6s0IBZwf/
 ---
 
 16:50 | BADMINTON | Tien Chen Chou - Alex Lanier
@@ -146,12 +126,26 @@ URL: https://www.flashscore.fr/match/badminton/chou-tien-chen-C0M90JJT/lanier-al
 URL: https://www.flashscore.fr/match/basket/etoile-rouge-belgrade-6uAuZ6Pt/paris-CdCP6AWf/
 ---
 
+20:00 | TENNIS | Matteo Martineau - Sascha Gueymard Wayenburg
+URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/martineau-matteo-IDkmT0Hj/
+---
+
 21:00 | RUGBY | Gloucester - Bordeaux Bègles
 URL: https://www.flashscore.fr/match/rugby/bordeaux-begles-hzHredXK/gloucester-Uk3kFoj7/
 ---
 
 04:05 | RUGBY | Nouvelle-Zélande F - France F
 URL: https://www.flashscore.fr/match/rugby/france-OO1bzV73/nouvelle-zelande-OA2cSGHp/
+---
+
+14:00 | FOOTBALL | FC Metz - FC Sochaux
+Flashscore conclusion:
+Sochaux se déplace à Metz pour la 9e journée de Ligue 2. Metz aborde ce match avec le statut de grand favori et une probabilité de victoire de 52 %, contre 21 % pour l’outsider sochalien.Forme actuelle - MetzMetz occupe la 10e place du championnat avec 10 points. Après une défaite 4-2 à Dijon, le club affiche une victoire, deux nuls et deux défaites lors de ses cinq derniers matchs. L’équipe reste actuellement sur une série de quatre matchs sans défaite à domicile. Cette série couvre toute la saison jusqu’ici et comprend deux victoires et deux nuls.Forme actuelle - SochauxSochaux est 9e du championnat avec 11 points. Après un match nul 1-1 à domicile contre Boulogne, le club affiche une victoire et quatre nuls lors de ses cinq derniers matchs. L’équipe reste actuellement sur une série de sept matchs sans défaite.Confrontations directesUne moyenne de 1,4 but par match a été enregistrée lors des cinq précédents affrontements entre Sochaux et Metz. Metz affiche trois victoires et deux nuls sur cette période. Les deux équipes se retrouvent pour la première fois depuis mai 2023, lorsque Metz s’était imposé 1-0 à l’extérieur.Joueurs à suivre et absentsPape Moussa Fall a inscrit sept buts pour Metz en 662 minutes de jeu. Il a marqué cinq buts lors de ses quatre derniers matchs, avec une note moyenne de 7,7. Jessy Deminguet a contribué à deux buts et trois passes décisives en 667 minutes. Metz devra composer sans Teji Savanier, auteur d’1 but et de deux passes décisives cette saison, ainsi que sans Jahyann Pandore et Nampalys Mendy.Benjamin Gomel a inscrit deux buts avec une note moyenne de 6,4 pour Sochaux. Ces deux buts ont été marqués lors de ses cinq derniers matchs, où il a obtenu une note moyenne de 6,5. Benjaloud Youssouf a délivré 1 passe décisive, tandis que Samy Baghdadi a inscrit 1 but. Victor Lobry manque à l’effectif sochalien pour le prochain match.Chiffres clés↔️ Tirs au total : Metz 13,5 par match contre Sochaux 9,4 par matchMetz➕ Buts de la tête: 0,75 par match (meilleur du championnat, moyenne du championnat 0,22)➖ Tirs cadrés adverses: 5,4 par match (3e pire, moyenne du championnat 4,3)Sochaux➖ Tirs cadrés: 2,5 par match (2e pire, moyenne du championnat 4,3)➖ Touches dans la surface adverse: 11,6 par match (pire du championnat, moyenne du championnat 20,7)➖ Efficacité dans les duels: 44 % (pire du championnat, moyenne du championnat 50 %)Notes du matchIdris Mohamed a reçu trois cartons jaunes lors de ses quatre dernières apparitions avec Metz. Saad Agouzoul a reçu trois cartons jaunes lors de ses quatre dernières apparitions avec Sochaux. Jean Ruiz joue désormais pour Metz après avoir été formé à Sochaux, où il a inscrit 1 but en 48 apparitions sur trois saisons.Analyse des parisLa ligne de 2,5 buts a 50 % de chances d’être dépassée dans ce match, tandis que le marché des deux équipes marquent estime à 52 % la probabilité que chaque équipe trouve le chemin des filets.Buts implicites selon les cotes: 2,7Ces chiffres proviennent des cotes d’avant-match publiées deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
+URL: https://www.flashscore.fr/match/football/metz-4v0yqlWc/sochaux-jPojkLXK/
+---
+
+18:00 | HANDBALL | Metz F - Blomberg-Lippe F
+URL: https://www.flashscore.fr/match/handball/blomberg-Mat74GBa/metz-SjMxXdfB/
 ---
 
 20:45 | FOOTBALL | Le Mans - Toulouse
@@ -167,10 +161,14 @@ URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/le-havre-CIEe04GT
 ---
 
 17:15 | FOOTBALL | FC Lorient - AS Monaco
+Flashscore conclusion:
+On envisage une victoire de Monaco avec les deux équipes qui marquent au vu de la solidité de Monaco à l'extérieur, malgré son manque de clean sheets.Auteur : Ben OlawumiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lorient-jgNAYRGi/monaco-2PIvr8o4/
 ---
 
 17:15 | FOOTBALL | Paris FC - Stade Rennais
+Flashscore conclusion:
+La dynamique des deux équipes nous pousse à ce pronostic : match nul.Auteur : Tom PennTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/paris-fc-0OEHEprs/rennes-d2nnj1IE/
 ---
 
@@ -208,10 +206,6 @@ URL: https://www.flashscore.fr/match/football/rennes-d2nnj1IE/strasbourg-nP6UzIU
 
 20:45 | FOOTBALL | PSG - Olympique Lyonnais
 URL: https://www.flashscore.fr/match/football/lyon-2akflumR/psg-CjhkPw0k/
----
-
-20:00 | HOCKEY | Rouen - Olympique de Marseille
-URL: https://www.flashscore.fr/match/hockey/marseille-nkohUngl/rouen-xYpMeMxS/
 ---
 
 20:00 | HOCKEY | Gap - Girondins de Bordeaux
@@ -260,49 +254,5 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
 
 18:15 | HOCKEY | Grenoble - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
----
-
-14:00 | FOOTBALL | FC Metz - FC Sochaux
-Flashscore conclusion:
-Sochaux se déplace à Metz pour la 9e journée de Ligue 2. Metz aborde ce match avec le statut de grand favori et une probabilité de victoire de 52 %, contre 21 % pour l’outsider sochalien.Forme actuelle - MetzMetz occupe la 10e place du championnat avec 10 points. Après une défaite 4-2 à Dijon, le club affiche une victoire, deux nuls et deux défaites lors de ses cinq derniers matchs. L’équipe reste actuellement sur une série de quatre matchs sans défaite à domicile. Cette série couvre toute la saison jusqu’ici et comprend deux victoires et deux nuls.Forme actuelle - SochauxSochaux est 9e du championnat avec 11 points. Après un match nul 1-1 à domicile contre Boulogne, le club affiche une victoire et quatre nuls lors de ses cinq derniers matchs. L’équipe reste actuellement sur une série de sept matchs sans défaite.Confrontations directesUne moyenne de 1,4 but par match a été enregistrée lors des cinq précédents affrontements entre Sochaux et Metz. Metz affiche trois victoires et deux nuls sur cette période. Les deux équipes se retrouvent pour la première fois depuis mai 2023, lorsque Metz s’était imposé 1-0 à l’extérieur.Joueurs à suivre et absentsPape Moussa Fall a inscrit sept buts pour Metz en 662 minutes de jeu. Il a marqué cinq buts lors de ses quatre derniers matchs, avec une note moyenne de 7,7. Jessy Deminguet a contribué à deux buts et trois passes décisives en 667 minutes. Metz devra composer sans Teji Savanier, auteur d’1 but et de deux passes décisives cette saison, ainsi que sans Jahyann Pandore et Nampalys Mendy.Benjamin Gomel a inscrit deux buts avec une note moyenne de 6,4 pour Sochaux. Ces deux buts ont été marqués lors de ses cinq derniers matchs, où il a obtenu une note moyenne de 6,5. Benjaloud Youssouf a délivré 1 passe décisive, tandis que Samy Baghdadi a inscrit 1 but. Victor Lobry manque à l’effectif sochalien pour le prochain match.Chiffres clés↔️ Tirs au total : Metz 13,5 par match contre Sochaux 9,4 par matchMetz➕ Buts de la tête: 0,75 par match (meilleur du championnat, moyenne du championnat 0,22)➖ Tirs cadrés adverses: 5,4 par match (3e pire, moyenne du championnat 4,3)Sochaux➖ Tirs cadrés: 2,5 par match (2e pire, moyenne du championnat 4,3)➖ Touches dans la surface adverse: 11,6 par match (pire du championnat, moyenne du championnat 20,7)➖ Efficacité dans les duels: 44 % (pire du championnat, moyenne du championnat 50 %)Notes du matchIdris Mohamed a reçu trois cartons jaunes lors de ses quatre dernières apparitions avec Metz. Saad Agouzoul a reçu trois cartons jaunes lors de ses quatre dernières apparitions avec Sochaux. Jean Ruiz joue désormais pour Metz après avoir été formé à Sochaux, où il a inscrit 1 but en 48 apparitions sur trois saisons.Analyse des parisLa ligne de 2,5 buts a 50 % de chances d’être dépassée dans ce match, tandis que le marché des deux équipes marquent estime à 52 % la probabilité que chaque équipe trouve le chemin des filets.Buts implicites selon les cotes: 2,7Ces chiffres proviennent des cotes d’avant-match publiées deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
-URL: https://www.flashscore.fr/match/football/metz-4v0yqlWc/sochaux-jPojkLXK/
----
-
-18:00 | HANDBALL | Metz F - Blomberg-Lippe F
-URL: https://www.flashscore.fr/match/handball/blomberg-Mat74GBa/metz-SjMxXdfB/
----
-
-18:45 | FOOTBALL | Sturm Graz - Olympique de Marseille
-URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/sturm-zsktjfsD/
----
-
-09:30 | TENNIS | Geoffrey Blancaneaux - Kristijan Juhas
-URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/juhas-kristijan-G0WthUCI/
----
-
-15:10 | BADMINTON | Yudai Okimoto - Christo Popov
-URL: https://www.flashscore.fr/match/badminton/okimoto-yudai-I39T9L5e/popov-christo-6s0IBZwf/
----
-
-20:00 | TENNIS | Matteo Martineau - Sascha Gueymard Wayenburg
-URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/martineau-matteo-IDkmT0Hj/
----
-
-11:00 | TENNIS | Robin Bertrand - Felix Roussel
-URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/roussel-felix-KWcMj8Dk/
----
-
-13:00 | TENNIS | Ann Li - Iga Swiatek
-Flashscore conclusion:
-Iga Swiatek voudra non seulement franchir un nouveau cap à Wuhan, mais aussi remettre les pendules à l’heure après sa défaite amère à Madrid plus tôt cette saison. La numéro 9 mondiale devrait poursuivre son excellent début de semaine et s’imposer face à Ann Li sans perdre le moindre set.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/li-ann-rwvAgOWm/swiatek-iga-jNyZsXZe/
----
-
-21:00 | FOOTBALL | Hoffenheim - Olympique Lyonnais
-URL: https://www.flashscore.fr/match/football/hoffenheim-hQAtP9Sl/lyon-2akflumR/
----
-
-21:00 | FOOTBALL | Bayern Munich - Arsenal
-URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/bayern-nVp0wiqd/
 ---
 
