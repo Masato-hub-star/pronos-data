@@ -82,7 +82,7 @@ URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/nottingham-Usushc
 
 20:45 | FOOTBALL | Juventus - Lazio
 Flashscore conclusion:
-Les deux équipes ont l’habitude de rester prudentes en début de match. Parier sur une première mi-temps sans but semble donc particulièrement envisageable.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
+Les deux équipes ont l’habitude de rester prudentes en début de match. Une première mi-temps sans but semble donc envisageable.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/lazio-URcSl02h/
 ---
 
@@ -254,5 +254,13 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
 
 18:15 | HOCKEY | Grenoble - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
+---
+
+12:30 | TENNIS | Iga Swiatek - Maja Chwalinska
+URL: https://www.flashscore.fr/match/tennis/chwalinska-maja-OIxOD54s/swiatek-iga-jNyZsXZe/
+---
+
+19:00 | HANDBALL | Caen - PSG
+URL: https://www.flashscore.fr/match/handball/caen-Cp8J3lA0/paris-MmvaXAoA/
 ---
 
