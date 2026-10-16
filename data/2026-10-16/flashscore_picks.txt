@@ -134,7 +134,7 @@ URL: https://www.flashscore.fr/match/basket/etoile-rouge-belgrade-6uAuZ6Pt/paris
 URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/martineau-matteo-IDkmT0Hj/
 ---
 
-21:00 | RUGBY | Gloucester - Bordeaux Bègles
+21:07 | RUGBY | Gloucester - Bordeaux Bègles
 URL: https://www.flashscore.fr/match/rugby/bordeaux-begles-hzHredXK/gloucester-Uk3kFoj7/
 ---
 
@@ -212,27 +212,27 @@ URL: https://www.flashscore.fr/match/football/rennes-d2nnj1IE/strasbourg-nP6UzIU
 URL: https://www.flashscore.fr/match/football/lyon-2akflumR/psg-CjhkPw0k/
 ---
 
-20:00 | HOCKEY | Gap - Girondins de Bordeaux
+21:28 | HOCKEY | Gap - Girondins de Bordeaux
 URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/gap-2TtYxh3I/
 ---
 
-20:15 | HOCKEY | Grenoble - Nice
+21:03 | HOCKEY | Grenoble - Nice
 URL: https://www.flashscore.fr/match/hockey/grenoble-fas8xYmC/nice-AkAAP4QB/
 ---
 
-20:15 | HOCKEY | Amiens - Olympique de Marseille
+21:40 | HOCKEY | Amiens - Olympique de Marseille
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/marseille-nkohUngl/
 ---
 
-20:30 | HOCKEY | Cergy-Pontoise - Rouen
+21:19 | HOCKEY | Cergy-Pontoise - Rouen
 URL: https://www.flashscore.fr/match/hockey/cergy-pontoise-CK87QfVF/rouen-xYpMeMxS/
 ---
 
-20:30 | HOCKEY | Angers - Chamonix Mont-Blanc
+21:20 | HOCKEY | Angers - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/chamonix-mont-blanc-byLLnpOd/
 ---
 
-20:30 | HOCKEY | Anglet - Briancon
+21:22 | HOCKEY | Anglet - Briancon
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/briancon-p4oJOtWk/
 ---
 
@@ -280,5 +280,37 @@ URL: https://www.flashscore.fr/match/badminton/antonsen-anders-GMQqJqeP/popov-ch
 
 11:00 | TENNIS | Luka Pavlovic - Ilia Simakin
 URL: https://www.flashscore.fr/match/tennis/pavlovic-luka-Mkf0LF4j/simakin-ilia-OOU52gdD/
+---
+
+11:00 | TENNIS | Robin Bertrand - Sergio Callejon Hernando
+URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/callejon-hernando-sergio-beC6R64D/
+---
+
+14:00 | TENNIS | Giovanni Mpetshi Perricard - Remy Bertola
+URL: https://www.flashscore.fr/match/tennis/bertola-remy-OWVm6y0g/mpetshi-perricard-giovanni-ITe9m2F8/
+---
+
+15:40 | BADMINTON | Victor Lai - Alex Lanier
+URL: https://www.flashscore.fr/match/badminton/lai-victor-rVr83nk2/lanier-alex-4fGvqPra/
+---
+
+20:30 | HOCKEY | Rouen - Angers
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
+---
+
+22:35 | HOCKEY | Rouen - Chamonix Mont-Blanc
+URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/rouen-xYpMeMxS/
+---
+
+22:52 | HOCKEY | Olympique de Marseille - Gap
+URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/marseille-nkohUngl/
+---
+
+22:37 | HOCKEY | Briancon - Amiens
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
+---
+
+22:03 | HOCKEY | Nice - Angers
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
 ---
 
