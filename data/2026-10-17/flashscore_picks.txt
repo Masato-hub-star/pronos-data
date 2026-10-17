@@ -116,7 +116,7 @@ URL: https://www.flashscore.fr/match/football/metz-4v0yqlWc/sochaux-jPojkLXK/
 URL: https://www.flashscore.fr/match/tennis/bertola-remy-OWVm6y0g/mpetshi-perricard-giovanni-ITe9m2F8/
 ---
 
-15:40 | BADMINTON | Victor Lai - Alex Lanier
+16:20 | BADMINTON | Victor Lai - Alex Lanier
 URL: https://www.flashscore.fr/match/badminton/lai-victor-rVr83nk2/lanier-alex-4fGvqPra/
 ---
 
@@ -256,5 +256,21 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
 
 20:30 | HOCKEY | Angers - Nice
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
+---
+
+10:30 | TENNIS | Alejandro Davidovich Fokina - Rafael Jodar
+URL: https://www.flashscore.fr/match/tennis/davidovich-fokina-alejandro-0zQXLfz4/jodar-rafael-OdngshVK/
+---
+
+20:00 | VOLLEYBALL | Tours - Nice
+URL: https://www.flashscore.fr/match/volleyball/nice-O4MYx0BC/tours-WGABxZRf/
+---
+
+16:15 | RUGBY | Stade Toulousain - Exeter Chiefs
+URL: https://www.flashscore.fr/match/rugby/exeter-chiefs-MD5xtgIl/stade-toulousain-2LK4pW1j/
+---
+
+16:30 | BASKETBALL | Paris - Boulazac
+URL: https://www.flashscore.fr/match/basket/boulazac-pGtBbX8B/paris-CdCP6AWf/
 ---
 
