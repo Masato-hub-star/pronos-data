@@ -54,7 +54,7 @@ Les hôtes affichant une forme étincelante en championnat. La victoire de City 
 URL: https://www.flashscore.fr/match/football/ipswich-thqhB2MB/manchester-city-Wtn9Stg0/
 ---
 
-18:30 | FOOTBALL | Betis - Barcelone
+18:32 | FOOTBALL | Betis - Barcelone
 Flashscore conclusion:
 Barcelone n’arrête plus de marquer. C'est donc logiquement que l'on envisage plus de 3,5 buts dans cette affiche.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/betis-vJbTeCGP/
@@ -120,7 +120,7 @@ URL: https://www.flashscore.fr/match/tennis/bertola-remy-OWVm6y0g/mpetshi-perric
 URL: https://www.flashscore.fr/match/badminton/lai-victor-rVr83nk2/lanier-alex-4fGvqPra/
 ---
 
-16:30 | BADMINTON | Anders Antonsen - Christo Popov
+18:20 | BADMINTON | Anders Antonsen - Christo Popov
 URL: https://www.flashscore.fr/match/badminton/antonsen-anders-GMQqJqeP/popov-christo-6s0IBZwf/
 ---
 
@@ -128,7 +128,7 @@ URL: https://www.flashscore.fr/match/badminton/antonsen-anders-GMQqJqeP/popov-ch
 URL: https://www.flashscore.fr/match/tennis/budkov-kjaer-nicolai-Gj3CGbX5/martineau-matteo-IDkmT0Hj/
 ---
 
-18:00 | HANDBALL | Metz F - Blomberg-Lippe F
+18:34 | HANDBALL | Metz F - Blomberg-Lippe F
 URL: https://www.flashscore.fr/match/handball/blomberg-Mat74GBa/metz-SjMxXdfB/
 ---
 
@@ -259,6 +259,8 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
 ---
 
 10:30 | TENNIS | Alejandro Davidovich Fokina - Rafael Jodar
+Flashscore conclusion:
+Les deux joueurs ont beaucoup souffert physiquement à Shanghai après avoir disputé de nombreux matchs en trois sets. La récupération pourrait donc jouer un rôle majeur. Celui qui résistera le mieux sur le plan de l’endurance pourrait prendre l’ascendant dans un duel autrement équilibré entre deux joueurs au classement similaire. Les deux hommes cherchent à décrocher un premier titre en Masters, et la pression sera immense de part et d’autre. Si l’un d’eux semble capable de gérer ses nerfs et de répondre présent sur la grande scène, c’est Jodar. À ce titre, il part avec un léger avantage.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/davidovich-fokina-alejandro-0zQXLfz4/jodar-rafael-OdngshVK/
 ---
 
@@ -272,5 +274,37 @@ URL: https://www.flashscore.fr/match/rugby/exeter-chiefs-MD5xtgIl/stade-toulousa
 
 16:30 | BASKETBALL | Paris - Boulazac
 URL: https://www.flashscore.fr/match/basket/boulazac-pGtBbX8B/paris-CdCP6AWf/
+---
+
+21:00 | FOOTBALL | Real Madrid - RB Leipzig
+URL: https://www.flashscore.fr/match/football/rb-leipzig-KbS1suSm/real-madrid-W8mj7MDD/
+---
+
+11:00 | TENNIS | Robin Bertrand - Luca Wiedenmann
+URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/wiedenmann-luca-8OJw7AKG/
+---
+
+04:00 | TENNIS | Alexandra Eala - Diane Parry
+URL: https://www.flashscore.fr/match/tennis/eala-alexandra-ppu9X7PH/parry-diane-hQQLzcNT/
+---
+
+19:00 | FOOTBALL | Le Havre - PSG
+URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/psg-CjhkPw0k/
+---
+
+21:05 | FOOTBALL | LOSC - RC Lens
+URL: https://www.flashscore.fr/match/football/lens-IBmris38/lille-pfDZL71o/
+---
+
+18:45 | FOOTBALL | Juventus - Stade Rennais
+URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/rennes-d2nnj1IE/
+---
+
+15:00 | TENNIS | Matteo Martineau - Mika Brunold
+URL: https://www.flashscore.fr/match/tennis/brunold-mika-AqiRBgj5/martineau-matteo-IDkmT0Hj/
+---
+
+08:00 | TENNIS | Adrian Mannarino - Aleksandar Vukic
+URL: https://www.flashscore.fr/match/tennis/mannarino-adrian-fLOdtByM/vukic-aleksandar-O2CmIROi/
 ---
 
