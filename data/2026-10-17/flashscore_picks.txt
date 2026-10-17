@@ -260,7 +260,7 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
 
 10:30 | TENNIS | Alejandro Davidovich Fokina - Rafael Jodar
 Flashscore conclusion:
-Les deux joueurs ont beaucoup souffert physiquement à Shanghai après avoir disputé de nombreux matchs en trois sets. La récupération pourrait donc jouer un rôle majeur. Celui qui résistera le mieux sur le plan de l’endurance pourrait prendre l’ascendant dans un duel autrement équilibré entre deux joueurs au classement similaire. Les deux hommes cherchent à décrocher un premier titre en Masters, et la pression sera immense de part et d’autre. Si l’un d’eux semble capable de gérer ses nerfs et de répondre présent sur la grande scène, c’est Jodar. À ce titre, il part avec un léger avantage.Traduit à l'aide de l'IA
+Les deux joueurs ont été éprouvés physiquement à Shanghai après de nombreux matchs en trois sets. La récupération pourrait donc jouer un rôle déterminant. Celui qui résistera le mieux sur le plan de l’endurance pourrait prendre l’ascendant dans un duel autrement équilibré entre deux joueurs au classement similaire. Les deux hommes recherchent un premier titre en Masters, et la pression sera immense de part et d’autre. Si l’un d’eux semble capable de gérer ses nerfs et de répondre présent sur la grande scène, c’est bien Jodar. Il part donc avec un léger avantage.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/davidovich-fokina-alejandro-0zQXLfz4/jodar-rafael-OdngshVK/
 ---
 
@@ -306,5 +306,21 @@ URL: https://www.flashscore.fr/match/tennis/brunold-mika-AqiRBgj5/martineau-matt
 
 08:00 | TENNIS | Adrian Mannarino - Aleksandar Vukic
 URL: https://www.flashscore.fr/match/tennis/mannarino-adrian-fLOdtByM/vukic-aleksandar-O2CmIROi/
+---
+
+12:30 | TENNIS | Kyrian Jacquet - Sascha Gueymard Wayenburg
+URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/jacquet-kyrian-KGKot0sk/
+---
+
+14:00 | TENNIS | Valentin Royer - Clément Tabur
+URL: https://www.flashscore.fr/match/tennis/royer-valentin-IFGPWCuI/tabur-clement-fHPZtbgE/
+---
+
+15:30 | TENNIS | Ugo Blanchet - Nicolai Budkov Kjaer
+URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/budkov-kjaer-nicolai-Gj3CGbX5/
+---
+
+15:20 | BADMINTON | Alex Lanier - Anders Antonsen
+URL: https://www.flashscore.fr/match/badminton/antonsen-anders-GMQqJqeP/lanier-alex-4fGvqPra/
 ---
 
