@@ -108,7 +108,7 @@ URL: https://www.flashscore.fr/match/tennis/brunold-mika-AqiRBgj5/martineau-matt
 URL: https://www.flashscore.fr/match/tennis/royer-valentin-IFGPWCuI/tabur-clement-fHPZtbgE/
 ---
 
-15:50 | BADMINTON | Alex Lanier - Anders Antonsen
+16:35 | BADMINTON | Alex Lanier - Anders Antonsen
 URL: https://www.flashscore.fr/match/badminton/antonsen-anders-GMQqJqeP/lanier-alex-4fGvqPra/
 ---
 
@@ -244,5 +244,25 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
 
 20:30 | HOCKEY | Angers - Nice
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
+---
+
+13:30 | FOOTBALL | Aston Villa - Manchester City
+URL: https://www.flashscore.fr/match/football/aston-villa-W00wmLO0/manchester-city-Wtn9Stg0/
+---
+
+11:00 | TENNIS | Raul Brancaccio - Calvin Hemery
+URL: https://www.flashscore.fr/match/tennis/brancaccio-raul-Ec4ddDyl/hemery-calvin-fse58iGB/
+---
+
+13:30 | TENNIS | Alexandra Eala - Diane Parry
+URL: https://www.flashscore.fr/match/tennis/eala-alexandra-ppu9X7PH/parry-diane-hQQLzcNT/
+---
+
+10:00 | BADMINTON | Kunlavut Vitidsarn - Toma Junior Popov
+URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/vitidsarn-kunlavut-tdE7qrlF/
+---
+
+10:00 | BADMINTON | Alex Lanier - Jason Gunawan
+URL: https://www.flashscore.fr/match/badminton/gunawan-jason-WWduvmf6/lanier-alex-4fGvqPra/
 ---
 
