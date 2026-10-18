@@ -120,7 +120,7 @@ URL: https://www.flashscore.fr/match/rugby/exeter-chiefs-MD5xtgIl/stade-toulousa
 URL: https://www.flashscore.fr/match/basket/boulazac-pGtBbX8B/paris-CdCP6AWf/
 ---
 
-17:00 | TENNIS | Ugo Blanchet - Nicolai Budkov Kjaer
+18:55 | TENNIS | Ugo Blanchet - Nicolai Budkov Kjaer
 URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/budkov-kjaer-nicolai-Gj3CGbX5/
 ---
 
@@ -264,5 +264,37 @@ URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/vitids
 
 10:00 | BADMINTON | Alex Lanier - Jason Gunawan
 URL: https://www.flashscore.fr/match/badminton/gunawan-jason-WWduvmf6/lanier-alex-4fGvqPra/
+---
+
+16:00 | FOOTBALL | Arsenal - Everton
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/everton-KluSTr9s/
+---
+
+10:00 | BADMINTON | Arnaud Merkle - Christo Popov
+URL: https://www.flashscore.fr/match/badminton/merkle-arnaud-nwi5quc0/popov-christo-6s0IBZwf/
+---
+
+10:00 | TENNIS | Daniel Altmaier - Titouan Droguet
+URL: https://www.flashscore.fr/match/tennis/altmaier-daniel-IPR8h9gM/droguet-titouan-A57Xet1f/
+---
+
+10:00 | TENNIS | Ugo Humbert - Corentin Moutet
+URL: https://www.flashscore.fr/match/tennis/humbert-ugo-O4ywE5Ah/moutet-corentin-bX0EWcV9/
+---
+
+17:15 | FOOTBALL | OGC Nice - Stade Rennais
+URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/rennes-d2nnj1IE/
+---
+
+20:45 | FOOTBALL | FC Lorient - Stade Brestois
+URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/lorient-jgNAYRGi/
+---
+
+20:45 | FOOTBALL | Olympique Lyonnais - SCO Angers
+URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lyon-2akflumR/
+---
+
+20:45 | FOOTBALL | ESTAC - Le Mans
+URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/troyes-fsfAHubD/
 ---
 
