@@ -102,7 +102,7 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/guingamp-QDfKl36
 URL: https://www.flashscore.fr/match/tennis/grenier-hugo-dQsvQVYi/tailleu-pierre-antoine-xzcDZbIN/
 ---
 
-15:30 | TENNIS | Benjamin Bonzi - Cameron Norrie
+17:50 | TENNIS | Benjamin Bonzi - Cameron Norrie
 URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/norrie-cameron-pvzhJGY8/
 ---
 
@@ -110,11 +110,11 @@ URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/norrie-camer
 URL: https://www.flashscore.fr/match/tennis/altmaier-daniel-IPR8h9gM/droguet-titouan-A57Xet1f/
 ---
 
-17:00 | TENNIS | Luca van Assche - Clément Tabur
+17:55 | TENNIS | Luca van Assche - Clément Tabur
 URL: https://www.flashscore.fr/match/tennis/tabur-clement-fHPZtbgE/van-assche-luca-nP9K42Bg/
 ---
 
-19:00 | TENNIS | Matteo Berrettini - Kyrian Jacquet
+19:20 | TENNIS | Matteo Berrettini - Kyrian Jacquet
 URL: https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/jacquet-kyrian-KGKot0sk/
 ---
 
@@ -126,7 +126,7 @@ URL: https://www.flashscore.fr/match/volleyball/tourcoing-lhL6wFCl/tours-WGABxZR
 URL: https://www.flashscore.fr/match/tennis/bouzkova-marie-WMS3AdAb/swiatek-iga-jNyZsXZe/
 ---
 
-08:00 | TENNIS | Adrian Mannarino - Andrey Rublev
+11:30 | TENNIS | Adrian Mannarino - Andrey Rublev
 URL: https://www.flashscore.fr/match/tennis/mannarino-adrian-fLOdtByM/rublev-andrey-AeAn4gP0/
 ---
 
@@ -240,5 +240,13 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
 
 20:30 | HOCKEY | Angers - Nice
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
+---
+
+10:00 | BADMINTON | Arnaud Merkle - Christo Popov
+URL: https://www.flashscore.fr/match/badminton/merkle-arnaud-nwi5quc0/popov-christo-6s0IBZwf/
+---
+
+10:00 | TENNIS | Thijs Boogaard - Matteo Martineau
+URL: https://www.flashscore.fr/match/tennis/boogaard-thijs-O02GvXKb/martineau-matteo-IDkmT0Hj/
 ---
 
