@@ -130,7 +130,7 @@ URL: https://www.flashscore.fr/match/tennis/bouzkova-marie-WMS3AdAb/swiatek-iga-
 URL: https://www.flashscore.fr/match/tennis/mannarino-adrian-fLOdtByM/rublev-andrey-AeAn4gP0/
 ---
 
-10:00 | BADMINTON | Alex Lanier - Jason Gunawan
+13:20 | BADMINTON | Alex Lanier - Jason Gunawan
 URL: https://www.flashscore.fr/match/badminton/gunawan-jason-WWduvmf6/lanier-alex-4fGvqPra/
 ---
 
@@ -242,7 +242,7 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
 ---
 
-10:00 | BADMINTON | Arnaud Merkle - Christo Popov
+12:30 | BADMINTON | Arnaud Merkle - Christo Popov
 URL: https://www.flashscore.fr/match/badminton/merkle-arnaud-nwi5quc0/popov-christo-6s0IBZwf/
 ---
 
@@ -272,5 +272,33 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/briancon-p4oJOtWk/
 
 20:05 | HOCKEY | Chamonix Mont-Blanc - Angers
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/chamonix-mont-blanc-byLLnpOd/
+---
+
+21:00 | FOOTBALL | Barcelone - Real Madrid
+URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/real-madrid-W8mj7MDD/
+---
+
+21:00 | FOOTBALL | Fleetwood - Arsenal
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/fleetwood-tCZ3D68d/
+---
+
+20:00 | FOOTBALL | FC Nantes - Clermont Foot
+URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/nantes-veuetnGG/
+---
+
+10:30 | TENNIS | Geoffrey Blancaneaux - Matej Sabanov
+URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/sabanov-matej-b55Jxg4U/
+---
+
+13:30 | TENNIS | Robin Bertrand - Mario Arce Fernandez
+URL: https://www.flashscore.fr/match/tennis/arce-fernandez-mario-QuTdSyek/bertrand-robin-2mcblDiJ/
+---
+
+20:15 | HOCKEY | Girondins de Bordeaux - Gap
+URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/gap-2TtYxh3I/
+---
+
+20:15 | HOCKEY | Olympique de Marseille - Amiens
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/marseille-nkohUngl/
 ---
 
