@@ -124,7 +124,7 @@ URL: https://www.flashscore.fr/match/tennis/boogaard-thijs-O02GvXKb/martineau-ma
 URL: https://www.flashscore.fr/match/handball/paris-MmvaXAoA/rk-zagreb-Im3v2h2H/
 ---
 
-21:00 | TENNIS | Benjamin Bonzi - Tommy Paul
+21:59 | TENNIS | Benjamin Bonzi - Tommy Paul
 URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/paul-tommy-pd3ye1BS/
 ---
 
@@ -132,7 +132,7 @@ URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/paul-tommy-p
 URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/munar-jaume-zZieQm4D/
 ---
 
-10:00 | BADMINTON | Toma Junior Popov - Jia Heng Jason Teh
+13:40 | BADMINTON | Toma Junior Popov - Jia Heng Jason Teh
 URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/teh-jia-heng-jason-67ZMg1T7/
 ---
 
@@ -248,7 +248,7 @@ URL: https://www.flashscore.fr/match/tennis/vacherot-valentin-rFqoSYd8/van-assch
 URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/nakashima-brandon-ETGnbrpH/
 ---
 
-10:00 | BADMINTON | Alex Lanier - Panitchaphon Teeraratsakul
+15:20 | BADMINTON | Alex Lanier - Panitchaphon Teeraratsakul
 URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/teeraratsakul-panitchaphon-l402bQTo/
 ---
 
@@ -256,11 +256,23 @@ URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/teeraratsaku
 URL: https://www.flashscore.fr/match/football/brighton-2XrRecc3/manchester-city-Wtn9Stg0/
 ---
 
-10:00 | BADMINTON | Rasmus Gemke - Christo Popov
+12:50 | BADMINTON | Rasmus Gemke - Christo Popov
 URL: https://www.flashscore.fr/match/badminton/gemke-rasmus-jeJcG9rb/popov-christo-6s0IBZwf/
 ---
 
 12:30 | TENNIS | Hugo Grenier - Paul Jubb
 URL: https://www.flashscore.fr/match/tennis/grenier-hugo-dQsvQVYi/jubb-paul-EqHBaC5N/
+---
+
+20:45 | FOOTBALL | Genoa - Juventus
+URL: https://www.flashscore.fr/match/football/genoa-d0PJxeie/juventus-C06aJvIB/
+---
+
+13:30 | FOOTBALL | Chelsea - Manchester Utd
+URL: https://www.flashscore.fr/match/football/chelsea-4fGZN2oK/manchester-utd-ppjDR086/
+---
+
+10:30 | TENNIS | Robin Bertrand - Carles Hernandez
+URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/hernandez-carles-tKYH0pjG/
 ---
 
