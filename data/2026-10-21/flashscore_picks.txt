@@ -95,6 +95,8 @@ URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/fleetwood-tCZ3D68
 ---
 
 20:00 | FOOTBALL | Clermont Foot - Guingamp
+Flashscore conclusion:
+Les bookmakers ont fixé la ligne à 2,5 buts, avec une probabilité de 49 % que le total soit supérieur. Le marché « les deux équipes marquent » affiche une probabilité de 54 %.Buts implicites selon les cotes: 2,6Ces chiffres proviennent des cotes d’avant-match enregistrées deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/guingamp-QDfKl36E/
 ---
 
@@ -106,7 +108,7 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/nantes-veuetnGG/
 URL: https://www.flashscore.fr/match/badminton/gunawan-jason-WWduvmf6/lanier-alex-4fGvqPra/
 ---
 
-16:30 | TENNIS | Geoffrey Blancaneaux - Matej Sabanov
+09:30 | TENNIS | Geoffrey Blancaneaux - Matej Sabanov
 URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/sabanov-matej-b55Jxg4U/
 ---
 
@@ -122,7 +124,7 @@ URL: https://www.flashscore.fr/match/tennis/boogaard-thijs-O02GvXKb/martineau-ma
 URL: https://www.flashscore.fr/match/handball/paris-MmvaXAoA/rk-zagreb-Im3v2h2H/
 ---
 
-20:30 | TENNIS | Benjamin Bonzi - Tommy Paul
+21:00 | TENNIS | Benjamin Bonzi - Tommy Paul
 URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/paul-tommy-pd3ye1BS/
 ---
 
@@ -238,7 +240,7 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
 ---
 
-10:00 | TENNIS | Valentin Vacherot - Luca van Assche
+14:00 | TENNIS | Valentin Vacherot - Luca van Assche
 URL: https://www.flashscore.fr/match/tennis/vacherot-valentin-rFqoSYd8/van-assche-luca-nP9K42Bg/
 ---
 
@@ -248,5 +250,17 @@ URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/nakashima-br
 
 10:00 | BADMINTON | Alex Lanier - Panitchaphon Teeraratsakul
 URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/teeraratsakul-panitchaphon-l402bQTo/
+---
+
+20:30 | FOOTBALL | Manchester City - Brighton
+URL: https://www.flashscore.fr/match/football/brighton-2XrRecc3/manchester-city-Wtn9Stg0/
+---
+
+10:00 | BADMINTON | Rasmus Gemke - Christo Popov
+URL: https://www.flashscore.fr/match/badminton/gemke-rasmus-jeJcG9rb/popov-christo-6s0IBZwf/
+---
+
+12:30 | TENNIS | Hugo Grenier - Paul Jubb
+URL: https://www.flashscore.fr/match/tennis/grenier-hugo-dQsvQVYi/jubb-paul-EqHBaC5N/
 ---
 
