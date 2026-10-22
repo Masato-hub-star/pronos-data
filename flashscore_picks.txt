@@ -1,15 +1,3 @@
-18:45 | FOOTBALL | LOSC - Galatasaray
-Flashscore conclusion:
-Les deux équipes ont connu des difficultés défensives en Europe cette saison et aucune n’a livré une prestation convaincante le week-end dernier. Le match nul est envisageable.Auteur : John PenningtonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/galatasaray-riaqqurF/lille-pfDZL71o/
----
-
-21:00 | FOOTBALL | Club Brugge - RC Lens
-Flashscore conclusion:
-Les buts sont au rendez-vous avec l’équipe locale. Par conséquent, on envisage plus de 4,5 buts dans le match.Auteur : Tom PennTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/club-bruges-rgTHIK74/lens-IBmris38/
----
-
 18:45 | FOOTBALL | Sturm Graz - Olympique de Marseille
 Flashscore conclusion:
 Sachant que Marseille ne se contente pas des matchs nuls, on pourrait imaginer une victoire de l’une ou l’autre équipe sur le marché de la double chance.Auteur : Aaron MurphyTraduit à l'aide de l'IA
@@ -23,6 +11,8 @@ URL: https://www.flashscore.fr/match/football/hoffenheim-hQAtP9Sl/lyon-2akflumR/
 ---
 
 20:45 | FOOTBALL | RC Lens - Paris FC
+Flashscore conclusion:
+L'excellent bilan du Paris FC en première période et la tendance de Lens à concéder avant la pause laissent penser qu'un avantage du Paris FC à la mi-temps est plausible.Auteur : John PenningtonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lens-IBmris38/paris-fc-0OEHEprs/
 ---
 
@@ -46,22 +36,8 @@ URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/psg-CjhkPw0k/
 URL: https://www.flashscore.fr/match/football/lens-IBmris38/lille-pfDZL71o/
 ---
 
-18:45 | FOOTBALL | Côme - Manchester Utd
-Flashscore conclusion:
-Côme part largement favori, mais son manque d’expérience européenne pourrait laisser envisager ce pronostic : Manchester United en double chance.Auteur : Ryan FisherTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/come-ttyLthOA/manchester-utd-ppjDR086/
----
-
-21:00 | FOOTBALL | Bayern Munich - Arsenal
-Flashscore conclusion:
-Difficile de choisir un vainqueur ici, mais une victoire du Bayern pourrait être envisageable compte tenu de son bilan phénoménal à domicile à ce stade de la compétition et de sa solidité lorsqu’il reçoit des équipes anglaises.Auteur : Chris WilsonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/bayern-nVp0wiqd/
----
-
-21:00 | FOOTBALL | Real Madrid - RB Leipzig
-Flashscore conclusion:
-Les locaux restent sur une solide série de victoires et se montrent impériaux à domicile. Leipzig est en plein désarroi à l’extérieur. Une victoire de Madrid avec un handicap de -2 semble envisageable.Auteur : John PenningtonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/rb-leipzig-KbS1suSm/real-madrid-W8mj7MDD/
+20:45 | FOOTBALL | Olympique Lyonnais - SCO Angers
+URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lyon-2akflumR/
 ---
 
 18:45 | FOOTBALL | Juventus - Stade Rennais
@@ -71,10 +47,14 @@ URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/rennes-d2nnj1IE/
 ---
 
 13:30 | FOOTBALL | Aston Villa - Manchester City
+Flashscore conclusion:
+Villa est logiquement considéré comme outsider au vu des performances de City en Premier League cette saison. Toutefois, son bilan dans les confrontations et son goût pour les grands rendez-vous font d’une victoire à domicile une option envisageable.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/aston-villa-W00wmLO0/manchester-city-Wtn9Stg0/
 ---
 
 16:00 | FOOTBALL | Arsenal - Everton
+Flashscore conclusion:
+Le bilan catastrophique d’Everton à l’extérieur contre les Gunners parle de lui-même. Une victoire d’Arsenal sans encaisser de but semble envisageable.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/everton-KluSTr9s/
 ---
 
@@ -94,6 +74,22 @@ URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/real-madrid-W8m
 URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/fleetwood-tCZ3D68d/
 ---
 
+20:30 | FOOTBALL | Manchester City - Brighton
+URL: https://www.flashscore.fr/match/football/brighton-2XrRecc3/manchester-city-Wtn9Stg0/
+---
+
+20:45 | FOOTBALL | Genoa - Juventus
+URL: https://www.flashscore.fr/match/football/genoa-d0PJxeie/juventus-C06aJvIB/
+---
+
+13:30 | FOOTBALL | Chelsea - Manchester Utd
+URL: https://www.flashscore.fr/match/football/chelsea-4fGZN2oK/manchester-utd-ppjDR086/
+---
+
+17:00 | HANDBALL | Hongrie F - France F
+URL: https://www.flashscore.fr/match/handball/france-O4dLT2gI/hongrie-KG7Fi6oP/
+---
+
 20:00 | FOOTBALL | Clermont Foot - Guingamp
 Flashscore conclusion:
 Les bookmakers ont fixé la ligne à 2,5 buts, avec une probabilité de 49 % que le total soit supérieur. Le marché « les deux équipes marquent » affiche une probabilité de 54 %.Buts implicites selon les cotes: 2,6Ces chiffres proviennent des cotes d’avant-match enregistrées deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
@@ -104,36 +100,32 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/guingamp-QDfKl36
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/nantes-veuetnGG/
 ---
 
-14:48 | BADMINTON | Alex Lanier - Jason Gunawan
-URL: https://www.flashscore.fr/match/badminton/gunawan-jason-WWduvmf6/lanier-alex-4fGvqPra/
+14:55 | BADMINTON | Toma Junior Popov - Jia Heng Jason Teh
+URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/teh-jia-heng-jason-67ZMg1T7/
 ---
 
-09:30 | TENNIS | Geoffrey Blancaneaux - Matej Sabanov
+15:50 | BADMINTON | Alex Lanier - Panitchaphon Teeraratsakul
+URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/teeraratsakul-panitchaphon-l402bQTo/
+---
+
+15:30 | TENNIS | Geoffrey Blancaneaux - Matej Sabanov
 URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/sabanov-matej-b55Jxg4U/
 ---
 
-17:00 | TENNIS | Jannik Sinner - Alex De Minaur
-URL: https://www.flashscore.fr/match/tennis/de-minaur-alex-EZgZ9Xfh/sinner-jannik-6HdC3z4H/
+20:30 | TENNIS | Kyrian Jacquet - Brandon Nakashima
+URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/nakashima-brandon-ETGnbrpH/
 ---
 
-17:45 | TENNIS | Thijs Boogaard - Matteo Martineau
-URL: https://www.flashscore.fr/match/tennis/boogaard-thijs-O02GvXKb/martineau-matteo-IDkmT0Hj/
+08:30 | TENNIS | Nikoloz Basilashvili - Adrian Mannarino
+URL: https://www.flashscore.fr/match/tennis/basilashvili-nikoloz-Kb8ttRy2/mannarino-adrian-fLOdtByM/
 ---
 
-18:45 | HANDBALL | RK Zagreb - PSG
-URL: https://www.flashscore.fr/match/handball/paris-MmvaXAoA/rk-zagreb-Im3v2h2H/
+10:00 | BADMINTON | Kodai Naraoka - Christo Popov
+URL: https://www.flashscore.fr/match/badminton/naraoka-kodai-MPtLI8G5/popov-christo-6s0IBZwf/
 ---
 
-21:59 | TENNIS | Benjamin Bonzi - Tommy Paul
-URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/paul-tommy-pd3ye1BS/
----
-
-10:00 | TENNIS | Arthur Fils - Jaume Munar
-URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/munar-jaume-zZieQm4D/
----
-
-13:40 | BADMINTON | Toma Junior Popov - Jia Heng Jason Teh
-URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/teh-jia-heng-jason-67ZMg1T7/
+19:00 | BASKETBALL | Zalgiris Kaunas - ASVEL Lyon-Villeurbanne
+URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/zalgiris-kaunas-6JbDYvUs/
 ---
 
 20:45 | FOOTBALL | Stade Brestois - OGC Nice
@@ -143,10 +135,14 @@ URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/nice-YagoQJpq/
 ---
 
 17:15 | FOOTBALL | SCO Angers - FC Lorient
+Flashscore conclusion:
+Angers a été en difficulté avant la mi-temps, tandis que Lorient s’est montré performant après la pause. Cela pourrait rendre le  pari mi-temps/fin de match sur Lorient intéressant.Auteur : Aaron MurphyTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lorient-jgNAYRGi/
 ---
 
 17:15 | FOOTBALL | AJ Auxerre - Le Mans
+Flashscore conclusion:
+Compte tenu de la forme très contrastée des deux équipes, une victoire d’Auxerre semble envisageable.Auteur : Matthew BillonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/le-mans-ER0NeOOp/
 ---
 
@@ -166,10 +162,6 @@ URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/rennes-d2nnj1IE/
 
 20:45 | FOOTBALL | FC Lorient - Stade Brestois
 URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/lorient-jgNAYRGi/
----
-
-20:45 | FOOTBALL | Olympique Lyonnais - SCO Angers
-URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lyon-2akflumR/
 ---
 
 20:45 | FOOTBALL | ESTAC - Le Mans
@@ -238,41 +230,5 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
 
 20:30 | HOCKEY | Angers - Nice
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
----
-
-14:00 | TENNIS | Valentin Vacherot - Luca van Assche
-URL: https://www.flashscore.fr/match/tennis/vacherot-valentin-rFqoSYd8/van-assche-luca-nP9K42Bg/
----
-
-10:00 | TENNIS | Kyrian Jacquet - Brandon Nakashima
-URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/nakashima-brandon-ETGnbrpH/
----
-
-15:20 | BADMINTON | Alex Lanier - Panitchaphon Teeraratsakul
-URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/teeraratsakul-panitchaphon-l402bQTo/
----
-
-20:30 | FOOTBALL | Manchester City - Brighton
-URL: https://www.flashscore.fr/match/football/brighton-2XrRecc3/manchester-city-Wtn9Stg0/
----
-
-12:50 | BADMINTON | Rasmus Gemke - Christo Popov
-URL: https://www.flashscore.fr/match/badminton/gemke-rasmus-jeJcG9rb/popov-christo-6s0IBZwf/
----
-
-12:30 | TENNIS | Hugo Grenier - Paul Jubb
-URL: https://www.flashscore.fr/match/tennis/grenier-hugo-dQsvQVYi/jubb-paul-EqHBaC5N/
----
-
-20:45 | FOOTBALL | Genoa - Juventus
-URL: https://www.flashscore.fr/match/football/genoa-d0PJxeie/juventus-C06aJvIB/
----
-
-13:30 | FOOTBALL | Chelsea - Manchester Utd
-URL: https://www.flashscore.fr/match/football/chelsea-4fGZN2oK/manchester-utd-ppjDR086/
----
-
-10:30 | TENNIS | Robin Bertrand - Carles Hernandez
-URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/hernandez-carles-tKYH0pjG/
 ---
 
