@@ -112,7 +112,7 @@ URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/teeraratsaku
 URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/sabanov-matej-b55Jxg4U/
 ---
 
-20:30 | TENNIS | Kyrian Jacquet - Brandon Nakashima
+20:45 | TENNIS | Kyrian Jacquet - Brandon Nakashima
 URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/nakashima-brandon-ETGnbrpH/
 ---
 
@@ -120,7 +120,7 @@ URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/nakashima-br
 URL: https://www.flashscore.fr/match/tennis/basilashvili-nikoloz-Kb8ttRy2/mannarino-adrian-fLOdtByM/
 ---
 
-10:00 | BADMINTON | Kodai Naraoka - Christo Popov
+12:50 | BADMINTON | Kodai Naraoka - Christo Popov
 URL: https://www.flashscore.fr/match/badminton/naraoka-kodai-MPtLI8G5/popov-christo-6s0IBZwf/
 ---
 
@@ -232,7 +232,7 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
 ---
 
-10:00 | BADMINTON | Toma Junior Popov - Alex Lanier
+12:00 | BADMINTON | Toma Junior Popov - Alex Lanier
 URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/popov-toma-junior-4ltqyHW4/
 ---
 
@@ -244,5 +244,19 @@ URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/michelsen-alex-
 Flashscore conclusion:
 Les bookmakers ont fixé la ligne à 2,5 buts, avec une probabilité de 55 % que le total dépasse ce seuil. Selon les marchés, la probabilité que les deux équipes marquent lors de ce match est de 59 %.Buts implicites selon les cotes: 2,9Ces chiffres proviennent des cotes d’avant-match établies deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
 URL: https://www.flashscore.fr/match/football/dunkerque-tAAobNse/metz-4v0yqlWc/
+---
+
+21:00 | FOOTBALL | AS Monaco - Fribourg
+Flashscore conclusion:
+La rédaction internationale imagine une victoire de Fribourg compte tenu de son excellent début de saison.Auteur : Ryan FisherTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/freiburg-fiEQZ7C7/monaco-2PIvr8o4/
+---
+
+21:00 | FOOTBALL | Barcelone - Alaves
+URL: https://www.flashscore.fr/match/football/alaves-hxt57t2q/barcelone-SKbpVP5K/
+---
+
+10:30 | TENNIS | Robin Bertrand - Maxence Rivet
+URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/rivet-maxence-WlznU7Za/
 ---
 
