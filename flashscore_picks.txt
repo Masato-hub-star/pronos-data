@@ -1,15 +1,3 @@
-18:45 | FOOTBALL | Sturm Graz - Olympique de Marseille
-Flashscore conclusion:
-Sachant que Marseille ne se contente pas des matchs nuls, on pourrait imaginer une victoire de l’une ou l’autre équipe sur le marché de la double chance.Auteur : Aaron MurphyTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/sturm-zsktjfsD/
----
-
-21:00 | FOOTBALL | Hoffenheim - Olympique Lyonnais
-Flashscore conclusion:
-Comme les deux équipes ont l’habitude de marquer et d’encaisser lors d’un même match, on peut envisager de voir les deux équipes marquer et une victoire à l’extérieur ici.Auteur : Tom PennTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/hoffenheim-hQAtP9Sl/lyon-2akflumR/
----
-
 20:45 | FOOTBALL | RC Lens - Paris FC
 Flashscore conclusion:
 L'excellent bilan du Paris FC en première période et la tendance de Lens à concéder avant la pause laissent penser qu'un avantage du Paris FC à la mi-temps est plausible.Auteur : John PenningtonTraduit à l'aide de l'IA
@@ -17,14 +5,20 @@ URL: https://www.flashscore.fr/match/football/lens-IBmris38/paris-fc-0OEHEprs/
 ---
 
 15:00 | FOOTBALL | AS Monaco - LOSC
+Flashscore conclusion:
+Six des sept dernières confrontations en championnat se sont conclues avec moins de 2,5 buts. On l'envisage de nouveau ici.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/monaco-2PIvr8o4/
 ---
 
 17:15 | FOOTBALL | Olympique de Marseille - Le Havre
+Flashscore conclusion:
+Marseille n’a peut-être pas réalisé un excellent début de saison, mais on pense que les locaux vont ouvrir le score et s’imposer ici.Auteur : Alex BowmerTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/marseille-SblU3Hee/
 ---
 
 20:45 | FOOTBALL | PSG - Olympique Lyonnais
+Flashscore conclusion:
+Les débuts de match poussifs du PSG et sa ligne offensive diminuée nous laissent penser que Lyon pourrait ouvrir le score ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lyon-2akflumR/psg-CjhkPw0k/
 ---
 
@@ -40,10 +34,18 @@ URL: https://www.flashscore.fr/match/football/lens-IBmris38/lille-pfDZL71o/
 URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lyon-2akflumR/
 ---
 
-18:45 | FOOTBALL | Juventus - Stade Rennais
+20:45 | FOOTBALL | Olympique de Marseille - Toulouse
+URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/toulouse-MLmY2yB1/
+---
+
+20:45 | FOOTBALL | Stade Brestois - OGC Nice
 Flashscore conclusion:
-Compte tenu des largesses défensives de Rennes à l’extérieur et de la tendance aux buts dans ses matchs en général, on imagine une victoire de la Juventus et plus de 2,5 buts ici.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/rennes-d2nnj1IE/
+Les difficultés de Nice à l’extérieur et les fragilités défensives de Brest sont à prendre en compte. Dans ce contexte, nous pensons que Brest pourrait s'imposer et que les deux équipes pourraient marquer ici.Auteur : Alex BowmerTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/nice-YagoQJpq/
+---
+
+18:00 | FOOTBALL | Esperance Tunis - Asswehly
+URL: https://www.flashscore.fr/match/football/asswehly-Iw5jr76r/esperance-tunis-bVINpDMl/
 ---
 
 13:30 | FOOTBALL | Aston Villa - Manchester City
@@ -59,14 +61,20 @@ URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/everton-KluSTr9s/
 ---
 
 15:00 | FOOTBALL | Manchester Utd - Bournemouth
+Flashscore conclusion:
+Une victoire de Bournemouth est envisageable ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/bournemouth-OtpNdwrc/manchester-utd-ppjDR086/
 ---
 
 18:00 | FOOTBALL | Lecce - Juventus
+Flashscore conclusion:
+Compte tenu du bilan de Lecce contre les équipes de la première moitié du classement et de la domination historique de la Juventus à la Via del Mare, une victoire à l'extérieur est envisageable pour la Juve.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/lecce-G8lYsMgU/
 ---
 
 21:00 | FOOTBALL | Barcelone - Real Madrid
+Flashscore conclusion:
+La superbe forme de Barcelone à domicile, associée à l’efficacité récente du Real devant le but, nous laissent penser à une victoire de Barcelone avec les deux équipes qui marquent.Auteur : John PenningtonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/real-madrid-W8mj7MDD/
 ---
 
@@ -86,7 +94,11 @@ URL: https://www.flashscore.fr/match/football/genoa-d0PJxeie/juventus-C06aJvIB/
 URL: https://www.flashscore.fr/match/football/chelsea-4fGZN2oK/manchester-utd-ppjDR086/
 ---
 
-17:00 | HANDBALL | Hongrie F - France F
+21:00 | FOOTBALL | Barcelone - Alaves
+URL: https://www.flashscore.fr/match/football/alaves-hxt57t2q/barcelone-SKbpVP5K/
+---
+
+18:37 | HANDBALL | Hongrie F - France F
 URL: https://www.flashscore.fr/match/handball/france-O4dLT2gI/hongrie-KG7Fi6oP/
 ---
 
@@ -100,43 +112,39 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/guingamp-QDfKl36
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/nantes-veuetnGG/
 ---
 
-14:55 | BADMINTON | Toma Junior Popov - Jia Heng Jason Teh
-URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/teh-jia-heng-jason-67ZMg1T7/
----
-
-15:50 | BADMINTON | Alex Lanier - Panitchaphon Teeraratsakul
-URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/teeraratsakul-panitchaphon-l402bQTo/
----
-
-09:00 | TENNIS | Geoffrey Blancaneaux - Matej Sabanov
-URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/sabanov-matej-b55Jxg4U/
----
-
-20:45 | TENNIS | Kyrian Jacquet - Brandon Nakashima
-URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/nakashima-brandon-ETGnbrpH/
----
-
-08:30 | TENNIS | Nikoloz Basilashvili - Adrian Mannarino
-URL: https://www.flashscore.fr/match/tennis/basilashvili-nikoloz-Kb8ttRy2/mannarino-adrian-fLOdtByM/
----
-
-12:50 | BADMINTON | Kodai Naraoka - Christo Popov
-URL: https://www.flashscore.fr/match/badminton/naraoka-kodai-MPtLI8G5/popov-christo-6s0IBZwf/
+18:30 | TENNIS | Arthur Fils - Alex Michelsen
+URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/michelsen-alex-nDIhfm9l/
 ---
 
 19:00 | BASKETBALL | Zalgiris Kaunas - ASVEL Lyon-Villeurbanne
 URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/zalgiris-kaunas-6JbDYvUs/
 ---
 
-20:45 | FOOTBALL | Stade Brestois - OGC Nice
+20:00 | FOOTBALL | Dunkerque - FC Metz
 Flashscore conclusion:
-Les difficultés de Nice à l’extérieur et les fragilités défensives de Brest sont à prendre en compte. Dans ce contexte, nous pensons que Brest pourrait s'imposer et que les deux équipes pourraient marquer ici.Auteur : Alex BowmerTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/nice-YagoQJpq/
+Les bookmakers ont fixé la ligne à 2,5 buts, avec une probabilité de 55 % que le total dépasse ce seuil. Selon les marchés, la probabilité que les deux équipes marquent lors de ce match est de 59 %.Buts implicites selon les cotes: 2,9Ces chiffres proviennent des cotes d’avant-match établies deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
+URL: https://www.flashscore.fr/match/football/dunkerque-tAAobNse/metz-4v0yqlWc/
+---
+
+20:30 | TENNIS | Luca van Assche - Lorenzo Musetti
+URL: https://www.flashscore.fr/match/tennis/musetti-lorenzo-xtH2ODVI/van-assche-luca-nP9K42Bg/
+---
+
+20:45 | BASKETBALL | Paris - Valence
+URL: https://www.flashscore.fr/match/basket/paris-CdCP6AWf/valencia-6w8lqYGE/
+---
+
+04:05 | RUGBY | Nouvelle-Zélande F - France F
+URL: https://www.flashscore.fr/match/rugby/france-OO1bzV73/nouvelle-zelande-OA2cSGHp/
+---
+
+10:00 | BADMINTON | Alex Lanier - Moh. Zaki Ubaidillah
+URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/ubaidillah-moh-zaki-UiCMjVtj/
 ---
 
 17:15 | FOOTBALL | SCO Angers - FC Lorient
 Flashscore conclusion:
-Angers a été en difficulté avant la mi-temps, tandis que Lorient s’est montré performant après la pause. Cela pourrait rendre le  pari mi-temps/fin de match sur Lorient intéressant.Auteur : Aaron MurphyTraduit à l'aide de l'IA
+Angers a été en difficulté avant la mi-temps, tandis que Lorient s’est montré performant après la pause. Voilà pourquoi on imagine ce pronostic :  mi-temps/fin de match pour Lorient.Auteur : Aaron MurphyTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lorient-jgNAYRGi/
 ---
 
@@ -147,6 +155,8 @@ URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/le-mans-ER0NeOOp/
 ---
 
 17:15 | FOOTBALL | Stade Rennais - Strasbourg
+Flashscore conclusion:
+L’excellente forme des locaux et les difficultés défensives des visiteurs rendent envisageable une victoire de Rennes avec plus de 2,5 buts.Auteur : Matt Jones Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/rennes-d2nnj1IE/strasbourg-nP6UzIU1/
 ---
 
@@ -230,41 +240,5 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
 
 20:30 | HOCKEY | Angers - Nice
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
----
-
-12:00 | BADMINTON | Toma Junior Popov - Alex Lanier
-URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/popov-toma-junior-4ltqyHW4/
----
-
-18:30 | TENNIS | Arthur Fils - Alex Michelsen
-URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/michelsen-alex-nDIhfm9l/
----
-
-20:00 | FOOTBALL | Dunkerque - FC Metz
-Flashscore conclusion:
-Les bookmakers ont fixé la ligne à 2,5 buts, avec une probabilité de 55 % que le total dépasse ce seuil. Selon les marchés, la probabilité que les deux équipes marquent lors de ce match est de 59 %.Buts implicites selon les cotes: 2,9Ces chiffres proviennent des cotes d’avant-match établies deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
-URL: https://www.flashscore.fr/match/football/dunkerque-tAAobNse/metz-4v0yqlWc/
----
-
-21:00 | FOOTBALL | AS Monaco - Fribourg
-Flashscore conclusion:
-La rédaction internationale imagine une victoire de Fribourg compte tenu de son excellent début de saison.Auteur : Ryan FisherTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/freiburg-fiEQZ7C7/monaco-2PIvr8o4/
----
-
-21:00 | FOOTBALL | Barcelone - Alaves
-URL: https://www.flashscore.fr/match/football/alaves-hxt57t2q/barcelone-SKbpVP5K/
----
-
-10:30 | TENNIS | Robin Bertrand - Maxence Rivet
-URL: https://www.flashscore.fr/match/tennis/bertrand-robin-2mcblDiJ/rivet-maxence-WlznU7Za/
----
-
-20:45 | FOOTBALL | Olympique de Marseille - Toulouse
-URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/toulouse-MLmY2yB1/
----
-
-18:00 | FOOTBALL | Esperance Tunis - Asswehly
-URL: https://www.flashscore.fr/match/football/asswehly-Iw5jr76r/esperance-tunis-bVINpDMl/
 ---
 
