@@ -16,7 +16,7 @@ Marseille n’a peut-être pas réalisé un excellent début de saison, mais on 
 URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/marseille-SblU3Hee/
 ---
 
-20:45 | FOOTBALL | PSG - Olympique Lyonnais
+20:30 | FOOTBALL | PSG - Olympique Lyonnais
 Flashscore conclusion:
 Les débuts de match poussifs du PSG et sa ligne offensive diminuée nous laissent penser que Lyon pourrait ouvrir le score ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lyon-2akflumR/psg-CjhkPw0k/
@@ -240,5 +240,9 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/briancon-p4oJOtWk/
 
 20:30 | HOCKEY | Angers - Nice
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
+---
+
+15:00 | HANDBALL | France F - Hongrie F
+URL: https://www.flashscore.fr/match/handball/france-O4dLT2gI/hongrie-KG7Fi6oP/
 ---
 
