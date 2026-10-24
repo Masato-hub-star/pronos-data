@@ -10,7 +10,7 @@ URL: https://www.flashscore.fr/match/tennis/medjedovic-hamad-nDcBkcu7/molcan-ale
 URL: https://www.flashscore.fr/match/tennis/machac-tomas-S44E7UYr/moutet-corentin-bX0EWcV9/
 ---
 
-18:30 | TENNIS | Thiago Agustin Tirante - Adrian Mannarino
+18:46 | TENNIS | Thiago Agustin Tirante - Adrian Mannarino
 URL: https://www.flashscore.fr/match/tennis/mannarino-adrian-fLOdtByM/tirante-thiago-agustin-jBkGDj34/
 ---
 
@@ -138,11 +138,11 @@ URL: https://www.flashscore.fr/match/rugby/stade-toulousain-2LK4pW1j/usa-perpign
 URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/ubaidillah-moh-zaki-UiCMjVtj/
 ---
 
-18:30 | TENNIS | Arthur Fils - Jan-Lennard Struff
+18:40 | TENNIS | Arthur Fils - Jan-Lennard Struff
 URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/struff-jan-lennard-Ek3bDDo2/
 ---
 
-19:00 | BADMINTON | Christo Popov - Zhe An Hu
+19:50 | BADMINTON | Christo Popov - Zhe An Hu
 URL: https://www.flashscore.fr/match/badminton/hu-zhe-an-ET3KCInJ/popov-christo-6s0IBZwf/
 ---
 
@@ -262,7 +262,7 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
 URL: https://www.flashscore.fr/match/tennis/fearnley-jacob-pGBaKGOn/sonego-lorenzo-zVuMEJTT/
 ---
 
-11:00 | TENNIS | Lukas Neumayer - Titouan Droguet
+13:00 | TENNIS | Lukas Neumayer - Titouan Droguet
 URL: https://www.flashscore.fr/match/tennis/droguet-titouan-A57Xet1f/neumayer-lukas-4ffrgw5a/
 ---
 
@@ -328,5 +328,21 @@ URL: https://www.flashscore.fr/match/handball/paris-MmvaXAoA/st-raphael-YV5FVlGM
 
 16:00 | BASKETBALL | Roanne - Paris
 URL: https://www.flashscore.fr/match/basket/paris-CdCP6AWf/roanne-OWsjCTcG/
+---
+
+11:00 | TENNIS | Fabian Marozsan - Tomas Machac
+URL: https://www.flashscore.fr/match/tennis/machac-tomas-S44E7UYr/marozsan-fabian-I1mux0lj/
+---
+
+20:00 | FOOTBALL | Union Touarga - Wydad AC
+URL: https://www.flashscore.fr/match/football/union-touarga-GKY9yk5c/wydad-athletic-2yuuwjkA/
+---
+
+17:30 | FOOTBALL | Liverpool - Arsenal
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/liverpool-lId4TMwf/
+---
+
+11:00 | TENNIS | Giovanni Mpetshi Perricard - Aleksandar Kovacevic
+URL: https://www.flashscore.fr/match/tennis/kovacevic-aleksandar-AudsF90U/mpetshi-perricard-giovanni-ITe9m2F8/
 ---
 
