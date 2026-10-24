@@ -122,7 +122,7 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/nantes-veuetnGG/
 URL: https://www.flashscore.fr/match/tennis/droguet-titouan-A57Xet1f/schwarzler-joel-josef-0W4qKuuF/
 ---
 
-13:50 | TENNIS | Geoffrey Blancaneaux - Imanol Lopez Morillo
+08:30 | TENNIS | Geoffrey Blancaneaux - Imanol Lopez Morillo
 URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/lopez-morillo-imanol-buuKLcxO/
 ---
 
@@ -258,7 +258,7 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/cergy-pontoise-CK87Q
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
 ---
 
-11:00 | TENNIS | Lorenzo Sonego - Jacob Fearnley
+13:00 | TENNIS | Lorenzo Sonego - Jacob Fearnley
 URL: https://www.flashscore.fr/match/tennis/fearnley-jacob-pGBaKGOn/sonego-lorenzo-zVuMEJTT/
 ---
 
@@ -330,7 +330,7 @@ URL: https://www.flashscore.fr/match/handball/paris-MmvaXAoA/st-raphael-YV5FVlGM
 URL: https://www.flashscore.fr/match/basket/paris-CdCP6AWf/roanne-OWsjCTcG/
 ---
 
-11:00 | TENNIS | Fabian Marozsan - Tomas Machac
+14:30 | TENNIS | Fabian Marozsan - Tomas Machac
 URL: https://www.flashscore.fr/match/tennis/machac-tomas-S44E7UYr/marozsan-fabian-I1mux0lj/
 ---
 
@@ -342,7 +342,27 @@ URL: https://www.flashscore.fr/match/football/union-touarga-GKY9yk5c/wydad-athle
 URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/liverpool-lId4TMwf/
 ---
 
-11:00 | TENNIS | Giovanni Mpetshi Perricard - Aleksandar Kovacevic
+13:30 | TENNIS | Giovanni Mpetshi Perricard - Aleksandar Kovacevic
 URL: https://www.flashscore.fr/match/tennis/kovacevic-aleksandar-AudsF90U/mpetshi-perricard-giovanni-ITe9m2F8/
+---
+
+14:30 | TENNIS | Adrian Mannarino - Alex Molcan
+URL: https://www.flashscore.fr/match/tennis/mannarino-adrian-fLOdtByM/molcan-alex-drgiRTl7/
+---
+
+18:00 | FOOTBALL | Club Africain - TP Mazembe
+URL: https://www.flashscore.fr/match/football/club-africain-C2lt6Igm/mazembe-rJfKh7qN/
+---
+
+11:30 | TENNIS | Ugo Blanchet - Samir Hamza Reguig
+URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/hamza-reguig-samir-h66Vnxdo/
+---
+
+14:30 | TENNIS | Calvin Hemery - Adrien Gobat
+URL: https://www.flashscore.fr/match/tennis/gobat-adrien-fg3eSBRn/hemery-calvin-fse58iGB/
+---
+
+16:30 | BASKETBALL | ASVEL Lyon-Villeurbanne - Nancy
+URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/nancy-xKs76uce/
 ---
 
