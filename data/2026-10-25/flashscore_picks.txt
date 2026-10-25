@@ -286,3 +286,27 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/cergy-pontoise-CK87Q
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/nice-AkAAP4QB/
 ---
 
+18:00 | FOOTBALL | Club Africain - TP Mazembe
+URL: https://www.flashscore.fr/match/football/club-africain-C2lt6Igm/mazembe-rJfKh7qN/
+---
+
+20:45 | FOOTBALL | Juventus - Naples
+URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/napoli-69Dxbc61/
+---
+
+21:05 | RUGBY | Stade Rochelais - Bordeaux Bègles
+URL: https://www.flashscore.fr/match/rugby/bordeaux-begles-hzHredXK/stade-rochelais-6o5WuRcP/
+---
+
+11:00 | TENNIS | Ugo Blanchet - Vadym Ursu
+URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/ursu-vadym-ENsOeB1H/
+---
+
+03:00 | TENNIS | Diane Parry - Cristina Bucsa
+URL: https://www.flashscore.fr/match/tennis/bucsa-cristina-fkFeyKHL/parry-diane-hQQLzcNT/
+---
+
+03:00 | TENNIS | Tianhui Zhang - Harold Mayot
+URL: https://www.flashscore.fr/match/tennis/mayot-harold-jPfM16Z1/zhang-tianhui-EuCdP7ft/
+---
+
