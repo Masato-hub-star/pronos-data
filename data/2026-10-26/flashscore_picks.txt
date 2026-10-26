@@ -20,7 +20,7 @@ La plus grande expérience de Matteo Arnaldi sur dur Indoor en fait le favori su
 URL: https://www.flashscore.fr/match/tennis/arnaldi-matteo-hlVLAfZK/darderi-luciano-jeXTxMIp/
 ---
 
-20:00 | TENNIS | Luca van Assche - Learner Tien
+20:17 | TENNIS | Luca van Assche - Learner Tien
 Flashscore conclusion:
 Learner Tien est généralement un joueur bien plus solide et fiable que Luca Van Assche. Il pourrait donc logiquement remporter ce match. Toutefois, sa forme hésitante et le meilleur parcours de la carrière de Van Assche modifient légèrement la donne, ce qui fait du Français un outsider séduisant. Il devrait pouvoir mettre Tien en difficulté, remporter de nombreux jeux et peut-être même prendre un set. Une victoire surprise semble toutefois difficile à imaginer.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/tien-learner-xUHOBJK6/van-assche-luca-nP9K42Bg/
@@ -47,6 +47,8 @@ URL: https://www.flashscore.fr/match/tennis/landaluce-martin-AoOnGZEp/zverev-ale
 ---
 
 15:00 | TENNIS | Karen Khachanov - Carlos Alcaraz
+Flashscore conclusion:
+La forme de Karen Khachanov est en hausse ces dernières semaines. Il possède une grande expérience et connaît parfaitement les conditions à Vienne, avec un bilan solide dans cette enceinte. Plus important encore, Carlos Alcaraz est très loin de son meilleur niveau actuellement et paraît extrêmement vulnérable. Malgré tout, les mauvais chiffres de Khachanov dans cet affrontement, avec six défaites en autant de rencontres face à Alcaraz, rendent difficile la possibilité de lui faire confiance pour profiter des difficultés de l’Espagnol et créer la surprise.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/khachanov-karen-4bNPtZT5/
 ---
 
@@ -158,11 +160,13 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/nantes-veuetnGG/
 URL: https://www.flashscore.fr/match/tennis/martineau-matteo-IDkmT0Hj/virtanen-otto-hnYnFaTm/
 ---
 
-22:30 | TENNIS | Selena Janicijevic - Ana Grubor
+23:00 | TENNIS | Selena Janicijevic - Ana Grubor
 URL: https://www.flashscore.fr/match/tennis/grubor-ana-OMZYFvPp/janicijevic-selena-IaIL1xKN/
 ---
 
 04:30 | TENNIS | Diane Parry - Cristina Bucsa
+Flashscore conclusion:
+Diane Parry a redressé la situation cette saison après avoir figuré hors du top 100 il y a seulement quelques mois. La Française sera une adversaire redoutable pour Cristina Bucsa dans un match qui devrait aller au bout. Les deux joueuses sont tout à fait capables de s'imposer au terme de la rencontre.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/bucsa-cristina-fkFeyKHL/parry-diane-hQQLzcNT/
 ---
 
@@ -175,6 +179,8 @@ URL: https://www.flashscore.fr/match/tennis/mayot-harold-jPfM16Z1/zhang-tianhui-
 ---
 
 13:30 | TENNIS | Jérôme Kym - Arthur Rinderknech
+Flashscore conclusion:
+Arthur Rinderknech traverse une saison extrêmement irrégulière, comme l’illustre son bilan négatif de 19-25. Il revient également après une courte pause et disputera son premier match officiel depuis la Coupe Davis le mois dernier. Face à une invitation locale solide et combative, qui bénéficiera d’un important soutien du public, le Français peut s’attendre à de nombreuses difficultés. Il avait déjà été mis à rude épreuve par Kym sur ce court en 2024, à condition toutefois que le physique du Suisse tienne le coup.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/kym-jer-me-0dNeJ8OB/rinderknech-arthur-pIxZZsof/
 ---
 
@@ -268,5 +274,25 @@ URL: https://www.flashscore.fr/match/tennis/romano-filippo-CAxK6Xbs/tabur-clemen
 
 10:00 | TENNIS | Hugo Grenier - Moïse Kouamé
 URL: https://www.flashscore.fr/match/tennis/grenier-hugo-dQsvQVYi/kouame-moise-zylrzjzh/
+---
+
+18:45 | FOOTBALL | Real Sociedad - Olympique Lyonnais
+URL: https://www.flashscore.fr/match/football/lyon-2akflumR/real-sociedad-jNvak2f3/
+---
+
+20:00 | HANDBALL | France - Roumanie
+URL: https://www.flashscore.fr/match/handball/france-SMxx6032/roumanie-AgKIb7oC/
+---
+
+14:00 | TENNIS | Felix Balshaw - Ugo Blanchet
+URL: https://www.flashscore.fr/match/tennis/balshaw-felix-OUFziENR/blanchet-ugo-pSmNT7D2/
+---
+
+22:41 | HOCKEY | Rouen - Angers
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
+---
+
+20:30 | HOCKEY | Grenoble - Chamonix Mont-Blanc
+URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
 ---
 
