@@ -160,7 +160,7 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/nantes-veuetnGG/
 URL: https://www.flashscore.fr/match/tennis/martineau-matteo-IDkmT0Hj/virtanen-otto-hnYnFaTm/
 ---
 
-23:00 | TENNIS | Selena Janicijevic - Ana Grubor
+00:00 | TENNIS | Selena Janicijevic - Ana Grubor
 URL: https://www.flashscore.fr/match/tennis/grubor-ana-OMZYFvPp/janicijevic-selena-IaIL1xKN/
 ---
 
@@ -294,5 +294,37 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
 
 20:30 | HOCKEY | Grenoble - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
+---
+
+10:00 | TENNIS | Learner Tien - Alex De Minaur
+URL: https://www.flashscore.fr/match/tennis/de-minaur-alex-EZgZ9Xfh/tien-learner-xUHOBJK6/
+---
+
+21:00 | FOOTBALL | Bayer Leverkusen - Olympique de Marseille
+URL: https://www.flashscore.fr/match/football/leverkusen-4jcj2zMd/marseille-SblU3Hee/
+---
+
+15:00 | FOOTBALL | Stade Rennais - LOSC
+URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/rennes-d2nnj1IE/
+---
+
+17:15 | FOOTBALL | SCO Angers - OGC Nice
+URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/nice-YagoQJpq/
+---
+
+17:15 | FOOTBALL | Stade Brestois - Olympique Lyonnais
+URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/lyon-2akflumR/
+---
+
+17:15 | FOOTBALL | Le Havre - FC Lorient
+URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/lorient-jgNAYRGi/
+---
+
+17:15 | FOOTBALL | Le Mans - AS Monaco
+URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/monaco-2PIvr8o4/
+---
+
+20:45 | FOOTBALL | RC Lens - Olympique de Marseille
+URL: https://www.flashscore.fr/match/football/lens-IBmris38/marseille-SblU3Hee/
 ---
 
