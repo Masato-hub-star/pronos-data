@@ -1,0 +1,2508 @@
+{
+  "fetched_at": "2026-10-27T15:33:12.092735+02:00",
+  "date": "2026-10-27",
+  "source_url": "https://ratingbet.com/math-predictions/2026-10-27/",
+  "match_count": 50,
+  "matches": [
+    {
+      "match_id": "lazio-2-vs-sassuolo-2",
+      "home_team": "Sassuolo",
+      "away_team": "Lazio",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:30",
+      "league": "Italy: Serie A Italy",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.16,
+            "prob_pct": 50
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.74,
+            "prob_pct": 22
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.55,
+            "prob_pct": 62
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.55
+      }
+    },
+    {
+      "match_id": "como-vs-torino",
+      "home_team": "Torino",
+      "away_team": "Como",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "Italy: Serie A Italy",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.82,
+            "prob_pct": 60
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.72,
+            "prob_pct": 50
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.6,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.6
+      }
+    },
+    {
+      "match_id": "cagliari-vs-roma-2",
+      "home_team": "Roma",
+      "away_team": "Cagliari",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "Italy: Serie A Italy",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.35,
+            "prob_pct": 87
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.68,
+            "prob_pct": 38
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.75,
+            "prob_pct": 70
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.35
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "US Biskra",
+      "away_team": "MC Alger",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "07:00",
+      "league": "Algeria: Ligue 1 Algeria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.65,
+            "prob_pct": 73
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.35,
+            "prob_pct": 55
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.44,
+            "prob_pct": 68
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.65
+      }
+    },
+    {
+      "match_id": "bradford-vs-peterborough",
+      "home_team": "Bradford",
+      "away_team": "Peterborough",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: EFL Cup (Carabao Cup)",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.72,
+            "prob_pct": 60
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.66,
+            "prob_pct": 17
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.63,
+            "prob_pct": 47
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.72
+      }
+    },
+    {
+      "match_id": "arsenal-vs-fleetwood",
+      "home_team": "Fleetwood",
+      "away_team": "Arsenal",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "England: EFL Cup (Carabao Cup)",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.1,
+            "prob_pct": 93
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.31,
+            "prob_pct": 93
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.5,
+            "prob_pct": 37
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.1
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Sheffield Wednesday",
+      "away_team": "Cambridge U",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: League One England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.71,
+            "prob_pct": 57
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.6,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.71
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Luton",
+      "away_team": "Doncaster",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: League One England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.49,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.46,
+            "prob_pct": 30
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.6,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.49
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Oxford",
+      "away_team": "Stockport County",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: League One England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.0,
+            "prob_pct": 73
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.59,
+            "prob_pct": 57
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.51,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 2.0
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Milton Keynes Dons",
+      "away_team": "Bromley",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: League One England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.61,
+            "prob_pct": 53
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.58,
+            "prob_pct": 57
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.6,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.58
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Leicester",
+      "away_team": "Wigan",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: League One England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.39,
+            "prob_pct": 29
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.46,
+            "prob_pct": 13
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.69,
+            "prob_pct": 43
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.69
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Barnet",
+      "away_team": "York",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: League Two England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.98,
+            "prob_pct": 33
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.44,
+            "prob_pct": 50
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.43,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.43
+      }
+    },
+    {
+      "match_id": "rb-leipzig-vs-rw-essen",
+      "home_team": "RW Essen",
+      "away_team": "RB Leipzig",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Germany: DFB-Pokal Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.13,
+            "prob_pct": 100
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.24,
+            "prob_pct": 27
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.81,
+            "prob_pct": 66
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.13
+      }
+    },
+    {
+      "match_id": "eintracht-frankfurt-2-vs-hamburger-sv",
+      "home_team": "Hamburger SV",
+      "away_team": "Eintracht Frankfurt",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Germany: DFB-Pokal Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.08,
+            "prob_pct": 58
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.42,
+            "prob_pct": 70
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.4,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.42
+      }
+    },
+    {
+      "match_id": "bochum-vs-mainz-05",
+      "home_team": "Bochum",
+      "away_team": "Mainz 05",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Germany: DFB-Pokal Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.59,
+            "prob_pct": 58
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.55,
+            "prob_pct": 50
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.6,
+            "prob_pct": 50
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.59
+      }
+    },
+    {
+      "match_id": "augsburg-vs-sonnenhof-grossaspach",
+      "home_team": "Sonnenhof Grossaspach",
+      "away_team": "Augsburg",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Germany: DFB-Pokal Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.3,
+            "prob_pct": 20
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.73,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.73
+      }
+    },
+    {
+      "match_id": "borussia-moenchengladbach-vs-karlsruher-sc",
+      "home_team": "Borussia Moenchengladbach",
+      "away_team": "Karlsruher SC",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "Germany: DFB-Pokal Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.34,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.58,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.58
+      }
+    },
+    {
+      "match_id": "darmstadt-vs-elversberg",
+      "home_team": "Elversberg",
+      "away_team": "Darmstadt",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "Germany: DFB-Pokal Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.39,
+            "prob_pct": 83
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.42,
+            "prob_pct": 70
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.64,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.39
+      }
+    },
+    {
+      "match_id": "fc-koln-vs-union-berlin",
+      "home_team": "FC Koln",
+      "away_team": "Union Berlin",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "Germany: DFB-Pokal Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.62,
+            "prob_pct": 40
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.57,
+            "prob_pct": 77
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.57
+      }
+    },
+    {
+      "match_id": "borussia-dortmund-vs-werder-bremen-2",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Werder Bremen",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "Germany: DFB-Pokal Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.43,
+            "prob_pct": 80
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.44,
+            "prob_pct": 57
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.64,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.43
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Independiente Rivadavia",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "15:00",
+      "league": "Argentina: Liga Profesional Argentina",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.06,
+            "prob_pct": 53
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.6,
+            "prob_pct": 10
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.74,
+            "prob_pct": 43
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.06
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "First Vienna FC",
+      "away_team": "Rapid Wien",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Austria: OFB Cup Austria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.39,
+            "prob_pct": 77
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.44,
+            "prob_pct": 21
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.65,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.39
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Austria Wien",
+      "away_team": "Hartberg",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Austria: OFB Cup Austria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.87,
+            "prob_pct": 40
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.78,
+            "prob_pct": 50
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.68,
+            "prob_pct": 50
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.78
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "FC Hertha Wels",
+      "away_team": "Wolfsberger AC",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:30",
+      "league": "Austria: OFB Cup Austria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.64,
+            "prob_pct": 43
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.72,
+            "prob_pct": 20
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.72,
+            "prob_pct": 57
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.72
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Grazer AK",
+      "away_team": "Altach",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "11:00",
+      "league": "Austria: OFB Cup Austria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.47,
+            "prob_pct": 38
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.9,
+            "prob_pct": 63
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.7,
+            "prob_pct": 47
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.9
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Gaborone United",
+      "away_team": "Orapa United FC",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Botswana: Premier League Botswana",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.48,
+            "prob_pct": 71
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.52,
+            "prob_pct": 33
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.49,
+            "prob_pct": 58
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.48
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Ceara",
+      "away_team": "Goias",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "16:00",
+      "league": "Brazil: Serie B Brazil",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.02,
+            "prob_pct": 27
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.91,
+            "prob_pct": 48
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.74,
+            "prob_pct": 37
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.91
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Cherno More Varna",
+      "away_team": "Septemvri Sofia",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "08:00",
+      "league": "Bulgaria: Parva liga Bulgaria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.65,
+            "prob_pct": 50
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.67,
+            "prob_pct": 33
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.71,
+            "prob_pct": 40
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.65
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Arda Kardzhali",
+      "away_team": "Levski Sofia",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:30",
+      "league": "Bulgaria: Parva liga Bulgaria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.68,
+            "prob_pct": 67
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.56,
+            "prob_pct": 40
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.61,
+            "prob_pct": 63
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.68
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Ludogorets Razgrad II",
+      "away_team": "Dobrudzha Dobrich",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "Bulgaria: Vtora liga Bulgaria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.85,
+            "prob_pct": 55
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.86,
+            "prob_pct": 43
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 2.02,
+            "prob_pct": 53
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.85
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Cucuta",
+      "away_team": "Aguilas Doradas",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "16:00",
+      "league": "Colombia: Primera A Colombia",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.57,
+            "prob_pct": 33
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.65,
+            "prob_pct": 47
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.83,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.83
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Chico FC",
+      "away_team": "Junior FC",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "18:05",
+      "league": "Colombia: Primera A Colombia",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.59,
+            "prob_pct": 47
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.69,
+            "prob_pct": 53
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.88,
+            "prob_pct": 57
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.88
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Dinamo Zagreb",
+      "away_team": "Rijeka",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Croatia: HNL Croatia",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.55,
+            "prob_pct": 60
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.6,
+            "prob_pct": 7
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.65,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.55
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Slovan Liberec",
+      "away_team": "Teplice",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "Czechia: Czech Cup",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.51,
+            "prob_pct": 54
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.8,
+            "prob_pct": 63
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.77,
+            "prob_pct": 53
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.8
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Slavia Prague",
+      "away_team": "FC Zbrojovka Brno",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "11:00",
+      "league": "Czechia: Czech Cup",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.3,
+            "prob_pct": 80
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.45,
+            "prob_pct": 47
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.73,
+            "prob_pct": 47
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.3
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "FC Nordsjaelland",
+      "away_team": "AGF",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "11:00",
+      "league": "Denmark: Elitedivisionen Women Denmark",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.03,
+            "prob_pct": 80
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.25,
+            "prob_pct": 43
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.03
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "AB",
+      "away_team": "Brondby IF",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "11:30",
+      "league": "Denmark: DBU Pokalen Denmark",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.5,
+            "prob_pct": 53
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.46,
+            "prob_pct": 73
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.59,
+            "prob_pct": 60
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.46
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "El Nacional",
+      "away_team": "Gualaceo SC",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Ecuador: Serie B Ecuador",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.06,
+            "prob_pct": 40
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.76,
+            "prob_pct": 47
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.62,
+            "prob_pct": 41
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.76
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Worthing",
+      "away_team": "Southend",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.18,
+            "prob_pct": 40
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.35,
+            "prob_pct": 70
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.34,
+            "prob_pct": 70
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.35
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Woking",
+      "away_team": "Boreham Wood",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.59,
+            "prob_pct": 80
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.51,
+            "prob_pct": 13
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.55,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.59
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Wealdstone",
+      "away_team": "Solihull Moors",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.96,
+            "prob_pct": 58
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.45,
+            "prob_pct": 63
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.43,
+            "prob_pct": 60
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.45
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Tamworth",
+      "away_team": "Scunthorpe",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.12,
+            "prob_pct": 53
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.4,
+            "prob_pct": 63
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.39,
+            "prob_pct": 60
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.4
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Hornchurch",
+      "away_team": "Yeovil",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.24,
+            "prob_pct": 75
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.75,
+            "prob_pct": 67
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.61,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 2.24
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Halifax",
+      "away_team": "Barrow",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.28,
+            "prob_pct": 60
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.69,
+            "prob_pct": 57
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.57,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.28
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Altrincham",
+      "away_team": "Kidderminster",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.88,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.74,
+            "prob_pct": 53
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.64,
+            "prob_pct": 60
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.88
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Boston United",
+      "away_team": "Gateshead",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.58,
+            "prob_pct": 10
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.63,
+            "prob_pct": 57
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.63
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "AFC Fylde",
+      "away_team": "Hartlepool",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.62,
+            "prob_pct": 60
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.45,
+            "prob_pct": 77
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.5,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.45
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Walton and Hersham",
+      "away_team": "Salisbury",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League North/South England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.55,
+            "prob_pct": 67
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.39,
+            "prob_pct": 53
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.46,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.55
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Truro City",
+      "away_team": "Slough Town",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League North/South England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.32,
+            "prob_pct": 20
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.67,
+            "prob_pct": 60
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.67
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Tonbridge Angels",
+      "away_team": "Folkestone Invicta",
+      "date": "2026-10-27",
+      "time_utc": "",
+      "time_paris": "12:45",
+      "league": "England: National League North/South England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.17,
+            "prob_pct": 75
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.59,
+            "prob_pct": 43
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.51,
+            "prob_pct": 57
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.17
+      }
+    }
+  ]
+}
