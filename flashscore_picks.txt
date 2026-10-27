@@ -33,6 +33,8 @@ URL: https://www.flashscore.fr/match/tennis/griekspoor-tallon-f3zfMU5i/nakashima
 ---
 
 13:30 | TENNIS | Daniel Merida Aguilar - Daniil Medvedev
+Flashscore conclusion:
+Le manque d’expérience de Daniel Merida sur dur indoor le fragilise sur le papier, mais il ne faut pas le prendre à la légère. Il a montré cette année qu’il s’adaptait rapidement aux nouvelles surfaces et qu’il savait prendre ses marques grâce à une confiance grandissante. Daniil Medvedev affiche toutefois une forme étincelante. Il confirme sa maîtrise du dur avec une série de résultats impressionnante. S’il maintient ce niveau et évite de se saborder, il devrait prolonger son excellente dynamique et se rapprocher d’une qualification pour Turin.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/daniel-merida-aguilar-WOtXbAu5/medvedev-daniil-O8qG0Nhb/
 ---
 
@@ -288,7 +290,7 @@ URL: https://www.flashscore.fr/match/tennis/jeanjean-leolia-EDBO32wT/monnet-caro
 URL: https://www.flashscore.fr/match/tennis/mayot-harold-jPfM16Z1/uchida-kaichi-CWzmZ02f/
 ---
 
-10:00 | BADMINTON | H. S. Prannoy - Alex Lanier
+20:40 | BADMINTON | H. S. Prannoy - Alex Lanier
 URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/prannoy-h-s-25a8ZBnU/
 ---
 
@@ -296,7 +298,7 @@ URL: https://www.flashscore.fr/match/badminton/lanier-alex-4fGvqPra/prannoy-h-s-
 URL: https://www.flashscore.fr/match/badminton/koljonen-kalle-M1Y8Jiqm/popov-christo-6s0IBZwf/
 ---
 
-10:00 | BADMINTON | Tharun Mannepalli - Toma Junior Popov
+19:50 | BADMINTON | Tharun Mannepalli - Toma Junior Popov
 URL: https://www.flashscore.fr/match/badminton/mannepalli-tharun-rHey7g9B/popov-toma-junior-4ltqyHW4/
 ---
 
@@ -312,5 +314,17 @@ URL: https://www.flashscore.fr/match/tennis/romano-filippo-CAxK6Xbs/tabur-clemen
 Flashscore conclusion:
 Le tirage est délicat pour les deux joueurs. Novak Djokovic affronte un adversaire indoor très talentueux et dangereux, tandis qu’Ugo Humbert doit surmonter l’obstacle que représente sans doute le meilleur joueur de tous les temps dès le premier tour d’un tournoi ATP 500. Il tentera également de défendre les points de sa demi-finale.Les conditions indoor devraient permettre à Humbert de poser de nombreux problèmes à la version actuelle de Djokovic, mais le Français manque de confiance et de victoires ces derniers temps. Cela pourrait faciliter la tâche du Serbe, qui a désespérément besoin de succès pour renforcer sa position dans la course à Turin.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/djokovic-novak-AZg49Et9/humbert-ugo-O4ywE5Ah/
+---
+
+18:45 | FOOTBALL | AEK - Real Madrid
+URL: https://www.flashscore.fr/match/football/aek-ANpZncAM/real-madrid-W8mj7MDD/
+---
+
+18:00 | TENNIS | Selena Janicijevic - Elizabeth Mandlik
+URL: https://www.flashscore.fr/match/tennis/janicijevic-selena-IaIL1xKN/mandlik-elizabeth-pYMHXRN6/
+---
+
+20:00 | BASKETBALL | ASVEL Lyon-Villeurbanne - Partizan
+URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/partizan-GAiz1YL6/
 ---
 
