@@ -22,11 +22,11 @@ Au vu de sa forme actuelle, Alex de Minaur semble particulièrement prenable. Il
 URL: https://www.flashscore.fr/match/tennis/de-minaur-alex-EZgZ9Xfh/tien-learner-xUHOBJK6/
 ---
 
-10:00 | TENNIS | Tommy Paul - Luciano Darderi
+13:30 | TENNIS | Tommy Paul - Luciano Darderi
 URL: https://www.flashscore.fr/match/tennis/darderi-luciano-jeXTxMIp/paul-tommy-pd3ye1BS/
 ---
 
-10:00 | TENNIS | Flavio Cobolli - Matteo Berrettini
+20:00 | TENNIS | Flavio Cobolli - Matteo Berrettini
 URL: https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/cobolli-flavio-zDtaCcPe/
 ---
 
@@ -74,7 +74,7 @@ URL: https://www.flashscore.fr/match/football/leverkusen-4jcj2zMd/marseille-SblU
 URL: https://www.flashscore.fr/match/football/far-rabat-CMn7Clai/ir-tanger-xUZ5xVki/
 ---
 
-20:30 | FOOTBALL | Manchester City - Brighton
+21:34 | FOOTBALL | Manchester City - Brighton
 URL: https://www.flashscore.fr/match/football/brighton-2XrRecc3/manchester-city-Wtn9Stg0/
 ---
 
@@ -123,6 +123,8 @@ URL: https://www.flashscore.fr/match/handball/france-SMxx6032/roumanie-AgKIb7oC/
 ---
 
 20:00 | FOOTBALL | FC Nantes - Clermont Foot
+Flashscore conclusion:
+Les bookmakers estiment à 48 % la probabilité que les deux équipes marquent lors de ce match. Le marché du plus/moins place à 52 % la probabilité que le total des buts dépasse la ligne de 2,5.Buts implicites selon les cotes: 2,8Ces chiffres proviennent des cotes d’avant-match établies deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/nantes-veuetnGG/
 ---
 
@@ -250,11 +252,11 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
 URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
 ---
 
-10:00 | TENNIS | Cameron Norrie - Daniil Medvedev
+13:30 | TENNIS | Cameron Norrie - Daniil Medvedev
 URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/norrie-cameron-pvzhJGY8/
 ---
 
-10:00 | TENNIS | Alexander Zverev - Tallon Griekspoor
+17:30 | TENNIS | Alexander Zverev - Tallon Griekspoor
 URL: https://www.flashscore.fr/match/tennis/griekspoor-tallon-f3zfMU5i/zverev-alexander-dGbUhw9m/
 ---
 
@@ -262,15 +264,41 @@ URL: https://www.flashscore.fr/match/tennis/griekspoor-tallon-f3zfMU5i/zverev-al
 URL: https://www.flashscore.fr/match/badminton/koljonen-kalle-M1Y8Jiqm/popov-christo-6s0IBZwf/
 ---
 
-10:00 | TENNIS | Arthur Fery - Lorenzo Musetti
+17:00 | TENNIS | Arthur Fery - Lorenzo Musetti
 URL: https://www.flashscore.fr/match/tennis/fery-arthur-SKxbA6KA/musetti-lorenzo-xtH2ODVI/
 ---
 
-10:00 | TENNIS | Nikoloz Basilashvili - Carlos Alcaraz
+15:00 | TENNIS | Nikoloz Basilashvili - Carlos Alcaraz
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/basilashvili-nikoloz-Kb8ttRy2/
 ---
 
-22:30 | TENNIS | Carmen Andreea Herea - Carole Monnet
+22:40 | TENNIS | Carmen Andreea Herea - Carole Monnet
 URL: https://www.flashscore.fr/match/tennis/herea-carmen-andreea-ptCdVvHB/monnet-carole-GQ68ufRu/
+---
+
+21:00 | FOOTBALL | RB Leipzig - Manchester City
+URL: https://www.flashscore.fr/match/football/manchester-city-Wtn9Stg0/rb-leipzig-KbS1suSm/
+---
+
+21:10 | RUGBY | France - Fidji
+URL: https://www.flashscore.fr/match/rugby/fidji-QZZ60Atl/france-GE9w8L42/
+---
+
+00:10 | TENNIS | Selena Janicijevic - Elizabeth Mandlik
+URL: https://www.flashscore.fr/match/tennis/janicijevic-selena-IaIL1xKN/mandlik-elizabeth-pYMHXRN6/
+---
+
+14:00 | TENNIS | Martin Damm - Ugo Blanchet
+URL: https://www.flashscore.fr/match/tennis/blanchet-ugo-pSmNT7D2/damm-martin-2003-vX7WOXtP/
+---
+
+14:00 | TENNIS | Alex Michelsen - Arthur Fils
+Flashscore conclusion:
+Arthur Fils s’est montré très solide chaque fois qu’il a été en pleine possession de ses moyens cette année. Il a rarement laissé quoi que ce soit aux outsiders. Mais la course à Turin s’est intensifiée et il semble ressentir la pression habituelle qui l’accompagne. Celle-ci pourrait encore jouer un rôle ici. Sa gestion de cette pression aura une grande influence sur l’issue du match. Sa forme générale cette année est bien meilleure que celle d’Alex Michelsen et son bilan est excellent lors de la tournée européenne indoor.Traduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/michelsen-alex-nDIhfm9l/
+---
+
+15:30 | TENNIS | Clément Tabur - Toby Samuel
+URL: https://www.flashscore.fr/match/tennis/samuel-toby-rZVojxZe/tabur-clement-fHPZtbgE/
 ---
 
