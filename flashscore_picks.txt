@@ -144,7 +144,7 @@ URL: https://www.flashscore.fr/match/tennis/djokovic-novak-AZg49Et9/humbert-ugo-
 URL: https://www.flashscore.fr/match/badminton/mannepalli-tharun-rHey7g9B/popov-toma-junior-4ltqyHW4/
 ---
 
-20:00 | BASKETBALL | ASVEL Lyon-Villeurbanne - Partizan
+20:01 | BASKETBALL | ASVEL Lyon-Villeurbanne - Partizan
 URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/partizan-GAiz1YL6/
 ---
 
@@ -260,5 +260,17 @@ URL: https://www.flashscore.fr/match/tennis/griekspoor-tallon-f3zfMU5i/zverev-al
 
 21:30 | BADMINTON | Kalle Koljonen - Christo Popov
 URL: https://www.flashscore.fr/match/badminton/koljonen-kalle-M1Y8Jiqm/popov-christo-6s0IBZwf/
+---
+
+10:00 | TENNIS | Arthur Fery - Lorenzo Musetti
+URL: https://www.flashscore.fr/match/tennis/fery-arthur-SKxbA6KA/musetti-lorenzo-xtH2ODVI/
+---
+
+10:00 | TENNIS | Nikoloz Basilashvili - Carlos Alcaraz
+URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/basilashvili-nikoloz-Kb8ttRy2/
+---
+
+22:30 | TENNIS | Carmen Andreea Herea - Carole Monnet
+URL: https://www.flashscore.fr/match/tennis/herea-carmen-andreea-ptCdVvHB/monnet-carole-GQ68ufRu/
 ---
 
