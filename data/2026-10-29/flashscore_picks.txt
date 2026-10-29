@@ -245,6 +245,8 @@ URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenobl
 ---
 
 13:30 | TENNIS | Adrian Mannarino - Daniil Medvedev
+Flashscore conclusion:
+Adrian Mannarino a souvent posé de nombreux problèmes à Daniil Medvedev par le passé, comme le montre leur historique des confrontations. La plupart de leurs matchs ont toutefois eu lieu sur gazon, une surface qui convient au Français. Medvedev est désormais lancé sur dur, avec un niveau bien plus proche de son potentiel et une confiance impressionnante. Il devrait être en mesure de gérer ce test piégeux face à un adversaire dangereux et de prolonger sa série de victoires contre Mannarino.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/mannarino-adrian-fLOdtByM/medvedev-daniil-O8qG0Nhb/
 ---
 
@@ -253,6 +255,8 @@ URL: https://www.flashscore.fr/match/tennis/demin-yaroslav-xO0DRhFb/mayot-harold
 ---
 
 15:00 | TENNIS | Tommy Paul - Carlos Alcaraz
+Flashscore conclusion:
+Carlos Alcaraz traverse sans doute sa période la plus vulnérable depuis plusieurs années. Son service semble particulièrement fébrile depuis son retour de blessure. Peu de joueurs ont toutefois réussi à en profiter. La plupart de ses matchs ont été serrés, mais il a toujours trouvé les ressources pour faire la différence. Une issue similaire semble envisageable face à Tommy Paul. L’Américain avait déjà eu l’occasion d’affronter Alcaraz fraîchement revenu à la compétition lors de l’US Open. Il était toutefois passé largement à côté, ne remportant que 11 jeux en trois sets.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/paul-tommy-pd3ye1BS/
 ---
 
@@ -262,7 +266,7 @@ Brighton est peut-être la surprise de cette saison, mais son bilan à l’exté
 URL: https://www.flashscore.fr/match/football/brighton-2XrRecc3/manchester-city-Wtn9Stg0/
 ---
 
-10:00 | BADMINTON | Arnaud Merkle - Toma Junior Popov
+13:10 | BADMINTON | Arnaud Merkle - Toma Junior Popov
 URL: https://www.flashscore.fr/match/badminton/merkle-arnaud-nwi5quc0/popov-toma-junior-4ltqyHW4/
 ---
 
@@ -272,5 +276,29 @@ URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/gap-2TtYxh3I/
 
 20:00 | HOCKEY | Nice - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/nice-AkAAP4QB/
+---
+
+17:30 | TENNIS | Alexander Zverev - Arthur Fery
+URL: https://www.flashscore.fr/match/tennis/fery-arthur-SKxbA6KA/zverev-alexander-dGbUhw9m/
+---
+
+20:00 | TENNIS | Matteo Berrettini - Alex De Minaur
+URL: https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/de-minaur-alex-EZgZ9Xfh/
+---
+
+15:30 | TENNIS | Martin Damm - Clément Tabur
+URL: https://www.flashscore.fr/match/tennis/damm-martin-2003-vX7WOXtP/tabur-clement-fHPZtbgE/
+---
+
+20:15 | HOCKEY | Olympique de Marseille - Grenoble
+URL: https://www.flashscore.fr/match/hockey/grenoble-fas8xYmC/marseille-nkohUngl/
+---
+
+20:30 | HOCKEY | Cergy-Pontoise - Amiens
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/cergy-pontoise-CK87QfVF/
+---
+
+20:30 | HOCKEY | Girondins de Bordeaux - Angers
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/bordeaux-n9V6xiyI/
 ---
 
