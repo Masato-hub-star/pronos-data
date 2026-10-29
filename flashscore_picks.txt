@@ -144,7 +144,7 @@ URL: https://www.flashscore.fr/match/tennis/samuel-toby-rZVojxZe/tabur-clement-f
 URL: https://www.flashscore.fr/match/badminton/carraggi-julien-0pVLXsU1/popov-toma-junior-4ltqyHW4/
 ---
 
-19:05 | TENNIS | Novak Djokovic - Jan-Lennard Struff
+20:04 | TENNIS | Novak Djokovic - Jan-Lennard Struff
 Flashscore conclusion:
 Jan-Lennard Struff n’a jamais manqué d’armes, mais il lui a souvent fait défaut la confiance et l’instinct de tueur nécessaires pour faire la différence dans les moments importants face aux meilleurs. Cela a fait de lui un adversaire à la portée de Novak Djokovic au fil des années. Le Serbe pourrait une nouvelle fois s’imposer.Cette affiche représente toutefois la meilleure occasion pour Struff d’éviter les défaites à sens unique de leurs huit précédents affrontements. Djokovic n’est plus la force dominante qu’il a été, tandis que l’Allemand surfe sur une belle dynamique. Tout autre scénario qu’un match serré et disputé serait donc une déception pour lui.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/djokovic-novak-AZg49Et9/struff-jan-lennard-Ek3bDDo2/
@@ -244,11 +244,33 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
 URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
 ---
 
-10:00 | TENNIS | Adrian Mannarino - Daniil Medvedev
+13:30 | TENNIS | Adrian Mannarino - Daniil Medvedev
 URL: https://www.flashscore.fr/match/tennis/mannarino-adrian-fLOdtByM/medvedev-daniil-O8qG0Nhb/
 ---
 
 05:00 | TENNIS | Yaroslav Demin - Harold Mayot
 URL: https://www.flashscore.fr/match/tennis/demin-yaroslav-xO0DRhFb/mayot-harold-jPfM16Z1/
+---
+
+15:00 | TENNIS | Tommy Paul - Carlos Alcaraz
+URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/paul-tommy-pd3ye1BS/
+---
+
+16:00 | FOOTBALL | Manchester City - Brighton
+Flashscore conclusion:
+Brighton est peut-être la surprise de cette saison, mais son bilan à l’extérieur dans les affrontements de championnat est désastreux. La victoire de City avec les deux équipes qui marquent représente notre pronostic.Auteur : Chris WilsonTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/brighton-2XrRecc3/manchester-city-Wtn9Stg0/
+---
+
+10:00 | BADMINTON | Arnaud Merkle - Toma Junior Popov
+URL: https://www.flashscore.fr/match/badminton/merkle-arnaud-nwi5quc0/popov-toma-junior-4ltqyHW4/
+---
+
+20:00 | HOCKEY | Briancon - Gap
+URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/gap-2TtYxh3I/
+---
+
+20:00 | HOCKEY | Nice - Chamonix Mont-Blanc
+URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/nice-AkAAP4QB/
 ---
 
