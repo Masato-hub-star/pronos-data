@@ -232,3 +232,19 @@ URL: https://www.flashscore.fr/match/tennis/andreescu-bianca-KhlPw9hb/monnet-car
 URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/saint-quentin-hESgWNT6/
 ---
 
+12:30 | TENNIS | Benjamin Bonzi - Yannick Hanfmann
+URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/hanfmann-yannick-zLJYYbhm/
+---
+
+17:00 | HANDBALL | PSG - Montpellier
+URL: https://www.flashscore.fr/match/handball/montpellier-Qopo6dYu/paris-MmvaXAoA/
+---
+
+19:00 | BASKETBALL | Paris - Chalon/Saone
+URL: https://www.flashscore.fr/match/basket/chalon-saone-pK5YsrsB/paris-CdCP6AWf/
+---
+
+21:05 | RUGBY | Section Paloise - Stade Toulousain
+URL: https://www.flashscore.fr/match/rugby/section-paloise-G2QYSuX3/stade-toulousain-2LK4pW1j/
+---
+
