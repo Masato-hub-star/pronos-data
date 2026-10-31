@@ -4,7 +4,7 @@ Daniil Medvedev était en grande forme lorsqu’il a mis fin à sa série de dé
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/medvedev-daniil-O8qG0Nhb/
 ---
 
-16:30 | TENNIS | Alexander Zverev - Alex De Minaur
+17:10 | TENNIS | Alexander Zverev - Alex De Minaur
 Flashscore conclusion:
 Alexander Zverev a remporté deux titres du Grand Chelem et s’apprête à devenir numéro 1 mondial pour la première fois cette saison. Pourtant, son bilan de 3-8 face aux joueurs du top 10 reste une tache dans une année par ailleurs exceptionnelle. Il a amélioré ce bilan, passé de 2-8 à 3-8, en battant Alex de Minaur à Shanghai au début du mois. Il a maintenant une nouvelle occasion face au même adversaire. Cette affiche lui ayant historiquement été favorable, Zverev devrait confirmer et remporter un nouveau succès contre l’Australien.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/de-minaur-alex-EZgZ9Xfh/zverev-alexander-dGbUhw9m/
@@ -124,15 +124,15 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/rodez-0pOdQOCg/
 URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/griekspoor-tallon-f3zfMU5i/
 ---
 
-15:40 | BADMINTON | Toma Junior Popov - Lakshya Sen
+16:40 | BADMINTON | Toma Junior Popov - Lakshya Sen
 URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/sen-lakshya-xnv5nIsk/
 ---
 
-16:00 | TENNIS | Nuno Borges - Adrian Mannarino
+16:28 | TENNIS | Nuno Borges - Adrian Mannarino
 URL: https://www.flashscore.fr/match/tennis/borges-nuno-hzbEPIOa/mannarino-adrian-fLOdtByM/
 ---
 
-16:35 | RUGBY | Bordeaux Bègles - Aviron Bayonnais
+16:36 | RUGBY | Bordeaux Bègles - Aviron Bayonnais
 URL: https://www.flashscore.fr/match/rugby/bayonne-8E1xxyQA/bordeaux-begles-hzHredXK/
 ---
 
@@ -218,5 +218,17 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/bordeaux-n9V6xiyI/
 
 20:30 | HOCKEY | Anglet - Angers
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/anglet-t4PXVott/
+---
+
+21:00 | FOOTBALL | Alkmaar - Juventus
+URL: https://www.flashscore.fr/match/football/alkmaar-2RxOow1i/juventus-C06aJvIB/
+---
+
+02:30 | TENNIS | Bianca Vanessa Andreescu - Carole Monnet
+URL: https://www.flashscore.fr/match/tennis/andreescu-bianca-KhlPw9hb/monnet-carole-GQ68ufRu/
+---
+
+16:30 | BASKETBALL | Saint-Quentin - ASVEL Lyon-Villeurbanne
+URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/saint-quentin-hESgWNT6/
 ---
 
