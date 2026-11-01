@@ -122,7 +122,7 @@ URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/saint-que
 URL: https://www.flashscore.fr/match/handball/montpellier-Qopo6dYu/paris-MmvaXAoA/
 ---
 
-17:30 | TENNIS | Shunsuke Mitsui - Geoffrey Blancaneaux
+18:15 | TENNIS | Shunsuke Mitsui - Geoffrey Blancaneaux
 URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/mitsui-shunsuke-UPvJY480/
 ---
 
@@ -204,5 +204,17 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/bordeaux-n9V6xiyI/
 
 20:30 | HOCKEY | Anglet - Angers
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/anglet-t4PXVott/
+---
+
+18:30 | FOOTBALL | Nottingham Forest - Manchester City
+URL: https://www.flashscore.fr/match/football/manchester-city-Wtn9Stg0/nottingham-UsushcZr/
+---
+
+10:00 | TENNIS | Ugo Humbert - Botic Van De Zandschulp
+URL: https://www.flashscore.fr/match/tennis/humbert-ugo-O4ywE5Ah/van-de-zandschulp-botic-YwiLpILD/
+---
+
+10:00 | TENNIS | Arthur Rinderknech - Francisco Cerundolo
+URL: https://www.flashscore.fr/match/tennis/cerundolo-francisco-lWQ3G6gB/rinderknech-arthur-pIxZZsof/
 ---
 
