@@ -1,15 +1,3 @@
-15:10 | TENNIS | Daniil Medvedev - Carlos Alcaraz
-Flashscore conclusion:
-Daniil Medvedev était en grande forme lorsqu’il a mis fin à sa série de défaites face à Carlos Alcaraz à Indian Wells plus tôt cette année. Il se retrouve dans une position tout aussi favorable à Vienne. Il est le meilleur joueur du circuit depuis quelques mois et affiche un solide bilan dans cette ville.Alcaraz, de son côté, semble encore loin de son meilleur niveau et présente un bilan nettement moins favorable à ce stade de la saison. Medvedev a une réelle occasion de battre Alcaraz lors de deux confrontations consécutives pour la première fois. Reste à voir s’il saura produire son meilleur tennis et garder son sang-froid du début à la fin.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/medvedev-daniil-O8qG0Nhb/
----
-
-17:10 | TENNIS | Alexander Zverev - Alex De Minaur
-Flashscore conclusion:
-Alexander Zverev a remporté deux titres du Grand Chelem et s’apprête à devenir numéro 1 mondial pour la première fois cette saison. Pourtant, son bilan de 3-8 face aux joueurs du top 10 reste une tache dans une année par ailleurs exceptionnelle. Il a amélioré ce bilan, passé de 2-8 à 3-8, en battant Alex de Minaur à Shanghai au début du mois. Il a maintenant une nouvelle occasion face au même adversaire. Cette affiche lui ayant historiquement été favorable, Zverev devrait confirmer et remporter un nouveau succès contre l’Australien.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/de-minaur-alex-EZgZ9Xfh/zverev-alexander-dGbUhw9m/
----
-
 17:15 | FOOTBALL | Olympique Lyonnais - SCO Angers
 Flashscore conclusion:
 La défense perméable d’Angers, particulièrement avant la pause, nous laisse imaginer ce pronostic : Lyon à la mi-temps/à la fin du match.Auteur : Matt JonesTraduit à l'aide de l'IA
@@ -23,10 +11,14 @@ URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/toulouse-MLmY2y
 ---
 
 21:00 | FOOTBALL | Villarreal - PSG
+Flashscore conclusion:
+Les trois matchs de phase de ligue de Villarreal ont produit 16 buts au total, contre 19 pour le PSG. Le pari plus de 3,5 buts semble donc très envisageable dans cette affiche.Auteur : Aaron MurphyTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/psg-CjhkPw0k/villarreal-lUatW5jE/
 ---
 
 21:00 | FOOTBALL | Bodo/Glimt - LOSC
+Flashscore conclusion:
+L’équipe à domicile est donnée favorite et ses matchs sont généralement prolifiques. Un pari sur une victoire de Bodø/Glimt avec plus de 2,5 buts dans le match semble donc logique.Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/bodo-glimt-S0WZMUNG/lille-pfDZL71o/
 ---
 
@@ -54,18 +46,6 @@ URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/rennes-d2nnj1IE/
 URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/lyon-2akflumR/
 ---
 
-16:00 | FOOTBALL | Manchester City - Brighton
-Flashscore conclusion:
-Brighton est peut-être la surprise de cette saison, mais son bilan à l’extérieur dans les affrontements de championnat est désastreux. La victoire de City avec les deux équipes qui marquent représente notre pronostic.Auteur : Chris WilsonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/brighton-2XrRecc3/manchester-city-Wtn9Stg0/
----
-
-21:02 | FOOTBALL | Barcelone - Alaves
-Flashscore conclusion:
-Barcelone voudra réagir après ces deux défaites consécutives. Une victoire à domicile avec plus de 2,5 buts est envisageable.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/alaves-hxt57t2q/barcelone-SKbpVP5K/
----
-
 16:15 | FOOTBALL | Racing Santander - Real Madrid
 Flashscore conclusion:
 Bien que Santander soit solide à domicile, on pense tout de même à une victoire du Real Madrid avec au moins trois buts inscrits. Auteur : Nathan EvansTraduit à l'aide de l'IA
@@ -85,10 +65,14 @@ URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/napoli-69Dxbc61/
 ---
 
 21:00 | FOOTBALL | Barcelone - Aston Villa
+Flashscore conclusion:
+Les buts sont généralement au rendez-vous lorsque Barcelone joue. Miser sur plus de 4,5 buts dans le match pourrait donc constituer un pari audacieux, mais potentiellement payant.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/aston-villa-W00wmLO0/barcelone-SKbpVP5K/
 ---
 
 21:00 | FOOTBALL | Manchester Utd - AS Rome
+Flashscore conclusion:
+La machine à chaos qu’est United fait de l’option plus de 2,5 buts le choix le plus tentant ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/as-roma-zVqqL0ma/manchester-utd-ppjDR086/
 ---
 
@@ -97,11 +81,21 @@ URL: https://www.flashscore.fr/match/football/aek-ANpZncAM/real-madrid-W8mj7MDD/
 ---
 
 21:00 | FOOTBALL | RB Leipzig - Manchester City
+Flashscore conclusion:
+Les dix victoires consécutives de Leipzig à domicile contrastent avec la forme hésitante de Manchester City. Dans ce contexte, le pari Leipzig ou nul dans le marché de la double chance semble envisageable.Auteur : John PenningtonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/manchester-city-Wtn9Stg0/rb-leipzig-KbS1suSm/
 ---
 
 21:00 | FOOTBALL | Slavia Prague - Arsenal
 URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/slavia-prague-viXGgnyB/
+---
+
+21:00 | FOOTBALL | Alkmaar - Juventus
+URL: https://www.flashscore.fr/match/football/alkmaar-2RxOow1i/juventus-C06aJvIB/
+---
+
+16:00 | FOOTBALL | Arsenal - Hull City
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/hull-city-S66R0t75/
 ---
 
 20:00 | HANDBALL | France - Roumanie
@@ -120,36 +114,28 @@ URL: https://www.flashscore.fr/match/handball/france-SMxx6032/lettonie-dlJbpU16/
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/rodez-0pOdQOCg/
 ---
 
-14:20 | TENNIS | Tallon Griekspoor - Benjamin Bonzi
-URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/griekspoor-tallon-f3zfMU5i/
+16:30 | BASKETBALL | Saint-Quentin - ASVEL Lyon-Villeurbanne
+URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/saint-quentin-hESgWNT6/
 ---
 
-16:40 | BADMINTON | Toma Junior Popov - Lakshya Sen
-URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/sen-lakshya-xnv5nIsk/
+17:00 | HANDBALL | PSG - Montpellier
+URL: https://www.flashscore.fr/match/handball/montpellier-Qopo6dYu/paris-MmvaXAoA/
 ---
 
-16:28 | TENNIS | Nuno Borges - Adrian Mannarino
-URL: https://www.flashscore.fr/match/tennis/borges-nuno-hzbEPIOa/mannarino-adrian-fLOdtByM/
+17:30 | TENNIS | Shunsuke Mitsui - Geoffrey Blancaneaux
+URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/mitsui-shunsuke-UPvJY480/
 ---
 
-16:36 | RUGBY | Bordeaux Bègles - Aviron Bayonnais
-URL: https://www.flashscore.fr/match/rugby/bayonne-8E1xxyQA/bordeaux-begles-hzHredXK/
+19:00 | BASKETBALL | Paris - Chalon/Saone
+URL: https://www.flashscore.fr/match/basket/chalon-saone-pK5YsrsB/paris-CdCP6AWf/
 ---
 
-18:00 | HANDBALL | Metz F - Dijon F
-URL: https://www.flashscore.fr/match/handball/dijon-t0FZvNaL/metz-SjMxXdfB/
+20:00 | TENNIS | Elizabeth Mandlik - Selena Janicijevic
+URL: https://www.flashscore.fr/match/tennis/janicijevic-selena-IaIL1xKN/mandlik-elizabeth-pYMHXRN6/
 ---
 
-20:45 | FOOTBALL | ESTAC - Le Mans
-Flashscore conclusion:
-Troyes reste sur une longue série sans victoire à domicile et Le Mans n’a toujours pas gagné à l’extérieur cette saison. Dans ce contexte,  le match nul est envisageable.Auteur : John PenningtonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/troyes-fsfAHubD/
----
-
-15:00 | FOOTBALL | Strasbourg - AJ Auxerre
-Flashscore conclusion:
-Strasbourg est largement favori malgré ses récentes difficultés et c'est l'une des raisons qui nous laissent imaginer ce pronostic : match nul ou Auxerre dans le marché de la double chance.Auteur : Ryan FisherTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/strasbourg-nP6UzIU1/
+21:05 | RUGBY | Section Paloise - Stade Toulousain
+URL: https://www.flashscore.fr/match/rugby/section-paloise-G2QYSuX3/stade-toulousain-2LK4pW1j/
 ---
 
 17:15 | FOOTBALL | Paris FC - AS Monaco
@@ -218,41 +204,5 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/bordeaux-n9V6xiyI/
 
 20:30 | HOCKEY | Anglet - Angers
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/anglet-t4PXVott/
----
-
-21:00 | FOOTBALL | Alkmaar - Juventus
-URL: https://www.flashscore.fr/match/football/alkmaar-2RxOow1i/juventus-C06aJvIB/
----
-
-02:30 | TENNIS | Bianca Vanessa Andreescu - Carole Monnet
-URL: https://www.flashscore.fr/match/tennis/andreescu-bianca-KhlPw9hb/monnet-carole-GQ68ufRu/
----
-
-16:30 | BASKETBALL | Saint-Quentin - ASVEL Lyon-Villeurbanne
-URL: https://www.flashscore.fr/match/basket/lyon-villeurbanne-KrXB5aC1/saint-quentin-hESgWNT6/
----
-
-12:30 | TENNIS | Benjamin Bonzi - Yannick Hanfmann
-URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/hanfmann-yannick-zLJYYbhm/
----
-
-17:00 | HANDBALL | PSG - Montpellier
-URL: https://www.flashscore.fr/match/handball/montpellier-Qopo6dYu/paris-MmvaXAoA/
----
-
-19:00 | BASKETBALL | Paris - Chalon/Saone
-URL: https://www.flashscore.fr/match/basket/chalon-saone-pK5YsrsB/paris-CdCP6AWf/
----
-
-21:05 | RUGBY | Section Paloise - Stade Toulousain
-URL: https://www.flashscore.fr/match/rugby/section-paloise-G2QYSuX3/stade-toulousain-2LK4pW1j/
----
-
-14:00 | TENNIS | Alex De Minaur - Carlos Alcaraz
-URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/de-minaur-alex-EZgZ9Xfh/
----
-
-14:30 | TENNIS | Giovanni Mpetshi Perricard - Yanis Ghazouani-Durand
-URL: https://www.flashscore.fr/match/tennis/ghazouani-durand-yanis-C6bdjyfd/mpetshi-perricard-giovanni-ITe9m2F8/
 ---
 
