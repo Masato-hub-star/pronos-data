@@ -1,21 +1,3 @@
-18:25 | TENNIS | Alex Molcan - Titouan Droguet
-Flashscore conclusion:
-Alex Molcan possède les qualités nécessaires pour dominer et contrôler cette confrontation. Sur la seule base de ce potentiel dangereux, il part avec un léger statut de favori. Titouan Droguet dispose toutefois d’une vraie opportunité. C’est un combattant solide qui pousse souvent ses matchs jusqu’au bout et les rend extrêmement physiques. S’il parvient encore à imposer ce rythme, il a largement les moyens de faire craquer Molcan. Le Slovaque n’est en effet pas le joueur le plus fiable dans les longs combats, même dans le confort de l’Indoor.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/droguet-titouan-A57Xet1f/molcan-alex-drgiRTl7/
----
-
-19:00 | TENNIS | Denis Shapovalov - Karen Khachanov
-Flashscore conclusion:
-Comme le montre leur historique, les deux joueurs sont tout à fait capables de se battre l’un et l’autre. Leurs deux précédentes confrontations se sont décidées sur de faibles écarts. Il faut s’attendre à un nouveau duel serré, mais la forme actuelle place Karen Khachanov en position favorable pour décrocher sa première victoire face au Canadien. Il évolue dans un tournoi où il se sent parfaitement chez lui et où il doit défendre les points de sa qualification en huitièmes de finale.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/khachanov-karen-4bNPtZT5/shapovalov-denis-zXddgn9o/
----
-
-21:45 | TENNIS | Ugo Humbert - Botic Van De Zandschulp
-Flashscore conclusion:
-Botic van de Zandschulp affiche une plus grande confiance ces derniers mois et occupe actuellement le meilleur classement. Ugo Humbert contrôle toutefois complètement cet affrontement : il a remporté les six confrontations et n’a perdu qu’un seul set au passage. Cela suggère qu’il a trouvé la formule face au Néerlandais. Ajoutez à cela l’avantage du court à domicile et son aisance générale dans les tournois indoor français, et Humbert apparaît comme le grand favori.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/humbert-ugo-O4ywE5Ah/van-de-zandschulp-botic-YwiLpILD/
----
-
 11:00 | TENNIS | Arthur Rinderknech - Francisco Cerundolo
 Flashscore conclusion:
 Arthur Rinderknech devrait avoir l’avantage sur Francisco Cerundolo dans ce tournoi. Il est bien plus à l’aise en indoor, avec plus de 100 victoires en carrière sur cette surface, et bénéficie également du soutien du public. Les inquiétudes concernent sa confiance, au plus bas après plus de dix mois de performances et de résultats insuffisants, ainsi que sa récente blessure abdominale, qui l’a éloigné des courts pendant quelques semaines.Traduit à l'aide de l'IA
@@ -88,6 +70,10 @@ URL: https://www.flashscore.fr/match/tennis/buse-ignacio-A1LQjAPb/medvedev-danii
 URL: https://www.flashscore.fr/match/tennis/musetti-lorenzo-xtH2ODVI/zverev-alexander-dGbUhw9m/
 ---
 
+10:00 | TENNIS | Arthur Fils - Tomas Machac
+URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/machac-tomas-S44E7UYr/
+---
+
 21:00 | FOOTBALL | Villarreal - PSG
 Flashscore conclusion:
 Les trois matchs de phase de ligue de Villarreal ont produit 16 buts au total, contre 19 pour le PSG. On pense ainsi à plus de 3,5 buts dans cette affiche.Auteur : Aaron MurphyTraduit à l'aide de l'IA
@@ -132,8 +118,8 @@ URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/lyon-2akflumR/
 URL: https://www.flashscore.fr/match/football/lens-IBmris38/marseille-SblU3Hee/
 ---
 
-14:30 | FOOTBALL | Stade Tunisien - Club Africain
-URL: https://www.flashscore.fr/match/football/club-africain-C2lt6Igm/stade-tunisien-IVPZsB67/
+20:45 | FOOTBALL | Italie - France
+URL: https://www.flashscore.fr/match/football/france-QkGeVG1n/italie-hlKvieGH/
 ---
 
 21:00 | FOOTBALL | Barcelone - Aston Villa
@@ -222,10 +208,8 @@ URL: https://www.flashscore.fr/match/football/ghana-nNBjHale/somalie-Aiu9mqIL/
 URL: https://www.flashscore.fr/match/football/ouzbekistan-EZYKKRMc/russie-hrgrswHh/
 ---
 
-20:45 | FOOTBALL | FC Lorient - Stade Brestois
-Flashscore conclusion:
-Lorient est difficile à battre actuellement. Brest est en difficulté lors de ses confrontations à l’extérieur, et tout plaide donc en faveur d’une victoire à domicile ici. Auteur : Chris WilsonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/lorient-jgNAYRGi/
+20:45 | FOOTBALL | Angleterre - Croatie
+URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/croatie-K8aznggo/
 ---
 
 20:45 | FOOTBALL | Toulouse - Strasbourg
@@ -278,18 +262,6 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/bordeaux-n9V6xiyI/
 
 20:30 | HOCKEY | Anglet - Angers
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/anglet-t4PXVott/
----
-
-10:00 | TENNIS | Arthur Fils - Tomas Machac
-URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/machac-tomas-S44E7UYr/
----
-
-20:45 | FOOTBALL | Italie - France
-URL: https://www.flashscore.fr/match/football/france-QkGeVG1n/italie-hlKvieGH/
----
-
-20:45 | FOOTBALL | Angleterre - Croatie
-URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/croatie-K8aznggo/
 ---
 
 22:19 | HOCKEY | Chamonix Mont-Blanc - Angers

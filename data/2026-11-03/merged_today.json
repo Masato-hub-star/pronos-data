@@ -1,0 +1,1352 @@
+[
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "09:45",
+    "home_team_rb": "Galatasaray",
+    "away_team_rb": "VfB Stuttgart",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Champions League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "galatasaray-vs-vfb-stuttgart",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 43,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 23,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.33
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "09:45",
+    "home_team_rb": "Shakhtar Donetsk",
+    "away_team_rb": "Sporting CP",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Champions League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "shakhtar-donetsk-vs-sporting-cp",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 43,
+      "over_25_pct": 63,
+      "btts_yes_pct": 70
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.57
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:00",
+    "home_team_rb": "LASK",
+    "away_team_rb": "Slovan Bratislava",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Champions League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "lask-vs-slovan-bratislava",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 67,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 23,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.45
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Villarreal",
+    "away_team_rb": "Paris Saint-Germain",
+    "home_team_fs": "Villarreal",
+    "away_team_fs": "PSG",
+    "competition_fs": "Ligue des Champions - Phase de ligue - Journée 4",
+    "league_rb": "International: Champions League",
+    "match_status": "MATCHED",
+    "flashscore_mid": "Y7dW9kaT",
+    "ratingbet_slug": "paris-saint-germain-2-vs-villarreal-2",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 53,
+      "over_25_pct": 30,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.38
+    },
+    "flashscore_preview_snippet": "Villarreal affrontera pour la première fois depuis près de 20 ans un tenant du titre de la Ligue des champions (LDC) lors de la réception du PSG, invaincu et qui compte six points et 18 places d’avanc"
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Bodoe/Glimt",
+    "away_team_rb": "Lille",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Champions League",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "bodoe-glimt-vs-lille",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 71,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 27,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.92
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Feyenoord",
+    "away_team_rb": "Inter",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Champions League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "feyenoord-vs-inter-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 47,
+      "over_25_pct": 17,
+      "btts_yes_pct": 70
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.4
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Manchester United",
+    "away_team_rb": "Roma",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Champions League",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "manchester-united-vs-roma-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 20,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 19,
+      "btts_yes_pct": 58
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.42
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Atletico Madrid",
+    "away_team_rb": "Bayern Munich",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Champions League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "atletico-madrid-vs-bayern-munich-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 27,
+      "btts_yes_pct": 83
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.36
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Barcelona",
+    "away_team_rb": "Aston Villa",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Champions League",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "aston-villa-vs-barcelona-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 100,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 32,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.28
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "14:30",
+    "home_team_rb": "Chapecoense AF",
+    "away_team_rb": "Mirassol",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "chapecoense-af-vs-mirassol",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 53,
+      "over_25_pct": 27,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.62
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "16:30",
+    "home_team_rb": "Internacional",
+    "away_team_rb": "Coritiba",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "coritiba-vs-internacional",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 57,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 38,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.62
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Blackburn",
+    "away_team_rb": "Stoke",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: EFL Championship",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 21,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.76
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Charlton",
+    "away_team_rb": "Bolton",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: EFL Championship",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 33,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 20,
+      "btts_yes_pct": 43
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.61
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Watford",
+    "away_team_rb": "Lincoln City",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: EFL Championship",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 46,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 50
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.66
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Queens Park Rangers",
+    "away_team_rb": "Burnley",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: EFL Championship",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 50,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 27,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.57
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Preston",
+    "away_team_rb": "Sheffield United",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: EFL Championship",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 53,
+      "over_25_pct": 7,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.62
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Portsmouth",
+    "away_team_rb": "Swansea",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: EFL Championship",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 43,
+      "over_25_pct": null,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.78
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Derby",
+    "away_team_rb": "Norwich",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: EFL Championship",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 53,
+      "over_25_pct": 23,
+      "btts_yes_pct": 70
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.57
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:00",
+    "home_team_rb": "West Bromwich",
+    "away_team_rb": "Southampton",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: EFL Championship",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 20,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 20,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.53
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Birmingham",
+    "away_team_rb": "Millwall",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: EFL Championship",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 53,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 10,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.63
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Wigan",
+    "away_team_rb": "Mansfield",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: League One England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 33,
+      "over_25_pct": 20,
+      "btts_yes_pct": 50
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.62
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Huddersfield",
+    "away_team_rb": "Luton",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: League One England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 47,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 30,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.46
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Northampton",
+    "away_team_rb": "Oldham",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: League Two England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 33,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.91
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "03:00",
+    "home_team_rb": "Shirak II",
+    "away_team_rb": "Ararat Armenia II",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Armenia: First League Armenia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 93,
+      "btts_yes_pct": 59
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.35
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:30",
+    "home_team_rb": "Deportivo Pereira",
+    "away_team_rb": "Tolima",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Colombia: Primera A Colombia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 20,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.51
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "15:20",
+    "home_team_rb": "Deportivo Pasto",
+    "away_team_rb": "CD Jaguares",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Colombia: Primera A Colombia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 43,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.79
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "15:00",
+    "home_team_rb": "Real Cartagena",
+    "away_team_rb": "Deportes Quindio",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Colombia: Primera B Colombia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 33,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.82
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "17:00",
+    "home_team_rb": "Sporting FC",
+    "away_team_rb": "Municipal Perez Zeledon",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Costa Rica: Primera Division Costa Rica",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 67,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 29,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.36
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Mladost Zdralovi",
+    "away_team_rb": "Slaven",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Croatia: Croatian Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 42,
+      "btts_yes_pct": 46
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.71
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "08:00",
+    "home_team_rb": "AEL Limassol",
+    "away_team_rb": "Iraklis Gerolakkou",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Cyprus: Cypriot Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 21,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.32
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "09:00",
+    "home_team_rb": "Karmiotissa",
+    "away_team_rb": "Ermis Aradippou",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Cyprus: Cypriot Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 83,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 52,
+      "btts_yes_pct": 52
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.45
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "10:00",
+    "home_team_rb": "AGF",
+    "away_team_rb": "FC Midtjylland",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Denmark: Elitedivisionen Women Denmark",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 38,
+      "over_25_pct": 23,
+      "btts_yes_pct": 27
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.39
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "09:00",
+    "home_team_rb": "Lyngby",
+    "away_team_rb": "Randers FC",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Denmark: DBU Pokalen Denmark",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 47,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 30,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.48
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "12:30",
+    "home_team_rb": "Mushuc Runa",
+    "away_team_rb": "Manta",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Ecuador: Serie A Ecuador",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 56,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.56
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Dorking Wanderers",
+    "away_team_rb": "Hampton & Richmond",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: National League North/South England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 42,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.4
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Farnborough",
+    "away_team_rb": "Ebbsfleet United",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: National League North/South England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 67,
+      "over_25_pct": 33,
+      "btts_yes_pct": 33
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.53
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Chippenham Town",
+    "away_team_rb": "Evesham United",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 55,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 17,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 2.12
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Poole Town FC",
+    "away_team_rb": "Hanwell Town",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 47,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 20,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.58
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Plymouth Parkway",
+    "away_team_rb": "Uxbridge",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 75,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 13,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 2.41
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Bracknell Town",
+    "away_team_rb": "Chertsey Town",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 50,
+      "over_25_pct": 27,
+      "btts_yes_pct": 73
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.39
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Bury Town",
+    "away_team_rb": "Kettering Town FC",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 60,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 23,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.51
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Anstey Nomads",
+    "away_team_rb": "Real Bedford",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 27,
+      "btts_yes_pct": 77
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.42
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Brentwood Town",
+    "away_team_rb": "Leatherhead",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 47,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 57,
+      "btts_yes_pct": 73
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.38
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Wingate & Finchley",
+    "away_team_rb": "Burgess Hill Town",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 33,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 50,
+      "btts_yes_pct": 70
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.42
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Lewes",
+    "away_team_rb": "Dartford",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 53,
+      "over_25_pct": 23,
+      "btts_yes_pct": 50
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 2.04
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Eastbourne Borough",
+    "away_team_rb": "Stanway Rovers",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 25,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.7
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Ashton United",
+    "away_team_rb": "Warrington Town",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 33,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 10,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.53
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Bury",
+    "away_team_rb": "Avro",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 63,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 36,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.73
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Guiseley",
+    "away_team_rb": "Leek Town",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 33,
+      "btts_yes_pct": 73
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.63
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-03",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Curzon",
+    "away_team_rb": "FC United of Manchester",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: Northern Premier League England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 38,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 23,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.55
+    },
+    "flashscore_preview_snippet": null
+  }
+]
