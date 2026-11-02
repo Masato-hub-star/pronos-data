@@ -10,7 +10,7 @@ Comme le montre leur historique, les deux joueurs sont tout à fait capables de 
 URL: https://www.flashscore.fr/match/tennis/khachanov-karen-4bNPtZT5/shapovalov-denis-zXddgn9o/
 ---
 
-20:30 | TENNIS | Ugo Humbert - Botic Van De Zandschulp
+21:45 | TENNIS | Ugo Humbert - Botic Van De Zandschulp
 Flashscore conclusion:
 Botic van de Zandschulp affiche une plus grande confiance ces derniers mois et occupe actuellement le meilleur classement. Ugo Humbert contrôle toutefois complètement cet affrontement : il a remporté les six confrontations et n’a perdu qu’un seul set au passage. Cela suggère qu’il a trouvé la formule face au Néerlandais. Ajoutez à cela l’avantage du court à domicile et son aisance générale dans les tournois indoor français, et Humbert apparaît comme le grand favori.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/humbert-ugo-O4ywE5Ah/van-de-zandschulp-botic-YwiLpILD/
@@ -272,5 +272,21 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/bordeaux-n9V6xiyI/
 
 20:30 | HOCKEY | Anglet - Angers
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/anglet-t4PXVott/
+---
+
+10:00 | TENNIS | Arthur Fils - Tomas Machac
+URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/machac-tomas-S44E7UYr/
+---
+
+20:45 | FOOTBALL | Italie - France
+URL: https://www.flashscore.fr/match/football/france-QkGeVG1n/italie-hlKvieGH/
+---
+
+20:45 | FOOTBALL | Angleterre - Croatie
+URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/croatie-K8aznggo/
+---
+
+22:19 | HOCKEY | Chamonix Mont-Blanc - Angers
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/chamonix-mont-blanc-byLLnpOd/
 ---
 
