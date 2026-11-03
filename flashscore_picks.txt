@@ -50,7 +50,7 @@ Le moral de Taylor Fritz doit être au plus bas après une série de résultats 
 URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/fritz-taylor-UH09iaZ6/
 ---
 
-18:50 | TENNIS | Jan-Lennard Struff - Arthur Gea
+19:15 | TENNIS | Jan-Lennard Struff - Arthur Gea
 Flashscore conclusion:
 Il y a encore quelques semaines, Arthur Gea aurait été largement favori dans cette confrontation. Il était alors en grande forme, tandis que Jan-Lennard Struff remportait à peine quelques matchs. En l'espace de quelques semaines, la situation a toutefois radicalement changé. Les récents problèmes physiques de Gea et l'excellente série de Struff sur dur indoor ont modifié la donne. L'Allemand part ainsi avec un léger avantage à l'abord de cette affiche.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/gea-arthur-M5Nr6FTR/struff-jan-lennard-Ek3bDDo2/
@@ -308,5 +308,17 @@ URL: https://www.flashscore.fr/match/hockey/france-dUzRZitn/slovenie-x2ZOU7PT/
 
 19:00 | HOCKEY | France - Hongrie
 URL: https://www.flashscore.fr/match/hockey/france-dUzRZitn/hongrie-fBiWomPG/
+---
+
+10:00 | TENNIS | Matteo Berrettini - Ugo Humbert
+URL: https://www.flashscore.fr/match/tennis/berrettini-matteo-OhwtM7N8/humbert-ugo-O4ywE5Ah/
+---
+
+10:00 | TENNIS | Tommy Paul - Daniel Merida Aguilar
+URL: https://www.flashscore.fr/match/tennis/daniel-merida-aguilar-WOtXbAu5/paul-tommy-pd3ye1BS/
+---
+
+10:00 | TENNIS | Novak Djokovic - Rinky Hijikata
+URL: https://www.flashscore.fr/match/tennis/djokovic-novak-AZg49Et9/hijikata-rinky-f9eT4NTQ/
 ---
 
