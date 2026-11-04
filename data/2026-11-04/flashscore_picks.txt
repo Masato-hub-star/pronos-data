@@ -4,7 +4,7 @@ La forme de Karen Khachanov est nettement meilleure depuis son parcours jusqu’
 URL: https://www.flashscore.fr/match/tennis/borges-nuno-hzbEPIOa/khachanov-karen-4bNPtZT5/
 ---
 
-17:55 | TENNIS | Thiago Agustin Tirante - Jan-Lennard Struff
+19:15 | TENNIS | Thiago Agustin Tirante - Jan-Lennard Struff
 Flashscore conclusion:
 Il y a quelques mois, Thiago Agustin Tirante aurait été considéré comme le favori de cet affrontement, même en dehors de la terre battue, compte tenu de la mauvaise forme de Jan-Lennard Struff à cette époque. Mais Struff a retrouvé confiance et évolue désormais à son meilleur niveau sur dur indoor. Il aborde donc ce match en grand favori.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/struff-jan-lennard-Ek3bDDo2/tirante-thiago-agustin-jBkGDj34/
@@ -86,7 +86,7 @@ URL: https://www.flashscore.fr/match/football/france-ShmZavVI/italie-8jmNWdEB/
 URL: https://www.flashscore.fr/match/football/olympiakos-hnzvnHPS/rennes-d2nnj1IE/
 ---
 
-18:45 | FOOTBALL | AEK - Real Madrid
+18:47 | FOOTBALL | AEK - Real Madrid
 Flashscore conclusion:
 Les visiteurs montent en puissance sous la direction de José Mourinho. Ils ont inscrit 17 buts lors de leurs cinq derniers matchs. Une victoire de Madrid avec plus de 3,5 buts semble envisageable.Auteur : John PenningtonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/aek-ANpZncAM/real-madrid-W8mj7MDD/
@@ -232,5 +232,21 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/anglet-t4PXVott/
 
 20:30 | HOCKEY | Angers - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/chamonix-mont-blanc-byLLnpOd/
+---
+
+10:00 | TENNIS | Rinky Hijikata - Tomas Martin Etcheverry
+URL: https://www.flashscore.fr/match/tennis/etcheverry-tomas-martin-AXL5qpKa/hijikata-rinky-f9eT4NTQ/
+---
+
+10:00 | TENNIS | Nuno Borges - Ignacio Buse
+URL: https://www.flashscore.fr/match/tennis/borges-nuno-hzbEPIOa/buse-ignacio-A1LQjAPb/
+---
+
+14:31 | FOOTBALL | FAR Rabat - Raja Casablanca
+URL: https://www.flashscore.fr/match/football/far-rabat-CMn7Clai/raja-casablanca-vTnNkCKc/
+---
+
+18:00 | BASKETBALL | Luxembourg F - France F
+URL: https://www.flashscore.fr/match/basket/france-femUX0vr/luxembourg-jJOFOJ1s/
 ---
 
