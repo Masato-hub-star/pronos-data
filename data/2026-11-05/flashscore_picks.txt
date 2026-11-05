@@ -17,6 +17,8 @@ URL: https://www.flashscore.fr/match/tennis/ruud-casper-zN9UpRqp/struff-jan-lenn
 ---
 
 14:00 | TENNIS | Ben Shelton - Tommy Paul
+Flashscore conclusion:
+Ben Shelton est le mieux classé des deux depuis quelque temps et a récemment obtenu de meilleurs résultats sur les grandes scènes. Cependant, l’enjeu de cette semaine pour Tommy Paul, ainsi que ses meilleures performances lors de cette tournée européenne en indoor, ont modifié la dynamique de cette affiche et font de lui le léger favori.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/paul-tommy-pd3ye1BS/shelton-ben-QNuG0Gzb/
 ---
 
@@ -219,10 +221,14 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/chamonix-mont-blanc-
 ---
 
 15:30 | TENNIS | Luca van Assche - Rinky Hijikata
+Flashscore conclusion:
+Les deux joueurs réalisent une semaine exceptionnelle à Paris. Ils seront récompensés lundi prochain par le meilleur classement de leur carrière et peuvent tous deux espérer prolonger encore cette série. Luca Van Assche semble toutefois mieux placé pour s’imposer. Son niveau général durant la deuxième moitié de l’année est remarquable. Il bénéficie de l’avantage du terrain et d’une grande aisance dans les conditions indoor françaises. Son bilan en carrière en indoor, de 85v-59d, parle de lui-même.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/hijikata-rinky-f9eT4NTQ/van-assche-luca-nP9K42Bg/
 ---
 
 19:00 | TENNIS | Taylor Fritz - Carlos Alcaraz
+Flashscore conclusion:
+Le moment est particulièrement cruel pour Taylor Fritz. Après tous les efforts consentis pour se retrouver à une victoire d’une éventuelle qualification pour Turin, il doit affronter Carlos Alcaraz. L’Espagnol vise un premier titre à Paris et pourrait, en cas de victoire, rendre un immense service à son compatriote Rafael Jodar en lui permettant de conserver la huitième et dernière place qualificative.Les affrontements face à des adversaires d’élite comme Alcaraz, Jannik Sinner et Novak Djokovic ont toujours posé problème à Fritz. Malgré ses nombreuses tentatives, il a rarement inspiré confiance contre eux. Avec des réserves très limitées après tant de matchs ces dernières semaines, ses chances de résoudre l’équation cette fois semblent minces.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/fritz-taylor-UH09iaZ6/
 ---
 
@@ -278,5 +284,9 @@ URL: https://www.flashscore.fr/match/hockey/nice-AkAAP4QB/rouen-xYpMeMxS/
 
 20:30 | HOCKEY | Angers - Olympique de Marseille
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/marseille-nkohUngl/
+---
+
+20:30 | TENNIS | Casper Ruud - Nuno Borges
+URL: https://www.flashscore.fr/match/tennis/borges-nuno-hzbEPIOa/ruud-casper-zN9UpRqp/
 ---
 
