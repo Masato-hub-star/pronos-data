@@ -10,7 +10,7 @@ Le moment est particulièrement cruel pour Taylor Fritz. Après tous les efforts
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/fritz-taylor-UH09iaZ6/
 ---
 
-20:30 | TENNIS | Casper Ruud - Nuno Borges
+21:45 | TENNIS | Casper Ruud - Nuno Borges
 Flashscore conclusion:
 Les deux joueurs évoluent à plein régime cette semaine. Aucun n’a perdu de set dans le tableau principal ni concédé plus de quatre jeux dans un set. Casper Ruud a toutefois remporté ses matchs face à des adversaires de meilleure qualité, notamment Rafael Jodar et Jan-Lennard Struff, actuellement en forme. S’il maintient ce niveau un jour de plus, Ruud devrait avoir l’avantage sur Nuno Borges et prendre sa revanche après la défaite décevante subie face au Portugais en huitièmes de finale à Bâle.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/borges-nuno-hzbEPIOa/ruud-casper-zN9UpRqp/
@@ -250,5 +250,33 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/marseille-nkohUngl/
 
 17:15 | FOOTBALL | OGC Nice - PSG
 URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/psg-CjhkPw0k/
+---
+
+14:30 | TENNIS | Luca van Assche - Ben Shelton
+URL: https://www.flashscore.fr/match/tennis/shelton-ben-QNuG0Gzb/van-assche-luca-nP9K42Bg/
+---
+
+20:30 | FOOTBALL | Angleterre -21 - France -21
+URL: https://www.flashscore.fr/match/football/angleterre-zkytYbUh/france-ShmZavVI/
+---
+
+16:00 | FOOTBALL | Ouzbékistan - Russie
+URL: https://www.flashscore.fr/match/football/ouzbekistan-EZYKKRMc/russie-hrgrswHh/
+---
+
+20:45 | FOOTBALL | RC Lens - Toulouse
+URL: https://www.flashscore.fr/match/football/lens-IBmris38/toulouse-MLmY2yB1/
+---
+
+20:45 | FOOTBALL | LOSC - Olympique Lyonnais
+URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/lyon-2akflumR/
+---
+
+20:45 | FOOTBALL | AS Monaco - AJ Auxerre
+URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/monaco-2PIvr8o4/
+---
+
+20:45 | FOOTBALL | Strasbourg - Stade Brestois
+URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/strasbourg-nP6UzIU1/
 ---
 
