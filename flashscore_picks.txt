@@ -1,4 +1,4 @@
-17:00 | TENNIS | Casper Ruud - Carlos Alcaraz
+17:28 | TENNIS | Casper Ruud - Carlos Alcaraz
 Flashscore conclusion:
 Les deux joueurs doivent rapidement enchaîner. Ils ont terminé leurs quarts de finale tard vendredi avant de revenir tôt samedi pour les demi-finales. Ruud est toutefois confronté à la tâche la plus difficile puisqu’il a joué en dernier vendredi. Cela ne devrait néanmoins pas être le facteur décisif. Carlos Alcaraz possède un net avantage dans cette rivalité et reste sur une série de sept victoires consécutives. Il devrait la prolonger alors qu’il cherche à décrocher son premier titre au Masters de Paris.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/ruud-casper-zN9UpRqp/
@@ -44,7 +44,7 @@ URL: https://www.flashscore.fr/match/football/france-QkGeVG1n/turquie-QeijuHo5/
 URL: https://www.flashscore.fr/match/football/angleterre-zkytYbUh/france-ShmZavVI/
 ---
 
-17:00 | FOOTBALL | Kawkab Marrakech - Wydad AC
+17:01 | FOOTBALL | Kawkab Marrakech - Wydad AC
 URL: https://www.flashscore.fr/match/football/marrakech-lA6RXjzH/wydad-athletic-2yuuwjkA/
 ---
 
@@ -254,5 +254,13 @@ URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/marseille-nkohUngl/
 
 15:00 | HOCKEY | Cergy-Pontoise - Grenoble
 URL: https://www.flashscore.fr/match/hockey/cergy-pontoise-CK87QfVF/grenoble-fas8xYmC/
+---
+
+17:02 | FOOTBALL | Galatasaray - Amedspor
+URL: https://www.flashscore.fr/match/football/amedspor-EHdgkFvm/galatasaray-riaqqurF/
+---
+
+17:15 | FOOTBALL | FC Lorient - Stade Rennais
+URL: https://www.flashscore.fr/match/football/lorient-jgNAYRGi/rennes-d2nnj1IE/
 ---
 
