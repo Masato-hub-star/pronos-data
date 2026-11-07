@@ -66,7 +66,7 @@ Il semble peu probable que Forest mette fin à son hémorragie face à l’une d
 URL: https://www.flashscore.fr/match/football/manchester-city-Wtn9Stg0/nottingham-UsushcZr/
 ---
 
-21:00 | FOOTBALL | Valence - Real Madrid
+21:02 | FOOTBALL | Valence - Real Madrid
 Flashscore conclusion:
 La superbe forme récente des visiteurs nous laisse penser à une victoire de Madrid avec plus de 2,5 buts inscrits ici. Auteur : Nathan EvansTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/real-madrid-W8mj7MDD/valencia-CQeaytrD/
@@ -110,7 +110,7 @@ URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/espagne-bLyo6m
 URL: https://www.flashscore.fr/match/hockey/france-dUzRZitn/hongrie-fBiWomPG/
 ---
 
-21:10 | RUGBY | France - Fidji
+21:13 | RUGBY | France - Fidji
 URL: https://www.flashscore.fr/match/rugby/fidji-QZZ60Atl/france-GE9w8L42/
 ---
 
@@ -292,5 +292,13 @@ URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/marseil
 
 19:00 | HOCKEY | Anglet - Gap
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/gap-2TtYxh3I/
+---
+
+17:00 | FOOTBALL | RD Congo - Sierra Leone
+URL: https://www.flashscore.fr/match/football/dr-congo-phn9mm8H/sierra-leone-0W8SXIIf/
+---
+
+20:45 | FOOTBALL | Olympique de Marseille - Le Mans
+URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/marseille-SblU3Hee/
 ---
 
