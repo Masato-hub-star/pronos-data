@@ -46,7 +46,7 @@ URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/monaco-2PIvr8o4/
 URL: https://www.flashscore.fr/match/football/far-rabat-CMn7Clai/jadida-Iui2yZzh/
 ---
 
-17:30 | FOOTBALL | Manchester Utd - Aston Villa
+17:32 | FOOTBALL | Manchester Utd - Aston Villa
 Flashscore conclusion:
 Comme aucune de ces deux équipes ne fait preuve d’une grande régularité dans ses performances, on pense à un match avec les deux équipes qui marquent et plus de 3,5 buts ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/aston-villa-W00wmLO0/manchester-utd-ppjDR086/
@@ -254,5 +254,21 @@ URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/marseil
 
 19:00 | HOCKEY | Anglet - Gap
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/gap-2TtYxh3I/
+---
+
+18:00 | FOOTBALL | France -19 - Norvège -19
+URL: https://www.flashscore.fr/match/football/france-YL4McSPu/norvege-p0OyTrgi/
+---
+
+18:00 | FOOTBALL | Turquie - Belgique
+URL: https://www.flashscore.fr/match/football/belgique-GbB957na/turquie-QeijuHo5/
+---
+
+17:00 | FOOTBALL | France -20 - Danemark -20
+URL: https://www.flashscore.fr/match/football/danemark-QVV4GL57/france-no6QnTnJ/
+---
+
+20:00 | FOOTBALL | Côte d'Ivoire - Gambie
+URL: https://www.flashscore.fr/match/football/cote-d-ivoire-G2FRjBgn/gambie-hADVg0uE/
 ---
 
