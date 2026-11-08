@@ -8,7 +8,7 @@ Compte tenu de la propension récente de Brest à encaisser des buts après la m
 URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/lyon-2akflumR/
 ---
 
-20:45 | FOOTBALL | RC Lens - Olympique de Marseille
+21:32 | FOOTBALL | RC Lens - Olympique de Marseille
 Flashscore conclusion:
 On pense que les deux équipes pourraient marquer compte tenu de la tendance de Lens à concéder des buts à domicile.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lens-IBmris38/marseille-SblU3Hee/
@@ -52,13 +52,13 @@ Comme aucune de ces deux équipes ne fait preuve d’une grande régularité dan
 URL: https://www.flashscore.fr/match/football/aston-villa-W00wmLO0/manchester-utd-ppjDR086/
 ---
 
-20:45 | FOOTBALL | Fiorentina - Juventus
+21:35 | FOOTBALL | Fiorentina - Juventus
 Flashscore conclusion:
 Comme les deux équipes ont marqué lors de chacun des huit derniers matchs de championnat de la Fiorentina, il se peut que les deux équipes marquent ici.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/fiorentina-Q3A3IbXH/juventus-C06aJvIB/
 ---
 
-21:00 | FOOTBALL | Atl. Madrid - Barcelone
+21:01 | FOOTBALL | Atl. Madrid - Barcelone
 Flashscore conclusion:
 Les deux équipes affichent une excellente forme à l’approche de cette rencontre et on se dit qu'un match nul est envisageable.Auteur : Nathan EvansTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/atl-madrid-jaarqpLQ/barcelone-SKbpVP5K/
@@ -274,5 +274,9 @@ URL: https://www.flashscore.fr/match/football/cote-d-ivoire-G2FRjBgn/gambie-hADV
 
 01:30 | FOOTBALL | Curaçao - Panama
 URL: https://www.flashscore.fr/match/football/curacao-bLLGpOkQ/panama-OWKqbCfi/
+---
+
+13:00 | FOOTBALL | Singapour - Paraguay
+URL: https://www.flashscore.fr/match/football/paraguay-YaNlqp6j/singapoure-G0dqs0hU/
 ---
 
