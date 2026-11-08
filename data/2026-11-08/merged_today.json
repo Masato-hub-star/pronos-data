@@ -1,0 +1,1352 @@
+[
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:30",
+    "home_team_rb": "Manchester United",
+    "away_team_rb": "Aston Villa",
+    "home_team_fs": "Manchester Utd",
+    "away_team_fs": "Aston Villa",
+    "competition_fs": "Premier League - Journée 10",
+    "league_rb": "England: English Premier League",
+    "match_status": "MATCHED",
+    "flashscore_mid": "Me9aWSp3",
+    "ratingbet_slug": "aston-villa-vs-manchester-united",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": 36,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 23,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.46
+    },
+    "flashscore_preview_snippet": "Après un retour renversant en milieu de semaine, qui a peut-être sauvé le poste de Michael Carrick, Manchester United cherche à enchaîner face à Aston Villa lors du dernier match de Premier League ava"
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:15",
+    "home_team_rb": "Real Sociedad",
+    "away_team_rb": "Rayo Vallecano",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Spain: LaLiga Spain",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "rayo-vallecano-2-vs-real-sociedad-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 53,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 33,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.55
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "11:30",
+    "home_team_rb": "Villarreal",
+    "away_team_rb": "Getafe",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Spain: LaLiga Spain",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "getafe-vs-villarreal-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 53,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 40,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.57
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "11:30",
+    "home_team_rb": "Celta Vigo",
+    "away_team_rb": "Levante",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Spain: LaLiga Spain",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "celta-vigo-vs-levante-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 40,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.74
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "14:00",
+    "home_team_rb": "Atletico Madrid",
+    "away_team_rb": "Barcelona",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Spain: LaLiga Spain",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "atletico-madrid-vs-barcelona-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 50,
+      "btts_yes_pct": 70
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.31
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:15",
+    "home_team_rb": "Le Mans",
+    "away_team_rb": "Monaco",
+    "home_team_fs": "Le Mans",
+    "away_team_fs": "AS Monaco",
+    "competition_fs": "Ligue 1 - Journée 10",
+    "league_rb": "France: Ligue 1 France",
+    "match_status": "MATCHED",
+    "flashscore_mid": "IcqGY9Xa",
+    "ratingbet_slug": "le-mans-vs-monaco",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 27,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.84
+    },
+    "flashscore_preview_snippet": "Deux équipes en difficulté devant le but et en championnat ces derniers temps se retrouvent alors que Le Mans, promu en difficulté, reçoit Monaco.Actus sur le match et forme actuelleLe passage en Ligu"
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:15",
+    "home_team_rb": "Le Havre",
+    "away_team_rb": "Lorient",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "France: Ligue 1 France",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "le-havre-vs-lorient",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 27,
+      "over_25_pct": null,
+      "btts_yes_pct": 40
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.84
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:15",
+    "home_team_rb": "Brest",
+    "away_team_rb": "Lyon",
+    "home_team_fs": "Stade Brestois",
+    "away_team_fs": "Olympique Lyonnais",
+    "competition_fs": "Ligue 1 - Journée 10",
+    "league_rb": "France: Ligue 1 France",
+    "match_status": "MATCHED",
+    "flashscore_mid": "E1fxthuQ",
+    "ratingbet_slug": "brest-vs-lyon",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 33,
+      "over_25_pct": 60,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.6
+    },
+    "flashscore_preview_snippet": "Brest, qui occupe le milieu de tableau, reçoit Lyon, prétendant à une qualification pour la Ligue des champions. Malgré sa troisième place en Ligue 1 avant cette journée, l’OL cherche à mettre fin à s"
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:15",
+    "home_team_rb": "Angers",
+    "away_team_rb": "Nice",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "France: Ligue 1 France",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "angers-vs-nice",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 67,
+      "over_25_pct": 33,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 2.06
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "13:45",
+    "home_team_rb": "Lens",
+    "away_team_rb": "Marseille",
+    "home_team_fs": "RC Lens",
+    "away_team_fs": "Olympique de Marseille",
+    "competition_fs": "Ligue 1 - Journée 10",
+    "league_rb": "France: Ligue 1 France",
+    "match_status": "MATCHED",
+    "flashscore_mid": "OfnOWm2C",
+    "ratingbet_slug": "lens-vs-marseille",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": 71,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 27,
+      "btts_yes_pct": 50
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 2.34
+    },
+    "flashscore_preview_snippet": "Après avoir écrit une page indésirable de son histoire, Lens cherche à rebondir face à une équipe de Marseille qui figure parmi les plus en forme de Ligue 1.Actus sur le match et forme actuelleLa sais"
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "08:30",
+    "home_team_rb": "FC Koln",
+    "away_team_rb": "Bayer Leverkusen",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Germany: Bundesliga Germany",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "bayer-leverkusen-2-vs-fc-koln",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 53,
+      "over_25_pct": 37,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.53
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:30",
+    "home_team_rb": "Freiburg",
+    "away_team_rb": "Union Berlin",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Germany: Bundesliga Germany",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "freiburg-vs-union-berlin",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 100,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 47,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.49
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "12:30",
+    "home_team_rb": "Hoffenheim",
+    "away_team_rb": "Schalke 04",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Germany: Bundesliga Germany",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "hoffenheim-vs-schalke-04",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 47,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 37,
+      "btts_yes_pct": 43
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.61
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Inter",
+    "away_team_rb": "Como",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Italy: Serie A Italy",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "como-vs-inter-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 46,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 33,
+      "btts_yes_pct": 70
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.45
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "13:45",
+    "home_team_rb": "Fiorentina",
+    "away_team_rb": "Juventus",
+    "home_team_fs": "Fiorentina",
+    "away_team_fs": "Juventus",
+    "competition_fs": "Serie A - Journée 11",
+    "league_rb": "Italy: Serie A Italy",
+    "match_status": "MATCHED",
+    "flashscore_mid": "l2iCQrDl",
+    "ratingbet_slug": "fiorentina-2-vs-juventus-2",
+    "flashscore_preview_available": true,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 47,
+      "over_25_pct": 33,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.67
+    },
+    "flashscore_preview_snippet": "La Fiorentina aborde cette rivalité féroce avec le plein de confiance après avoir mis fin à sa série sans victoire lors de la dernière journée. Le club cherche désormais à décrocher son premier succès"
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:45",
+    "home_team_rb": "AZ Alkmaar",
+    "away_team_rb": "FC Groningen",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Netherlands: Eredivisie Netherlands",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "az-alkmaar-vs-fc-groningen",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 33,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.5
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:45",
+    "home_team_rb": "Cambuur",
+    "away_team_rb": "PSV Eindhoven",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Netherlands: Eredivisie Netherlands",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "cambuur-vs-psv-eindhoven",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 53,
+      "over_25_pct": 30,
+      "btts_yes_pct": 70
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.38
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "13:00",
+    "home_team_rb": "FC Utrecht",
+    "away_team_rb": "NEC Nijmegen",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Netherlands: Eredivisie Netherlands",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "fc-utrecht-vs-nec-nijmegen",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 38,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 20,
+      "btts_yes_pct": 73
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.39
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:00",
+    "home_team_rb": "Asteras Tripolis",
+    "away_team_rb": "Kalamata",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "asteras-tripolis-vs-kalamata",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 58,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 62
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.78
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:00",
+    "home_team_rb": "AEK Athens",
+    "away_team_rb": "Levadiakos",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "aek-athens-vs-levadiakos",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 67,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 61,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.53
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:30",
+    "home_team_rb": "Iraklis",
+    "away_team_rb": "Panathinaikos",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "iraklis-vs-panathinaikos",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 73,
+      "over_25_pct": 19,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.29
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:30",
+    "home_team_rb": "OFI Crete",
+    "away_team_rb": "Atromitos",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "atromitos-vs-ofi-crete",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 56,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 2.09
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "13:00",
+    "home_team_rb": "Olympiacos",
+    "away_team_rb": "PAOK Thessaloniki FC",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Greece: Super League Greece",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "olympiacos-vs-paok-thessaloniki-fc",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 47,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 2.01
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:00",
+    "home_team_rb": "Randers FC",
+    "away_team_rb": "FC Nordsjaelland",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Denmark: Superliga Denmark",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "fc-nordsjaelland-vs-randers-fc",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 33,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.77
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "11:00",
+    "home_team_rb": "FC Midtjylland",
+    "away_team_rb": "Soenderjyske Fodbold",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Denmark: Superliga Denmark",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "fc-midtjylland-vs-soenderjyske",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 40,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.32
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:30",
+    "home_team_rb": "Santa Clara",
+    "away_team_rb": "Gil Vicente",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "gil-vicente-vs-santa-clara",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 42,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.71
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:30",
+    "home_team_rb": "Nacional",
+    "away_team_rb": "Academico Viseu",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "academico-viseu-vs-nacional",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 50,
+      "over_25_pct": null,
+      "btts_yes_pct": 37
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 2.55
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Vitoria de Guimaraes",
+    "away_team_rb": "FC Porto",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "fc-porto-vs-vitoria-de-guimaraes",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 17,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.83
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "14:30",
+    "home_team_rb": "Rio Ave",
+    "away_team_rb": "Braga",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "braga-vs-rio-ave",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 40,
+      "over_25_pct": 40,
+      "btts_yes_pct": 37
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.53
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "14:30",
+    "home_team_rb": "Estrela da Amadora",
+    "away_team_rb": "Benfica",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Portugal: Primeira Liga Portugal",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "benfica-vs-estrela-da-amadora",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 93,
+      "over_25_pct": 37,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.23
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:45",
+    "home_team_rb": "JS Saoura",
+    "away_team_rb": "CS Constantine",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Algeria: Ligue 1 Algeria",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 56,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.55
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:45",
+    "home_team_rb": "ES Ben Aknoun",
+    "away_team_rb": "CR Belouizdad",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Algeria: Ligue 1 Algeria",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 75,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.86
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:00",
+    "home_team_rb": "Gent",
+    "away_team_rb": "Kortrijk",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Belgium: Pro League Belgium",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "gent-vs-kortrijk",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 56,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 37,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.56
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "11:30",
+    "home_team_rb": "Union St.Gilloise",
+    "away_team_rb": "Genk",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Belgium: Pro League Belgium",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "genk-vs-union-st-gilloise",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 17,
+      "btts_yes_pct": 37
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.62
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "12:15",
+    "home_team_rb": "St.Truiden",
+    "away_team_rb": "Zulte Waregem",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Belgium: Pro League Belgium",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "st-truiden-vs-zulte-waregem",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 30,
+      "btts_yes_pct": 37
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.78
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:00",
+    "home_team_rb": "Wimborne Town",
+    "away_team_rb": "Crawley",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: FA Cup England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 17,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.63
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "11:15",
+    "home_team_rb": "Oldham",
+    "away_team_rb": "Sheffield Wednesday",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: FA Cup England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 40,
+      "over_25_pct": 17,
+      "btts_yes_pct": 50
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.47
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:00",
+    "home_team_rb": "FC Dinamo City",
+    "away_team_rb": "Skenderbeu",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Albania: Kategoria Superiore Albania",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 47,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 64
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.82
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "11:30",
+    "home_team_rb": "Egnatia",
+    "away_team_rb": "Vora",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Albania: Kategoria Superiore Albania",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 57,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 33,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.71
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:00",
+    "home_team_rb": "CE Carroi",
+    "away_team_rb": "Atletic Escaldes",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Andorra: Primera Divisió Andorra",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 100,
+      "over_25_pct": 67,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.06
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "16:30",
+    "home_team_rb": "Central Cordoba de Santiago",
+    "away_team_rb": "Lanus",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Argentina: Liga Profesional Argentina",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 90,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.75
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "14:00",
+    "home_team_rb": "Juventud Antoniana",
+    "away_team_rb": "Club Cipolletti",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Argentina: Primera B Metropolitana Argentina",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 40,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.55
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "15:00",
+    "home_team_rb": "Sarmiento de La Banda",
+    "away_team_rb": "CA Alvarado",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Argentina: Primera B Metropolitana Argentina",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 50,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.58
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:00",
+    "home_team_rb": "Urartu FC",
+    "away_team_rb": "Ararat Armenia",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Armenia: Premier League Armenia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 33,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.96
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "10:00",
+    "home_team_rb": "Sturm Graz",
+    "away_team_rb": "Salzburg",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Austria: Bundesliga Austria",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 33,
+      "over_25_pct": 30,
+      "btts_yes_pct": 50
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.36
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "07:30",
+    "home_team_rb": "Habay La Neuve",
+    "away_team_rb": "Union St.Gilloise U23",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Belgium: National Division 1 Belgium",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 57,
+      "over_25_pct": 64,
+      "btts_yes_pct": 35
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.73
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "09:00",
+    "home_team_rb": "K. Lierse SK",
+    "away_team_rb": "Eupen",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Belgium: Challenger Pro League Belgium",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 45,
+      "over_25_pct": 20,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.6
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "12:15",
+    "home_team_rb": "KSC Lokeren",
+    "away_team_rb": "FCV Dender EH",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Belgium: Challenger Pro League Belgium",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 38,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 33,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.46
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "13:00",
+    "home_team_rb": "Nacional Potosi",
+    "away_team_rb": "Real Potosi",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Bolivia: Primera Division Bolivia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 22,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 17,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.55
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-08",
+    "match_time_paris": "15:15",
+    "home_team_rb": "Bolivar",
+    "away_team_rb": "The Strongest",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Bolivia: Primera Division Bolivia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 40,
+      "btts_yes_pct": 67
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.49
+    },
+    "flashscore_preview_snippet": null
+  }
+]

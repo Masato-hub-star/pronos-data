@@ -1,0 +1,2508 @@
+{
+  "fetched_at": "2026-11-08T16:30:41.080429+02:00",
+  "date": "2026-11-08",
+  "source_url": "https://ratingbet.com/math-predictions/2026-11-08/",
+  "match_count": 50,
+  "matches": [
+    {
+      "match_id": "aston-villa-vs-manchester-united",
+      "home_team": "Manchester United",
+      "away_team": "Aston Villa",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:30",
+      "league": "England: English Premier League",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.21,
+            "prob_pct": 36
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.54,
+            "prob_pct": 23
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.46,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.46
+      }
+    },
+    {
+      "match_id": "rayo-vallecano-2-vs-real-sociedad-2",
+      "home_team": "Real Sociedad",
+      "away_team": "Rayo Vallecano",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:15",
+      "league": "Spain: LaLiga Spain",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.8,
+            "prob_pct": 53
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.64,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.55,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.55
+      }
+    },
+    {
+      "match_id": "getafe-vs-villarreal-2",
+      "home_team": "Villarreal",
+      "away_team": "Getafe",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "11:30",
+      "league": "Spain: LaLiga Spain",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.57,
+            "prob_pct": 53
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.88,
+            "prob_pct": 40
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.84,
+            "prob_pct": 48
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.57
+      }
+    },
+    {
+      "match_id": "celta-vigo-vs-levante-2",
+      "home_team": "Celta Vigo",
+      "away_team": "Levante",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "11:30",
+      "league": "Spain: LaLiga Spain",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.87,
+            "prob_pct": 40
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 2.01,
+            "prob_pct": 33
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.74,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.74
+      }
+    },
+    {
+      "match_id": "atletico-madrid-vs-barcelona-2",
+      "home_team": "Atletico Madrid",
+      "away_team": "Barcelona",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "14:00",
+      "league": "Spain: LaLiga Spain",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.05,
+            "prob_pct": 60
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.32,
+            "prob_pct": 50
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.31,
+            "prob_pct": 70
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.31
+      }
+    },
+    {
+      "match_id": "le-mans-vs-monaco",
+      "home_team": "Le Mans",
+      "away_team": "Monaco",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:15",
+      "league": "France: Ligue 1 France",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.71,
+            "prob_pct": 60
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.95,
+            "prob_pct": 27
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.84,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.84
+      }
+    },
+    {
+      "match_id": "le-havre-vs-lorient",
+      "home_team": "Le Havre",
+      "away_team": "Lorient",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:15",
+      "league": "France: Ligue 1 France",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.53,
+            "prob_pct": 27
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.84,
+            "prob_pct": 50
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.79,
+            "prob_pct": 40
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 1.84
+      }
+    },
+    {
+      "match_id": "brest-vs-lyon",
+      "home_team": "Brest",
+      "away_team": "Lyon",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:15",
+      "league": "France: Ligue 1 France",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.54,
+            "prob_pct": 33
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.84,
+            "prob_pct": 60
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.6,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.6
+      }
+    },
+    {
+      "match_id": "angers-vs-nice",
+      "home_team": "Angers",
+      "away_team": "Nice",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:15",
+      "league": "France: Ligue 1 France",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.06,
+            "prob_pct": 67
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.83,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.63,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 2.06
+      }
+    },
+    {
+      "match_id": "lens-vs-marseille",
+      "home_team": "Lens",
+      "away_team": "Marseille",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "13:45",
+      "league": "France: Ligue 1 France",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.34,
+            "prob_pct": 71
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.71,
+            "prob_pct": 27
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.52,
+            "prob_pct": 50
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.34
+      }
+    },
+    {
+      "match_id": "bayer-leverkusen-2-vs-fc-koln",
+      "home_team": "FC Koln",
+      "away_team": "Bayer Leverkusen",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "08:30",
+      "league": "Germany: Bundesliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.82,
+            "prob_pct": 53
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.56,
+            "prob_pct": 37
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.53,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.53
+      }
+    },
+    {
+      "match_id": "freiburg-vs-union-berlin",
+      "home_team": "Freiburg",
+      "away_team": "Union Berlin",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:30",
+      "league": "Germany: Bundesliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.49,
+            "prob_pct": 100
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.72,
+            "prob_pct": 47
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.8,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.49
+      }
+    },
+    {
+      "match_id": "hoffenheim-vs-schalke-04",
+      "home_team": "Hoffenheim",
+      "away_team": "Schalke 04",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "12:30",
+      "league": "Germany: Bundesliga Germany",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.61,
+            "prob_pct": 47
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.53,
+            "prob_pct": 37
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.58,
+            "prob_pct": 43
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.61
+      }
+    },
+    {
+      "match_id": "como-vs-inter-2",
+      "home_team": "Inter",
+      "away_team": "Como",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "11:00",
+      "league": "Italy: Serie A Italy",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.06,
+            "prob_pct": 46
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.52,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.45,
+            "prob_pct": 70
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.45
+      }
+    },
+    {
+      "match_id": "fiorentina-2-vs-juventus-2",
+      "home_team": "Fiorentina",
+      "away_team": "Juventus",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "13:45",
+      "league": "Italy: Serie A Italy",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.23,
+            "prob_pct": 47
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.94,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.67,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.67
+      }
+    },
+    {
+      "match_id": "az-alkmaar-vs-fc-groningen",
+      "home_team": "AZ Alkmaar",
+      "away_team": "FC Groningen",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:45",
+      "league": "Netherlands: Eredivisie Netherlands",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.5,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.41,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.51,
+            "prob_pct": 57
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.5
+      }
+    },
+    {
+      "match_id": "cambuur-vs-psv-eindhoven",
+      "home_team": "Cambuur",
+      "away_team": "PSV Eindhoven",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:45",
+      "league": "Netherlands: Eredivisie Netherlands",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.44,
+            "prob_pct": 53
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.26,
+            "prob_pct": 30
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.38,
+            "prob_pct": 70
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.38
+      }
+    },
+    {
+      "match_id": "fc-utrecht-vs-nec-nijmegen",
+      "home_team": "FC Utrecht",
+      "away_team": "NEC Nijmegen",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Netherlands: Eredivisie Netherlands",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.4,
+            "prob_pct": 38
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.46,
+            "prob_pct": 20
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.39,
+            "prob_pct": 73
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.39
+      }
+    },
+    {
+      "match_id": "asteras-tripolis-vs-kalamata",
+      "home_team": "Asteras Tripolis",
+      "away_team": "Kalamata",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "Greece: Super League Greece",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.03,
+            "prob_pct": 58
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.77,
+            "prob_pct": 30
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.78,
+            "prob_pct": 62
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.78
+      }
+    },
+    {
+      "match_id": "aek-athens-vs-levadiakos",
+      "home_team": "AEK Athens",
+      "away_team": "Levadiakos",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "Greece: Super League Greece",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.2,
+            "prob_pct": 67
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.6,
+            "prob_pct": 61
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.53,
+            "prob_pct": 70
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.53
+      }
+    },
+    {
+      "match_id": "iraklis-vs-panathinaikos",
+      "home_team": "Iraklis",
+      "away_team": "Panathinaikos",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:30",
+      "league": "Greece: Super League Greece",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.29,
+            "prob_pct": 73
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.68,
+            "prob_pct": 19
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.66,
+            "prob_pct": 43
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.29
+      }
+    },
+    {
+      "match_id": "atromitos-vs-ofi-crete",
+      "home_team": "OFI Crete",
+      "away_team": "Atromitos",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:30",
+      "league": "Greece: Super League Greece",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.09,
+            "prob_pct": 56
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.8,
+            "prob_pct": 23
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.75,
+            "prob_pct": 47
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 2.09
+      }
+    },
+    {
+      "match_id": "olympiacos-vs-paok-thessaloniki-fc",
+      "home_team": "Olympiacos",
+      "away_team": "PAOK Thessaloniki FC",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Greece: Super League Greece",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.62,
+            "prob_pct": 47
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 2.01,
+            "prob_pct": 63
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.75,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "U2.5",
+        "odd": 2.01
+      }
+    },
+    {
+      "match_id": "fc-nordsjaelland-vs-randers-fc",
+      "home_team": "Randers FC",
+      "away_team": "FC Nordsjaelland",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "Denmark: Superliga Denmark",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.77,
+            "prob_pct": 60
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.41,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.44,
+            "prob_pct": 53
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.77
+      }
+    },
+    {
+      "match_id": "fc-midtjylland-vs-soenderjyske",
+      "home_team": "FC Midtjylland",
+      "away_team": "Soenderjyske Fodbold",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "11:00",
+      "league": "Denmark: Superliga Denmark",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.32,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.35,
+            "prob_pct": 40
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.62,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.32
+      }
+    },
+    {
+      "match_id": "gil-vicente-vs-santa-clara",
+      "home_team": "Santa Clara",
+      "away_team": "Gil Vicente",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:30",
+      "league": "Portugal: Primeira Liga Portugal",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.39,
+            "prob_pct": 42
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.58,
+            "prob_pct": 27
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.71,
+            "prob_pct": 57
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.71
+      }
+    },
+    {
+      "match_id": "academico-viseu-vs-nacional",
+      "home_team": "Nacional",
+      "away_team": "Academico Viseu",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:30",
+      "league": "Portugal: Primeira Liga Portugal",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.55,
+            "prob_pct": 50
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.81,
+            "prob_pct": 50
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.75,
+            "prob_pct": 37
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 2.55
+      }
+    },
+    {
+      "match_id": "fc-porto-vs-vitoria-de-guimaraes",
+      "home_team": "Vitoria de Guimaraes",
+      "away_team": "FC Porto",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "12:00",
+      "league": "Portugal: Primeira Liga Portugal",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.58,
+            "prob_pct": 60
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.88,
+            "prob_pct": 17
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.83,
+            "prob_pct": 70
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.83
+      }
+    },
+    {
+      "match_id": "braga-vs-rio-ave",
+      "home_team": "Rio Ave",
+      "away_team": "Braga",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "14:30",
+      "league": "Portugal: Primeira Liga Portugal",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.53,
+            "prob_pct": 40
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.75,
+            "prob_pct": 40
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.8,
+            "prob_pct": 37
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.53
+      }
+    },
+    {
+      "match_id": "benfica-vs-estrela-da-amadora",
+      "home_team": "Estrela da Amadora",
+      "away_team": "Benfica",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "14:30",
+      "league": "Portugal: Primeira Liga Portugal",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.23,
+            "prob_pct": 93
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.37,
+            "prob_pct": 37
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.74,
+            "prob_pct": 60
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.23
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "JS Saoura",
+      "away_team": "CS Constantine",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:45",
+      "league": "Algeria: Ligue 1 Algeria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.95,
+            "prob_pct": 56
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.38,
+            "prob_pct": 70
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.55,
+            "prob_pct": 77
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.55
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "ES Ben Aknoun",
+      "away_team": "CR Belouizdad",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:45",
+      "league": "Algeria: Ligue 1 Algeria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.86,
+            "prob_pct": 75
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.55,
+            "prob_pct": 43
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.69,
+            "prob_pct": 33
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.86
+      }
+    },
+    {
+      "match_id": "gent-vs-kortrijk",
+      "home_team": "Gent",
+      "away_team": "Kortrijk",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "Belgium: Pro League Belgium",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.56,
+            "prob_pct": 56
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.72,
+            "prob_pct": 37
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.97,
+            "prob_pct": 50
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.56
+      }
+    },
+    {
+      "match_id": "genk-vs-union-st-gilloise",
+      "home_team": "Union St.Gilloise",
+      "away_team": "Genk",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "11:30",
+      "league": "Belgium: Pro League Belgium",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.62,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.59,
+            "prob_pct": 17
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.59,
+            "prob_pct": 37
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.62
+      }
+    },
+    {
+      "match_id": "st-truiden-vs-zulte-waregem",
+      "home_team": "St.Truiden",
+      "away_team": "Zulte Waregem",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "12:15",
+      "league": "Belgium: Pro League Belgium",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.78,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.53,
+            "prob_pct": 30
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.5,
+            "prob_pct": 37
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.78
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Wimborne Town",
+      "away_team": "Crawley",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "England: FA Cup England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.53,
+            "prob_pct": 17
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.63,
+            "prob_pct": 47
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.63
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Oldham",
+      "away_team": "Sheffield Wednesday",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "11:15",
+      "league": "England: FA Cup England",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.18,
+            "prob_pct": 40
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.51,
+            "prob_pct": 17
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.47,
+            "prob_pct": 50
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.47
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "FC Dinamo City",
+      "away_team": "Skenderbeu",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "Albania: Kategoria Superiore Albania",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.14,
+            "prob_pct": 47
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.65,
+            "prob_pct": 10
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.82,
+            "prob_pct": 64
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.82
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Egnatia",
+      "away_team": "Vora",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "11:30",
+      "league": "Albania: Kategoria Superiore Albania",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.33,
+            "prob_pct": 57
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.47,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.71,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.71
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "CE Carroi",
+      "away_team": "Atletic Escaldes",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Andorra: Primera Divisió Andorra",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.06,
+            "prob_pct": 100
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.38,
+            "prob_pct": 67
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.44,
+            "prob_pct": 62
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.06
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Central Cordoba de Santiago",
+      "away_team": "Lanus",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "16:30",
+      "league": "Argentina: Liga Profesional Argentina",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.75,
+            "prob_pct": 90
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.68,
+            "prob_pct": 37
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.71,
+            "prob_pct": 57
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.75
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Juventud Antoniana",
+      "away_team": "Club Cipolletti",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "14:00",
+      "league": "Argentina: Primera B Metropolitana Argentina",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.27,
+            "prob_pct": 40
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.34,
+            "prob_pct": 20
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.55,
+            "prob_pct": 73
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.55
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Sarmiento de La Banda",
+      "away_team": "CA Alvarado",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "15:00",
+      "league": "Argentina: Primera B Metropolitana Argentina",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.29,
+            "prob_pct": 50
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "under": {
+            "odd": 1.37,
+            "prob_pct": 20
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "no": {
+            "odd": 1.58,
+            "prob_pct": 53
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "No",
+        "odd": 1.58
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Urartu FC",
+      "away_team": "Ararat Armenia",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Armenia: Premier League Armenia",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.96,
+            "prob_pct": 60
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.76,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.64,
+            "prob_pct": 47
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W2",
+        "odd": 1.96
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Sturm Graz",
+      "away_team": "Salzburg",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "10:00",
+      "league": "Austria: Bundesliga Austria",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.24,
+            "prob_pct": 33
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.37,
+            "prob_pct": 30
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.36,
+            "prob_pct": 50
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.36
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Habay La Neuve",
+      "away_team": "Union St.Gilloise U23",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "07:30",
+      "league": "Belgium: National Division 1 Belgium",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 2.25,
+            "prob_pct": 57
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.73,
+            "prob_pct": 64
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.57,
+            "prob_pct": 35
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Total",
+        "outcome": "O2.5",
+        "odd": 1.73
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "K. Lierse SK",
+      "away_team": "Eupen",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "09:00",
+      "league": "Belgium: Challenger Pro League Belgium",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": 1.58,
+            "prob_pct": 45
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.56,
+            "prob_pct": 20
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.6,
+            "prob_pct": 47
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.6
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "KSC Lokeren",
+      "away_team": "FCV Dender EH",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "12:15",
+      "league": "Belgium: Challenger Pro League Belgium",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.38,
+            "prob_pct": 38
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.55,
+            "prob_pct": 33
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.46,
+            "prob_pct": 63
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.46
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Nacional Potosi",
+      "away_team": "Real Potosi",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "13:00",
+      "league": "Bolivia: Primera Division Bolivia",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 2.41,
+            "prob_pct": 22
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.67,
+            "prob_pct": 17
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.55,
+            "prob_pct": 47
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "BTTS",
+        "outcome": "Yes",
+        "odd": 1.55
+      }
+    },
+    {
+      "match_id": "",
+      "home_team": "Bolivar",
+      "away_team": "The Strongest",
+      "date": "2026-11-08",
+      "time_utc": "",
+      "time_paris": "15:15",
+      "league": "Bolivia: Primera Division Bolivia",
+      "markets": {
+        "result": {
+          "W1": {
+            "odd": 1.49,
+            "prob_pct": 73
+          },
+          "X": {
+            "odd": null,
+            "prob_pct": null
+          },
+          "W2": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "total_25": {
+          "over": {
+            "odd": 1.33,
+            "prob_pct": 40
+          },
+          "under": {
+            "odd": null,
+            "prob_pct": null
+          }
+        },
+        "btts": {
+          "yes": {
+            "odd": 1.43,
+            "prob_pct": 67
+          },
+          "no": {
+            "odd": null,
+            "prob_pct": null
+          }
+        }
+      },
+      "best_tip": {
+        "market": "Result",
+        "outcome": "W1",
+        "odd": 1.49
+      }
+    }
+  ]
+}
