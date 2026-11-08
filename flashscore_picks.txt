@@ -42,7 +42,7 @@ Aucune des deux équipes ne s’est montrée prolifique devant le but cette sais
 URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/monaco-2PIvr8o4/
 ---
 
-19:00 | FOOTBALL | FAR Rabat - Difaa El Jadidi
+19:01 | FOOTBALL | FAR Rabat - Difaa El Jadidi
 URL: https://www.flashscore.fr/match/football/far-rabat-CMn7Clai/jadida-Iui2yZzh/
 ---
 
@@ -270,5 +270,9 @@ URL: https://www.flashscore.fr/match/football/danemark-QVV4GL57/france-no6QnTnJ/
 
 20:00 | FOOTBALL | Côte d'Ivoire - Gambie
 URL: https://www.flashscore.fr/match/football/cote-d-ivoire-G2FRjBgn/gambie-hADVg0uE/
+---
+
+01:30 | FOOTBALL | Curaçao - Panama
+URL: https://www.flashscore.fr/match/football/curacao-bLLGpOkQ/panama-OWKqbCfi/
 ---
 
