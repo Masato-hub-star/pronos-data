@@ -1,19 +1,3 @@
-15:00 | FOOTBALL | Stade Rennais - LOSC
-URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/rennes-d2nnj1IE/
----
-
-17:15 | FOOTBALL | Stade Brestois - Olympique Lyonnais
-Flashscore conclusion:
-Compte tenu de la propension récente de Brest à encaisser des buts après la mi-temps, Lyon pourrait marquer en seconde période ici.Auteur : Alex BowmerTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/lyon-2akflumR/
----
-
-21:32 | FOOTBALL | RC Lens - Olympique de Marseille
-Flashscore conclusion:
-On pense que les deux équipes pourraient marquer compte tenu de la tendance de Lens à concéder des buts à domicile.Auteur : Chris WilsonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/lens-IBmris38/marseille-SblU3Hee/
----
-
 20:45 | FOOTBALL | Italie - France
 URL: https://www.flashscore.fr/match/football/france-QkGeVG1n/italie-hlKvieGH/
 ---
@@ -30,42 +14,28 @@ URL: https://www.flashscore.fr/match/football/france-QkGeVG1n/turquie-QeijuHo5/
 URL: https://www.flashscore.fr/match/football/angleterre-zkytYbUh/france-ShmZavVI/
 ---
 
-17:15 | FOOTBALL | SCO Angers - OGC Nice
-Flashscore conclusion:
-Nice fait partie des équipes les plus en forme du championnat, tandis qu’Angers est en perte de vitesse. On pense donc à une victoire de Nice ici.Auteur : Peter StavrinouTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/nice-YagoQJpq/
+18:00 | FOOTBALL | France -19 - Norvège -19
+URL: https://www.flashscore.fr/match/football/france-YL4McSPu/norvege-p0OyTrgi/
 ---
 
-17:15 | FOOTBALL | Le Mans - AS Monaco
-Flashscore conclusion:
-Aucune des deux équipes ne s’est montrée prolifique devant le but cette saison. On pense à moins de 2,5 buts dans le match.Auteur : Tom PennTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/monaco-2PIvr8o4/
+17:00 | FOOTBALL | France -20 - Danemark -20
+URL: https://www.flashscore.fr/match/football/danemark-QVV4GL57/france-no6QnTnJ/
 ---
 
-19:01 | FOOTBALL | FAR Rabat - Difaa El Jadidi
-URL: https://www.flashscore.fr/match/football/far-rabat-CMn7Clai/jadida-Iui2yZzh/
----
-
-17:32 | FOOTBALL | Manchester Utd - Aston Villa
-Flashscore conclusion:
-Comme aucune de ces deux équipes ne fait preuve d’une grande régularité dans ses performances, on pense à un match avec les deux équipes qui marquent et plus de 3,5 buts ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/aston-villa-W00wmLO0/manchester-utd-ppjDR086/
----
-
-21:35 | FOOTBALL | Fiorentina - Juventus
-Flashscore conclusion:
-Comme les deux équipes ont marqué lors de chacun des huit derniers matchs de championnat de la Fiorentina, il se peut que les deux équipes marquent ici.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/fiorentina-Q3A3IbXH/juventus-C06aJvIB/
----
-
-21:01 | FOOTBALL | Atl. Madrid - Barcelone
-Flashscore conclusion:
-Les deux équipes affichent une excellente forme à l’approche de cette rencontre et on se dit qu'un match nul est envisageable.Auteur : Nathan EvansTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/atl-madrid-jaarqpLQ/barcelone-SKbpVP5K/
+18:00 | FOOTBALL | Turquie - Belgique
+URL: https://www.flashscore.fr/match/football/belgique-GbB957na/turquie-QeijuHo5/
 ---
 
 20:45 | FOOTBALL | République Tchèque - Espagne
 URL: https://www.flashscore.fr/match/football/espagne-bLyo6mco/republique-tcheque-6LHwBDGU/
+---
+
+13:00 | FOOTBALL | Singapour - Paraguay
+URL: https://www.flashscore.fr/match/football/paraguay-YaNlqp6j/singapoure-G0dqs0hU/
+---
+
+15:30 | FOOTBALL | Arabie Saoudite - Corée du Sud
+URL: https://www.flashscore.fr/match/football/arabie-saoudite-biSY8ox4/coree-du-sud-K6Gs7P6G/
 ---
 
 17:00 | FOOTBALL | Tunisie - Libye
@@ -80,18 +50,20 @@ URL: https://www.flashscore.fr/match/football/maroc-IDKYO3R8/niger-Eevd7UNo/
 URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/espagne-bLyo6mco/
 ---
 
-15:02 | FOOTBALL | Sunderland - Chelsea
-URL: https://www.flashscore.fr/match/football/chelsea-4fGZN2oK/sunderland-WSzc94ws/
----
-
-18:00 | FOOTBALL | Inter - Côme
-Flashscore conclusion:
-Les buts sont généralement quasiment garantis lorsque ces deux équipes sont sur la pelouse. On pense naturellement à plus de 3,5 buts.Auteur : Tom PennTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/come-ttyLthOA/inter-Iw7eKK25/
----
-
 07:00 | FOOTBALL | Nouvelle-Zélande - Inde
 URL: https://www.flashscore.fr/match/football/inde-A1UUGpep/nouvelle-zelande-rLctHkpU/
+---
+
+20:00 | FOOTBALL | Côte d'Ivoire - Gambie
+URL: https://www.flashscore.fr/match/football/cote-d-ivoire-G2FRjBgn/gambie-hADVg0uE/
+---
+
+01:30 | FOOTBALL | Curaçao - Panama
+URL: https://www.flashscore.fr/match/football/curacao-bLLGpOkQ/panama-OWKqbCfi/
+---
+
+17:00 | FOOTBALL | Cap-Vert - Libéria
+URL: https://www.flashscore.fr/match/football/cap-vert-MocyWdm7/liberia-UZzaxY9t/
 ---
 
 17:30 | BASKETBALL | France F - Grande Bretagne F
@@ -132,12 +104,6 @@ URL: https://www.flashscore.fr/match/football/senegal-hOIsJLJr/soudan-OGhP26xH/
 
 20:45 | FOOTBALL | Angleterre - Croatie
 URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/croatie-K8aznggo/
----
-
-17:15 | FOOTBALL | Le Havre - FC Lorient
-Flashscore conclusion:
-Compte tenu du chaos qui règne en coulisses au Havre, il est difficile d’imaginer le club réagir positivement.  Une victoire de Lorient semble donc envisageable.Auteur : Ben OlawumiTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/lorient-jgNAYRGi/
 ---
 
 20:45 | FOOTBALL | ESTAC - Le Havre
@@ -254,29 +220,5 @@ URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/marseil
 
 19:00 | HOCKEY | Anglet - Gap
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/gap-2TtYxh3I/
----
-
-18:00 | FOOTBALL | France -19 - Norvège -19
-URL: https://www.flashscore.fr/match/football/france-YL4McSPu/norvege-p0OyTrgi/
----
-
-18:00 | FOOTBALL | Turquie - Belgique
-URL: https://www.flashscore.fr/match/football/belgique-GbB957na/turquie-QeijuHo5/
----
-
-17:00 | FOOTBALL | France -20 - Danemark -20
-URL: https://www.flashscore.fr/match/football/danemark-QVV4GL57/france-no6QnTnJ/
----
-
-20:00 | FOOTBALL | Côte d'Ivoire - Gambie
-URL: https://www.flashscore.fr/match/football/cote-d-ivoire-G2FRjBgn/gambie-hADVg0uE/
----
-
-01:30 | FOOTBALL | Curaçao - Panama
-URL: https://www.flashscore.fr/match/football/curacao-bLLGpOkQ/panama-OWKqbCfi/
----
-
-13:00 | FOOTBALL | Singapour - Paraguay
-URL: https://www.flashscore.fr/match/football/paraguay-YaNlqp6j/singapoure-G0dqs0hU/
 ---
 
