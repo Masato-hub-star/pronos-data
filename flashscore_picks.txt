@@ -56,6 +56,10 @@ URL: https://www.flashscore.fr/match/football/maroc-IDKYO3R8/niger-Eevd7UNo/
 URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/espagne-bLyo6mco/
 ---
 
+13:30 | FOOTBALL | Manchester City - Fulham
+URL: https://www.flashscore.fr/match/football/fulham-69ZiU2Om/manchester-city-Wtn9Stg0/
+---
+
 07:00 | FOOTBALL | Nouvelle-Zélande - Inde
 URL: https://www.flashscore.fr/match/football/inde-A1UUGpep/nouvelle-zelande-rLctHkpU/
 ---
@@ -66,10 +70,6 @@ URL: https://www.flashscore.fr/match/football/cote-d-ivoire-G2FRjBgn/gambie-hADV
 
 01:30 | FOOTBALL | Curaçao - Panama
 URL: https://www.flashscore.fr/match/football/curacao-bLLGpOkQ/panama-OWKqbCfi/
----
-
-17:00 | FOOTBALL | Cap-Vert - Libéria
-URL: https://www.flashscore.fr/match/football/cap-vert-MocyWdm7/liberia-UZzaxY9t/
 ---
 
 17:30 | BASKETBALL | France F - Grande Bretagne F
@@ -148,14 +148,6 @@ URL: https://www.flashscore.fr/match/football/lorient-jgNAYRGi/rennes-d2nnj1IE/
 
 20:45 | FOOTBALL | Olympique de Marseille - Le Mans
 URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/marseille-SblU3Hee/
----
-
-20:05 | HOCKEY | Chamonix Mont-Blanc - Grenoble
-URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/grenoble-fas8xYmC/
----
-
-20:30 | HOCKEY | Angers - Rouen
-URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/rouen-xYpMeMxS/
 ---
 
 20:00 | HOCKEY | Briancon - Gap
