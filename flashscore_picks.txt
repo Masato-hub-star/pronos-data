@@ -16,8 +16,16 @@ URL: https://www.flashscore.fr/match/football/france-QkGeVG1n/turquie-QeijuHo5/
 URL: https://www.flashscore.fr/match/football/angleterre-zkytYbUh/france-ShmZavVI/
 ---
 
-18:00 | FOOTBALL | France -19 - Norvège -19
-URL: https://www.flashscore.fr/match/football/france-YL4McSPu/norvege-p0OyTrgi/
+17:15 | FOOTBALL | OGC Nice - PSG
+URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/psg-CjhkPw0k/
+---
+
+20:45 | FOOTBALL | RC Lens - Toulouse
+URL: https://www.flashscore.fr/match/football/lens-IBmris38/toulouse-MLmY2yB1/
+---
+
+20:45 | FOOTBALL | LOSC - Olympique Lyonnais
+URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/lyon-2akflumR/
 ---
 
 17:00 | FOOTBALL | France -20 - Danemark -20
@@ -36,14 +44,6 @@ Les matchs de l’Espagne ont été prolifiques durant cette édition. Compte te
 URL: https://www.flashscore.fr/match/football/espagne-bLyo6mco/republique-tcheque-6LHwBDGU/
 ---
 
-13:00 | FOOTBALL | Singapour - Paraguay
-URL: https://www.flashscore.fr/match/football/paraguay-YaNlqp6j/singapoure-G0dqs0hU/
----
-
-15:30 | FOOTBALL | Arabie Saoudite - Corée du Sud
-URL: https://www.flashscore.fr/match/football/arabie-saoudite-biSY8ox4/coree-du-sud-K6Gs7P6G/
----
-
 17:00 | FOOTBALL | Tunisie - Libye
 URL: https://www.flashscore.fr/match/football/libye-zm8nIuZl/tunisie-QqZVYk95/
 ---
@@ -60,20 +60,20 @@ URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/espagne-bLyo6m
 URL: https://www.flashscore.fr/match/football/fulham-69ZiU2Om/manchester-city-Wtn9Stg0/
 ---
 
+18:30 | FOOTBALL | Newcastle - Arsenal
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/newcastle-p6ahwuwJ/
+---
+
+21:00 | FOOTBALL | Real Madrid - Celta Vigo
+URL: https://www.flashscore.fr/match/football/celta-vigo-8pvUZFhf/real-madrid-W8mj7MDD/
+---
+
 07:00 | FOOTBALL | Nouvelle-Zélande - Inde
 URL: https://www.flashscore.fr/match/football/inde-A1UUGpep/nouvelle-zelande-rLctHkpU/
 ---
 
 20:00 | FOOTBALL | Côte d'Ivoire - Gambie
 URL: https://www.flashscore.fr/match/football/cote-d-ivoire-G2FRjBgn/gambie-hADVg0uE/
----
-
-01:30 | FOOTBALL | Curaçao - Panama
-URL: https://www.flashscore.fr/match/football/curacao-bLLGpOkQ/panama-OWKqbCfi/
----
-
-17:30 | BASKETBALL | France F - Grande Bretagne F
-URL: https://www.flashscore.fr/match/basket/france-femUX0vr/grande-bretagne-fuFON8m4/
 ---
 
 21:10 | RUGBY | France - Afrique du Sud
@@ -90,6 +90,10 @@ URL: https://www.flashscore.fr/match/football/algerie-nc87N1BR/togo-noW84S74/
 
 14:00 | BASKETBALL | Ukraine F - France F
 URL: https://www.flashscore.fr/match/basket/france-femUX0vr/ukraine-EXPP6TmH/
+---
+
+21:10 | RUGBY | France - Argentine
+URL: https://www.flashscore.fr/match/rugby/argentina-lrM6RMBU/france-GE9w8L42/
 ---
 
 16:00 | FOOTBALL | Ghana - Somalie
@@ -116,18 +120,6 @@ URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/croatie-K8azng
 
 20:45 | FOOTBALL | ESTAC - Le Havre
 URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/troyes-fsfAHubD/
----
-
-17:15 | FOOTBALL | OGC Nice - PSG
-URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/psg-CjhkPw0k/
----
-
-20:45 | FOOTBALL | RC Lens - Toulouse
-URL: https://www.flashscore.fr/match/football/lens-IBmris38/toulouse-MLmY2yB1/
----
-
-20:45 | FOOTBALL | LOSC - Olympique Lyonnais
-URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/lyon-2akflumR/
 ---
 
 20:45 | FOOTBALL | AS Monaco - AJ Auxerre
@@ -220,9 +212,5 @@ URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/marseil
 
 19:00 | HOCKEY | Anglet - Gap
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/gap-2TtYxh3I/
----
-
-18:30 | FOOTBALL | Newcastle - Arsenal
-URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/newcastle-p6ahwuwJ/
 ---
 
