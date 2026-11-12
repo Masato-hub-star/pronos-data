@@ -246,3 +246,19 @@ URL: https://www.flashscore.fr/match/football/liverpool-lId4TMwf/manchester-utd-
 URL: https://www.flashscore.fr/match/football/indonesie-88ErHiT9/jordanie-vNcmJoU2/
 ---
 
+15:45 | FOOTBALL | Qatar - Australie
+URL: https://www.flashscore.fr/match/football/australie-xSrf6qMM/qatar-zqzHL77i/
+---
+
+01:00 | FOOTBALL | Colombie - Chili
+URL: https://www.flashscore.fr/match/football/chili-KUCG35cM/colombie-G02s4PCS/
+---
+
+16:00 | FOOTBALL | Fontenay - Clermont Foot
+URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/fontenay-UyQmTLBs/
+---
+
+20:45 | FOOTBALL | Stade Brestois - Paris FC
+URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/paris-fc-0OEHEprs/
+---
+
