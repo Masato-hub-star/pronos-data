@@ -28,7 +28,7 @@ URL: https://www.flashscore.fr/match/football/lens-IBmris38/toulouse-MLmY2yB1/
 URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/lyon-2akflumR/
 ---
 
-17:00 | FOOTBALL | France -20 - Danemark -20
+16:58 | FOOTBALL | France -20 - Danemark -20
 URL: https://www.flashscore.fr/match/football/danemark-QVV4GL57/france-no6QnTnJ/
 ---
 
@@ -104,7 +104,7 @@ URL: https://www.flashscore.fr/match/football/ghana-nNBjHale/somalie-Aiu9mqIL/
 URL: https://www.flashscore.fr/match/football/ouzbekistan-EZYKKRMc/russie-hrgrswHh/
 ---
 
-17:00 | FOOTBALL | RD Congo - Sierra Leone
+17:01 | FOOTBALL | RD Congo - Sierra Leone
 URL: https://www.flashscore.fr/match/football/dr-congo-phn9mm8H/sierra-leone-0W8SXIIf/
 ---
 
@@ -212,5 +212,21 @@ URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/marseil
 
 19:00 | HOCKEY | Anglet - Gap
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/gap-2TtYxh3I/
+---
+
+12:30 | FOOTBALL | Juventus - Venise
+URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/venise-MkPmVv50/
+---
+
+14:00 | FOOTBALL | Barcelone - Villarreal
+URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/villarreal-lUatW5jE/
+---
+
+01:30 | FOOTBALL | Curaçao - Panama
+URL: https://www.flashscore.fr/match/football/curacao-bLLGpOkQ/panama-OWKqbCfi/
+---
+
+16:00 | FOOTBALL | Irak - Liban
+URL: https://www.flashscore.fr/match/football/irak-K8aAGt6r/liban-jHmbM6XM/
 ---
 
