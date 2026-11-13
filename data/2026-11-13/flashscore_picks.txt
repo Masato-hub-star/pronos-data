@@ -36,17 +36,17 @@ URL: https://www.flashscore.fr/match/football/australie-xSrf6qMM/qatar-zqzHL77i/
 URL: https://www.flashscore.fr/match/football/afrique-du-sud-W2ijYvlr/kenya-CIAJw1QK/
 ---
 
-20:45 | FOOTBALL | Écosse - Macédoine du Nord
+21:32 | FOOTBALL | Écosse - Macédoine du Nord
 Flashscore conclusion:
 La mauvaise forme des deux équipes peut laisser envisager moins de 2,5 buts ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/ecosse-fZRU25WH/macedoine-du-nord-GrTQ3oHB/
 ---
 
-18:09 | FOOTBALL | Tunisie - Libye
+19:01 | FOOTBALL | Tunisie - Libye
 URL: https://www.flashscore.fr/match/football/libye-zm8nIuZl/tunisie-QqZVYk95/
 ---
 
-21:00 | FOOTBALL | Maroc - Niger
+21:05 | FOOTBALL | Maroc - Niger
 URL: https://www.flashscore.fr/match/football/maroc-IDKYO3R8/niger-Eevd7UNo/
 ---
 
@@ -84,7 +84,7 @@ URL: https://www.flashscore.fr/match/football/liverpool-lId4TMwf/manchester-utd-
 URL: https://www.flashscore.fr/match/football/cap-vert-MocyWdm7/liberia-UZzaxY9t/
 ---
 
-21:10 | RUGBY | France - Afrique du Sud
+21:11 | RUGBY | France - Afrique du Sud
 URL: https://www.flashscore.fr/match/rugby/afrique-du-sud-bHmPcrZk/france-GE9w8L42/
 ---
 
@@ -222,7 +222,7 @@ URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/marseil
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/gap-2TtYxh3I/
 ---
 
-20:45 | FOOTBALL | Slovénie - Suisse
+21:39 | FOOTBALL | Slovénie - Suisse
 Flashscore conclusion:
 La Slovénie devrait livrer une belle bataille face à un adversaire de qualité. Nous imaginons donc une victoire de la Suisse par un but d’écart.Auteur : Aaron MurphyTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/slovenie-tfMf3PoO/suisse-rHJ2vy1B/
@@ -250,5 +250,55 @@ URL: https://www.flashscore.fr/match/football/autriche-naHiWdnt/irlande-Gfyqk1aG
 
 17:15 | FOOTBALL | SCO Angers - RC Lens
 URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lens-IBmris38/
+---
+
+21:33 | FOOTBALL | Serbie - Allemagne
+URL: https://www.flashscore.fr/match/football/allemagne-ptQide1O/serbie-8Kl6iq0i/
+---
+
+20:45 | FOOTBALL | Portugal - Danemark
+Flashscore conclusion:
+Le Portugal a inscrit au moins deux buts lors de chacun de ses trois derniers matchs, tandis que les récentes rencontres du Danemark ont également été riches en buts. On envisage donc plus de 3,5 buts ici.Auteur : John PenningtonTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/danemark-0KUdxQVi/portugal-WvJrjFVN/
+---
+
+20:45 | FOOTBALL | Le Havre - Strasbourg
+URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/strasbourg-nP6UzIU1/
+---
+
+20:45 | FOOTBALL | Le Mans - LOSC
+URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/lille-pfDZL71o/
+---
+
+20:45 | FOOTBALL | OGC Nice - ESTAC
+URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/troyes-fsfAHubD/
+---
+
+20:45 | FOOTBALL | PSG - FC Lorient
+URL: https://www.flashscore.fr/match/football/lorient-jgNAYRGi/psg-CjhkPw0k/
+---
+
+20:00 | HOCKEY | Rouen - Girondins de Bordeaux
+URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/rouen-xYpMeMxS/
+---
+
+20:00 | HOCKEY | Gap - Amiens
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/gap-2TtYxh3I/
+---
+
+20:00 | HOCKEY | Nice - Olympique de Marseille
+URL: https://www.flashscore.fr/match/hockey/marseille-nkohUngl/nice-AkAAP4QB/
+---
+
+20:05 | HOCKEY | Chamonix Mont-Blanc - Briancon
+URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/chamonix-mont-blanc-byLLnpOd/
+---
+
+20:15 | HOCKEY | Grenoble - Anglet
+URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
+---
+
+20:30 | HOCKEY | Angers - Cergy-Pontoise
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
 ---
 
