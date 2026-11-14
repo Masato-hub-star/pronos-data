@@ -88,7 +88,7 @@ URL: https://www.flashscore.fr/match/football/iran-xrRx85iA/palestine-raIKZdDJ/
 URL: https://www.flashscore.fr/match/basket/france-femUX0vr/luxembourg-jJOFOJ1s/
 ---
 
-20:00 | FOOTBALL | Algérie - Togo
+21:55 | FOOTBALL | Algérie - Togo
 URL: https://www.flashscore.fr/match/football/algerie-nc87N1BR/togo-noW84S74/
 ---
 
@@ -274,5 +274,25 @@ URL: https://www.flashscore.fr/match/football/ghana-nNBjHale/somalie-Aiu9mqIL/
 
 16:30 | FOOTBALL | Arabie Saoudite - Ouzbékistan
 URL: https://www.flashscore.fr/match/football/arabie-saoudite-biSY8ox4/ouzbekistan-EZYKKRMc/
+---
+
+21:00 | FOOTBALL | RB Leipzig - RC Lens
+URL: https://www.flashscore.fr/match/football/lens-IBmris38/rb-leipzig-KbS1suSm/
+---
+
+21:00 | FOOTBALL | Real Madrid - PSV
+URL: https://www.flashscore.fr/match/football/psv-M9UEHJWi/real-madrid-W8mj7MDD/
+---
+
+17:00 | FOOTBALL | Sierra Leone - RD Congo
+URL: https://www.flashscore.fr/match/football/dr-congo-phn9mm8H/sierra-leone-0W8SXIIf/
+---
+
+17:00 | FOOTBALL | Jordanie - Australie
+URL: https://www.flashscore.fr/match/football/australie-xSrf6qMM/jordanie-vNcmJoU2/
+---
+
+20:45 | FOOTBALL | Olympique Lyonnais - AS Monaco
+URL: https://www.flashscore.fr/match/football/lyon-2akflumR/monaco-2PIvr8o4/
 ---
 
