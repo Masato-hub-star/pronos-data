@@ -256,3 +256,11 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
 ---
 
+14:00 | FOOTBALL | Soudan - Sénégal
+URL: https://www.flashscore.fr/match/football/senegal-hOIsJLJr/soudan-OGhP26xH/
+---
+
+17:15 | FOOTBALL | Toulouse - Stade Rennais
+URL: https://www.flashscore.fr/match/football/rennes-d2nnj1IE/toulouse-MLmY2yB1/
+---
+
