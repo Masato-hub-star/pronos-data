@@ -1,7 +1,3 @@
-18:30 | FOOTBALL | France -21 - Italie -21
-URL: https://www.flashscore.fr/match/football/france-ShmZavVI/italie-8jmNWdEB/
----
-
 20:45 | FOOTBALL | France - Turquie
 Flashscore conclusion:
 La forme de la Turquie dans cette édition et sa tendance à démarrer lentement nous poussent à ce pronostic : France/France sur le marché mi-temps/fin de match.Auteur : Chris WilsonTraduit à l'aide de l'IA
@@ -28,18 +24,28 @@ URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/lyon-2akflumR/
 URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/marseille-SblU3Hee/
 ---
 
-16:31 | FOOTBALL | Qatar - Australie
-URL: https://www.flashscore.fr/match/football/australie-xSrf6qMM/qatar-zqzHL77i/
+18:00 | FOOTBALL | France -19 - Irlande -19
+URL: https://www.flashscore.fr/match/football/france-YL4McSPu/irlande-hvJFgOgH/
 ---
 
-17:00 | FOOTBALL | Afrique du Sud - Kenya
-URL: https://www.flashscore.fr/match/football/afrique-du-sud-W2ijYvlr/kenya-CIAJw1QK/
----
-
-21:32 | FOOTBALL | Écosse - Macédoine du Nord
+20:45 | FOOTBALL | Suède - Bosnie-Herzégovine
 Flashscore conclusion:
-La mauvaise forme des deux équipes peut laisser envisager moins de 2,5 buts ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/ecosse-fZRU25WH/macedoine-du-nord-GrTQ3oHB/
+Compte tenu des entames de match rapides de la Suède récemment, un but à domicile dans les 20 premières minutes est envisageable ici.Auteur : Alex BowmerTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/bosnie-herzegovine-fqe7WYTr/suede-OQyqbHWB/
+---
+
+22:30 | FOOTBALL | Haïti - États-Unis
+URL: https://www.flashscore.fr/match/football/etats-unis-fuitL4CF/haiti-nk4v10Z1/
+---
+
+02:00 | FOOTBALL | Jamaique - Mexique
+URL: https://www.flashscore.fr/match/football/jamaique-CWmDb3zj/mexique-O6iHcNkd/
+---
+
+20:45 | FOOTBALL | Espagne - Angleterre
+Flashscore conclusion:
+Au vu des dernières confrontations, on imagine voir les deux équipes marquer et plus de 2,5 buts ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/espagne-bLyo6mco/
 ---
 
 19:01 | FOOTBALL | Tunisie - Libye
@@ -48,12 +54,6 @@ URL: https://www.flashscore.fr/match/football/libye-zm8nIuZl/tunisie-QqZVYk95/
 
 23:01 | FOOTBALL | Maroc - Niger
 URL: https://www.flashscore.fr/match/football/maroc-IDKYO3R8/niger-Eevd7UNo/
----
-
-20:45 | FOOTBALL | Espagne - Angleterre
-Flashscore conclusion:
-Au vu des dernières confrontations, on imagine voir les deux équipes marquer et plus de 2,5 buts ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/angleterre-j9N9ZNFA/espagne-bLyo6mco/
 ---
 
 13:30 | FOOTBALL | Manchester City - Fulham
@@ -80,12 +80,8 @@ URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/villarreal-lUat
 URL: https://www.flashscore.fr/match/football/liverpool-lId4TMwf/manchester-utd-ppjDR086/
 ---
 
-17:00 | FOOTBALL | Cap-Vert - Libéria
-URL: https://www.flashscore.fr/match/football/cap-vert-MocyWdm7/liberia-UZzaxY9t/
----
-
-21:11 | RUGBY | France - Afrique du Sud
-URL: https://www.flashscore.fr/match/rugby/afrique-du-sud-bHmPcrZk/france-GE9w8L42/
+16:00 | FOOTBALL | Palestine - Iran
+URL: https://www.flashscore.fr/match/football/iran-xrRx85iA/palestine-raIKZdDJ/
 ---
 
 18:00 | BASKETBALL | Luxembourg F - France F
@@ -104,18 +100,6 @@ URL: https://www.flashscore.fr/match/basket/france-femUX0vr/ukraine-EXPP6TmH/
 URL: https://www.flashscore.fr/match/rugby/argentina-lrM6RMBU/france-GE9w8L42/
 ---
 
-16:05 | FOOTBALL | Irak - Liban
-URL: https://www.flashscore.fr/match/football/irak-K8aAGt6r/liban-jHmbM6XM/
----
-
-19:00 | FOOTBALL | Jordanie - Indonésie
-URL: https://www.flashscore.fr/match/football/indonesie-88ErHiT9/jordanie-vNcmJoU2/
----
-
-01:00 | FOOTBALL | Colombie - Chili
-URL: https://www.flashscore.fr/match/football/chili-KUCG35cM/colombie-G02s4PCS/
----
-
 16:00 | FOOTBALL | Fontenay - Clermont Foot
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/fontenay-UyQmTLBs/
 ---
@@ -124,6 +108,28 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/fontenay-UyQmTLB
 Flashscore conclusion:
 Les hôtes sont logiquement largement favoris. Compte tenu des difficultés du Pays de Galles à l’extérieur, une victoire de la Norvège sans encaisser de but est envisageable ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/norvege-8rP6JO0H/pays-de-galles-YcUP0Nqp/
+---
+
+20:45 | FOOTBALL | Autriche - Irlande
+Flashscore conclusion:
+Un point conviendrait probablement aux deux sélections et, au vu de l’historique récent des affrontements, un nouveau match nul semble encore plus envisageable.Auteur : Ben OlawumiTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/autriche-naHiWdnt/irlande-Gfyqk1aG/
+---
+
+20:45 | FOOTBALL | Portugal - Danemark
+Flashscore conclusion:
+Le Portugal a inscrit au moins deux buts lors de chacun de ses trois derniers matchs, tandis que les récentes rencontres du Danemark ont également été riches en buts. On envisage donc plus de 3,5 buts ici.Auteur : John PenningtonTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/danemark-0KUdxQVi/portugal-WvJrjFVN/
+---
+
+20:45 | FOOTBALL | Croatie - République Tchèque
+Flashscore conclusion:
+Le bilan largement favorable de la Croatie dans les confrontations est difficile à ignorer, ce qui fait d’une victoire à domicile un pronostic envisageable ici.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
+URL: https://www.flashscore.fr/match/football/croatie-K8aznggo/republique-tcheque-6LHwBDGU/
+---
+
+00:00 | FOOTBALL | Panama - Curaçao
+URL: https://www.flashscore.fr/match/football/curacao-bLLGpOkQ/panama-OWKqbCfi/
 ---
 
 20:45 | FOOTBALL | ESTAC - Le Havre
@@ -150,24 +156,28 @@ URL: https://www.flashscore.fr/match/football/lorient-jgNAYRGi/rennes-d2nnj1IE/
 URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/paris-fc-0OEHEprs/
 ---
 
-20:00 | HOCKEY | Briancon - Gap
-URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/gap-2TtYxh3I/
+17:15 | FOOTBALL | SCO Angers - RC Lens
+URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lens-IBmris38/
 ---
 
-20:00 | HOCKEY | Nice - Chamonix Mont-Blanc
-URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/nice-AkAAP4QB/
+20:45 | FOOTBALL | Le Havre - Strasbourg
+URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/strasbourg-nP6UzIU1/
 ---
 
-20:15 | HOCKEY | Olympique de Marseille - Grenoble
-URL: https://www.flashscore.fr/match/hockey/grenoble-fas8xYmC/marseille-nkohUngl/
+20:45 | FOOTBALL | Le Mans - LOSC
+URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/lille-pfDZL71o/
 ---
 
-20:30 | HOCKEY | Cergy-Pontoise - Amiens
-URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/cergy-pontoise-CK87QfVF/
+20:45 | FOOTBALL | OGC Nice - ESTAC
+URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/troyes-fsfAHubD/
 ---
 
-20:30 | HOCKEY | Girondins de Bordeaux - Angers
-URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/bordeaux-n9V6xiyI/
+20:45 | FOOTBALL | PSG - FC Lorient
+URL: https://www.flashscore.fr/match/football/lorient-jgNAYRGi/psg-CjhkPw0k/
+---
+
+15:00 | FOOTBALL | AJ Auxerre - Olympique de Marseille
+URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/marseille-SblU3Hee/
 ---
 
 20:30 | HOCKEY | Anglet - Angers
@@ -222,62 +232,6 @@ URL: https://www.flashscore.fr/match/hockey/chamonix-mont-blanc-byLLnpOd/marseil
 URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/gap-2TtYxh3I/
 ---
 
-21:39 | FOOTBALL | Slovénie - Suisse
-Flashscore conclusion:
-La Slovénie devrait livrer une belle bataille face à un adversaire de qualité. Nous imaginons donc une victoire de la Suisse par un but d’écart.Auteur : Aaron MurphyTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/slovenie-tfMf3PoO/suisse-rHJ2vy1B/
----
-
-03:00 | FOOTBALL | Guatemala - Canada
-URL: https://www.flashscore.fr/match/football/canada-x4toKORL/guatemala-8KhCLQs3/
----
-
-11:15 | FOOTBALL | Japon - Brésil
-Flashscore conclusion:
-La jeunesse du Brésil, associée aux talents du Japon, devrait offrir un match divertissant. On peut imaginer voir les deux équipes marquer et plus de 2,5 buts.Auteur : Peter StavrinouTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/bresil-I9l9aqLq/japon-ULXPdOUj/
----
-
-20:00 | FOOTBALL | Égypte - Malawi
-URL: https://www.flashscore.fr/match/football/egypte-bejDn7NN/malawi-vT8sNsdL/
----
-
-20:45 | FOOTBALL | Autriche - Irlande
-Flashscore conclusion:
-Un point conviendrait probablement aux deux sélections et, au vu de l’historique récent des affrontements, un nouveau match nul semble encore plus envisageable.Auteur : Ben OlawumiTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/autriche-naHiWdnt/irlande-Gfyqk1aG/
----
-
-17:15 | FOOTBALL | SCO Angers - RC Lens
-URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lens-IBmris38/
----
-
-21:33 | FOOTBALL | Serbie - Allemagne
-URL: https://www.flashscore.fr/match/football/allemagne-ptQide1O/serbie-8Kl6iq0i/
----
-
-20:45 | FOOTBALL | Portugal - Danemark
-Flashscore conclusion:
-Le Portugal a inscrit au moins deux buts lors de chacun de ses trois derniers matchs, tandis que les récentes rencontres du Danemark ont également été riches en buts. On envisage donc plus de 3,5 buts ici.Auteur : John PenningtonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/danemark-0KUdxQVi/portugal-WvJrjFVN/
----
-
-20:45 | FOOTBALL | Le Havre - Strasbourg
-URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/strasbourg-nP6UzIU1/
----
-
-20:45 | FOOTBALL | Le Mans - LOSC
-URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/lille-pfDZL71o/
----
-
-20:45 | FOOTBALL | OGC Nice - ESTAC
-URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/troyes-fsfAHubD/
----
-
-20:45 | FOOTBALL | PSG - FC Lorient
-URL: https://www.flashscore.fr/match/football/lorient-jgNAYRGi/psg-CjhkPw0k/
----
-
 20:00 | HOCKEY | Rouen - Girondins de Bordeaux
 URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/rouen-xYpMeMxS/
 ---
@@ -300,25 +254,5 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
 
 20:30 | HOCKEY | Angers - Cergy-Pontoise
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
----
-
-18:00 | FOOTBALL | France -19 - Irlande -19
-URL: https://www.flashscore.fr/match/football/france-YL4McSPu/irlande-hvJFgOgH/
----
-
-20:45 | FOOTBALL | Suède - Bosnie-Herzégovine
-Flashscore conclusion:
-Compte tenu des entames de match rapides de la Suède récemment, un but à domicile dans les 20 premières minutes est envisageable ici.Auteur : Alex BowmerTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/bosnie-herzegovine-fqe7WYTr/suede-OQyqbHWB/
----
-
-00:00 | FOOTBALL | Argentine - Uruguay
-URL: https://www.flashscore.fr/match/football/argentine-f9OppQjp/uruguay-xMk44orG/
----
-
-20:45 | FOOTBALL | Croatie - République Tchèque
-Flashscore conclusion:
-Le bilan largement favorable de la Croatie dans les confrontations est difficile à ignorer, ce qui fait d’une victoire à domicile un pronostic envisageable ici.Auteur : Tomáš VlasákTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/croatie-K8aznggo/republique-tcheque-6LHwBDGU/
 ---
 
