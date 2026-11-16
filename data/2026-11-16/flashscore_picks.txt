@@ -296,3 +296,11 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
 ---
 
+18:45 | FOOTBALL | Olympique de Marseille - Levski
+URL: https://www.flashscore.fr/match/football/levski-E5OOzgs4/marseille-SblU3Hee/
+---
+
+21:00 | FOOTBALL | Olympique Lyonnais - Lilleström
+URL: https://www.flashscore.fr/match/football/lillestrom-xYWBZlwN/lyon-2akflumR/
+---
+
