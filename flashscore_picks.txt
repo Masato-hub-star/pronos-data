@@ -1,9 +1,3 @@
-20:30 | TENNIS | Daniil Medvedev - Flavio Cobolli
-Flashscore conclusion:
-L’inconstance et l’imprévisibilité de Medvedev, encore illustrées récemment contre Ignacio Buse à Paris, rendent le Russe difficile à suivre. Cela dit, sa forme sur dur ces derniers mois n’a été inférieure qu’à celle de Carlos Alcaraz durant la deuxième moitié de la saison. Ajoutez son expérience, son impressionnant bilan dans ce tournoi, ainsi que les incertitudes liées à la condition physique de Cobolli et sa mauvaise forme en indoor, et le Russe mérite pleinement son statut de favori avant cette affiche.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/cobolli-flavio-zDtaCcPe/medvedev-daniil-O8qG0Nhb/
----
-
 14:00 | TENNIS | Arthur Fils - Rafael Jodar
 Flashscore conclusion:
 Deux joueurs récemment entrés dans le top 10 disputent leur toute première édition des ATP Finals. Pour l’un comme pour l’autre, éviter une élimination sans victoire après la phase de groupes serait déjà considéré comme une réussite discrète. Ce match représente donc une occasion en or, car il faut parfois plus d’une édition à un joueur pour décrocher une victoire aux ATP Finals. Tous deux ont connu une année mémorable et sont tout à fait capables de se battre l’un l’autre. Fils semble toutefois être dans une situation légèrement plus favorable à l’heure actuelle pour profiter de cette opportunité.Traduit à l'aide de l'IA
@@ -40,10 +34,6 @@ URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/tiafoe-fran
 URL: https://www.flashscore.fr/match/tennis/cobolli-flavio-zDtaCcPe/tiafoe-frances-AHDLJaph/
 ---
 
-20:30 | FOOTBALL | Angleterre -21 - France -21
-URL: https://www.flashscore.fr/match/football/angleterre-zkytYbUh/france-ShmZavVI/
----
-
 17:15 | FOOTBALL | OGC Nice - PSG
 URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/psg-CjhkPw0k/
 ---
@@ -72,10 +62,12 @@ URL: https://www.flashscore.fr/match/football/as-roma-zVqqL0ma/psg-CjhkPw0k/
 URL: https://www.flashscore.fr/match/football/bayern-nVp0wiqd/lille-pfDZL71o/
 ---
 
-20:45 | FOOTBALL | Suisse - Écosse
-Flashscore conclusion:
-L’Écosse doit s’imposer tandis que la Suisse est certaine de terminer en tête. Dans ce contexte, l'Écosse ou match nul dans le cadre de la double chance est tentant.Auteur : John PenningtonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/ecosse-fZRU25WH/suisse-rHJ2vy1B/
+18:45 | FOOTBALL | Olympique de Marseille - Levski
+URL: https://www.flashscore.fr/match/football/levski-E5OOzgs4/marseille-SblU3Hee/
+---
+
+21:00 | FOOTBALL | Olympique Lyonnais - Lilleström
+URL: https://www.flashscore.fr/match/football/lillestrom-xYWBZlwN/lyon-2akflumR/
 ---
 
 02:00 | FOOTBALL | Canada - Guatemala
@@ -294,13 +286,5 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
 
 20:30 | HOCKEY | Angers - Cergy-Pontoise
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
----
-
-18:45 | FOOTBALL | Olympique de Marseille - Levski
-URL: https://www.flashscore.fr/match/football/levski-E5OOzgs4/marseille-SblU3Hee/
----
-
-21:00 | FOOTBALL | Olympique Lyonnais - Lilleström
-URL: https://www.flashscore.fr/match/football/lillestrom-xYWBZlwN/lyon-2akflumR/
 ---
 

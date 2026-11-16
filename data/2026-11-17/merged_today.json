@@ -1,0 +1,1352 @@
+[
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Ireland",
+    "away_team_rb": "Kosovo",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: UEFA Nations League B",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "ireland-2-vs-kosovo-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.7
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Israel",
+    "away_team_rb": "Austria",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: UEFA Nations League B",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "austria-2-vs-israel-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 50,
+      "over_25_pct": 31,
+      "btts_yes_pct": 58
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.62
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Ukraine",
+    "away_team_rb": "Georgia",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: UEFA Nations League B",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "georgia-2-vs-ukraine-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.84
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Hungary",
+    "away_team_rb": "Northern Ireland",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: UEFA Nations League B",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "hungary-2-vs-northern-ireland-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.63
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Poland",
+    "away_team_rb": "Sweden",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: UEFA Nations League B",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "poland-2-vs-sweden-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 31,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.53
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Bosnia and Herzegovina",
+    "away_team_rb": "Romania",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: UEFA Nations League B",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "bosnia-and-herzegovina-2-vs-romania-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 42,
+      "btts_yes_pct": 69
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.69
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Denmark",
+    "away_team_rb": "Norway",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: UEFA Nations League A",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "denmark-2-vs-norway-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 57,
+      "btts_yes_pct": 91
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.39
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Wales",
+    "away_team_rb": "Portugal",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: UEFA Nations League A",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "portugal-2-vs-wales-2",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 57,
+      "over_25_pct": 36,
+      "btts_yes_pct": 58
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.72
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "01:00",
+    "home_team_rb": "Malaysia",
+    "away_team_rb": "Yemen",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "malaysia-vs-yemen",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 70,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.88
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Singapore",
+    "away_team_rb": "Brazil",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "brazil-vs-singapore",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 60,
+      "over_25_pct": 58,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.02
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "07:00",
+    "home_team_rb": "Kyrgyzstan",
+    "away_team_rb": "Vietnam",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "kyrgyzstan-vs-vietnam",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 80,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 4.64
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "07:00",
+    "home_team_rb": "China",
+    "away_team_rb": "Bahrain",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "bahrain-vs-china",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.77
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "08:00",
+    "home_team_rb": "Lebanon",
+    "away_team_rb": "Palestine",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "lebanon-vs-palestine",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.72
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "08:10",
+    "home_team_rb": "Japan",
+    "away_team_rb": "Paraguay",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "japan-vs-paraguay",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 56
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.84
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "09:00",
+    "home_team_rb": "Qatar",
+    "away_team_rb": "South Korea",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "qatar-vs-south-korea",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 40,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.7
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "09:10",
+    "home_team_rb": "UAE",
+    "away_team_rb": "Syria",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "syria-vs-uae",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.6
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "10:30",
+    "home_team_rb": "Saudi Arabia",
+    "away_team_rb": "Uzbekistan",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "saudi-arabia-vs-uzbekistan",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.8
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Jordan",
+    "away_team_rb": "Australia",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "australia-vs-jordan",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 61
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.81
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "11:15",
+    "home_team_rb": "Iraq",
+    "away_team_rb": "Iran",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "iran-vs-iraq",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.63
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "11:30",
+    "home_team_rb": "Kuwait",
+    "away_team_rb": "Honduras",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "honduras-vs-kuwait",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.84
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "18:00",
+    "home_team_rb": "Chile",
+    "away_team_rb": "Colombia",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "chile-vs-colombia",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.76
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "18:00",
+    "home_team_rb": "Argentina",
+    "away_team_rb": "Costa Rica",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "argentina-vs-costa-rica",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 92,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 44,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.09
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "18:30",
+    "home_team_rb": "Ecuador",
+    "away_team_rb": "Bolivia",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "bolivia-vs-ecuador",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 54,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.57
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "18:30",
+    "home_team_rb": "Uruguay",
+    "away_team_rb": "Dominican Republic",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Friendly International",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "dominican-republic-vs-uruguay",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 13,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.58
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "08:00",
+    "home_team_rb": "Malawi",
+    "away_team_rb": "Egypt",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "egypt-vs-malawi",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 63,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.18
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "08:00",
+    "home_team_rb": "South Sudan",
+    "away_team_rb": "Angola",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "angola-vs-south-sudan",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.35
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "08:00",
+    "home_team_rb": "Tanzania",
+    "away_team_rb": "Nigeria",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "nigeria-vs-tanzania",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 83,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.37
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "08:00",
+    "home_team_rb": "Ethiopia",
+    "away_team_rb": "Mozambique",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "ethiopia-vs-mozambique",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.69
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "08:00",
+    "home_team_rb": "Burundi",
+    "away_team_rb": "Zambia",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "burundi-vs-zambia",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.41
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "08:00",
+    "home_team_rb": "Lesotho",
+    "away_team_rb": "Gabon",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "gabon-vs-lesotho",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.52
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Guinea-Bissau",
+    "away_team_rb": "Madagascar",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "guinea-bissau-vs-madagascar",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.69
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Togo",
+    "away_team_rb": "Algeria",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "algeria-vs-togo",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 67,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.61
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Gambia",
+    "away_team_rb": "Ivory Coast",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "gambia-vs-ivory-coast",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 100,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.65
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Sierra Leone",
+    "away_team_rb": "DR Congo",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "dr-congo-vs-sierra-leone",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 57,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.66
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Libya",
+    "away_team_rb": "Tunisia",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "libya-vs-tunisia",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 80,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 2.11
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "11:00",
+    "home_team_rb": "Kenya",
+    "away_team_rb": "South Africa",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "kenya-vs-south-africa",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 80,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.77
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:00",
+    "home_team_rb": "Rwanda",
+    "away_team_rb": "Mali",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "mali-vs-rwanda",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 40,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.52
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:00",
+    "home_team_rb": "Liberia",
+    "away_team_rb": "Cabo Verde",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "cape-verde-vs-liberia",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.54
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:00",
+    "home_team_rb": "Congo",
+    "away_team_rb": "Comoros",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "comoros-vs-congo",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.66
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:00",
+    "home_team_rb": "Mauritania",
+    "away_team_rb": "Burkina Faso",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "burkina-faso-vs-mauritania",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.6
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:00",
+    "home_team_rb": "Botswana",
+    "away_team_rb": "Uganda",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "botswana-vs-uganda",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.42
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "15:00",
+    "home_team_rb": "Niger",
+    "away_team_rb": "Morocco",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: AFCON - Africa Cup of Nations",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "morocco-vs-niger",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 93,
+      "over_25_pct": 75,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.05
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:00",
+    "home_team_rb": "Olimpo",
+    "away_team_rb": "Kimberley",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Argentina: Primera B Metropolitana Argentina",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 50,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.56
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "18:30",
+    "home_team_rb": "Atletico Nacional",
+    "away_team_rb": "Once Caldas",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Colombia: Colombia Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 73,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.75
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "20:30",
+    "home_team_rb": "America de Cali",
+    "away_team_rb": "Internacional de Bogota",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Colombia: Colombia Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 87,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.43
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Truro City",
+    "away_team_rb": "Billericay",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: National League North/South England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 56,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 27,
+      "btts_yes_pct": 53
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.7
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Tonbridge Angels",
+    "away_team_rb": "Chesham United",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: National League North/South England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 100,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 37,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.74
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Spennymoor Town FC",
+    "away_team_rb": "Chester",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: National League North/South England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 40,
+      "over_25_pct": 30,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.71
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "Spalding United",
+    "away_team_rb": "Hebburn Town",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: National League North/South England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 47,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 43,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.56
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-17",
+    "match_time_paris": "14:45",
+    "home_team_rb": "South Shields",
+    "away_team_rb": "Harborough Town FC",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "England: National League North/South England",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 53,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 47,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.51
+    },
+    "flashscore_preview_snippet": null
+  }
+]
