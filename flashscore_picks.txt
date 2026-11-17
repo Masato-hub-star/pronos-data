@@ -19,6 +19,8 @@ URL: https://www.flashscore.fr/match/tennis/jodar-rafael-OdngshVK/shelton-ben-QN
 ---
 
 14:00 | TENNIS | Carlos Alcaraz - Daniil Medvedev
+Flashscore conclusion:
+Si l’on se fie uniquement à la forme récente, Medvedev est le joueur qui s’est le plus rapproché d’Alcaraz sur dur ces derniers mois. Cette affiche s’annonce donc au minimum passionnante sur le papier. Medvedev possède également davantage de références dans ce tournoi, puisqu’il y a remporté le titre et atteint la finale à une autre occasion. Il devrait au moins être capable d’entraîner Alcaraz dans un duel très disputé et de lui opposer une résistance importante. Toutefois, Alcaraz reste sur une longue série de victoires et a semblé totalement irrésistible lors de son premier match de poule cette semaine. Le battre ne sera donc facile pour personne.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/medvedev-daniil-O8qG0Nhb/
 ---
 
@@ -31,6 +33,8 @@ URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/tiafoe-fran
 ---
 
 20:30 | TENNIS | Flavio Cobolli - Frances Tiafoe
+Flashscore conclusion:
+Flavio Cobolli est en mauvaise forme actuellement, mais Frances Tiafoe aussi. Aucun des deux joueurs n’affiche le niveau ou la préparation normalement nécessaires pour réussir son parcours aux ATP Finals. Ni l’un ni l’autre n’a produit un tennis laissant penser qu’il peut éviter un 3-0 en phase de groupes. Cobolli peut toutefois retenir davantage de points positifs de son match d’ouverture. Il a livré une prestation plus compétitive face à Medvedev et peut également compter sur l’avantage du terrain. Ces deux facteurs pourraient faire légèrement pencher la balance en sa faveur dans un affrontement qui s’annonce équilibré.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/cobolli-flavio-zDtaCcPe/tiafoe-frances-AHDLJaph/
 ---
 
@@ -324,5 +328,29 @@ URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/gueymard-way
 
 20:30 | BASKETBALL | Barcelone - Paris
 URL: https://www.flashscore.fr/match/basket/barcelone-EDQLcAfL/paris-CdCP6AWf/
+---
+
+21:00 | FOOTBALL | France F - Venezuela F
+URL: https://www.flashscore.fr/match/football/france-G0E4tMc9/venezuela-xImGAN3T/
+---
+
+18:45 | FOOTBALL | Sabah FC - Barcelone
+URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/sabah-fc-fNGcxbyr/
+---
+
+01:30 | TENNIS | Zachary Viiala - Geoffrey Blancaneaux
+URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/viiala-zachary-rw9a7Zph/
+---
+
+03:40 | BADMINTON | Nhat Nguyen - Toma Junior Popov
+URL: https://www.flashscore.fr/match/badminton/nguyen-nhat-IHXw4bk4/popov-toma-junior-4ltqyHW4/
+---
+
+08:00 | TENNIS | Lia Karatancheva - Selena Janicijevic
+URL: https://www.flashscore.fr/match/tennis/janicijevic-selena-IaIL1xKN/karatancheva-lia-zqwKJ6Yd/
+---
+
+12:30 | TENNIS | Alexandre Müller - Zsombor Piros
+URL: https://www.flashscore.fr/match/tennis/muller-alexandre-nLLdS9q0/piros-zsombor-2BC3jj8o/
 ---
 
