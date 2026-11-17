@@ -4,7 +4,7 @@ Deux joueurs récemment entrés dans le top 10 disputent leur toute première é
 URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/jodar-rafael-OdngshVK/
 ---
 
-20:30 | TENNIS | Alexander Zverev - Ben Shelton
+20:35 | TENNIS | Alexander Zverev - Ben Shelton
 Flashscore conclusion:
 Le bilan d’Alexander Zverev contre les joueurs du top 10 cette année est décevant. Les battre s’est révélé extrêmement difficile pour lui. Cependant, il semble avoir parfaitement compris comment s’y prendre face à Shelton, comme le montre son avance très nette de 6-0. Il a même réussi à s’imposer dans le contexte particulièrement tendu d’une finale de l’US Open. Cela montre très clairement à quel point Zverev est à l’aise face à Shelton. Son bilan impressionnant contre les gauchers renforce encore sa confiance. Zverev possède tous les atouts pour remporter ce match et mettre un pied en demi-finales.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/shelton-ben-QNuG0Gzb/zverev-alexander-dGbUhw9m/
@@ -320,5 +320,9 @@ URL: https://www.flashscore.fr/match/football/algerie-bexgFxPt/republique-domini
 
 18:45 | TENNIS | Benjamin Bonzi - Sascha Gueymard Wayenburg
 URL: https://www.flashscore.fr/match/tennis/bonzi-benjamin-M5OpGHqH/gueymard-wayenburg-sascha-OdbfkgxD/
+---
+
+20:30 | BASKETBALL | Barcelone - Paris
+URL: https://www.flashscore.fr/match/basket/barcelone-EDQLcAfL/paris-CdCP6AWf/
 ---
 
