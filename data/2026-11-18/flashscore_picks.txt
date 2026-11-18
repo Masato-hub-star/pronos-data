@@ -11,10 +11,14 @@ URL: https://www.flashscore.fr/match/tennis/cobolli-flavio-zDtaCcPe/tiafoe-franc
 ---
 
 14:00 | TENNIS | Ben Shelton - Rafael Jodar
+Flashscore conclusion:
+Jodar a montré à quel point il pouvait être impressionnant lors de sa première saison complète sur le circuit en 2026. Même à son meilleur niveau cette année, il a toutefois eu du mal à battre régulièrement des adversaires du top 10. Il est donc encore plus difficile de lui faire confiance aujourd’hui, après une sérieuse baisse de forme ces dernières semaines, consécutive à une saison exceptionnellement longue et éprouvante. Shelton est clairement favori, mais il doit s’imposer sans perdre le moindre set pour conserver de bonnes chances d’atteindre les demi-finales.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/jodar-rafael-OdngshVK/shelton-ben-QNuG0Gzb/
 ---
 
 20:30 | TENNIS | Alexander Zverev - Arthur Fils
+Flashscore conclusion:
+Zverev a affiché une confiance exceptionnelle cette semaine. Il a démontré son expérience des ATP Finals en dominant ses deux adversaires et en enchaînant deux victoires contre des joueurs du top 10, ce qui lui avait posé de grandes difficultés tout au long de la saison. Au vu de sa forme, il devrait poursuivre sur cette lancée. Cela dit, la physionomie du match pourrait considérablement évoluer en fonction du résultat de la rencontre précédente. Si Jodar bat Shelton, Fils n’aurait besoin que d’un set pour se qualifier. Il pourrait alors jouer avec beaucoup plus de liberté et compliquer considérablement la tâche de Zverev.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/zverev-alexander-dGbUhw9m/
 ---
 
@@ -119,6 +123,8 @@ URL: https://www.flashscore.fr/match/football/chili-KUCG35cM/colombie-G02s4PCS/
 ---
 
 20:00 | FOOTBALL | Annecy - Clermont Foot
+Flashscore conclusion:
+La ligne de plus ou moins est fixée à 2,5 buts, avec une probabilité de 47 % pour le « plus de 2,5 ». La probabilité que les deux équipes marquent est de 53 %.Buts implicites selon les cotes : 2,6Ces chiffres proviennent des cotes proposées par les bookmakers sur ce match, lues deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
 URL: https://www.flashscore.fr/match/football/annecy-25dB6Eto/clermont-IRuMRua1/
 ---
 
@@ -294,5 +300,17 @@ URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/n
 
 15:30 | TENNIS | Luca Nardi - Kyrian Jacquet
 URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/nardi-luca-pfrQxVu7/
+---
+
+19:00 | FOOTBALL | Montlucon - Clermont Foot
+URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/montlucon-nq52ZuGL/
+---
+
+14:00 | FOOTBALL | France -17 - Haïti -17
+URL: https://www.flashscore.fr/match/football/france-p0tRv8Kg/haiti-SUdUV3iU/
+---
+
+14:00 | TENNIS | Lucia Bronzetti - Carole Monnet
+URL: https://www.flashscore.fr/match/tennis/bronzetti-lucia-rBZ5EARu/monnet-carole-GQ68ufRu/
 ---
 
