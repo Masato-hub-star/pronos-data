@@ -1,15 +1,3 @@
-14:00 | TENNIS | Carlos Alcaraz - Daniil Medvedev
-Flashscore conclusion:
-Si l’on se fie uniquement à la forme récente, Medvedev est le joueur qui s’est le plus rapproché d’Alcaraz sur dur ces derniers mois. Cette affiche s’annonce donc au minimum passionnante sur le papier. Medvedev possède également davantage de références dans ce tournoi, puisqu’il y a remporté le titre et atteint la finale à une autre occasion. Il devrait au moins être capable d’entraîner Alcaraz dans un duel très disputé et de lui opposer une résistance importante. Toutefois, Alcaraz reste sur une longue série de victoires et a semblé totalement irrésistible lors de son premier match de poule cette semaine. Le battre ne sera donc facile pour personne.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/medvedev-daniil-O8qG0Nhb/
----
-
-20:30 | TENNIS | Flavio Cobolli - Frances Tiafoe
-Flashscore conclusion:
-Flavio Cobolli est en mauvaise forme actuellement, mais Frances Tiafoe aussi. Aucun des deux joueurs n’affiche le niveau ou la préparation normalement nécessaires pour réussir son parcours aux ATP Finals. Ni l’un ni l’autre n’a produit un tennis laissant penser qu’il peut éviter un 3-0 en phase de groupes. Cobolli peut toutefois retenir davantage de points positifs de son match d’ouverture. Il a livré une prestation plus compétitive face à Medvedev et peut également compter sur l’avantage du terrain. Ces deux facteurs pourraient faire légèrement pencher la balance en sa faveur dans un affrontement qui s’annonce équilibré.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/cobolli-flavio-zDtaCcPe/tiafoe-frances-AHDLJaph/
----
-
 14:00 | TENNIS | Ben Shelton - Rafael Jodar
 Flashscore conclusion:
 Jodar a montré à quel point il pouvait être impressionnant lors de sa première saison complète sur le circuit en 2026. Même à son meilleur niveau cette année, il a toutefois eu du mal à battre régulièrement des adversaires du top 10. Il est donc encore plus difficile de lui faire confiance aujourd’hui, après une sérieuse baisse de forme ces dernières semaines, consécutive à une saison exceptionnellement longue et éprouvante. Shelton est clairement favori, mais il doit s’imposer sans perdre le moindre set pour conserver de bonnes chances d’atteindre les demi-finales.Traduit à l'aide de l'IA
@@ -118,10 +106,6 @@ URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/sabah-fc-fNGcxb
 URL: https://www.flashscore.fr/match/rugby/argentina-lrM6RMBU/france-GE9w8L42/
 ---
 
-00:08 | FOOTBALL | Chili - Colombie
-URL: https://www.flashscore.fr/match/football/chili-KUCG35cM/colombie-G02s4PCS/
----
-
 20:00 | FOOTBALL | Annecy - Clermont Foot
 Flashscore conclusion:
 La ligne de plus ou moins est fixée à 2,5 buts, avec une probabilité de 47 % pour le « plus de 2,5 ». La probabilité que les deux équipes marquent est de 53 %.Buts implicites selon les cotes : 2,6Ces chiffres proviennent des cotes proposées par les bookmakers sur ce match, lues deux jours avant le coup d’envoi.Ce contenu a été généré à l'aide de l'IA.
@@ -140,20 +124,24 @@ URL: https://www.flashscore.fr/match/football/algerie-bexgFxPt/montenegro-WzsBC6
 URL: https://www.flashscore.fr/match/football/algerie-bexgFxPt/republique-dominicaine-lhODMKfi/
 ---
 
-01:30 | TENNIS | Zachary Viiala - Geoffrey Blancaneaux
-URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/viiala-zachary-rw9a7Zph/
+19:00 | FOOTBALL | Montlucon - Clermont Foot
+URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/montlucon-nq52ZuGL/
 ---
 
-03:40 | BADMINTON | Nhat Nguyen - Toma Junior Popov
-URL: https://www.flashscore.fr/match/badminton/nguyen-nhat-IHXw4bk4/popov-toma-junior-4ltqyHW4/
+07:00 | BADMINTON | Tian Yao Dong - Toma Junior Popov
+URL: https://www.flashscore.fr/match/badminton/dong-tian-yao-QRRb1lFI/popov-toma-junior-4ltqyHW4/
 ---
 
-08:00 | TENNIS | Lia Karatancheva - Selena Janicijevic
-URL: https://www.flashscore.fr/match/tennis/janicijevic-selena-IaIL1xKN/karatancheva-lia-zqwKJ6Yd/
+14:00 | FOOTBALL | France -17 - Haïti -17
+URL: https://www.flashscore.fr/match/football/france-p0tRv8Kg/haiti-SUdUV3iU/
 ---
 
-12:30 | TENNIS | Alexandre Müller - Zsombor Piros
-URL: https://www.flashscore.fr/match/tennis/muller-alexandre-nLLdS9q0/piros-zsombor-2BC3jj8o/
+14:00 | TENNIS | Sascha Gueymard Wayenburg - Arthur Nagel
+URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/nagel-arthur-6eO0SM8J/
+---
+
+15:30 | TENNIS | Lucia Bronzetti - Carole Monnet
+URL: https://www.flashscore.fr/match/tennis/bronzetti-lucia-rBZ5EARu/monnet-carole-GQ68ufRu/
 ---
 
 20:45 | FOOTBALL | ESTAC - Le Havre
@@ -280,37 +268,5 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
 
 20:30 | HOCKEY | Angers - Cergy-Pontoise
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
----
-
-18:05 | TENNIS | Clément Tabur - Inaki Montes-De La Torre
-URL: https://www.flashscore.fr/match/tennis/montes-de-la-torre-inaki-4CYXUVX7/tabur-clement-fHPZtbgE/
----
-
-20:00 | HANDBALL | Metz F - Stella St. Maur F
-URL: https://www.flashscore.fr/match/handball/metz-SjMxXdfB/stella-st-maur-0Q6XJhwp/
----
-
-07:00 | BADMINTON | Tian Yao Dong - Toma Junior Popov
-URL: https://www.flashscore.fr/match/badminton/dong-tian-yao-QRRb1lFI/popov-toma-junior-4ltqyHW4/
----
-
-14:00 | TENNIS | Sascha Gueymard Wayenburg - Arthur Nagel
-URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/nagel-arthur-6eO0SM8J/
----
-
-15:30 | TENNIS | Luca Nardi - Kyrian Jacquet
-URL: https://www.flashscore.fr/match/tennis/jacquet-kyrian-KGKot0sk/nardi-luca-pfrQxVu7/
----
-
-19:00 | FOOTBALL | Montlucon - Clermont Foot
-URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/montlucon-nq52ZuGL/
----
-
-14:00 | FOOTBALL | France -17 - Haïti -17
-URL: https://www.flashscore.fr/match/football/france-p0tRv8Kg/haiti-SUdUV3iU/
----
-
-14:00 | TENNIS | Lucia Bronzetti - Carole Monnet
-URL: https://www.flashscore.fr/match/tennis/bronzetti-lucia-rBZ5EARu/monnet-carole-GQ68ufRu/
 ---
 

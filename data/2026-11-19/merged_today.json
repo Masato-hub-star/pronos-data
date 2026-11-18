@@ -1,0 +1,1244 @@
+[
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "14:30",
+    "home_team_rb": "Vitoria",
+    "away_team_rb": "Red Bull Bragantino",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "red-bull-bragantino-vs-vitoria",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 60,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 27,
+      "btts_yes_pct": 50
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 2.69
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "14:30",
+    "home_team_rb": "Vasco da Gama",
+    "away_team_rb": "Internacional",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "internacional-vs-vasco-da-gama",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 67,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 40,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.69
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "16:30",
+    "home_team_rb": "Sao Paulo",
+    "away_team_rb": "Fluminense",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Brazil: Serie A Brazil",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "fluminense-vs-sao-paulo",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 47,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.83
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "08:45",
+    "home_team_rb": "MC Alger",
+    "away_team_rb": "Olympique Akbou",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Algeria: Ligue 1 Algeria",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 93,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.37
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "08:45",
+    "home_team_rb": "MB Rouissat",
+    "away_team_rb": "CR Belouizdad",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Algeria: Ligue 1 Algeria",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 85,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.83
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "11:00",
+    "home_team_rb": "JS Kabylie",
+    "away_team_rb": "USM Alger",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Algeria: Ligue 1 Algeria",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 20,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.41
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "04:30",
+    "home_team_rb": "Noah II",
+    "away_team_rb": "Lernayin A.",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Armenia: First League Armenia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 25,
+      "over_25_pct": 63,
+      "btts_yes_pct": 40
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.21
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "21:50",
+    "home_team_rb": "Western Sydney Wanderers FC",
+    "away_team_rb": "Wellington Phoenix",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Australia: A-League Women Australia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 64,
+      "over_25_pct": 50,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.64
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "00:30",
+    "home_team_rb": "Lions FC",
+    "away_team_rb": "Wollongong Wolves",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Australia: NPL State League South Australia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 80,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 53,
+      "btts_yes_pct": 37
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.54
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "00:30",
+    "home_team_rb": "Preston Lions",
+    "away_team_rb": "South Hobart",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Australia: NPL State League South Australia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 67,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 41,
+      "btts_yes_pct": 60
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.15
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "04:00",
+    "home_team_rb": "Nevesinje",
+    "away_team_rb": "Rudar Prijedor",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Bosnia and Herzegovina: Prva Liga Bosnia and Herzegovina",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 55,
+      "btts_yes_pct": 69
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.7
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "06:30",
+    "home_team_rb": "Aigle Royal",
+    "away_team_rb": "Colombe",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Cameroon: Elite One Cameroon",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "aigle-royal-vs-colombe",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 60,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": 38
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 2.43
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "14:30",
+    "home_team_rb": "Independiente Valle del Cauca",
+    "away_team_rb": "Envigado",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Colombia: Primera B Colombia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 38,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.7
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "14:30",
+    "home_team_rb": "Union Magdalena",
+    "away_team_rb": "Boca Juniors de Cali",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Colombia: Primera B Colombia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 45,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 47,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.89
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "10:00",
+    "home_team_rb": "Fredericia",
+    "away_team_rb": "Hilleroed",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Denmark: 1. Division Denmark",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 50,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 33,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.68
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "07:00",
+    "home_team_rb": "Al Masry SC",
+    "away_team_rb": "Asyut Petroleum",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Egypt: Egypt Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 38,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.58
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "10:00",
+    "home_team_rb": "ZED FC",
+    "away_team_rb": "Smouha SC",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Egypt: Egypt Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 40,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.61
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "11:45",
+    "home_team_rb": "Amiens",
+    "away_team_rb": "Caen",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "France: National France",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 2.01
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "02:30",
+    "home_team_rb": "Dempo SC",
+    "away_team_rb": "Shillong Lajong",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "India: I-League India",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 49,
+      "btts_yes_pct": 48
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.7
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "09:45",
+    "home_team_rb": "Austria Wien",
+    "away_team_rb": "Bayern Munich",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Women's Champions League",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 93,
+      "over_25_pct": 17,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.04
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "09:45",
+    "home_team_rb": "Paris FC",
+    "away_team_rb": "HB Koege",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Women's Champions League",
+    "match_status": "AMBIGUOUS",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 79,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 40,
+      "btts_yes_pct": 69
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.51
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "12:00",
+    "home_team_rb": "SL Benfica",
+    "away_team_rb": "Roma",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Women's Champions League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 52,
+      "btts_yes_pct": 73
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.5
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Arsenal Women",
+    "away_team_rb": "OL Lyonnes",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Women's Champions League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 50,
+      "btts_yes_pct": 62
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.57
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "12:00",
+    "home_team_rb": "Barcelona",
+    "away_team_rb": "Servette",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "International: Women's Champions League",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 80,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 30,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.25
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Malavan",
+    "away_team_rb": "Gol Gohar",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Iran: Persian Gulf Pro League Iran",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 30,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.49
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "05:45",
+    "home_team_rb": "Al Kahrabaa",
+    "away_team_rb": "Diyala",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Iraq: Premier League Iraq",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 40,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.72
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "07:30",
+    "home_team_rb": "Al-Gharraf",
+    "away_team_rb": "Al Quwa Al Jawiya",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Iraq: Premier League Iraq",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 47,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.97
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "08:00",
+    "home_team_rb": "Ghaz Al-Shamal SC",
+    "away_team_rb": "Al Karkh",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Iraq: Premier League Iraq",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.72
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "07:30",
+    "home_team_rb": "Al-Ahli",
+    "away_team_rb": "Al-Shamal",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Qatar: Stars League Qatar",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 33,
+      "over_25_pct": 73,
+      "btts_yes_pct": 73
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.39
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "04:00",
+    "home_team_rb": "MFK Zvolen",
+    "away_team_rb": "FC Kosice",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Slovakia: Slovak Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 50,
+      "btts_yes_pct": 57
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "Yes",
+      "odd": 1.65
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "04:30",
+    "home_team_rb": "NK Dob",
+    "away_team_rb": "NK Bistrica",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Slovenia: Slovenian Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 67,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.64
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "04:30",
+    "home_team_rb": "ND Beltinci",
+    "away_team_rb": "NK Celje",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Slovenia: Slovenian Cup",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 80,
+      "over_25_pct": 38,
+      "btts_yes_pct": 63
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.32
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "16:30",
+    "home_team_rb": "Orlando City",
+    "away_team_rb": "FC Cincinnati",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "USA: MLS USA",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 40,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 10,
+      "btts_yes_pct": 10
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 2.5
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "19:00",
+    "home_team_rb": "Seattle Sounders FC",
+    "away_team_rb": "Real Salt Lake",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "USA: MLS USA",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 42,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 23,
+      "btts_yes_pct": 20
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 2.01
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Kigezi Home Boyz",
+    "away_team_rb": "Express FC",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Uganda: Premier League Uganda",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "U2.5",
+      "odd": 1.7
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Maroons FC",
+    "away_team_rb": "NEC FC",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Uganda: Premier League Uganda",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 44,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.74
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Entebbe UPPC",
+    "away_team_rb": "Kataka",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Uganda: Premier League Uganda",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 88,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Total",
+      "outcome": "O2.5",
+      "odd": 1.65
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "04:45",
+    "home_team_rb": "Al-Wasl",
+    "away_team_rb": "Hatta",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "United Arab Emirates: Pro League UAE",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 88,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 19,
+      "btts_yes_pct": 47
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.09
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "07:25",
+    "home_team_rb": "Al-Ain",
+    "away_team_rb": "Al-Dhafra",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "United Arab Emirates: Pro League UAE",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 80,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": 51,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.09
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "11:30",
+    "home_team_rb": "Club Atletico Progreso",
+    "away_team_rb": "Montevideo City Torque",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Uruguay: Primera Division Uruguay",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 63,
+      "over_25_pct": 50,
+      "btts_yes_pct": 40
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.41
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "11:30",
+    "home_team_rb": "Boston River",
+    "away_team_rb": "Deportivo Maldonado",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Uruguay: Primera Division Uruguay",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 67,
+      "over_25_pct": 38,
+      "btts_yes_pct": 33
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W2",
+      "odd": 1.75
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "11:30",
+    "home_team_rb": "Club Atletico Penarol",
+    "away_team_rb": "Cerro Largo",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Uruguay: Primera Division Uruguay",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 67,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "Result",
+      "outcome": "W1",
+      "odd": 1.39
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Surkhon-2011",
+    "away_team_rb": "Andijon",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Uzbekistan: Super League Uzbekistan",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 42,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.75
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Mufulira Wanderers",
+    "away_team_rb": "Kabwe Warriors",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Zambia: Super League Zambia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "kabwe-warriors-vs-mufulira-wanderers",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": 30,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.53
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Zesco United",
+    "away_team_rb": "Red Arrows",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Zambia: Super League Zambia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "red-arrows-vs-zesco-united",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": 42,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.49
+    },
+    "flashscore_preview_snippet": null
+  },
+  {
+    "match_date": "2026-11-19",
+    "match_time_paris": "05:00",
+    "home_team_rb": "Nkwazi",
+    "away_team_rb": "Mutondo Stars",
+    "home_team_fs": null,
+    "away_team_fs": null,
+    "competition_fs": null,
+    "league_rb": "Zambia: Super League Zambia",
+    "match_status": "UNMATCHED",
+    "flashscore_mid": null,
+    "ratingbet_slug": "mutondo-stars-vs-nkwazi",
+    "flashscore_preview_available": false,
+    "ratingbet_probs": {
+      "W1_pct": null,
+      "X_pct": null,
+      "W2_pct": null,
+      "over_25_pct": null,
+      "btts_yes_pct": null
+    },
+    "ratingbet_best_tip": {
+      "market": "BTTS",
+      "outcome": "No",
+      "odd": 1.5
+    },
+    "flashscore_preview_snippet": null
+  }
+]
