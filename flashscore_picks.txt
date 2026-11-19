@@ -6,7 +6,7 @@ URL: https://www.flashscore.fr/match/tennis/jodar-rafael-OdngshVK/shelton-ben-QN
 
 20:30 | TENNIS | Alexander Zverev - Arthur Fils
 Flashscore conclusion:
-Zverev a affiché une confiance exceptionnelle cette semaine. Il a démontré son expérience des ATP Finals en dominant ses deux adversaires et en enchaînant deux victoires contre des joueurs du top 10, ce qui lui avait posé de grandes difficultés tout au long de la saison. Au vu de sa forme, il devrait poursuivre sur cette lancée. Cela dit, la physionomie du match pourrait considérablement évoluer en fonction du résultat de la rencontre précédente. Si Jodar bat Shelton, Fils n’aurait besoin que d’un set pour se qualifier. Il pourrait alors jouer avec beaucoup plus de liberté et compliquer considérablement la tâche de Zverev.Traduit à l'aide de l'IA
+Zverev affiche un tennis extrêmement assuré cette semaine. Il met à profit son expérience des ATP Finals en dominant ses deux adversaires et en enchaînant consécutivement deux victoires contre des joueurs du top 10, ce qui représentait un défi important pour lui tout au long de la saison. Au vu de cette forme, il devrait poursuivre sur sa lancée. Cela dit, la physionomie du match pourrait changer considérablement selon le résultat de la rencontre précédente. Si Jodar bat Shelton, Fils n’aurait besoin que d’un set pour se qualifier. Il pourrait alors jouer avec beaucoup plus de liberté et compliquer considérablement la tâche de Zverev.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/zverev-alexander-dGbUhw9m/
 ---
 
@@ -14,7 +14,7 @@ URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/zverev-alexande
 URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/cobolli-flavio-zDtaCcPe/
 ---
 
-14:00 | TENNIS | Daniil Medvedev - Frances Tiafoe
+20:30 | TENNIS | Daniil Medvedev - Frances Tiafoe
 URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/tiafoe-frances-AHDLJaph/
 ---
 
@@ -25,10 +25,14 @@ URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/psg-CjhkPw0k/
 ---
 
 20:45 | FOOTBALL | RC Lens - Toulouse
+Flashscore conclusion:
+Lens a eu deux semaines pour digérer sa dégringolade, et son impressionnant bilan dans les affrontements avec Toulouse aidant, une [a href="/match/football/lens-IBmris38/toulouse-MLmY2yB1/cotes/?mid=2R2cY0wH" variant="link"]victoire à domicile semble être un choix logique.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lens-IBmris38/toulouse-MLmY2yB1/
 ---
 
 20:45 | FOOTBALL | LOSC - Olympique Lyonnais
+Flashscore conclusion:
+De nombreux matchs de Lille à domicile en 2026 se sont terminés sur un match nul. Les deux équipes étant difficiles à départager, [a href="/match/football/lille-pfDZL71o/lyon-2akflumR/cotes/?mid=zgG4Wv8T" variant="link"]un match nul ne serait donc pas une grande surprise.Auteur : Ben OlawumiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lille-pfDZL71o/lyon-2akflumR/
 ---
 
@@ -151,14 +155,20 @@ URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/troyes-fsfAHubD/
 ---
 
 20:45 | FOOTBALL | AS Monaco - AJ Auxerre
+Flashscore conclusion:
+[a href="/match/football/auxerre-MTLr36WA/monaco-2PIvr8o4/cotes/?mid=6ecUn0hA" variant="link"]Les deux équipes marquent et plus de 2,5 buts semble être un pari envisageable ici, puisque cette combinaison aurait été gagnante lors de six des sept dernières confrontations.Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/monaco-2PIvr8o4/
 ---
 
 20:45 | FOOTBALL | Strasbourg - Stade Brestois
+Flashscore conclusion:
+Compte tenu des problèmes défensifs de Strasbourg, le pari [a href="/match/football/brest-Cr4VGaUl/strasbourg-nP6UzIU1/cotes/?mid=GlkGwdFd" variant="link"]Brest marquera plus de 1,5 but semble constituer une option intéressante.Auteur : Tom PennTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/strasbourg-nP6UzIU1/
 ---
 
 15:00 | FOOTBALL | Paris FC - SCO Angers
+Flashscore conclusion:
+Tout porte à croire que ce match sera plutôt à sens unique. Miser sur une [a href="/match/football/angers-SAlF91iL/paris-fc-0OEHEprs/cotes/?mid=8Oo8uIpp" variant="link"]victoire de Paris avec un handicap de -1 pourrait donc être une option intéressante pour trouver de la valeur. Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/paris-fc-0OEHEprs/
 ---
 
@@ -268,5 +278,17 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
 
 20:30 | HOCKEY | Angers - Cergy-Pontoise
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
+---
+
+18:30 | TENNIS | Harry Wendelken - Geoffrey Blancaneaux
+URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/wendelken-harry-d6y39t1s/
+---
+
+18:50 | TENNIS | Harold Mayot - Hugo Gaston
+URL: https://www.flashscore.fr/match/tennis/gaston-hugo-hGqnSub7/mayot-harold-jPfM16Z1/
+---
+
+20:45 | BASKETBALL | Paris - Hapoel Tel Aviv
+URL: https://www.flashscore.fr/match/basket/hapoel-tel-aviv-x0WjVzjP/paris-CdCP6AWf/
 ---
 
