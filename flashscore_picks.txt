@@ -1,15 +1,3 @@
-14:00 | TENNIS | Ben Shelton - Rafael Jodar
-Flashscore conclusion:
-Jodar a montré à quel point il pouvait être impressionnant lors de sa première saison complète sur le circuit en 2026. Même à son meilleur niveau cette année, il a toutefois eu du mal à battre régulièrement des adversaires du top 10. Il est donc encore plus difficile de lui faire confiance aujourd’hui, après une sérieuse baisse de forme ces dernières semaines, consécutive à une saison exceptionnellement longue et éprouvante. Shelton est clairement favori, mais il doit s’imposer sans perdre le moindre set pour conserver de bonnes chances d’atteindre les demi-finales.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/jodar-rafael-OdngshVK/shelton-ben-QNuG0Gzb/
----
-
-20:30 | TENNIS | Alexander Zverev - Arthur Fils
-Flashscore conclusion:
-Zverev affiche un tennis extrêmement assuré cette semaine. Il met à profit son expérience des ATP Finals en dominant ses deux adversaires et en enchaînant consécutivement deux victoires contre des joueurs du top 10, ce qui représentait un défi important pour lui tout au long de la saison. Au vu de cette forme, il devrait poursuivre sur sa lancée. Cela dit, la physionomie du match pourrait changer considérablement selon le résultat de la rencontre précédente. Si Jodar bat Shelton, Fils n’aurait besoin que d’un set pour se qualifier. Il pourrait alors jouer avec beaucoup plus de liberté et compliquer considérablement la tâche de Zverev.Traduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/tennis/arthur-fils-IoIhUqIN/zverev-alexander-dGbUhw9m/
----
-
 14:00 | TENNIS | Carlos Alcaraz - Flavio Cobolli
 Flashscore conclusion:
 La forme récente de Cobolli ne laisse pas penser qu’il soit capable de battre Carlos Alcaraz dans des circonstances normales. Il a perdu huit de ses 11 derniers matchs. Il dispose toutefois d’une réelle chance ici en raison de la situation d’Alcaraz. L’Espagnol n’a plus rien à jouer au classement du groupe, la première place étant déjà assurée, et sa priorité absolue sera de préserver ses ischio-jambiers avant les demi-finales. Il devrait éviter de trop solliciter son corps, ce qui ouvre une fenêtre à Cobolli. Reste à savoir si l’Italien saura suffisamment élever son niveau pour en profiter.Traduit à l'aide de l'IA
@@ -20,6 +8,10 @@ URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/cobol
 Flashscore conclusion:
 Tiafoe a prouvé qu’il pouvait rivaliser dans cette affiche et a dominé leur confrontation la plus récente à l’US Open. Sa forme est toutefois en demi-teinte depuis. Medvedev, de son côté, s’est nettement redressé depuis cette défaite à l’US Open. Il a été le deuxième meilleur joueur du circuit sur cette période, derrière Carlos Alcaraz.En tenant compte de la forme actuelle et de l’expérience de Medvedev aux ATP Finals, il semble en position de force. La seule réserve concerne sa tendance bien connue à s’autodétruire dans les moments les plus difficiles. Cette possibilité ne peut pas être totalement écartée, mais il reste, dans l’ensemble, le grand favori.Traduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/tennis/medvedev-daniil-O8qG0Nhb/tiafoe-frances-AHDLJaph/
+---
+
+14:00 | TENNIS | Carlos Alcaraz - Ben Shelton
+URL: https://www.flashscore.fr/match/tennis/alcaraz-garfia-carlos-UkhgIFEq/shelton-ben-QNuG0Gzb/
 ---
 
 17:15 | FOOTBALL | OGC Nice - PSG
@@ -140,20 +132,16 @@ URL: https://www.flashscore.fr/match/football/algerie-bexgFxPt/republique-domini
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/montlucon-nq52ZuGL/
 ---
 
-07:00 | BADMINTON | Tian Yao Dong - Toma Junior Popov
-URL: https://www.flashscore.fr/match/badminton/dong-tian-yao-QRRb1lFI/popov-toma-junior-4ltqyHW4/
+13:10 | BADMINTON | Toma Junior Popov - Moh. Zaki Ubaidillah
+URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/ubaidillah-moh-zaki-UiCMjVtj/
 ---
 
-14:00 | FOOTBALL | France -17 - Haïti -17
-URL: https://www.flashscore.fr/match/football/france-p0tRv8Kg/haiti-SUdUV3iU/
+15:00 | TENNIS | Sascha Gueymard Wayenburg - Luca Nardi
+URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/nardi-luca-pfrQxVu7/
 ---
 
-14:00 | TENNIS | Sascha Gueymard Wayenburg - Arthur Nagel
-URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/nagel-arthur-6eO0SM8J/
----
-
-15:30 | TENNIS | Lucia Bronzetti - Carole Monnet
-URL: https://www.flashscore.fr/match/tennis/bronzetti-lucia-rBZ5EARu/monnet-carole-GQ68ufRu/
+18:00 | TENNIS | Inaki Montes-De La Torre - Harold Mayot
+URL: https://www.flashscore.fr/match/tennis/mayot-harold-jPfM16Z1/montes-de-la-torre-inaki-4CYXUVX7/
 ---
 
 20:45 | FOOTBALL | ESTAC - Le Havre
@@ -286,33 +274,5 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
 
 20:30 | HOCKEY | Angers - Cergy-Pontoise
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
----
-
-19:35 | TENNIS | Harry Wendelken - Geoffrey Blancaneaux
-URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/wendelken-harry-d6y39t1s/
----
-
-18:50 | TENNIS | Harold Mayot - Hugo Gaston
-URL: https://www.flashscore.fr/match/tennis/gaston-hugo-hGqnSub7/mayot-harold-jPfM16Z1/
----
-
-20:45 | BASKETBALL | Paris - Hapoel Tel Aviv
-URL: https://www.flashscore.fr/match/basket/hapoel-tel-aviv-x0WjVzjP/paris-CdCP6AWf/
----
-
-20:45 | HANDBALL | Melsungen - PSG
-URL: https://www.flashscore.fr/match/handball/melsungen-zVrlX9c7/paris-MmvaXAoA/
----
-
-13:10 | BADMINTON | Toma Junior Popov - Moh. Zaki Ubaidillah
-URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/ubaidillah-moh-zaki-UiCMjVtj/
----
-
-15:00 | TENNIS | Sascha Gueymard Wayenburg - Luca Nardi
-URL: https://www.flashscore.fr/match/tennis/gueymard-wayenburg-sascha-OdbfkgxD/nardi-luca-pfrQxVu7/
----
-
-18:00 | TENNIS | Inaki Montes-De La Torre - Harold Mayot
-URL: https://www.flashscore.fr/match/tennis/mayot-harold-jPfM16Z1/montes-de-la-torre-inaki-4CYXUVX7/
 ---
 
