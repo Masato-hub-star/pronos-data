@@ -280,7 +280,7 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
 URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
 ---
 
-18:30 | TENNIS | Harry Wendelken - Geoffrey Blancaneaux
+19:35 | TENNIS | Harry Wendelken - Geoffrey Blancaneaux
 URL: https://www.flashscore.fr/match/tennis/blancaneaux-geoffrey-EFwAtztn/wendelken-harry-d6y39t1s/
 ---
 
@@ -290,5 +290,13 @@ URL: https://www.flashscore.fr/match/tennis/gaston-hugo-hGqnSub7/mayot-harold-jP
 
 20:45 | BASKETBALL | Paris - Hapoel Tel Aviv
 URL: https://www.flashscore.fr/match/basket/hapoel-tel-aviv-x0WjVzjP/paris-CdCP6AWf/
+---
+
+20:45 | HANDBALL | Melsungen - PSG
+URL: https://www.flashscore.fr/match/handball/melsungen-zVrlX9c7/paris-MmvaXAoA/
+---
+
+13:10 | BADMINTON | Toma Junior Popov - Moh. Zaki Ubaidillah
+URL: https://www.flashscore.fr/match/badminton/popov-toma-junior-4ltqyHW4/ubaidillah-moh-zaki-UiCMjVtj/
 ---
 
