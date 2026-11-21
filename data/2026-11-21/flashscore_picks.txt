@@ -102,7 +102,7 @@ URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/sabah-fc-fNGcxb
 URL: https://www.flashscore.fr/match/football/manchester-utd-ppjDR086/sporting-tljXuHBC/
 ---
 
-21:10 | RUGBY | France - Argentine
+21:12 | RUGBY | France - Argentine
 URL: https://www.flashscore.fr/match/rugby/argentina-lrM6RMBU/france-GE9w8L42/
 ---
 
@@ -134,7 +134,7 @@ URL: https://www.flashscore.fr/match/volleyball/toulouse-6qbfvecr/tours-WGABxZRf
 URL: https://www.flashscore.fr/match/handball/achenheim-truchtersheim-tvdbboO5/metz-SjMxXdfB/
 ---
 
-19:30 | TENNIS | Coco Gauff - Dalma Galfi
+21:09 | TENNIS | Coco Gauff - Dalma Galfi
 URL: https://www.flashscore.fr/match/tennis/galfi-dalma-dGbzUtWd/gauff-coco-f5BXmEH6/
 ---
 
@@ -276,5 +276,45 @@ URL: https://www.flashscore.fr/match/football/france-p0tRv8Kg/saudi-arabia-Cb4jY
 
 15:00 | TENNIS | Diane Parry - Talia Gibson
 URL: https://www.flashscore.fr/match/tennis/gibson-talia-8GwNXON6/parry-diane-hQQLzcNT/
+---
+
+21:00 | FOOTBALL | Juventus - Omonia
+URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/omonia-GSLWiAPe/
+---
+
+16:00 | FOOTBALL | Manchester Utd - Brentford
+URL: https://www.flashscore.fr/match/football/brentford-xYe7DwID/manchester-utd-ppjDR086/
+---
+
+11:00 | TENNIS | Calvin Hemery - Courtney John Lock
+URL: https://www.flashscore.fr/match/tennis/hemery-calvin-fse58iGB/lock-courtney-john-nsVvQFnp/
+---
+
+16:30 | BASKETBALL | Paris - Gravelines-Dunkerque
+URL: https://www.flashscore.fr/match/basket/gravelines-dunkerque-48I6PZQq/paris-CdCP6AWf/
+---
+
+20:45 | FOOTBALL | Toulouse - PSG
+URL: https://www.flashscore.fr/match/football/psg-CjhkPw0k/toulouse-MLmY2yB1/
+---
+
+17:15 | FOOTBALL | LOSC - AJ Auxerre
+URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/lille-pfDZL71o/
+---
+
+20:45 | FOOTBALL | RC Lens - Le Havre
+URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/lens-IBmris38/
+---
+
+20:45 | FOOTBALL | AS Monaco - SCO Angers
+URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/monaco-2PIvr8o4/
+---
+
+20:45 | FOOTBALL | Paris FC - Le Mans
+URL: https://www.flashscore.fr/match/football/le-mans-ER0NeOOp/paris-fc-0OEHEprs/
+---
+
+20:45 | FOOTBALL | Strasbourg - FC Lorient
+URL: https://www.flashscore.fr/match/football/lorient-jgNAYRGi/strasbourg-nP6UzIU1/
 ---
 
