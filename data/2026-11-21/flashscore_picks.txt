@@ -122,7 +122,7 @@ URL: https://www.flashscore.fr/match/football/algerie-bexgFxPt/republique-domini
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/montlucon-nq52ZuGL/
 ---
 
-17:00 | TENNIS | Harold Mayot - Francesco Passaro
+18:27 | TENNIS | Harold Mayot - Francesco Passaro
 URL: https://www.flashscore.fr/match/tennis/mayot-harold-jPfM16Z1/passaro-francesco-6iHVMexn/
 ---
 
@@ -264,5 +264,17 @@ URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/grenoble-fas8xYmC/
 
 18:30 | HOCKEY | Olympique de Marseille - Girondins de Bordeaux
 URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/marseille-nkohUngl/
+---
+
+14:00 | FOOTBALL | Belgique -19 F - France -19 F
+URL: https://www.flashscore.fr/match/football/belgique-AJaICLPm/france-dOF3AwPC/
+---
+
+14:30 | FOOTBALL | France -17 - Arabie Saoudite -17
+URL: https://www.flashscore.fr/match/football/france-p0tRv8Kg/saudi-arabia-Cb4jY0oP/
+---
+
+15:00 | TENNIS | Diane Parry - Talia Gibson
+URL: https://www.flashscore.fr/match/tennis/gibson-talia-8GwNXON6/parry-diane-hQQLzcNT/
 ---
 
