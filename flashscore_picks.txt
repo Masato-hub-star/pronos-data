@@ -274,3 +274,23 @@ URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/grenoble-fas8xYmC/
 URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/briancon-p4oJOtWk/
 ---
 
+17:30 | FOOTBALL | Arsenal - Manchester City
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/manchester-city-Wtn9Stg0/
+---
+
+16:00 | TENNIS | Berta Bonardi - Carole Monnet
+URL: https://www.flashscore.fr/match/tennis/bonardi-berta-GQxuhPTH/monnet-carole-GQ68ufRu/
+---
+
+18:00 | BASKETBALL | Besiktas - Paris
+URL: https://www.flashscore.fr/match/basket/besiktas-hE4Gkj9l/paris-CdCP6AWf/
+---
+
+20:00 | VOLLEYBALL | Saint-Quentin - Tours
+URL: https://www.flashscore.fr/match/volleyball/st-quentin-p2sD73D9/tours-WGABxZRf/
+---
+
+20:30 | HOCKEY | Angers - Amiens
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
+---
+
