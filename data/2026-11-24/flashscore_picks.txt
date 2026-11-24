@@ -6,7 +6,7 @@ URL: https://www.flashscore.fr/match/football/lens-IBmris38/rb-leipzig-KbS1suSm/
 
 21:00 | FOOTBALL | PSG - AS Rome
 Flashscore conclusion:
-La Roma a le sens du but, mais cela ne devrait probablement pas suffire pour battre le PSG. Ainsi, [a href="/match/football/as-rome-zVqqL0ma/psg-CjhkPw0k/cotes/?mid=v74Mijwo" variant="link"]une victoire à domicile avec les deux équipes qui marquent semble constituer une combinaison intéressante.Auteur : Chris WilsonTraduit à l'aide de l'IA
+La Roma a le sens du but, mais cela ne devrait probablement pas suffire pour battre le PSG. Ainsi, [a href="/match/football/as-rome-zVqqL0ma/psg-CjhkPw0k/cotes/?mid=v74Mijwo" variant="link"]une victoire à domicile avec les deux équipes qui marquent semble envisageable.Auteur : Chris WilsonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/as-roma-zVqqL0ma/psg-CjhkPw0k/
 ---
 
@@ -23,6 +23,8 @@ URL: https://www.flashscore.fr/match/football/levski-E5OOzgs4/marseille-SblU3Hee
 ---
 
 21:00 | FOOTBALL | Olympique Lyonnais - Lilleström
+Flashscore conclusion:
+Au vu de la forme solide de Lyon à domicile, [a href="/match/football/lillestrom-xYWBZlwN/lyon-2akflumR/cotes/?mid=hOHEmyXb" variant="link"]une victoire à domicile semble un choix sûr dans un pari combiné.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lillestrom-xYWBZlwN/lyon-2akflumR/
 ---
 
@@ -66,7 +68,7 @@ URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/dortmund-nP1i5US1
 
 18:45 | FOOTBALL | Sabah FC - Barcelone
 Flashscore conclusion:
-[a href="/match/football/barcelone-SKbpVP5K/sabah-fc-fNGcxbyr/cotes/?mid=QqI3ne15" variant="link"]Victoire de Barcelone et plus de 2,5 buts semble être le pari offrant le plus de valeur pour ce match, au vu de la superbe forme affichée récemment par l’équipe visiteuse.Auteur : Matt JonesTraduit à l'aide de l'IA
+Une [a href="/match/football/barcelone-SKbpVP5K/sabah-fc-fNGcxbyr/cotes/?mid=QqI3ne15" variant="link"]victoire de Barcelone avec plus de 2,5 buts dans le match semble envisageable au vu de la superbe forme affichée récemment par l’équipe visiteuse.Auteur : Matt JonesTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/sabah-fc-fNGcxbyr/
 ---
 
@@ -77,6 +79,8 @@ URL: https://www.flashscore.fr/match/football/manchester-utd-ppjDR086/sporting-t
 ---
 
 21:00 | FOOTBALL | Juventus - Omonia
+Flashscore conclusion:
+La Juventus devrait s’imposer, mais il lui sera difficile de réduire l’Omonia au silence. Dès lors, [a href="/match/football/juventus-C06aJvIB/omonia-GSLWiAPe/cotes/?mid=KvepELNk" variant="link"]une victoire de la Juventus avec les deux équipes qui marquent semble particulièrement envisageable. Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/omonia-GSLWiAPe/
 ---
 
@@ -116,7 +120,7 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/montlucon-nq52Zu
 URL: https://www.flashscore.fr/match/basket/besiktas-hE4Gkj9l/paris-CdCP6AWf/
 ---
 
-20:00 | VOLLEYBALL | Saint-Quentin - Tours
+20:01 | VOLLEYBALL | Saint-Quentin - Tours
 URL: https://www.flashscore.fr/match/volleyball/st-quentin-p2sD73D9/tours-WGABxZRf/
 ---
 
@@ -262,5 +266,25 @@ URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/briancon-p4oJOtWk/
 
 20:30 | HOCKEY | Angers - Amiens
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
+---
+
+16:00 | TENNIS | Italie - Corée du Sud
+URL: https://www.flashscore.fr/match/tennis/coree-du-sud-GnFyANNk/italie-d8wpCXJu/
+---
+
+10:00 | TENNIS | Grande Bretagne - Allemagne
+URL: https://www.flashscore.fr/match/tennis/allemagne-tCoJgj4B/grande-bretagne-lKuqR4Ao/
+---
+
+17:00 | TENNIS | Autriche - Espagne
+URL: https://www.flashscore.fr/match/tennis/autriche-jRh6AC1t/espagne-dIxGjfn9/
+---
+
+14:30 | RUGBY | Bordeaux Bègles - Montpellier
+URL: https://www.flashscore.fr/match/rugby/bordeaux-begles-hzHredXK/montpellier-SAMejE9G/
+---
+
+21:00 | RUGBY | Lyon OU - Stade Toulousain
+URL: https://www.flashscore.fr/match/rugby/lyon-WQFnfGnR/stade-toulousain-2LK4pW1j/
 ---
 
