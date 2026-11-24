@@ -264,7 +264,7 @@ URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/grenoble-fas8xYmC/
 URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/briancon-p4oJOtWk/
 ---
 
-20:30 | HOCKEY | Angers - Amiens
+21:22 | HOCKEY | Angers - Amiens
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
 ---
 
@@ -286,5 +286,25 @@ URL: https://www.flashscore.fr/match/rugby/bordeaux-begles-hzHredXK/montpellier-
 
 21:00 | RUGBY | Lyon OU - Stade Toulousain
 URL: https://www.flashscore.fr/match/rugby/lyon-WQFnfGnR/stade-toulousain-2LK4pW1j/
+---
+
+20:45 | FOOTBALL | Côme - Juventus
+URL: https://www.flashscore.fr/match/football/come-ttyLthOA/juventus-C06aJvIB/
+---
+
+19:00 | FOOTBALL | Real Sociedad - Real Madrid
+URL: https://www.flashscore.fr/match/football/real-madrid-W8mj7MDD/real-sociedad-jNvak2f3/
+---
+
+20:30 | FOOTBALL | Manchester City - Leeds
+URL: https://www.flashscore.fr/match/football/leeds-tUxUbLR2/manchester-city-Wtn9Stg0/
+---
+
+20:00 | FOOTBALL | Clermont Foot - FC Metz
+URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/metz-4v0yqlWc/
+---
+
+17:00 | HANDBALL | Dunkerque - PSG
+URL: https://www.flashscore.fr/match/handball/dunkerque-nTbpx35s/paris-MmvaXAoA/
 ---
 
