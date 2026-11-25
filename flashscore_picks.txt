@@ -126,7 +126,7 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/metz-4v0yqlWc/
 URL: https://www.flashscore.fr/match/football/france-p0tRv8Kg/uruguay-CbtcEdvm/
 ---
 
-22:15 | TENNIS | Solana Sierra - Carole Monnet
+23:07 | TENNIS | Solana Sierra - Carole Monnet
 URL: https://www.flashscore.fr/match/tennis/monnet-carole-GQ68ufRu/sierra-solana-E5xrmfn5/
 ---
 
@@ -280,5 +280,13 @@ URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/brentford-xYe7DwI
 
 18:00 | HANDBALL | France F - Pologne F
 URL: https://www.flashscore.fr/match/handball/france-O4dLT2gI/pologne-Ysn4Yra4/
+---
+
+12:00 | FOOTBALL | France -19 F - Croatie -19 F
+URL: https://www.flashscore.fr/match/football/croatie-YTCWcr7n/france-dOF3AwPC/
+---
+
+21:15 | FOOTBALL | Newcastle - Manchester Utd
+URL: https://www.flashscore.fr/match/football/manchester-utd-ppjDR086/newcastle-p6ahwuwJ/
 ---
 
