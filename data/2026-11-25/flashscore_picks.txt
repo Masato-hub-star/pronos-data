@@ -24,13 +24,13 @@ URL: https://www.flashscore.fr/match/football/bayern-nVp0wiqd/lille-pfDZL71o/
 
 18:45 | FOOTBALL | Olympique de Marseille - Levski
 Flashscore conclusion:
-La forme des locaux à domicile est préoccupante. Il pourrait donc être plus prudent de se tourner vers [a href="/match/football/levski-E5OOzgs4/marseille-SblU3Hee/cotes/?mid=dYcJ6VeR" variant="link"]les deux équipes marquent.Auteur : Matt JonesTraduit à l'aide de l'IA
+La forme des locaux à domicile est préoccupante. On pense que [a href="/match/football/levski-E5OOzgs4/marseille-SblU3Hee/cotes/?mid=dYcJ6VeR" variant="link"]les deux équipes pourraient marquer ici.Auteur : Matt JonesTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/levski-E5OOzgs4/marseille-SblU3Hee/
 ---
 
 21:00 | FOOTBALL | Olympique Lyonnais - Lilleström
 Flashscore conclusion:
-Au vu de la forme solide de Lyon à domicile, [a href="/match/football/lillestrom-xYWBZlwN/lyon-2akflumR/cotes/?mid=hOHEmyXb" variant="link"]une victoire à domicile semble un choix sûr dans un pari combiné.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
+Au vu de la forme solide de Lyon à domicile, [a href="/match/football/lillestrom-xYWBZlwN/lyon-2akflumR/cotes/?mid=hOHEmyXb" variant="link"]une victoire de l'OL est fortement attendue.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lillestrom-xYWBZlwN/lyon-2akflumR/
 ---
 
@@ -43,6 +43,8 @@ URL: https://www.flashscore.fr/match/football/belgique-AJaICLPm/france-dOF3AwPC/
 ---
 
 17:15 | FOOTBALL | SCO Angers - RC Lens
+Flashscore conclusion:
+La défense plutôt solide de Lens et l’incapacité d’Angers à marquer suggèrent que le pari [a href="/match/football/angers-SAlF91iL/lens-IBmris38/cotes/?mid=IyS7qn3F" variant="link"]moins de 2,5 buts est envisageable ici.Auteur : Aaron MurphyTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/angers-SAlF91iL/lens-IBmris38/
 ---
 
@@ -72,7 +74,7 @@ URL: https://www.flashscore.fr/match/football/manchester-utd-ppjDR086/sporting-t
 
 21:00 | FOOTBALL | Juventus - Omonia
 Flashscore conclusion:
-La Juventus devrait s’imposer, mais il lui sera difficile de réduire l’Omonia au silence. Dès lors, [a href="/match/football/juventus-C06aJvIB/omonia-GSLWiAPe/cotes/?mid=KvepELNk" variant="link"]une victoire de la Juventus avec les deux équipes qui marquent semble particulièrement envisageable. Auteur : Peter StavrinouTraduit à l'aide de l'IA
+La Juventus devrait s’imposer, mais il lui sera difficile de réduire l’Omonia au silence. Dès lors, [a href="/match/football/juventus-C06aJvIB/omonia-GSLWiAPe/cotes/?mid=KvepELNk" variant="link"]une victoire de la Juventus avec les deux équipes qui marquent est envisageable. Auteur : Peter StavrinouTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/juventus-C06aJvIB/omonia-GSLWiAPe/
 ---
 
@@ -145,10 +147,14 @@ URL: https://www.flashscore.fr/match/rugby/lyon-WQFnfGnR/stade-toulousain-2LK4pW
 ---
 
 20:45 | FOOTBALL | Stade Brestois - Paris FC
+Flashscore conclusion:
+Ces deux équipes disposent de nombreuses qualités. Ainsi, [a href="/match/football/brest-Cr4VGaUl/paris-fc-0OEHEprs/cotes/?mid=zyHox4ek" variant="link"]un match nul et les deux équipes qui marquent peuvent constituer une combinaison intéressante.Auteur : Ben OlawumiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/paris-fc-0OEHEprs/
 ---
 
 20:45 | FOOTBALL | Le Havre - Strasbourg
+Flashscore conclusion:
+Les derniers matchs du Havre ont produit beaucoup de buts et Strasbourg encaisse régulièrement à l’extérieur cette saison. [a href="/match/football/le-havre-CIEe04GT/strasbourg-nP6UzIU1/cotes/?mid=8lFgzrQ1" variant="link"]miser sur plus de 3,5 buts pourrait donc être envisageable.Auteur : John PenningtonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/le-havre-CIEe04GT/strasbourg-nP6UzIU1/
 ---
 
@@ -266,5 +272,13 @@ URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/briancon-p4oJOtWk/
 
 22:46 | HOCKEY | Angers - Amiens
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
+---
+
+21:15 | FOOTBALL | Brentford - Arsenal
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/brentford-xYe7DwID/
+---
+
+18:00 | HANDBALL | France F - Pologne F
+URL: https://www.flashscore.fr/match/handball/france-O4dLT2gI/pologne-Ysn4Yra4/
 ---
 
