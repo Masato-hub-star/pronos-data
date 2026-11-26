@@ -85,6 +85,8 @@ URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/la-corogne-Q51Z
 ---
 
 17:30 | FOOTBALL | Arsenal - Manchester City
+Flashscore conclusion:
+La forme catastrophique de City offre le contexte idéal pour profiter des cotes relativement généreuses d’une victoire d’[a href="/match/football/arsenal-hA1Zm19f/manchester-city-Wtn9Stg0/cotes/?mid=Y1N6nuy1" variant="link"]Arsenal. Auteur : Matthew BillonTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/manchester-city-Wtn9Stg0/
 ---
 
@@ -274,11 +276,23 @@ URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/briancon-p4oJOtWk/
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
 ---
 
-20:27 | HANDBALL | Allemagne F - France F
+21:07 | HANDBALL | Allemagne F - France F
 URL: https://www.flashscore.fr/match/handball/allemagne-2eePSM8O/france-O4dLT2gI/
 ---
 
 11:00 | FOOTBALL | France -19 F - Islande -19 F
 URL: https://www.flashscore.fr/match/football/france-dOF3AwPC/islande-ALOKNBx7/
+---
+
+12:00 | TENNIS | Grande Bretagne - Espagne
+URL: https://www.flashscore.fr/match/tennis/espagne-dIxGjfn9/grande-bretagne-lKuqR4Ao/
+---
+
+21:30 | FOOTBALL | Barcelone - Atl. Madrid
+URL: https://www.flashscore.fr/match/football/atl-madrid-jaarqpLQ/barcelone-SKbpVP5K/
+---
+
+17:00 | HANDBALL | Dunkerque - PSG
+URL: https://www.flashscore.fr/match/handball/dunkerque-nTbpx35s/paris-MmvaXAoA/
 ---
 
