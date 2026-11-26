@@ -1,7 +1,3 @@
-16:00 | TENNIS | Italie - Corée du Sud
-URL: https://www.flashscore.fr/match/tennis/coree-du-sud-GnFyANNk/italie-d8wpCXJu/
----
-
 10:00 | TENNIS | Grande Bretagne - Allemagne
 URL: https://www.flashscore.fr/match/tennis/allemagne-tCoJgj4B/grande-bretagne-lKuqR4Ao/
 ---
@@ -10,16 +6,8 @@ URL: https://www.flashscore.fr/match/tennis/allemagne-tCoJgj4B/grande-bretagne-l
 URL: https://www.flashscore.fr/match/tennis/autriche-jRh6AC1t/espagne-dIxGjfn9/
 ---
 
-21:01 | FOOTBALL | PSG - AS Rome
-Flashscore conclusion:
-La Roma a le sens du but, mais cela ne devrait probablement pas suffire pour battre le PSG. Ainsi, [a href="/match/football/as-rome-zVqqL0ma/psg-CjhkPw0k/cotes/?mid=v74Mijwo" variant="link"]une victoire à domicile avec les deux équipes qui marquent semble envisageable.Auteur : Chris WilsonTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/as-roma-zVqqL0ma/psg-CjhkPw0k/
----
-
-21:00 | FOOTBALL | LOSC - Bayern Munich
-Flashscore conclusion:
-Le Bayern a souvent démarré lentement dans cette compétition. Compte tenu de son attaque diminuée, [a href="/match/football/bayern-munich-nVp0wiqd/lille-pfDZL71o/cotes/?mid=CfLLoIBm" variant="link"]un match nul à la mi-temps semble particulièrement envisageable ici.Auteur : Ryan FisherTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/bayern-nVp0wiqd/lille-pfDZL71o/
+16:00 | TENNIS | Italie - République Tchèque
+URL: https://www.flashscore.fr/match/tennis/italie-d8wpCXJu/republique-tcheque-OjRZ5cAf/
 ---
 
 18:45 | FOOTBALL | Olympique de Marseille - Levski
@@ -60,16 +48,12 @@ URL: https://www.flashscore.fr/match/football/lorient-jgNAYRGi/psg-CjhkPw0k/
 URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/marseille-SblU3Hee/
 ---
 
-18:45 | FOOTBALL | Sabah FC - Barcelone
-Flashscore conclusion:
-Une [a href="/match/football/barcelone-SKbpVP5K/sabah-fc-fNGcxbyr/cotes/?mid=QqI3ne15" variant="link"]victoire de Barcelone avec plus de 2,5 buts dans le match semble envisageable au vu de la superbe forme affichée récemment par l’équipe visiteuse.Auteur : Matt JonesTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/barcelone-SKbpVP5K/sabah-fc-fNGcxbyr/
+20:45 | FOOTBALL | Olympique Lyonnais - AS Monaco
+URL: https://www.flashscore.fr/match/football/lyon-2akflumR/monaco-2PIvr8o4/
 ---
 
-21:00 | FOOTBALL | Sporting - Manchester Utd
-Flashscore conclusion:
-Seul le Slovan Bratislava, dernier du classement avant cette journée, a été mené plus longtemps que United en LDC cette saison. Le [a href="/match/football/manchester-utd-ppjDR086/sporting-tljXuHBC/cotes/?mid=CEDJzDKq" variant="link"]pari Sporting à la mi-temps/fin de match devient donc envisageable.Auteur : Ryan FisherTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/manchester-utd-ppjDR086/sporting-tljXuHBC/
+12:00 | FOOTBALL | France -19 F - Croatie -19 F
+URL: https://www.flashscore.fr/match/football/croatie-YTCWcr7n/france-dOF3AwPC/
 ---
 
 21:00 | FOOTBALL | Juventus - Omonia
@@ -106,8 +90,20 @@ URL: https://www.flashscore.fr/match/football/real-madrid-W8mj7MDD/real-sociedad
 URL: https://www.flashscore.fr/match/football/leeds-tUxUbLR2/manchester-city-Wtn9Stg0/
 ---
 
+21:15 | FOOTBALL | Brentford - Arsenal
+URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/brentford-xYe7DwID/
+---
+
+21:15 | FOOTBALL | Newcastle - Manchester Utd
+URL: https://www.flashscore.fr/match/football/manchester-utd-ppjDR086/newcastle-p6ahwuwJ/
+---
+
 17:40 | RUGBY | France - Afrique du Sud
 URL: https://www.flashscore.fr/match/rugby/afrique-du-sud-bHmPcrZk/france-GE9w8L42/
+---
+
+18:00 | HANDBALL | France F - Pologne F
+URL: https://www.flashscore.fr/match/handball/france-O4dLT2gI/pologne-Ysn4Yra4/
 ---
 
 08:07 | FOOTBALL | Algérie -17 - République Dominicaine -17
@@ -122,20 +118,16 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/montlucon-nq52Zu
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/metz-4v0yqlWc/
 ---
 
-14:30 | FOOTBALL | Uruguay -17 - France -17
-URL: https://www.flashscore.fr/match/football/france-p0tRv8Kg/uruguay-CbtcEdvm/
----
-
-23:07 | TENNIS | Solana Sierra - Carole Monnet
-URL: https://www.flashscore.fr/match/tennis/monnet-carole-GQ68ufRu/sierra-solana-E5xrmfn5/
----
-
 20:00 | VOLLEYBALL | Tours - Montpellier
 URL: https://www.flashscore.fr/match/volleyball/montpellier-fq1HkrTS/tours-WGABxZRf/
 ---
 
 20:45 | HANDBALL | PSG - Wisla Plock
 URL: https://www.flashscore.fr/match/handball/paris-MmvaXAoA/wisla-plock-zPDZ2YnB/
+---
+
+16:00 | TENNIS | Carole Monnet - Veronika Erjavec
+URL: https://www.flashscore.fr/match/tennis/erjavec-veronika-rsErY1Yt/monnet-carole-GQ68ufRu/
 ---
 
 14:30 | RUGBY | Bordeaux Bègles - Montpellier
@@ -164,10 +156,6 @@ URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/troyes-fsfAHubD/
 
 17:15 | FOOTBALL | Toulouse - Stade Rennais
 URL: https://www.flashscore.fr/match/football/rennes-d2nnj1IE/toulouse-MLmY2yB1/
----
-
-20:45 | FOOTBALL | Olympique Lyonnais - AS Monaco
-URL: https://www.flashscore.fr/match/football/lyon-2akflumR/monaco-2PIvr8o4/
 ---
 
 20:45 | FOOTBALL | Toulouse - PSG
@@ -272,21 +260,5 @@ URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/briancon-p4oJOtWk/
 
 22:46 | HOCKEY | Angers - Amiens
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
----
-
-21:15 | FOOTBALL | Brentford - Arsenal
-URL: https://www.flashscore.fr/match/football/arsenal-hA1Zm19f/brentford-xYe7DwID/
----
-
-18:00 | HANDBALL | France F - Pologne F
-URL: https://www.flashscore.fr/match/handball/france-O4dLT2gI/pologne-Ysn4Yra4/
----
-
-12:00 | FOOTBALL | France -19 F - Croatie -19 F
-URL: https://www.flashscore.fr/match/football/croatie-YTCWcr7n/france-dOF3AwPC/
----
-
-21:15 | FOOTBALL | Newcastle - Manchester Utd
-URL: https://www.flashscore.fr/match/football/manchester-utd-ppjDR086/newcastle-p6ahwuwJ/
 ---
 
