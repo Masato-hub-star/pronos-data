@@ -274,7 +274,11 @@ URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/briancon-p4oJOtWk/
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
 ---
 
-19:30 | HANDBALL | Allemagne F - France F
+20:27 | HANDBALL | Allemagne F - France F
 URL: https://www.flashscore.fr/match/handball/allemagne-2eePSM8O/france-O4dLT2gI/
+---
+
+11:00 | FOOTBALL | France -19 F - Islande -19 F
+URL: https://www.flashscore.fr/match/football/france-dOF3AwPC/islande-ALOKNBx7/
 ---
 
