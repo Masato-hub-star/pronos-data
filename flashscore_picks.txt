@@ -40,7 +40,7 @@ URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/marseille-SblU3He
 
 20:45 | FOOTBALL | Olympique Lyonnais - AS Monaco
 Flashscore conclusion:
-Lyon affiche une défense solide depuis l’arrivée de Vicens. Le pari [a href="/match/football/lyon-2akflumR/monaco-2PIvr8o4/cotes/?mid=S2PndPnL" variant="link"]moins de 2,5 buts paraît donc envisageable.Auteur : Matt JonesTraduit à l'aide de l'IA
+Lyon affiche une défense solide depuis l’arrivée de Vicens. On pense à [a href="/match/football/lyon-2akflumR/monaco-2PIvr8o4/cotes/?mid=S2PndPnL" variant="link"]moins de 2,5 buts ici.Auteur : Matt JonesTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/lyon-2akflumR/monaco-2PIvr8o4/
 ---
 
@@ -166,7 +166,7 @@ URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/troyes-fsfAHubD/
 
 17:15 | FOOTBALL | Toulouse - Stade Rennais
 Flashscore conclusion:
-Quatre des cinq matchs de championnat de Toulouse à domicile cette saison étaient à égalité à la pause. Ainsi, [a href="/match/football/rennes-d2nnj1IE/toulouse-MLmY2yB1/cotes/?mid=vPHYnL97" variant="link"]un match nul à la mi-temps semble intéressant.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
+Quatre des cinq matchs de championnat de Toulouse à domicile cette saison étaient à égalité à la pause. Ainsi, [a href="/match/football/rennes-d2nnj1IE/toulouse-MLmY2yB1/cotes/?mid=vPHYnL97" variant="link"]un match nul à la mi-temps semble envisageable.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/rennes-d2nnj1IE/toulouse-MLmY2yB1/
 ---
 
@@ -304,5 +304,13 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/nice-AkAAP4QB/
 
 20:30 | HOCKEY | Amiens - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/chamonix-mont-blanc-byLLnpOd/
+---
+
+20:30 | HANDBALL | France F - Iles Féroé F
+URL: https://www.flashscore.fr/match/handball/faroe-islands-rod7IJwp/france-O4dLT2gI/
+---
+
+16:30 | FOOTBALL | Venezuela -17 - Algérie -17
+URL: https://www.flashscore.fr/match/football/algerie-bexgFxPt/venezuela-44k8CqZG/
 ---
 
