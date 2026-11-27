@@ -130,7 +130,7 @@ URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/montlucon-nq52Zu
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/metz-4v0yqlWc/
 ---
 
-19:00 | TENNIS | Carole Monnet - Veronika Erjavec
+20:31 | TENNIS | Carole Monnet - Veronika Erjavec
 URL: https://www.flashscore.fr/match/tennis/erjavec-veronika-rsErY1Yt/monnet-carole-GQ68ufRu/
 ---
 
@@ -280,5 +280,29 @@ URL: https://www.flashscore.fr/match/basket/cholet-6TSpW3Cb/paris-CdCP6AWf/
 
 20:30 | HOCKEY | Angers - Amiens
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
+---
+
+20:00 | HOCKEY | Gap - Angers
+URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/gap-2TtYxh3I/
+---
+
+20:00 | HOCKEY | Briancon - Olympique de Marseille
+URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/marseille-nkohUngl/
+---
+
+20:15 | HOCKEY | Grenoble - Rouen
+URL: https://www.flashscore.fr/match/hockey/grenoble-fas8xYmC/rouen-xYpMeMxS/
+---
+
+22:20 | HOCKEY | Girondins de Bordeaux - Cergy-Pontoise
+URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/cergy-pontoise-CK87QfVF/
+---
+
+20:30 | HOCKEY | Anglet - Nice
+URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/nice-AkAAP4QB/
+---
+
+20:30 | HOCKEY | Amiens - Chamonix Mont-Blanc
+URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/chamonix-mont-blanc-byLLnpOd/
 ---
 
