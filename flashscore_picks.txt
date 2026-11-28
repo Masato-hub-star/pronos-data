@@ -1,13 +1,5 @@
-16:00 | TENNIS | Italie - République Tchèque
-URL: https://www.flashscore.fr/match/tennis/italie-d8wpCXJu/republique-tcheque-OjRZ5cAf/
----
-
 12:00 | TENNIS | Grande Bretagne - Espagne
 URL: https://www.flashscore.fr/match/tennis/espagne-dIxGjfn9/grande-bretagne-lKuqR4Ao/
----
-
-21:00 | FOOTBALL | France F - Venezuela F
-URL: https://www.flashscore.fr/match/football/france-G0E4tMc9/venezuela-xImGAN3T/
 ---
 
 14:00 | FOOTBALL | Belgique -19 F - France -19 F
@@ -54,6 +46,10 @@ URL: https://www.flashscore.fr/match/football/france-dOF3AwPC/islande-ALOKNBx7/
 
 20:45 | FOOTBALL | Toulouse - PSG
 URL: https://www.flashscore.fr/match/football/psg-CjhkPw0k/toulouse-MLmY2yB1/
+---
+
+17:15 | FOOTBALL | LOSC - AJ Auxerre
+URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/lille-pfDZL71o/
 ---
 
 16:00 | FOOTBALL | Manchester Utd - Brentford
@@ -106,7 +102,7 @@ URL: https://www.flashscore.fr/match/football/manchester-utd-ppjDR086/newcastle-
 URL: https://www.flashscore.fr/match/football/atl-madrid-jaarqpLQ/barcelone-SKbpVP5K/
 ---
 
-21:07 | HANDBALL | Allemagne F - France F
+15:30 | HANDBALL | Allemagne F - France F
 URL: https://www.flashscore.fr/match/handball/allemagne-2eePSM8O/france-O4dLT2gI/
 ---
 
@@ -118,20 +114,20 @@ URL: https://www.flashscore.fr/match/rugby/afrique-du-sud-bHmPcrZk/france-GE9w8L
 URL: https://www.flashscore.fr/match/handball/france-O4dLT2gI/pologne-Ysn4Yra4/
 ---
 
-08:07 | FOOTBALL | Algérie -17 - République Dominicaine -17
-URL: https://www.flashscore.fr/match/football/algerie-bexgFxPt/republique-dominicaine-lhODMKfi/
+20:30 | HANDBALL | France F - Iles Féroé F
+URL: https://www.flashscore.fr/match/handball/faroe-islands-rod7IJwp/france-O4dLT2gI/
 ---
 
 19:00 | FOOTBALL | Montlucon - Clermont Foot
 URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/montlucon-nq52ZuGL/
 ---
 
-20:00 | FOOTBALL | Clermont Foot - FC Metz
-URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/metz-4v0yqlWc/
+16:30 | FOOTBALL | Venezuela -17 - Algérie -17
+URL: https://www.flashscore.fr/match/football/algerie-bexgFxPt/venezuela-44k8CqZG/
 ---
 
-20:31 | TENNIS | Carole Monnet - Veronika Erjavec
-URL: https://www.flashscore.fr/match/tennis/erjavec-veronika-rsErY1Yt/monnet-carole-GQ68ufRu/
+20:00 | FOOTBALL | Clermont Foot - FC Metz
+URL: https://www.flashscore.fr/match/football/clermont-IRuMRua1/metz-4v0yqlWc/
 ---
 
 14:30 | RUGBY | Bordeaux Bègles - Montpellier
@@ -144,12 +140,6 @@ URL: https://www.flashscore.fr/match/rugby/lyon-WQFnfGnR/stade-toulousain-2LK4pW
 
 17:00 | HANDBALL | Dunkerque - PSG
 URL: https://www.flashscore.fr/match/handball/dunkerque-nTbpx35s/paris-MmvaXAoA/
----
-
-20:45 | FOOTBALL | Stade Brestois - Paris FC
-Flashscore conclusion:
-Ces deux équipes disposent de beaucoup de qualités. [a href="/match/football/brest-Cr4VGaUl/paris-fc-0OEHEprs/cotes/?mid=zyHox4ek" variant="link"]Un match nul avec les deux équipes qui marquent est donc plausible.Auteur : Ben OlawumiTraduit à l'aide de l'IA
-URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/paris-fc-0OEHEprs/
 ---
 
 20:45 | FOOTBALL | Le Havre - Strasbourg
@@ -168,10 +158,6 @@ URL: https://www.flashscore.fr/match/football/nice-YagoQJpq/troyes-fsfAHubD/
 Flashscore conclusion:
 Quatre des cinq matchs de championnat de Toulouse à domicile cette saison étaient à égalité à la pause. Ainsi, [a href="/match/football/rennes-d2nnj1IE/toulouse-MLmY2yB1/cotes/?mid=vPHYnL97" variant="link"]un match nul à la mi-temps semble envisageable.Auteur : Sridhar BhamidiTraduit à l'aide de l'IA
 URL: https://www.flashscore.fr/match/football/rennes-d2nnj1IE/toulouse-MLmY2yB1/
----
-
-17:15 | FOOTBALL | LOSC - AJ Auxerre
-URL: https://www.flashscore.fr/match/football/auxerre-MTLr36WA/lille-pfDZL71o/
 ---
 
 20:45 | FOOTBALL | RC Lens - Le Havre
@@ -200,30 +186,6 @@ URL: https://www.flashscore.fr/match/football/brest-Cr4VGaUl/rennes-d2nnj1IE/
 
 20:45 | FOOTBALL | Olympique de Marseille - OGC Nice
 URL: https://www.flashscore.fr/match/football/marseille-SblU3Hee/nice-YagoQJpq/
----
-
-20:00 | HOCKEY | Rouen - Girondins de Bordeaux
-URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/rouen-xYpMeMxS/
----
-
-20:00 | HOCKEY | Gap - Amiens
-URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/gap-2TtYxh3I/
----
-
-20:00 | HOCKEY | Nice - Olympique de Marseille
-URL: https://www.flashscore.fr/match/hockey/marseille-nkohUngl/nice-AkAAP4QB/
----
-
-20:05 | HOCKEY | Chamonix Mont-Blanc - Briancon
-URL: https://www.flashscore.fr/match/hockey/briancon-p4oJOtWk/chamonix-mont-blanc-byLLnpOd/
----
-
-20:15 | HOCKEY | Grenoble - Anglet
-URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/grenoble-fas8xYmC/
----
-
-20:30 | HOCKEY | Angers - Cergy-Pontoise
-URL: https://www.flashscore.fr/match/hockey/angers-2udEPMGq/cergy-pontoise-CK87QfVF/
 ---
 
 15:00 | HOCKEY | Cergy-Pontoise - Chamonix Mont-Blanc
@@ -266,18 +228,6 @@ URL: https://www.flashscore.fr/match/hockey/gap-2TtYxh3I/grenoble-fas8xYmC/
 URL: https://www.flashscore.fr/match/hockey/bordeaux-n9V6xiyI/briancon-p4oJOtWk/
 ---
 
-22:46 | HOCKEY | Angers - Amiens
-URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
----
-
-15:30 | HANDBALL | Allemagne F - France F
-URL: https://www.flashscore.fr/match/handball/allemagne-2eePSM8O/france-O4dLT2gI/
----
-
-20:00 | BASKETBALL | Cholet - Paris
-URL: https://www.flashscore.fr/match/basket/cholet-6TSpW3Cb/paris-CdCP6AWf/
----
-
 20:30 | HOCKEY | Angers - Amiens
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/angers-2udEPMGq/
 ---
@@ -304,13 +254,5 @@ URL: https://www.flashscore.fr/match/hockey/anglet-t4PXVott/nice-AkAAP4QB/
 
 20:30 | HOCKEY | Amiens - Chamonix Mont-Blanc
 URL: https://www.flashscore.fr/match/hockey/amiens-QJ4nU28S/chamonix-mont-blanc-byLLnpOd/
----
-
-20:30 | HANDBALL | France F - Iles Féroé F
-URL: https://www.flashscore.fr/match/handball/faroe-islands-rod7IJwp/france-O4dLT2gI/
----
-
-16:30 | FOOTBALL | Venezuela -17 - Algérie -17
-URL: https://www.flashscore.fr/match/football/algerie-bexgFxPt/venezuela-44k8CqZG/
 ---
 
